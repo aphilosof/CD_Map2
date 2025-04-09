@@ -1,0 +1,53 @@
+Title: Friday Five: Nat Bullard’s must-read deck, Fusion’s billion-dollar race, Firsthand video look at Chinese EVs, Renewable data silence critics, AI’s green energy push
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/friday-five-nat-bullards-must-read
+==============================
+
+Welcome to Climate Drift - the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there 👋
+Skander here.
+Good climate week, from California busting myths about renewables to fusion pulling in big funding. And yes, Nat Bullard’s 2025 deck is out. 200 slides of the potentially best decarbonization graphs you’ll see all year (till our
+Climate Recap 2025
+comes out 😉 ).
+🌊 Let’s dive in
+🚀
+Want to make an impact?
+The 4th cohort of our accelerator launches mid-February, and applications are still open (but spots are limited). If you’re ready to fight climate change, don’t wait:
+Apply Now
+1. Nat Bullard’s 2025 deck is live
+200 slides. Every one a handcrafted graph. One of the must-read reports of the year for anyone tracking decarbonization. Bullard breaks down 2024’s announcements vs. reality, the complexity of industrial decarbonization, and key catalysts for change.
+🚀
+Join us for a deep dive:
+On
+Feb 11th
+, we’re hosting a session to discuss our highlights from Bullard’s deck (this gives you 2 weeks to read it).
+Want to join?
+Ping me via Substack or at
+[email protected]
+If you want a discussion on the deck till then, I recommend:
+2. Fusion keeps pulling in big money
+Helion just raised
+$425M
+to develop a fusion reactor for Microsoft, continuing last year’s nuclear funding boom. 2024 was about raising capital; 2025 will be about showing results. Data centers are driving this push, as companies look for future-proof clean energy solutions. Look out for a deep dive on this soon, till then
+we have the datacenter decarbonisation section in the last recap.
+And don’t forget that there are many more solutions to explore.
+3. China’s EV leap in real time
+A deep dive from an american car enthusiast who spent 10 days in China testing electric cars gives a firsthand look at how far ahead China’s EV market really is. It’s one thing to read numbers, another to see the cars
+up close
+in a video.
+4. California just shattered a renewables myth
+In 2024, renewables met 100% of California’s electricity demand for up to 10 hours on 98 days—without causing blackouts. The myth that renewables can’t provide reliable power is crumbling under the weight of real-world data. At peak moments, they supplied 162% of the state’s electricity demand.
+5. AI data centers will go green (sort of)
+Despite all the talk about Deepseek
+, data centers are still getting built everywhere, maybe even because of all the hype. This lines up with the Jevons paradox: whenever we make something more efficient, we end up driving even more demand.
+Meanwhile, last week’s AI news (not Deepseek) featured the $100B venture “Stargate,” which plans to power its operations with solar and batteries. My take is that these data centers will still go online withgas turbines (For speed reasons (in other words, to get them online faster)), but at least there's some awareness (or maybe just virtue signaling) about sustainability in the industry.
+For one of our pet peeves, emboid carbon in data centers and the lacking sustainability roadmap of AI companies, check out:
+A Roadmap for Sustainability in AI
+Tracy Cheung
+·
+September 30, 2024
+Read full story
+Know someone who needs positive climate news? Share this.
+Share

@@ -1,0 +1,108 @@
+Title: Are there sustainable alternatives to Synthetic Rubber?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/are-there-sustainable-alternatives
+==============================
+
+Zoei Benzon
+is a marketer with 10 years of experience working in B2B software scaling Seed to Series C organizations. Specializing in the intersection of marketing, project management, and operations for social impact and UX research organizations, she’s now focused on bringing her expertise to the climate tech industry.
+Are there sustainable alternatives to Synthetic Rubber?
+Summary
+From climbing shoes to car tires, synthetic rubber plays a crucial role in our lives yet its environmental impact remains largely overlooked. With petroleum-based materials making up
+70% of synthetic rubber production
+, the industry is a significant contributor to carbon emissions, non-renewable resource depletion, and long-term waste.
+Throughout this article, I will be diving into exploring synthetic rubber production, the intersection within the outdoor recreation and transportation industry, environmental trade-offs, emerging alternatives, and opportunities for organizations within this space. Let’s dig in.
+Synthetic Rubber 101: Understanding the Basics
+Synthetic rubber has been a main source of industrial innovation since its production in the early 20th century. Unlike natural rubber, which is harvested from latex-producing trees, synthetic rubber is produced through the polymerization, a chemical process where small molecules combine to form larger molecules of 3 petroleum-based monomers:
+Styrene: Strength and durability
+Butadiene: Flexibility and resistance to wear and tear
+Isoprene: Mimics natural rubber properties to increase elasticity
+The production process chemically bonds monomers to form long molecular chains, creating a material resistant to extreme conditions like heat, cold, and heavy friction. The end result comes in many forms, such as
+styrene-butadiene rubber (SBR)
+which dominates tire-manufacturing and outdoor industry, known for its durability and cost-effectiveness, but still contributes to significant greenhouse gas emissions.
+Nitrile butadiene rubber (NBR)
+is used for its chemical resistance in gloves and seals, and is a challenge because of the high environmental cost through its high energy-intensive processes.
+Chloroprene rubber (CR)
+found in wetsuits and industrial belts, usually posing a challenge to toxic byproducts from chlorine-based manufacturing.
+While the uses of synthetic rubber may seem indispensable and reliable in many industries, the environmental trade-offs underscore the need for better solutions.
+Source:
+Synthetic rubber production process
+Environmental Challenges Across the Supply Chain
+It’s clear synthetic rubber is an important material used in many industries, but the environmental impact is hard to ignore. From resource extraction to waste disposal, the impact on ecosystems, and the planet, these trade offs need to be looked at closer.
+Some examples of its trade offs include:
+Resource dependency
+: Relying on petroleum based products contributes to global fossil fuel consumption. Which accelerates the depletion of non-renewable resources and perpetuates a system already reliant on harmful practices like drilling and refining. In general, its production makes industry vulnerable to scarcity, price fluctuations, and can create economic and environmental instability.
+Energy-intensive manufacturing
+: Synthetic rubber production can emit between 3 to 6 tons of CO2 for every ton of synthetic rubber produced. Resulting in high greenhouse gas emissions at every stage of the supply chain, from raw material extraction to final product delivery. The most emissions occur during the polymerization process, where raw materials are chemically bonded at high temperatures and pressures, consuming large amounts of energy. Later stages, like compounding and processing also increase energy demand, making the entire process highly carbon-intensive.
+Water usage
+: Large volumes of water are used and generate toxic chemical waste. The manufacturing process itself requires large amounts of water for cooling, washing, and processing of raw materials.
+End-of-life challenges
+: Recycling rubber through its production process is not a closed loop process. The lack of recyclability because of its chemical composition complicates recycling efforts, often leaving products in landfills faster. For example, old tires and climbing shoe soles frequently become long-term waste rather than being repurposed.
+Understanding these challenges can allow us to explore the need for alternatives and innovations that have the potential to lessen synthetic rubber’s environmental impact, while also pushing for better circular practices across its entire lifecycle.
+Transportation and Outdoor Industry Emissions Challenges
+As an avid outdoors adventurer and climber for eight years, I’ve cycled through countless pairs of climbing shoes. The constant turnover brought curiosity about the materials that make up these shoes – particularly about the recyclability and potential for circular use since they rely on synthetic rubber. My curiosity deepened after returning from Japan this year, where I observed a culture of meticulous resource use and innovation. Including clean and efficient transportation methods.
+Although two opposite industries, my personal connection led me to focus on these two industries where there is a significant impact on synthetic rubber production.
+Transportation Industry
+Source: Photo by Wes Hicks on Unsplash
+The automotive industry is the largest consumer of synthetic rubber, primarily for tire production. Broadly across the globe, tires are the most significant source of synthetic rubber consumption due to their widespread use in cars, trucks, and other vehicles, accelerating the depletion of non-renewable materials while contributing to pollution through microplastic shedding and tire disposal challenges.
+Are tires an overlooked challenge in EV production?
+As the shift towards EVs accelerates, the environmental impact of tire production should become a critical consideration if we’re aiming for a more electrified future. While we may praise EVs for reduction in their carbon emissions, the question top of mind is, how do we create awareness around the full lifecycle emissions associated with EV production, including tire production. Often an overlooked component in EV production, the increased weight of EVs compared to traditional combustion engine vehicles can lead to greater tire wear and tear, requiring more frequent replacements and amplifying the environmental footprint of tires used in EVs.
+EV companies such as
+Rivian
+and
+Tesla
+market themselves as environmentally conscious companies, emphasizing sustainability and reducing their carbon footprint. However, the tire production associated with their vehicles still rely on synthetic rubber. The full environmental costs and benefits of EVs needs to include all materials used in production, particularly tires. If not addressed, this could be a blindspot for EV companies and a missed opportunity to stand out in an already saturated market.
+Outdoor Recreation
+Source: Photo by
+Chaewul Kim
+on
+Unsplash
+During the Climate Drift Accelerator program, Sharon Chen of Revent spoke to us during circular economy week. She mentioned that the outdoor industry are usually first adopters of eco-friendly materials; on brand, considering their consumers primarily expect outdoor brands to align with environmental values. This alignment between consumer expectations and branding positions them as you would think a natural leader in exploring alternatives to traditional materials like synthetic rubber. However, narrowing our focus into the production of climbing shoes – this role becomes more nuanced and complex.
+Can climbers balance performance and alternative materials?
+As a climber, I can understand how synthetic rubber produced shoes require highly durable, elastic, and performance-driven materials to provide the precise grip and flexibility needed for climbing indoors and outdoors. We care about the high-performance characteristics of a climbing shoe, making it challenging to sacrifice functionality. This poses a dilemma: how can we create solutions that prioritize sustainability without compromising the performance that climbers depend on?
+Diving into the broader adoption of sustainable materials in climbing footwear, there are still several challenges. First, the manufacturing processes for sustainable synthetic rubber often lack scalability, leading to higher costs and limited availability. Further, the recycling of climbing shoes is complex because of the integration of multiple materials in the production process which are hard to separate and repurpose.
+One of four pairs of my climbing shoes that cannot be recycled or resoled
+Despite these challenges, outdoor brands like Scarpa use recycled rubber in some shoe lines, as well as
+La Sportiva’s Mythos Eco
+line that uses recycled rubber in non-load bearing components, maintaining quality while reducing waste. These efforts show that innovation is possible, even in the face of personal performance choices and industry-wide constraints.
+Are there sustainable alternatives?
+To reduce synthetic rubber’s environmental footprint, there are promising alternatives such as bio-based materials, recycled rubber, and hybrid approaches that blend natural and synthetic materials. However, can bio-based materials meet global demand without creating unintended environmental trade offs? Or does the technical challenges of recycling rubber limit its feasibility for high-performance applications in the outdoor recreation space? Consumers value authenticity so how can alternative material companies also shift consumer perception when they ask themselves, “what’s in it for me?”
+Even with all these questions, I was surprised to find a few companies making strides in this area:
+Enso
+– a UK based company redefining tire production for electric vehicles focusing on creating high-efficiency tires with lower rolling resistance and reduced particulate emissions. Designed not only to enhance performance of EVs but an effort to minimize the environmental impact caused by tire wear.
+Does the solution address both the environmental impact and performance needs in the EV industry? Sure, but its success depends on their ability to effectively market their product while meeting industry standards set by leading tire makers.
+Mycocycle
+– a Midwest climate company pioneering the use of Fungi to transform waste materials, including crumb rubber from used tires into sustainable raw materials. Their approach leverages the capabilities of fungi to break down and repurpose waste offering low carbon alternatives to traditional materials.
+While not explicitly producing alternative uses for tires or the outdoor industry, potential is there. With their recent seed round extension and plans to continue its R&D and commercialization efforts it could put them in a position to make an impactful contribution to the circular economy. It’s just going to take time and continued investment.
+Visolis
+– Its bio-isoprene proprietary process uses renewable energy resources to produce bio-isoprene reducing the reliance on fossil fuels. Aligning with efforts to decarbonize industries dependent on synthetic rubber.
+Visolis raised $8M in 2023 with its eyes set to scale and grow. As a company still early in its infancy their long term success has to take into account their ability to scale production, maintain cost competitiveness, and gain industry adoption while trying to convince the industry that bio-based alternatives are the future.
+Synthos
+– A synthetic rubber manufacturer that’s developing bio-based alternatives to traditional synthetic rubber. They use natural resources to lower carbon emissions while maintaining high performance standards.
+Being around the bio-based alternative industry for years, they have the groundwork to be successful in the long run with their focus on maintaining high-performance standards with energy-efficient production processes and collaborating across the supply chain. If they can pull it together and continue scaling up quickly they could be one of the larger companies out there helping solve for alternative synthetic rubber materials and scale supply chain challenges.
+Even with all these companies it’s not a one size fits all solution, and the push for alternative materials still faces a critical question: Are these options truly worth pursuing if they cannot scale, remain cost-prohibitive, or fail to deliver on their environmental promises?
+Opportunities for What’s Next
+After spending the last 7 weeks diving deep into this research, I’ve realized that synthetic rubber’s environmental impact is still a
+very niche
+topic in the climate space, yet its ripple effects on sustainability are immense. Climate organizations and industries, particularly those overlooking this material, have an opportunity to lead the efforts in ways that prioritize transparency and move beyond greenwashing tactics.
+We have to incentivize closed loop systems by partnering with recycling and upcycling innovators like Mycocyle to pave the way for take-back programs that ensure materials are reused rather than discarded. While also sharing research, resources, and best practices in order for industries to develop scalable solutions that multiple sectors can benefit from.
+Clear solutions won’t happen overnight, but here are my thoughts on how marketing and operations teams can make this shift:
+Marketers
+Become storytellers of transparency
+: Consumers value honesty over perfection. We need to build effective campaigns that highlight both wins and ongoing challenges your brand faces. In marketing, we often rely heavily on showcasing perfection in our products, showcasing seamless sustainability efforts, and unchallenged successes. By openly sharing company wins alongside the climate struggles, building transparent campaigns can help build trust and encourage others in the industry to follow suit.
+Education over snazzy promotion
+: I’ve started to notice that flashy sustainability has a way of reeling consumers in while masking a lack of real environmental benefits. As marketers in climate, we need to focus on creating educational content that demystifies alternative materials, and explain their actual impact on the environment. Empower your consumer base to make informed choices.
+Drive supply chain accountability
+: Build partnerships with supply chain stakeholders to ensure ethical sourcing, production, and recycling practices.
+Leverage user research to build engagement
+: Invest in user research to uncover what consumers care about when learning about alternative materials. Do they value durability, recyclability, or the environmental impact of the materials? We have to be able to tailor marketing campaigns to tell hard stories.
+Operations
+Integration within every function
+: Lead cross-functional initiatives that involve R&D, supply chain, and production teams together under a unified roadmap. Ensure that goals are measurable and resources are properly allocated to achieve meaningful outcomes.
+Focus on scalability on alternatives
+: Work closely with suppliers and climate companies looking to solve big issues in this sector to test and scale alternative materials. This in turn can ensure that solutions are affordable and replicable in large scale production levels that meet industry demands without sacrificing performance.
+Embrace circular design principles
+: Encourage product designs that consider end-of-life recycling, resoling, or repairing. For example, developing climbing shoes with modular components or tires with easier recycling pathways could set new industry standards.
+Even though I’ve touched on a small piece of the larger issue at hand. This topic is still in its infancy and I think scaling alternative materials in this industry still has a long way to go. The challenges in scaling mass production, cost factors, and consumer purchasing shifts all will all play a role in whether there will be a successful synthetic rubber alternative.
+If you’re interested in discussing any of these topics further, I would love to
+connect
+. Please feel free to reach out and share your thoughts.

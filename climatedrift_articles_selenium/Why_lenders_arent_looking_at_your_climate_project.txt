@@ -1,0 +1,95 @@
+Title: Why lenders aren’t looking at your climate project
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/why-lenders-arent-looking-at-your
+==============================
+
+Mairi Robertson
+is Director of Asset Financing at Ezra Climate, where she develops innovative financing structures for energy transition investors and companies. Previously she was part of McKinsey's Climate Finance Practice, and is now (another) Australian based in New York.
+The Three Gates Problem: Why lenders aren’t looking at your climate project
+Photo by
+CHUTTERSNAP
+on
+Unsplash
+Clean tech companies are struggling to access asset and project finance. Here’s what they’re missing
+.
+In a market where
+climate tech equity funding plunged 40% to $51 billion in 2024
+, you might expect infrastructure and asset-based lenders to be eagerly filling the gap. On paper, energy transition companies should be prime candidates — owning hard assets that generate steady cash flows.
+Yet even companies with proven technology keep hitting the same wall. The reason isn’t market cycles or interest rates — it’s three rigid criteria every deal must meet. Understanding these “Three Gates” can save months of wasted time or help restructure your business to actually secure capital:
+Gate 1:
+Can you generate 15–20%+ IRRs from your assets or project?
+Gate 2:
+Do you have 12+ months of runway in the bank?
+Gate 3:
+Can you deploy $20M+ over the next 2 years?
+While straightforward on paper, these gates reflect deep infrastructure investing principles: Sustainable cash generation, operational stability, and efficient deployment of capital. They’re designed to identify projects that can weather full market cycles — not just perform in ideal conditions.
+Gate 1: Strong returns (Or, “Your chargers need to do more charging”)
+The first and toughest hurdle is simple math:
+Do your chargers generate enough cash flow — an IRR of 15–20%+ — to support the cost of borrowing?
+This 15–20% IRR needs to come from predictable, proven, operating cash flows from a single charging station — not terminal value or growth assumptions.
+(For established infrastructure — like utility-scale solar — IRRs of 8–12% may be enough due to lower risk. Hybrid or multi-revenue models (e.g., VPPs) can support lower IRRs if they offer strong downside protection through diversified cash flows.)
+Here’s how it works: Let’s say your charging stations generate a 15% unlevered asset-level IRR. Great! But this needs to cover a number of costs:
+Lender’s cost of capital
+(~9–12% for sub-$100M project debt)
+Debt service coverage ratio
+(1.2–1.5x)
+Operating reserves & CapEx
+(up to 10% of project capital)
+Loss cushion for underperforming sites
+(up to 10% of loan principal)
+In practice, this means your project needs around 5–7 percentage points of “excess spread” — the difference between your unlevered project IRR and the lender’s cost of capital. It’s like designing a charging station — you size the transformer for peak load, not just the average, plus a safety margin.
+The mechanics beneath the asset- or project-level IRR matter too. For EV charging, investors will assess the assumptions you have made about things like utilisation rates, power pricing (both in terms of cost to you, and what you can charge back to the grid), operating costs such as maintenance and network fees, and the impact of tax equity and depreciation on project returns.
+Remember: Every assumption needs a clear basis. Don’t rely on “industry standard” utilization rates — back every assumption with data from your own assets.
+Gate 2: Runway (Or, “Can you keep the power on?”)
+Gate 2 is just as simple — yet often ignored:
+Do you have 12 months of runway?
+(And note that this means real, banked runway, not
+“We’ll have some Series B capital coming in next quarter once people see our utilization metrics”
+runway).
+While some VCs may count signed contracts or near-term fundraising as “runway,” asset- and project lenders focus on hard assets: Cash in the bank and fully-contracted revenue.
+Why 12 months? Because in charging networks — and many other energy transition projects — things go wrong. Always. Some possibilities:
+Forecasting strong demand? A Supercharger station opens next door.
+Counting on a fleet contract? The customer delays their EV rollout.
+Planning for fast installs? Trenching permits slow you down.
+Each charging station has a “J-curve” — negative cash flow during construction and ramp-up, before eventually generating positive cash flow and (ideally) reaching steady-state utilization. With multiple stations being built simultaneously, these J-curves stack. You need enough runway to carry you through the deepest part of that combined curve.
+Lenders do make exceptions to this rule. While 12 months of cash in the bank is ideal, there are situations where lenders will consider bridge financing or committed funding sources. This could include things like contracted revenue and milestone-based funding structures. But, broadly speaking, asset and project finance is not a solve for
+“Uh oh, we’ve got 4 months of runway left”
+-type situations.
+Gate 3: Ticket size (Or, “One charger does not a network make”)
+The last gate is harsh but simple: Is your network big enough to matter?
+You should have a credible path to deploying $20M+ over 24 months.
+Some niche lenders (e.g., tax equity partnerships) work with smaller ticket sizes, but most require scale.
+This doesn’t mean you need $20M on Day One. Smart lenders work with staged drawdowns that match your growth:
+Month 1: $5M to build your first 10 stations
+Month 9: Another $5M once those hit 50% utilization
+Month 18: $10M when the first batch reaches steady-state
+Why these numbers? Simple economics:
+First, lenders make more money with volume. You borrow more, you pay more in interest. Consider the math: At a 10% cost of capital, a $5M loan generates $500K in gross interest income. A $10M loan generates $1M.
+Second, diligence costs (more or less) the same whether you’re building ten chargers or one hundred. Technical consultants, legal documentation, survey work, environmental reviews — these can stack up to $1M+ regardless of deal size. For sub-scale deals, the juice isn’t usually worth the squeeze.
+The staged approach helps both sides: You don’t pay interest on capital you’re not yet using, and the lender sees proof the model works before funding expansion. As long as you have a credible, qualified path to $20M+ of deployment over 2 years, lenders should engage.
+Before You Press Send
+Infrastructure and asset-based lending isn’t VC — it’s not about storytelling or future potential. It’s about proving you can generate steady, predictable cash flows today. Before approaching lenders, prepare:
+A
+detailed financial model
+showing:
+Asset-level cash flows with clear operating assumptions
+Historical performance data from existing assets (if available)
+Corporate financial projections demonstrating runway
+Sensitivity analysis on key variables
+A
+deployment and collateral plan
+including:
+Asset acquisition/deployment schedule
+Key operational milestones and requirements
+Collateral monitoring and reporting capabilities
+Expected portfolio concentration limits
+A
+risk management framework
+covering:
+Asset valuation methodology
+Servicing and collections processes
+Insurance coverage and warranties
+Operating protocols and controls
+Backup servicing arrangements
+Technical mitigation strategies
+For climate tech companies facing a tighter equity market, mastering these elements isn’t just about getting a term sheet — it’s about building a foundation for sustainable growth through asset-backed capital. And having fewer of your emails go into the void.

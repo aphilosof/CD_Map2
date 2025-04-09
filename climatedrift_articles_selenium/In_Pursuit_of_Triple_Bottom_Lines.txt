@@ -1,0 +1,231 @@
+Title: In Pursuit of Triple Bottom Lines
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/in-pursuit-of-triple-bottom-lines
+==============================
+
+Eleanor
+is a former educator turned business woman that has spent her career working at the intersection between education and economic development. She has led community engagement efforts for industry-leading organizations in the educational, STEM workforce readiness and community finance spheres. After working on a Climate Justice initiative to connect underrepresented small business owners with the larger climate tech ecosystem, Eleanor realized that every community she had served throughout her career qualified as a Justice 40 census tract. She is now dedicated to guiding business leaders and higher education institutions to think differently and cultivate “
+build smart from the start
+” mindsets to ensure a business (and earth) landscape in which we can all truly thrive.
+First: A little bit about myself - or why I am writing this
+Coming from a “non-traditional” background (business school admissions team choice of parlance, not mine), the majority of my MBA journey was spent acclimating to serious side eye from peers whenever I suggested that the standard business model strategy of prioritizing revenues and profits above all else could look different.
+After 12 years in education, 3 years of business school, a brief stint in investment banking, and supporting community engagement strategies across industries, I have come to understand that yes, there are individuals who are solely interested in pursuing personal and company profit/domination. I have also encountered individuals who are conditionally willing to entertain “alternative” business models. Typically, they want to see evidence-based examples of peer leadership and commitment in this area before they head in this direction (the you-jump-first-I’ll-follow type). One step further, there are
+also
+individuals who are ready to explore new horizons for how business can generate
+triple bottom lines
+- for profit, for the good of communities, and for the good of the environment- they just need resources and thought models for how to do so.
+Image Source
+One quality that I will likely carry with me for life after hours upon hours of developmental psychology education and coaching behavior while working as a teacher, Dean and then Vice Principal- we learned to identify early on the micro behaviors that would lead to macro behaviors and ultimately determine positive or negative outcomes for an individual. The phrase “the definition of insanity is doing the same thing over and over and expecting different results” has proven itself true in both my personal life and my journeys across professional industries.
+So the one thing I always struggle with when interacting with many of my peers in the for-profit arena- if we all agree on the same fundamental challenges facing our society- dangerous climate change, racial injustice, social and economic inequities- how or why do we envision change when we ourselves refuse to address our status quo method of doing business?
+Ironically, it’s my same passion for human psychology that also gives me patience and hope. I skew towards the front lines of change management initiatives, and I now am able to recognize that the ability to imagine a different way of doing business- and the bravery to prototype steps towards a different status quo- first require the development of new mental models.
+Image Source
+More than anything, that’s what the following article is about: a new mental model for how business can be done to yield generative impact in terms of revenue, community development and the environment.
+If you are ready, I invite you to join me.
+Redefining Good Energy
+Innovative business (and mental) models are especially salient to me in relationship to the growth of the renewable energy industry. As I’m sure you are aware, the U.S. has massive
+energy infrastructure build out and renovation needs
+. We also have a long and unfortunate history of energy industries prioritizing profits and extraction above all else, resulting in
+20% of the U.S. population
+living in environments overburdened by pollution and a lack of socioeconomic resources. These “disadvantaged community” areas are also
+predominantly populated by BIPOC communities
+, have been historically redlined, and constitute the basis for the
+Justice 40
+initiative implemented by the Biden Administration- a strategic imperative and data mapping tool to assist renewable energy companies to positively contribute to local communities that has since been
+removed
+from the DOE website.
+We’ll address the whole deleting-research-based-data-and-historical-record-from-government-websites later, but for now I offer you 3 thought models for how renewable energy companies can work with local communities based off of what we have seen historically and in the current U.S. landscape:
+1. The “
+Fern Gully
+” approach
+If you grew up in a certain generation, you likely remember the movie featuring an evil construction company coming to decimate the local rainforest with no regard for the existing ecosystem.
+While- thankfully- state regulation and permitting processes offer a certain degree of legal protection that prevents this behavior, we recognize this kind of interaction still has the potential to occur.
+2. Building Monocultures
+It’s no accident that many of the communities in the U.S. that vehemently oppose ending fossil-fuel extraction processes (those in favor of “Drill baby, drill”) are
+economically dependent
+on those same industries.
+If renewable energy companies take the same approach to how they engage communities- creating local economic ecosystems that are entirely dependent on the revenue flows created by one business in order to survive- we run the same risk of perpetuating conditions that do not allow for innovation or economic resilience. Same play, different day.
+3. A New Horizon
+Energy companies thoughtfully and intentionally position themselves as
+ecosystem partners
+to support
+diversified community development
+in collaboration
+with
+(not for or on behalf of) local communities.
+The best part of the above? The last strategy, “A New Horizon”, isn’t even rocket science. It’s happening now. And- though perhaps you already found this out in your bedtime reading of the 26+ page plus Community Benefits Plan (CPB) template developed by the IRA as a requirement for entities pursuing GGRF dollars- the grant CPB requirements were built on strong, strategic operating principles to help renewables companies build out healthy and sustainable community engagement strategy.
+Innovative Community Engagement in Action:
+(Image Sources:
+California Morongo Tribe Transmission Assets Community Ownership
+;
+International Labor Just Transition & Green Jobs Framework
+;
+National Renewable Energy Labs Community Energy Planning Cycle
+;
+Grid Alternatives Energy for All Program
+;
+Pivot Energy Community Engagement & ESG
+;
+Invenergy 2023 Impact Report
+;
+Revision Energy Apprenticeship Programs
+;
+San Diego Community Power Energy Grant Program
+;
+Emerald Cities Energy Democracy Scorecard
+)
+Since the current administration has since deleted this template and references to the Justice 40 initiative as of January 2025, I decided to do the following to honor the foundation created by the Biden Administration and preserve the skeleton of this new business model that I believe is critical for us to carry forward:
+I redesigned the CBP template to increase UX appeal and ease of navigation, dividing the 26-page CBP template into 3 key phases to support operationalization:
+Getting to know the Community:
+Ecosystem and shareholder mapping
+Building & Implementing Agreements
+: Design community, workforce, etc. benefits and construct agreements
+Assessing for Impact
+: Monitor and communicate progress towards clear, quantitative impact for shared accountability
+I added resources and best practices gleaned from my own experience, research, and company interviews from Fall 2024
+I added a brief FAQ in case you have never heard of CBPs or the Justice 40 Initiative (If so- welcome to your first rodeo!)
+Editorial side note- the majority of the renewable teams I interviewed last Fall did not have a Community Engagement handbook, or codified team practices in this arena. As a career builder and lover of organizational systems, this toolbox contains what I would use to launch a Community Engagement operations and strategy from the ground up- enjoy!
+Acknowledging the decades of work done by community members, researchers, and committed shareholders, I have carefully linked the resources and information provided through other’s work. As you reference this toolbox moving forward, please make sure to cite the original authors for works referenced.
+First things First- a brief FAQ
+1. What’s a Community Benefits Plan?
+Image Source
+A Community Benefits Plan for a renewable energy company is a mutually developed agreement that ensures local communities surrounding or serving as the site of a clean energy project actually see real, positive benefits from it. As you can imagine, they range in spectrum from investments made with the sole objective of gaining public approval to thoughtful co-creation of long-term, sustainable community development strategies.
+Community Benefits Plans typically detail how the company will invest in local jobs, workforce training, and economic opportunities so that the community business and environmental ecosystems will thrive alongside the transition to clean energy. It might also include funding for schools, infrastructure improvements, or environmental conservation efforts to offset any impacts of the project.
+At its core, a Community Benefits Plan has the potential to generate collaborative
+partnership, equity, and long-term impact
+—ensuring that company initiatives don’t just extract benefit for company profits, but strive to build foundations for community growth beyond the project lifespan.
+2. What’s the Business Case for Community Benefits Plans? A.k.a.- “If it don’t make dollars, it don’t make sense”
+Image Source
+As the demand for renewable energy accelerates, CPBs are a critical tool for ensuring the long-term success and viability of projects. These plans not only facilitate smoother permitting processes by fostering local support, but- when collaboratively developed and implemented with intentionality- they mitigate the growing challenge of community opposition that threatens renewable energy expansion.
+According to a longitudinal study on utility-scale wind, solar, and geothermal energy projects facing community opposition,
+only 26% of initially blocked projects ever reached completion
+. Key reasons for opposition include:
+Poor planning and insufficient local benefits
+Environmental or equity concerns
+Misinformation and ideological resistance
+Many regulatory bodies now require CBPs as part of the permitting and licensing process, ensuring that projects align with local economic and environmental interests.
+Proven frameworks like
+California’s Desert Renewable Energy Conservation Plan (DRECP)
+demonstrate that renewable projects can balance environmental protection with development goals. The DRECP serves as a successful model, showing how integrating community and ecological considerations upfront leads to faster approvals and reduced legal challenges.
+CBPs also contribute to significantly reduced permitting times, saving companies millions in delays and legal fees. For instance, the
+Solar Programmatic Environmental Impact Statement (Solar PEIS)
+, also known as the BLM Western Solar Plan, successfully
+cut permitting times in half
+—from 20.1 months to just 9.7 months.
+In an era where community opposition can make or break renewable energy development, CBPs are not just a goodwill gesture—they are
+a strategic imperative
+for the industry’s growth and sustainability.
+3. How does the Community Benefits Plan template relate to the Justice 40 Initiative- and why was this information taken down from the DOE website?
+Image Source
+The
+Justice40 Initiative
+was a federal commitment to ensuring that at least 40% of the benefits from federal climate, clean energy, and infrastructure investments go to disadvantaged communities that have historically faced environmental and economic burdens. Launched under President Biden’s administration, it aimed to address environmental justice, create equitable access to clean energy jobs, and drive investments into communities disproportionately affected by pollution and climate change.
+The Community Benefits Plan was a required element of any entity seeking IRA Greenhouse Gas Reduction funding. Essentially, companies and organizations needed to demonstrate that they were committed to being a healthy and contributing ecosystem partner to the communities that have been historically over polluted, under-resourced, and redlined. An interactive map allowed viewers to assess communities by socio-economic and environmental demographics. If you overlay this data to a map of U.S. electricity generation by source, you will clearly see the extent to which energy companies in the U.S. continue to interact with communities and environments that bear evidence of the harm of decades (if not centuries) of extractive energy practices.
+Image Sources:
+White House Archives
+and
+Synapse
+Connecting the dots here- as companies scope new project sites and strive for positive community rapport, it’s in the best interest of all parties to have a thorough understanding of what that community, people, environment and ecosystem has historically been through in order to understand how to best show up as an ally in community development. In doing so, companies then have the chance to “
+build smart from the start
+” versus retroactively attempting to piecemeal a strategy for community approval that isn’t grounded in the origin story and needs of a given community locale.
+If your team is committed to having an MVP (as in Most Valuable Player) Community Engagement Strategy, then you recognize the following:
+The truths of the Justice40 map continue to exist around us whether prominently featured on a government website or not
+Company profits, earth benefits, and community development can coexist-
+if
+we are so brave to collaboratively create and refine these models
+The
+real question to ask
+is not “how can we convince the community to host” but “how can we make projects more compelling to host them?”
+If the above describes your team’s ethos or desired outcome, then this toolbox is for you.
+The Toolbox
+Please click
+here
+to access the pdf version of the adapted checklist
+Phase 1: Getting to know the Community in
+depth
+Image Source:
+Adapted CPB Checklist
+Steps to Launch:
+Define your company vision for Community Engagement with clear alignment to your mission and values
+Determine budget for Community Engagement
+Clearly outline cross-functional collaboration structure for Community Engagement- it’s highly beneficial to have your Community Engagement team serve on cross-functional teams with Project Developers, Government Relations and Legal teams.
+Develop an ecosystem map of key shareholders and organizations in project area
+Train your team on Community Engagement Best Practices- create SOPs and a team handbook to ensure consistent and aligned team strategy
+Go beyond land acknowledgements- develop a thorough understanding of past and present landscape and community and environmental needs
+Develop a calendar of community events and standard communication tools for rapport building and consistent comms deployment
+Resources:
+Vision Statements for Community Engagement
+Example-
+Pattern Energy
+Pivot Energy
+Guide to Ecosystem Mapping
+Interaction Design Foundation
+Miro
+How to Create a Standard Operating Procedure (SOP)
+Toolkit for Inclusive Communications
+Suggested Reading:
+Community Energy Planning: Best Practices & Lessons Learned in NREL’s Work with Communities
+Energy Justice Workbook
+Going Beyond Land Acknowledgments
+Emerald Cities Collaborative Energy Democracy Scorecard
+Phase 2: Building & Implementing Community Agreements
+Image Source:
+Adapted CPB Checklist
+Steps to Launch:
+Document each step of the collaborative process for accountability and trust-building among all team members
+Distribute regular updates to all shareholders using the communication tool
+Design, prototype, implement and assess benefits plans and agreements
+in collaboration
+with shareholders
+Outline SMART assessment metrics for each benefit to ensure feasibility of progress monitoring and accountability
+Consider the use of pilots to determine how benefits plans resonate with different shareholders in community
+Ensure seamless collaboration between Community Engagement and Public Relations/ MarComms Teams to ensure cohesive and aligned public messaging
+Train your Community Benefit Team on Program Evaluation to monitor, iterate, and report on success of Community Benefits plans over time
+Resources:
+Train your team:
+Facilitative Leadership
+Focus Group Facilitation
+Community Centered Design
+Program Evaluation
+Ecosystem Partnerships (CA):
+Workforce Development
+Grid Alternatives
+Skillbridge
+Supplier Diversity
+Statewide Supplier Diversity Program
+CA Minority Chamber of Commerce
+Small Business Ecosystem Development & Access to Capital
+Small Business Administration
+Lendistry
+CAMEO
+PCV
+Native CDFI
+Apprenticeships
+IREC Apprenticeships in Clean Energy Network
+Phase 3: Assessing & Communicating Impact
+Image Source:
+Adapted CPB Checklist
+Steps to Launch:
+Determine data collection and reporting frequency to assess community benefits plans impact
+Leverage your MarComms and Public Relations teams to develop a reporting format that is visually impactful, inclusive from an accessibility standpoint, and can be shared across all shareholder groups: company board, company team, community shareholders, and the public
+Democratize data access: website, newsletters, data digestible and shared with community via multitude of channels & languages
+Use reporting metrics to celebrate the collaborative successes of your Community Benefits team and community planning committee and to iterate Community Benefits Plans as needed over time
+Sample Image Report Templates:
+Solv Energy 2023
+Invenergy 2023
+In Closing
+What if “for profit” and “for good” do not have to exist at opposite ends of a binary spectrum?
+What if
+triple
+bottom lines- good for profits, good for communities, and good for the earth-
+became a business model baseline?
+What if
+your team
+takes the first steps to shift your company in this direction?
+→ If you are in the renewables or climate tech industries and would like to learn more, I encourage you to reach out
+and
+to share this toolbox with your networks
+→ If you come from another industry and would like to get involved in climate work (every job is a climate job!) check out
+Climate Drift
+→ If you’re here to just read and learn, keep on keepin’ on. The potential for triple bottom lines applies to
+all
+business models. Each one, teach one ;)

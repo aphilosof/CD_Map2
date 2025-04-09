@@ -1,0 +1,278 @@
+Title: Is “Ugly” Produce a Solution to Food Waste?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/is-ugly-produce-a-solution-to-food
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there
+! 👋
+Skander here.
+Our
+Climate Drift Career Accelerator
+for mid-career & executives kicked off a few weeks ago.
+And the first round of feedback is looking solid 🔥
+Here are my top 3 from our members:
+“I’ve gotten tremendous value out of the course; specifically the
+action-oriented
+nature of the course (
+learning + doing, not just learning
+) and the orientation towards
+landing a career in climate and HOW to do it
+”
+“The
+quality and access to the speakers
+so far has been
+unparalleled
+(and I've done programs with [multiple other climate education programs]).”
+10 out of 10
+: The
+content is in-depth and interesting
+, and gives the cohort opportunities to get involved by tackling challenges hands on (which in my opinion, is the best way to learn!)
+If you want to make a difference and bring your talent into climate.
+Apply to our May ’24 cohort
+and join the Climate Drift community.
+Apply now
+Today we have a member of our first cohort sharing his learnings on food waste and the solutions for it, with a focus on “ugly” produce.
+Aaron
+comes with a PhD in Evolutionary Anthropology and a Postdoc in Computational Biology, having worked in the startup world before, scaling a Pet DNA startup, leading research and working across different teams.
+Food is Personal for Me
+When I was growing up, my father, who works in agriculture, spoke frequently about his lifelong professional motivation, to make sure that the crop food supply remained nutritious and stable for future generations. His personal motivation has stuck with me, and now, as I am pursuing a big career shift to the climate industry, I find myself drawn to food.
+Food production and nutrition, where my dad has spent his time and energy, is one part of the food supply equation, at the other end is food loss and waste.
+Food loss and waste is interesting to me, because it is a major contributor to global emissions, land degradation, and biodiversity loss, but is also an area ripe for policy changes. Solving the problem of food waste also moves us towards solving global hunger.
+Here, I am sharing a high level overview of what I’ve learned as I dig into understanding the breadth and depth of the food loss and waste problem. I’ll cover:
+How much food is lost or wasted globally and in the United States.
+How food loss and waste happens throughout the food chain.
+The impacts of food loss and waste on climate, hunger, and the economy.
+Finally, I’ll take a deep dive into one solution, Imperfect Foods, which is using food that would otherwise be lost at the farming and manufacturing stage and delivering it to consumers through a range of produce and other products.
+Introduction to Food Loss and Waste
+Globally, one third of the food we produce is lost or wasted (
+FAO 2011
+). The US leads this loss and waste, producing over 120 billion pounds of food waste per year, estimated to be nearly 40% of the US food supply (
+RTS
+,
+Feeding America
+).
+This waste occurs across the entire food supply chain. Though estimates vary, according to
+ReFED
+, a national nonprofit working to reduce food waste across the entire food system, the breakdown in the US is:  48% wasted in homes, 20% wasted in consumer-facing businesses, 15% wasted in manufacturing, and 17% wasted before it leaves farms.
+(Image source
+ReFED
+)
+Food Loss and Waste Happens Across the Supply Chain
+Loss and waste happens across the entire food supply chain “from farm to fork.” The UN
+Food and Agriculture Organization
+splits these sources of waste into indirect drivers and direct causes (see Figure below).
+Indirect drivers are related to the broad cultural context of the food system that influence waste and include factors like crops not meeting quality standards, lack of proper storage during transport, or perhaps most importantly the existence of numerous consumer date labels.
+Direct causes, as they sound, are the direct actions that individuals take within the food system. Direct causes include things like how and when food is harvested, stored, stocked, or consumed.
+(Image Source,
+FAO 2019
+)
+Each part of the supply chain is not an island. For example, customer preference may lead a store to reject or remove certain produce, which may influence waste at the processing or even harvest stage.
+“Food waste is systemic in nature, and it’s important to recognize that what happens at one stage is often influenced by something that happens at another stage, either upstream or downstream.”
+(
+ReFED
+)
+Food Loss and Waste is a Major Climate Problem
+The
+IPCC
+has estimated that globally, food loss and waste accounted for up to 10% of greenhouse gas (GHG) emissions in 2011.
+Emissions are not equally distributed across products
+Recent estimates suggest that though fruit and vegetables make up the majority of food waste by weight, wasted animal products result in
+half
+of these GHG emissions.
+The largest contributor by far to GHG emissions is bovine (cow) meat, which makes up only 0.7% of total food waste, but is responsible for 16.3% of GHG emissions from food loss and waste.
+(Image source,
+Our World In Data
+)
+Food and Agriculture Have Climate Impact Beyond Direct Emissions
+Additionally, food loss and waste makes up a sizable portion of freshwater resources, land use, and fertilizer use. For example, in crops alone, Kummu and colleagues
+estimated
+that 24% of freshwater resources, 23% of global cropland, and 23% of fertilizer used is lost through lost or wasted crops.
+To put this in context, here’s a breakdown of the impact of the food and agriculture sector on overall land use, freshwater use, water pollution, and animal biodiversity.
+(Image source,
+Our World In Data
+)
+Food Loss and Waste Is Getting Worse
+Globally, we are still not doing well at solving this problem. The State of Climate Action 2023
+Report
+estimates that we are moving in the wrong direction for the amount of food production lost, and was unable to establish a trend for the amount of food waste per capita.
+(Image source,
+State of Climate Action 2023 Report
+)
+Food Loss and Waste is a Human Rights Problem
+The Food and Agriculture Organization of the United Nations has estimated that up to
+828 million
+people globally were impacted by hunger in 2021.
+Today, hunger is more of a problem of inequity and unequal distribution of food than it is one of insufficient food production. For example, a
+recent study
+by Kummu and colleagues estimated that addressing crop food loss in the supply chain could feed an extra billion people annually.
+Figuring out how to better distribute food, especially food that doesn’t meet typical market standards, would help to reduce global hunger. To put it more bluntly, globally, we produce enough food that no humans should be facing food insecurity. Transforming the food system to reduce waste should include
+ending world hunger
+.
+Food Loss and Waste is a Big Economic Problem
+Economically, as you can see in the above figure from ReFED, surplus food in the US alone cost $473 Billion Dollars in 2022. My rough estimate from these numbers (assuming a US population size of 330 million) is that we waste over $700 per person per year in household food waste.
+In this way, food loss and waste is related to the broader topic of circular economies. Much of food that is lost in earlier stages of the food supply chain could and should be reused or redistributed for other uses.
+In fact, upcycling food for human or animal consumption, or other products is near the top of the EPA’s recently developed
+Wasted Food Scale
+.
+A number of companies today are using otherwise unwanted food and produce in an effort to reduce waste. Here I will zoom in one one of these companies,
+Imperfect Foods
+.
+Solutions to Food Loss and Waste
+A number of solutions to food loss and waste have been developed by companies during the past decade. These solutions come in different forms and target different stages of the food supply chain. For example:
+Making at-home composting easier with in-home food recyclers. Examples include
+Mill
+and
+Lomi
+.
+Better measuring and thereby reducing food waste in restaurants. Examples include
+Leanpath
+and
+Winnow
+.
+Redirecting surplus food to those in need or eco-conscious consumers. Examples include
+Replate
+,
+Rethink Food
+,
+Rescuing Leftover Cuisine
+, and
+Too Good To Go
+.
+Grocery store inventory management solutions. Examples include
+Shelf Engine
+and
+Spoiler Alert
+.
+Extending the shelf life of foods through food coatings. Examples include
+Apeel
+,
+Hazel Technologies
+, and
+AgroSustain
+.
+Reducing grocery waste through better inventory management. Examples include
+Afresh
+and
+Shelf Engine
+.
+Expanding the amount of food from farms that actually gets consumed. Examples include
+Imperfect Foods
+,
+Hungry Harvest
+,
+Misfits Market
+, and
+Full Harvest
+.
+Given that this last solution is complex, as it attempts to directly reduce food waste by getting more of the food produced by farmers into the hands of consumers, I would like to dig deeper into one of these companies.
+The Challenge of Food and Grocery Delivery
+I’ve tried a number of meal and grocery delivery services. As a customer, I’m looking for convenience and affordability, but I also want to feel good about where my food is coming from and the impact I’m having on the planet with my food and grocery purchases.
+Honestly, I have found most services I’ve tried very convenient, but not quite as affordable as I’d like.  I’m willing to pay a little more for convenience, but what I’ve found most unappealing about most of these services is packaging. They typically use a lot of packaging, much of which is either not recyclable or reusable, or is highly inconvenient or expensive for me to recycle myself. So in the end I haven’t continued using any of these services for more than a month or two.
+Enter Imperfect Foods.
+Imperfect Foods
+(Image source,
+Dayton Daily News
+, Credit: Jim Wilson)
+Imperfect Foods was founded in 2015 by Ben Simon, Ben Chesler, and Ron Clark, originally under the name Imperfect Produce. The goal of the company was to reduce the large amounts of food waste that are due primarily to aesthetic standards. The opportunity was to purchase cosmetically flawed produce at a discounted price, and sell these produce via grocery delivery to eco-conscious consumers.
+Low Impact Grocery Delivery
+Today, Imperfect Foods delivers a service that aims to tackle multiple problems within the food system. Consistent with this goal, they
+became a certified B corp
+in 2021. What problems are they tackling?
+Supply Chain & Food Waste
+First, consistent with the original mission, they aim to reduce food waste by selling or upcycling produce that would have been discarded and serve as a direct bridge between growers and consumers. Imperfect Foods sources their produce and ingredients via direct relationships with a large network of farmers and other food producers.
+These relationships allow them to not only do sell cosmetically flawed produce, but they now produce private label foods that use produce and ingredients that otherwise would have gone unused, such as produce from surplus harvests and ingredients that do not meet retailer specifications (see the image below from Imperfect Foods illustrating the different ingredient sources they use in their private label products).
+(Image source,
+Imperfect Foods
+)
+Environmental Impact (packaging, carbon neutrality, etc)
+Finally, as a business, Imperfect Foods aims to limit their environmental impact. In addition to reducing food waste, they
+claim to be on track
+to being net zero in terms of carbon emissions by 2030.
+They intend to do this via a number of measures including transitioning all fulfillment facilities to 100% renewable energy, and moving towards a fully electric fleet of delivery vehicles.
+As part of their roadmap they intended to ensure that all Imperfect Foods packaging is recyclable, compostable, or reusable by 2023. According to their
+packaging information
+, their packing materials are currently “low waste.”
+The company also claims to be the only nationwide grocery retailer that offers to take back their recycled cardboard boxes, gel packs, egg carton liners, and silver insulation liners for free when they drop off your next delivery.
+As I mentioned above, as a consumer this is one aspect of their packaging that I am particularly pleased with, as I have experienced difficulty in dealing with the large amount of packing material required for grocery delivery to keep produce frozen or cool.
+Cost, Accessibility, and Hunger
+Imperfect Foods aims to make it more affordable for consumers to buy fresh produce and groceries. As a baseline their goal was to acquire otherwise unusable produce from growers at heavily discounted prices in order to pass those savings on to consumers. Today, they make no claims about saving the consumer overall, but advertise transparent price comparison to retail prices via their
+FAQs
+.
+Generally, online grocers are not able to honor SNAP (Supplemental Nutrition Assistance Program) benefits. As such, Imperfect Foods decided to
+offer reduced cost boxes
+for those qualifying for SNAP benefits.
+As mentioned above, redirecting surplus food to vulnerable or food insecure segments of the population not only reduces food waste, but helps to feed those with limited or no access to healthy food. Imperfect foods aims to ensure that when they themselves overproduce, they
+donate excess food
+to community organizations to help fight hunger. They claim to have donated over 15 million pounds of food to people facing hunger via collaboration with a network of over 60 community organizations.
+Quantifying Impact
+Imperfect Foods
+claims
+that with every order, the consumer saves on average nearly 5 pounds of food from a lesser outcome (“lesser” generally referring to outcomes lower on the EPA’s Food Recovery Hierarchy), conserves about 190 gallons of water, and conserves roughly 4 pounds of CO2e emissions. In total, they claim this has saved 172.5 million pounds of food, 5.8 billion gallons of water, and 85.6 kilotonnes of CO2e emissions.
+(Image source
+Imperfect Foods
+)
+What Questions am I Left With?
+After learning more about Imperfect Foods’ product, I’m left with some questions. I’ll group these into two big categories: First, can the business model of mail order groceries be affordable for mass markets? Second, is mail order groceries really the best solution for the planet?
+Is eco-friendly grocery delivery a sustainable business?
+As a consumer, one of the first questions that came to my mind was, can people afford this product?
+Imperfect Foods has a number of direct competitors. These include similar direct competitors such as
+Hungry Harvest
+and
+Misfits Market
+, the latter of which merged with Imperfect Foods in 2022.
+Smaller direct competitors include local producers via Community Supported Agriculture, or
+CSAs
+. CSAs allow consumers to support local farms and receive produce directly from those farms. In doing so, local communities and farmers share the risks and benefits of food production. The CSA model is
+highly sustainable
+compared to traditional grocery stores or grocery delivery, as it connects consumers directly to farms. However, CSAs are often not available, especially in more urban communities.
+Imperfect Foods also has larger direct competitors such as Instacart, Amazon Fresh, Wal-Mart, and other grocers entering the grocery delivery market, such as Kroger.
+Imperfect foods
+appears to be generally competitive
+compared to Instacart. However, the overall similar price stems largely from Instacart’s large delivery fees. Customers shopping in stores seem to save overall compared to mail order services like Imperfect Foods.
+Nonetheless, grocery delivery is a
+growing
+market. Despite
+setbacks
+over the past year as customers returned to in store shopping, there does seem to be an opportunity for companies like Imperfect Foods and Misfits Market to have a positive impact by reducing food waste in the food system, while also making a profit.
+To do so, maintaining price parity with other grocery delivery services and improving geographic distribution are important factors for staying competitive with larger incumbents in the food sourcing and grocery market.
+(Image source,
+Mercatus
+)
+Another important set of factors for growth for companies like Imperfect Foods, in my opinion, is even further reducing overall carbon impact in order to justify a higher price point.
+How can Imperfect Foods better quantify its impact?
+Personally, I think that products like Imperfect Foods are a big step in the right direction. Today’s consumers put a premium on convenience, so being able to order your groceries and have them delivered directly to your door seems like it is here to stay.
+Furthermore, Imperfect Foods is extending the life of food. By establishing important relationships with growers and utilizing unattractive but otherwise edible produce to make a suite of other products and donating their own unused or surplus ingredients, Imperfect Foods is taking steps towards a more circular economy for food.
+I still have questions about the overall impact of this product though:
+What happens when these products get into consumers homes? In other words, how much of this product is shifting food waste from the harvesting and manufacturing stages to consumer homes? I would love to see Imperfect Foods working with consumers to quantify this. Quantifying after-market food waste would allow Imperfect Foods to better calculate their downstream impact and identify potential solutions.
+Could established relationships with growers be used to even further reduce waste by diverting produce that isn’t human grade to other products, such as livestock or pet food products?
+What happens to all of that packaging material that Imperfect Foods doesn’t take back. I appreciate the effort that they have gone to to use recyclable plastics and other recyclable packing materials. However, in reality, most of these plastics and plastic films are either not recyclable in some municipal facilities or are just downright inconvenient to recycle. I could write much on the general problem of plastic in food manufacturing, but what I’m suggesting here is that as a consumer, I would see it as a huge benefit if I could return all of my recyclable food wrappings. I’d likely even pay a premium to do so. Could a corporate relationship with a company like
+Terracycle
+make this a reality and constitute a new revenue stream?
+Finally, and maybe this is the scientist in me talking, in general I find it hard to blindly accept the impact claims of any company without supporting materials. I’d love to see more about how Imperfect Foods estimates the food, water, and emissions impacts of each delivery. Improving communications about how exactly these values are estimated will help improve consumer trust that they are spending their dollars on a cause they can really get behind.
+Is Grocery Delivery the “Right” Solution?
+Most of the food that Imperfect Foods uses and delivers, like most food grown in the US, is from
+California growers
+. Inherently, that means that a lot of the food delivered by Imperfect Foods to US customers is traveling a long way. Even though they are
+striving
+to be sustainable and work with smaller growers where possible, Imperfect Foods’ model is not radically evolving the food system.
+An important alternative is to grow and evolve
+regional food systems
+. Improving regional food systems are important for a number of reasons, including:
+Improving food security by reducing dependence on long-distance food chains.
+Improving local economies by keeping money and jobs in farming, processing, and food distribution in regional communities, and can also help to drive funding to regional infrastructure.
+Improving environmental sustainability of food production. Smaller local farms often use more sustainable and regenerative farming practices, use less pesticides, and require shorter travel distance to deliver food to consumers.
+Improving nutrition and flavor. Locally grown food is often fresher and more nutritious than industrial farmed food. It can be harvested and delivered to consumers much closer to peak ripeness without additional preservatives or coatings.
+Improved sense of
+community
+. Regional food systems foster closer relationships between food producers and community members, often improve education about the food system in schools, and improve overall food literacy.
+Improved resilience to climate change. More regionally produced food reduces overall risk in the food supply chain and allows local communities to react more quickly to climate-related challenges to the food supply.
+Conclusion
+I’m excited to see companies like Imperfect Foods and others working to create products that tailor to today’s consumer demands for convenience and affordability, while also working to reduce the everyday impact of human necessities like food.
+While in my opinion, we still have a long way to go to evolving our food system to be more resilient to climate change, solutions like Imperfect Foods are important experiments in improving the food supply chain by creating lower impact grocery delivery solutions.
+Combined with increasing efforts to improve regional food systems, companies that rescue, make use of, and deliver products using produce that would otherwise go uneaten improve the circular food economy and represent an important step in reducing food waste and overall carbon impact of the food system.
+In doing research for this piece, I am more optimistic that even more solutions are on their way, and combining these solutions in innovative ways in the future will lead to improvements in the food system.

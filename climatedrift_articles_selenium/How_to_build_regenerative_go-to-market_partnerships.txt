@@ -1,0 +1,276 @@
+Title: How to build regenerative go-to-market partnerships
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-to-build-regenerative-go-to-market
+==============================
+
+Shreya Krishnan
+is a seasoned tech marketer passionate about reimagining marketing's role in the climate emergency. With over ten years of versatile B2B marketing experience, from startups to enterprises, she most recently served as the head of account-based marketing for Healthcare at Google Cloud. Currently on a mission to help climate founders build resilient go-to-market strategies, she hosts the ClimateTech Buzz podcast and writes about the intersection of climate action and marketing.
+How to build regenerative go-to-market partnerships
+“Today’s economy is divisive and degenerative by default. Tomorrow’s economy must be distributive and regenerative by design.”
+Kate Raworth
+The concept of partnerships can seem warm and fuzzy, but not all partnerships are good. That holds true for personal and business partnerships, including the go-to-market partnerships we’ll look at here. In the world of climate and impact solutions, some partnerships can hurt the very systems companies aim to improve.
+Companies, especially those focused on climate and impact solutions, would be wise to consider moving to a regenerative partnership model. This approach can help ensure that they're not only achieving their growth goals, but also staying true to their sustainability mission. Of course, making this shift will require some essential mindset adjustments and the creation of a new partnership framework.
+This deep dive will explore:
+How to think about go-to-market partnerships through a systems lens
+Practical partnership frameworks that balance the benefits for the business and the planet
+Real-world examples and case studies of climate companies getting this right
+By the end, you'll have a clearer understanding of how to cultivate partnerships that truly drive positive impact, rather than unintentionally undermining it. After all, the stakes are too high to settle for anything less.
+The go-to-market regenerative partnership
+Go-to-market strategies focus on expanding audience reach, entering new markets, and/or adding services and features to give your product or solution an edge. Although partnerships are often siloed to the sales teams, breakthrough partnerships occur when they are a key component of a holistic go-to-market execution across sales, marketing, product, and customer success teams.
+Traditionally, successful partnerships deliver a win-win (you + partner) or the even more desirable win-win-win (you + partner + customer). Climate-focused companies embracing a regenerative partnership strategy acknowledge a fourth stakeholder: the planet. These partnerships move beyond “do no harm” to actually doing good for Earth.
+Mindshifts for regenerative partnerships
+Before getting too deep into the nuts and bolts of regenerative partnerships and frameworks, it’s worth addressing a few essentials that underpin and inform this approach.
+Essential #1: Collaboration, not competition
+This shift towards collaborative practices is a practical step toward aligning businesses with the greater aspirations of climate responsibility, social justice, and shared prosperity. When brands work together and support each other, they contribute to a more resilient and interconnected economy that serves everyone’s needs and interests. By moving from a world of “you versus me” to “we”, we begin to see the immense value in forming true partnerships, where everyone grows together, making success a shared journey rather than an individual conquest. And here is where partnerships take on a powerful role.
+Traditional go-to-market approaches push businesses to compete fiercely for attention, resources, and success, often working against the larger, shared goals of climate action, social justice, and equity. However, emerging communities like the
+Conscious Marketing Movement
+are inspiring an alternative approach and gaining momentum by encouraging us to replace competition with collaboration, bringing us closer to our shared goals and vision for a better world. The approach is documented in their
+pledge
+.
+Essential #2:
+Financial performance is not an indicator of climate performance
+Partnerships driven solely by growth KPIs often ignore the externalities—pollution, chemical runoff, unsafe labour practices, etc.—produced by their product by design. When it comes to climate solutions, some partnerships can hurt the very systems you’re aiming to improve. In his article,
+The Subversion of the Climate Performance Potential Thesis
+, Richard Muscat argues that while the initial hypothesis of climate companies assumes that climate performance is a predictor of financial performance, “somewhere along the way from founding to scaling the thesis gets inverted to the following: Financial performance is a predictor of climate performance.”
+He takes the example of electric cars. While, in theory, electric cars help reduce emissions, lasting emission reduction comes from incentivizing people towards public transport or building more walkable cities. If electric cars are solely helping us replace one type of engine for another, then you’re not genuinely addressing climate performance.
+Richard argues further that one of the ways this shows up is in the types of partnerships a company pursues, including real-world partnerships like Beyond Meat’s tie-up with McDonalds and Innovation Zero’s with BP & HSBC. Through the narrow lens of financial performance, climate companies either encourage their partners to greenwash their way out of taking real climate action, create externalities, or exacerbate the systemic issues by exchanging one form of consumption for another.
+Essential #3
+:
+Partnerships are a degrowth strategy.
+Despite the allure of endless growth, businesses operate within planetary boundaries and we are bound by the resources on the planet. The reality is that we’ve overshot six of the nine—potentially more—
+planetary boundaries
+because of the promise of endless growth. The arguments supporting degrowth underscore the link between economic growth and environmental degradation, making it a key part of the climate solutions narrative.
+Partnerships reward collaboration over competition. Your success depends equally upon the success of your partners and your customers. It's not a strategy designed to produce quick wins; rather it sets you up for sustainable, long-term growth. Moreover, partnerships allow resilience into your business. Building strong partnerships does not guarantee staying power but helps you anticipate changes and create leverage. In short, it helps you future proof your business.
+If the idea of degrowth still brings out the sceptic in you,
+Harvard Business Review
+,
+Ernst & Young
+, and many other mainstream sources are telling you it’s time to embrace it.
+Regenerative partnerships
+From co-benefits to cascading benefits: a matter of intentionality
+Partnerships, when done exceptionally well, create beneficial outcomes for the company, its partner, and its customers. But regenerative partnerships, in addition to these three entities, need to create wins for the planet, be it in human rights, biodiversity, or jobs training—and this doesn’t happen unless you make it so by design. The concept of cascading benefits is foundational to understanding why.
+In climate circles, you’ve probably heard of the commonly used term “co-benefits,” which refers to the added benefits that accompany building climate solutions. For example, cleaner air is a result of eliminating fossil fuels, and health and wellness are a co-benefit of living a low-carbon lifestyle. While co-benefits can feel like happy accidents, regenerative partnerships create intentional complement benefits through cascading benefits.
+Chad Frischmann of Project Drawdown explains cascading benefits as a way to use climate solutions to unlock solutions to
+food security, public health, ecosystem and biodiversity preservation, and improved livelihoods.
+On the topic of partnerships, he says:
+“Climate solutions inform and reinforce each other in myriad and complex ways, and only by approaching them as an integrated system and implementing them in parallel around the world can we unlock their true potential to create a Regenerative Future. This ‘system of solutions’ can only be realised through broad-based, effective local, regional, and international collaboration that connects governments, businesses, financial institutions, communities, and individua
+ls.”
+If we are to truly move towards building regenerative businesses, we need to think in terms of cascading benefits. Regenerative partnerships help you build this intentionality into your go-to-market model to improve the systems your solution serves in a way that also helps your business grow.
+Let’s look at some examples.
+Tech/SaaS
+Ecosia: building an impact-led search engine ecosystem
+Ecosia
+is the search engine alternative that puts its profit towards reforestation projects. This climate darling is not just a great product but also excels at partnerships. The company knows its ideal users—people who care about making sustainable choices—and reaches them through their users’ ecosystems. From the “freetree” extension to the Treecard program, Ecosia meets their users where they already are. Ecosia’s recent product partnership with Accuweather was particularly noteworthy. Accurate weather data is table stakes for a search engine company, but Ecosia leaned into the climate implications of weather data with this partnership. By incorporating climate-related insights, the partnership is empowering users to stay informed about extreme weather events, monitor air quality, and even identify urban areas in need of tree cover. This innovative approach not only helps Ecosia’s customers but also makes a tangible difference for our planet.
+Food & Ag
+Tony’s chocolonely
+:
+ecosystem orchestrator working to improve cocoa supply chains
+Tony’s
+is a Dutch chocolate company that produces and sells chocolates based on fair trade principles. Its mission is to bring transparency to the cocoa supply chain and make it 100% slave free. With such a powerful mission, Tony’s knew they had to bring the legacy producers to their cause to truly move the needle.
+Tony’s Open Chain
+was born as a collaborative partnership to help chocolate brands transform their cocoa supply chains and become sustainability frontrunners. Tony’s, despite being much smaller than major chocolate brands, used the power of its mission to orchestrate an industry-wide partnership model and invite other chocolate brands to adopt their standards for cleaning up the chocolate supply chain. There’s a co-op fee for partners to join the platform and adopt the Open Chain standards. Through an industry-level partnership, Tony’s continues to make progress toward its mission: It’s paying
+living incomes
+to more farmers while
+increasing its revenue
+(> $150 million) and helping improve cocoa supply chains — all while providing important lessons that other chocolate brands can use to increase their company’s impact.
+Circularity
+Ridwell:
+partnership-led recycling subscription
+Ridwell
+creates second-use opportunities for people’s hard-to-recycle stuff through a circularity subscription model. Ridwell’s whole go-to-market infuses a partnership mentality while ensuring that these partnerships intentionally create benefits for both members who subscribe to the service and community organisations. Their partnerships truly surprise and delight customers while offering creative ways to donate hard-to-recycle items that would otherwise wind up in landfills.
+Outside of their bi-weekly plastic pickups that get sent to various recycling innovators, they also partner periodically with organisations looking to reuse items found around the house and put them to good use.
+Take, for example, their partnership with RAFT, an organisation that makes use of recycled materials in the classroom. This partnership helps subscribers to get rid of things like the insane amount of shirt buttons that get collected in your bathroom drawers, that half-used construction paper book that you no longer need, and that partially used sheet of stickers, while knowing that it’s put to good use in a classroom. Other partnerships include collecting kitchenware for organisations like Habitat for Humanity and taking your leftover Halloween candy to various youth groups.
+Biodiversity
+Ponda: bringing nature to textile circularity
+Ponda
+is a bio materials company that develops regenerative materials for textile by restoring wetlands. Their approach to building the company resulted in “restoring damaged wetlands, sequestering carbon back into the land and improving biodiversity whilst simultaneously growing a native plant which they can turn into planet-positive textiles.” Rather than simply offering carbon offsets, they've taken the extra steps to ensure that these natural systems can directly enable the transition to a more sustainable, regenerative economy.
+Ponda is working to fundamentally rethink and rebuild the way the fashion industry sources and produces materials. Their partnerships span the entire value chain, aligning diverse interests around a shared vision of circularity. This holistic approach addresses the needs of multiple stakeholders - from farmers and conservation groups to fashion brands and consumers. By integrating regenerative agriculture, carbon sequestration, and material innovation, Ponda aims to create a closed-loop system that transforms the entire textile supply chain.
+Now that we’ve seen examples of regenerative partnerships in four very different industries, let’s examine the partnership frameworks.
+The Regenerative Partnership Framework
+Photo by
+Elizabeth Gottwald
+on
+Unsplash
+Jared Fuller, author of
+Nearbound and the Rise of the Who Economy
+, explains in his book how successful partnership teams not only need a direct line to leadership but also infuse a partnership mindset across every go-to-market team.
+While the regenerative partnership framework can be led by a partnership team alone, it is a useful tool to help your entire go-to-market team, which includes sales, marketing, product, and customer service, rally around your vision and approach.
+The four Ps of a planet-centric partnership:
+Product, People, Partners, Planet
+The regenerative partnership framework consists of  two main parts. Part One is an exercise in deep value alignment across all parties -
+Product
+(your leadership and go-to-market teams),
+People
+(your customers), the
+Planet
+(the receivers of the externalities of your business decisions), and
+Partners
+(external organisations that are mission-aligned).
+Part Two helps you map your business initiatives to the “win” for each of the four stakeholders defined in Part One. Part Twoincludes a colour coding system that will help you assess each partnership in the context of your overall strategy.
+In his book on partnerships, Franz-Josef Schrepf explains that the best time to invest in a partnership strategy is when you have product-market fit and understand your customers well enough to know which partnerships will make sense. It’s at this stage that you need to put hard questions on paper and start answering them. Because good partnerships involve cross-company collaboration, the framework below aligns well with the central questions that your business should be answering.
+Part 1: Answer the hard questions
+In this section, you need to answer 1-3 key questions about each ‘P’. These questions will help you form the baseline of your partnership strategy and draw your boundaries. Answering these questions should also help you communicate the core of your partnership strategy to internal and external stakeholders.
+Let’s look at the four P’s and how they relate to each other in more detail:
+People
+: At the very heart of your partnership strategy are your customers. Begin any partnership strategy by defining your ideal customer profile with as much precision as possible. Make the customer a real person you work with and understand the values that drive them towards your product.
+Product
+: Determine which features of your product are core to your business and create your unique value proposition vs. which features can benefit from a partnership approach. How can you partner with those who can grow your value proposition in the eyes of your customers while addressing the planet?
+Planet
+: Now comes the fun part of infusing purpose into your partnerships. Map out the larger systemic issues as they relate to your solution. For example, systemic issues for food tech solutions can include things like food security, food waste, regenerative agriculture, soil health, methane emissions, seed sovereignty, and land rights.
+Partnerships
+: This is where the previous three sections come together to inform your partnership strategy. Your customers are often your most accessible partners. Focus on understanding their ecosystem — what products or services can enhance their experience or educate them further. Which companies in that ecosystem do your customers already trust? Who are your potential partners’ partners?
+Answering the hard questions helps you understand your customers, product, partner, and system boundaries more deeply. It will set you up to answer the crucial question in part two,
+“Which type of partnerships should we pursue, and with whom should we pursue it?”
+Part 2: Evaluate your initiatives through the partnership lens
+Once you’ve grounded yourself through the above exercises, it’s time to get creative about the types of partnerships you can consider as they align with your business and impact goals.
+Partnerships can fit into three buckets:
+ones that you strategically approach
+ones that come up internally (often from leadership)
+ones that come in through inbound channels (customer service, sales, a form on your website).
+The framework works for all three of them.
+Chart the wins
+To apply the hard questions of Part 1 into your framework, make a simple table like the one below for each partnership-building initiative. Record a clear, specific goal for the initiative, then track the wins across the four Ps.
+Table 1.1: Initiatives and regenerative wins mapping
+Starting from the left, articulate the business use case you want to address. Sometimes, the partnership conversation starts before you define the initiative. In those cases, this framework helps ensure you don’t go too far in the wrong direction.
+The remaining columns are used to describe the “win” for all the entities involved: the customer (people), you (product), the external stakeholder (partner), and the systems (planet). Defining the winning outcomes helps you work backwards to figure out how to structure the particulars of the partnership to create those wins.
+Take the measure of your partnership portfolio
+Since the definition of a “win” is often subjective, you’ll want to grade the partnership “wins” you’ve listed on a scale of 1 to 5, where 1 indicates that the relationship is completely off balance and 5 is the best outcome possible for the stakeholder.
+To make it even easier to evaluate, we’ll apply colour coding** to focus on balance since there may be some give and take in specific initiatives. It allows you to have hard conversations about why certain partnerships, even those pushed hard internally, may not benefit all involved and, alternatively, why others are worth the effort.
+Table 1.2: Colour coding scheme to score the degree of the “win” for each stakeholder
+** You can see the colour coding applied to example one below to illustrate how it comes to life. I have not done so for the rest of the examples because it really depends on the details of the partnership structure.
+Once you’ve done this as a partnership team, you can help your GTM teams (marketing, sales, customer service, and product) go through this exercise when considering opportunities like event sponsorships or product integrations.
+Applying the framework to real-world organisations
+To see the framework in action, let’s examine four companies and apply the framework towards a potential B2B or B2B2C partnership strategy for each: These companies are ThredUp (circularity), Planet Wild (biodiversity), Watershed (SaaS), and Climate Farmers (food systems).
+Some notes before we dive in:
+The case studies are simple thought exercises to illustrate what planet-first partnerships could look like. They are incomplete without a deeper understanding of the companies’ customers and their challenges. Validation with customers is key.
+These are best guesses at the companies’ ideal customer profiles based on their website and available external reports. This is easier if the company publishes annual reports, as in ThredUp’s case.
+The case studies are focused on what the potential outcomes or “wins” can look like for each stakeholder. It does not delve into the details of how to structure the partnership.
+Circularity:
+ThredUp
+Photo by
+Shanna Camilleri
+on
+Unsplash
+What
+: an online second-hand consignment store where you can buy and sell clothes.
+Business challenges (Source:
+ThredUp Annual Report 2023
+)
+:
+The second-hand clothing market is still evolving and future-proofing is an unpaved path
+Global circularity is on a downward trend from 9.1% in 2018 to 7.2% in 2023 (
+CGR report
+)
+Ability to expand the means through which they acquire and offer high-quality second-hand items for resale
+The ease with which buyers and sellers can supply, purchase, and return second-hand items
+The high volume of second-hand clothes in play
+People
+:
+Buyers: 25-34-years-old, care about ease, savings on brand names, reusing
+Sellers: care about earning extra cash, making room in their closets, and keeping clothes out of landfills
+Product:
+A proprietary platform that helps buyers and sellers of second-hand clothes access the market in a self-serve way.
+Planet
+: Ethical fashion, reducing waste, workers’ rights, textile recycling
+Partners:
+How can ThredUp reach new audiences through partners while also extending the life of clothes through resell or repair?
+Biodiversity:
+Planet Wild
+Photo by
+henry perks
+on
+Unsplash
+Product
+: a membership-based community that puts funds towards ecosystem restoration projects. Members join with a monthly commitment of 6 euros or more and vote monthly on which restoration projects their funds get allocated to.
+Business challenges/opportunities
+:
+YouTube appears to be their biggest platform for reaching their members, but it’s not always an effective conversion channel.
+Maintaining a consistent donor base over time can be difficult as supporters may experience "donor fatigue" or shift their focus to other causes. Deepening relationships with existing members can enhance predictability.
+People
+: Millennials and younger whom the platform asks to self-select into parents, activists, analysts, or nature lovers.
+Planet
+: Planet Wild needs to continue to find projects that support local communities, but this is outside the scope of this exercise. However, on the member side, it has the platform to help its members deepen their climate action beyond donations and become active participants in advocacy.
+Partners
+: Where are millennials already spending their money? How can Planet Wild move their current members to get more value by deepening their commitment?
+Tech/SaaS:
+Watershed
+Photo by
+Anders J
+on
+Unsplash
+Product
+: An enterprise platform that helps companies manage their carbon emissions, sustainability disclosures, and clean energy investments.
+Business challenges/opportunities
+:
+How can Watershed move laggard industries or companies beyond the compliance checkmark?
+With companies walking back climate pledges, how can Watershed help them maintain momentum
+Integration with existing enterprise systems
+People
+: Sustainability teams in enterprises across verticals like retail, tech, CPG, and financial services
+Planet
+: Tech as an enabler and not the end solution, overcoming carbon myopia for corporates, shaping climate policy, and employee engagement/ownership
+Partners
+: How can partners deepen the relationship in a way that helps sustainability teams overcome internal roadblocks? How can Watershed make it easier for corporations to move beyond compliance and act as an ecosystem connector? Ultimately, how can Watershed leverage decarbonization as a trojan horse for overcoming carbon myopia?
+Food & Ag:
+Climate Farmers
+Photo by
+Indika Sriyan
+on
+Unsplash
+What
+: Support small-scale farmers on the path to turning their farm assets into a regenerative business by providing education and creating earning potential through carbon credits.
+Business challenges/opportunities
+:
+Moving to a profitable regenerative model could take over 5 years for some farmers
+Connecting farmers to the full ecosystem of solutions takes effort but could increase trust with its brand
+Farmers in different regions/countries have unique challenges and require place-based approaches.
+People
+: Farmers who are interested in or might benefit from transitioning to regenerative models, FMCG companies looking to decarbonize their supply chains through carbon credits.
+Planet
+: Environmental degradation, water systems, biodiversity loss, supporting rural communities through the transition, climate resilience
+Partners
+: How can climate farmers work with organisations already reaching farmers in a way that bridges the location-based challenges while offering value and trust through the partnership?
+So many partnership opportunities, so little time
+These case studies gave you an idea of how to pursue regenerative partnerships and build your partnership story around your business goals. However, it’s one thing to come up with ideas and get buy-in from your potential partners, but quite another to nurture and grow them. Maintaining partnerships is hard work and without creating a sound business rhythm with each of them, the same partnerships can fall by the wayside. In such situations, a scoring system is often a helpful evaluation tool to determine which partnerships are the best use of your resources.
+Key components of the scoring system as it maps to our four stakeholders can include:
+* A higher percentage of the weight is given to People and Planet because a regenerative partnership is focused on solving for the win-win-win-win (you + partner + people + planet) wherein the most important stakeholders are your customers (people) and the planet. Generally, if your customers are winning, it bodes well for you, and if the planet is winning… Well I hope I don’t have to convince you too hard about that one!
+Roadblocks to achieving the regenerative partnership vision
+It’s important to acknowledge that the path to building regenerative partnerships is not without obstacles. Going against the grain and fighting the growth-at-all-costs, business-as-usual status quo will leave you feeling like you’re on an island.
+At a minimum, your partnerships should not create a negative impact in the pursuit of profits. Ultimately, the framework's goal is to help you achieve balance and build a holistic partnership approach that serves multiple goals without over-rotating on a singular goal (e.g., profits) at the cost of the planet.
+Some industries have important ecosystem players not generally known for doing good. While fossil fuel companies are the obvious example, it could also be companies like Bayer/Monsanto in the food system or fast fashion companies like Shein and Zara for retail. The decision for how you navigate the big players in your partnership strategy is up to you. As one of our guest speakers in our Climate Drift cohort, Arne Hautekiet from Astanor said to us: “Sometimes you have to dance with the devil.” It’s important to recognize that in doing so, you are not enabling your partner to greenwash their way out of doing the hard work of addressing deeper systemic issues. Check out this
+Clean Techies podcast
+for a great discussion on this topic.
+As you identify partners and work with them to outline the relationship, these three questions can act as your gut check:
+Is the partnership improving the ability to provide value to customers while improving systemic issues? At the very least, is it preventing the issues from getting worse?
+Is the partnership leading you or your partner to greenwash your solution? Is the partnership distracting you from dealing with the difficult things?
+Is the full partnership strategy providing balance or creating imbalance (here the colour coding helps!)?
+Activating the framework
+Now comes the actual work of scouting and onboarding these partners — a book in its own right. For now, suffice it to say that the framework should arm you with the ability to articulate your value to your partners and how they stand to win through a partnership with you. Once onboarded, implementing a strong rhythm of business to keep them invested and active is the core job of your partnership team. Skills like stakeholder management, relationship building, outlining joint metrics, and tracking impact by integrating activity into your CRM tools.
+Climate founders:
+Start building this mental model from the get-go. If you can tell from the four examples of Tony’s, Ecosia, Ridwell, and Ponda, these companies didn’t tack on a planet-first strategy. Planet-first is part of their founding ethos. Even if you are not ready to activate a partnership strategy, the more you internalise the thought process into your team and company culture, the easier it will be when the time comes.
+Go-to-market teams:
+Be active participants in internalising this framework and identifying and executing partnership strategies. You are on the front lines with your customers.
+Partnership leads
+: Your job is more important than ever, and your opportunity for impact is huge.
+If you are a climate company interested in seeing how this process could work for your company, reach out to me on
+Linkedin
+. Let’s shift minds—and KPIs—together, for the planet.
+Additional reading to help you understand some of the concepts highlighted in this piece:
+On the intersection of go-to-market and sustainability:
+Sustainable Marketing: The Industry’s Role in a Sustainable Future
+- Paul Randle, Alexis Eyre
+On the topic of partnership strategy and execution:
+Nearbound and the Rise of the Who Economy
+- Jared Fuller, Jill Rowley
+The Book on Partnerships: How Startups Work With Partners To Sell More, Add Features, And Get Acquired
+- Franz-Josef Schrepf
+On the topic of degrowth or post-growth economics and business practices:
+Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist
+- Kate Raworth
+Less Is More: How Degrowth Will Save the World
+- Jason Hickel
+Steward ownership
+- rethinking the nature of corporate ownership
+And finally, a book I’m looking forward to reading because the concept of Multisolving was the early inspiration for the regenerative partnership framework:
+Multisolving: Creating Systems Change in a Fractured World
+- Elizabeth Sawin

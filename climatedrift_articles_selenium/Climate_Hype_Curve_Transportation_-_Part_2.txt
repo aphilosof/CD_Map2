@@ -1,0 +1,83 @@
+Title: Climate Hype Curve: Transportation - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/climate-hype-curve-transportation-e62
+==============================
+
+Navigate Climate Solutions with
+Climate Drift
+: Your atlas to charting the course of climate solutions and realizing your significant footprint in the journey to net zero.
+Not charting with us yet? Be a beacon among our first 1,000 navigators:
+Subscribe
+Already staked your claim? Illuminate the path for a coworker, friend, relative, your yoga instructor, barista, or anyone you swap Substacks with.
+Share Climate Drift
+Hey fellow reader 👋
+Skander, here, again.
+Welcome back to Climate Drift's exploration into the world of transportation technologies along the hype curve.
+For a clear grasp of the Hype Curve, read our deep dive here:
+Beyond the Hype
+Skander Garroum
+·
+August 7, 2023
+Read full story
+Today, we're venturing into the trough of disillusionment, where promising innovations face their toughest challenges. It's a phase where the initial excitement has waned, and the real-world challenges emerge. But remember, it's often in this very trough that true resilience is tested and innovations evolve to meet their potential.
+Our exploration includes, as in Part 1, with:
+An overview of each solution
+One lighthouse company per solution
+For Part 1:
+Highlighting 5 scalable solutions, from EVs to Rail.
+Today’s five solutions span from Battery Recycling to Alternative Airplane Fuels.
+Let’s dive in 🌊
+Climate Hype Curve: Transportation - Part 2
+Battery Recycling
+Overview:
+By 2030, global gigafactories are set to churn out over 5 TWh of battery capacity annually, with 100 million EV batteries heading for retirement within a decade.
+A very pressing concern is the lithium-based battery industry's fragile supply chain. Key ingredients like lithium, nickel, and cobalt are not only scarce but also concentrated in a handful of nations. Current lithium mining in South America is unsustainable, while the cobalt sector in Congo faces ethical dilemmas. Add to this, China's dominance in refining these materials, and the geopolitical stakes are high.
+By 2030, retired batteries could be worth over $20 billion, potentially supplying 10% of the metals for new li-ion batteries. Technological strides and government-backed research are boosting recycling, the EU mandates automakers to reclaim used batteries and sets recycling targets. The US Inflation Reduction Act 2022 offers tax breaks for recycled battery materials.
+VW, GM, and others are partnering with recycling firms in the U.S. to ensure ethical and green sourcing. Recycled materials not only have a lower carbon footprint but also sidestep the issues of conflict zones and child labor.
+The current scarcity of old batteries is a major obstacle in replicating the
+economies of scale that we achieved with solar
+. The solution? Utilize battery scrap from new battery production.
+Lighthouse Company:
+Li-Cycle:
+Boasting a state-of-the-art facility, Li-Cycle stands as one of North America's premier li-ion battery recycler. They've pioneered a unique hydrometallurgical method, achieving over 95% material recovery. The company is expanding with multiple facilities throughout North America, designed to process all types of batteries into "black mass" without discharging. This mass is then sent to a central hub for further recovery. Li-Cycle either sells the recovered materials or returns them to battery suppliers through a mutual contract.
+EV Charging network
+Overview:
+With the surge in the EV market, efficient charging infrastructure is crucial. While most EV charging currently happens at homes and workplaces, the rise in public fast chargers is transforming this. These chargers, which address the 'range anxiety' of potential EV users, are not only enabling longer trips but also enticing those without private charging to consider EVs.
+We possess the technology; it's time for deployment. However, we've know that charging, being a commodity, is costly, leading to several  of the major charging network companies being in trouble.
+As of 2023, there are currently more than 160,000 EV chargers in the United States, led by California. Yet, the majority are Level 2 chargers, with only 16% being fast-charging Level 3. In 2021, global public chargers grew by 37%, reaching 1.8 million.
+China, holding 85% of the world's fast chargers, is at the forefront yet again, followed by Europe, with the Netherlands leading in slow chargers.
+China's fast charger installations saw a 50% rise in 2021, backed by government initiatives. Meanwhile, the U.S. and Europe continue to expand their networks, with Tesla superchargers comprising 60% of U.S. fast chargers.
+Lighthouse Company:
+EV charging already costs less than filling a gas tank. But it can be even cheaper: Free.
+Volta has established a vast network of EV charging stations located in parking areas near grocery stores, pharmacies, banks, and hospitals. These charging services are free for EV users, thanks to ads of retailers and brands aiming to target the EV demographic.
+Currently, over 3,000 Volta charging stations are spread across 31 states, predominantly situated in major city venues like shopping centers, stadiums, theme parks, and hospitals. Following its 2023 acquisition by Shell, the company anticipates a significant expansion in its charging stations.
+Hydrogen Cars & Buses
+Overview:
+Fuel cell vehicles are essentially non-existent on a graph, nearing zero. As of 2023, only two hydrogen car models, Toyota Mirai and Hyundai Nexo, are available in specific markets. Hydrogen buses also exist, but in 2022, Montpellier, France, found hydrogen buses to be six times costlier to operate than electric ones. A 2017 analysis highlighted hydrogen vehicles' inefficiencies and high costs, suggesting they might remain a niche technology. By 2020, hydrogen vehicles were only 38% efficient compared to 80%-95% for battery EVs. Globally, 5,648 hydrogen buses operated in 2020, with 93.7% in China.
+However, there's potential. Some manufacturers use hydrogen fuel cells to extend the range of battery electric buses. For instance, the Mercedes-Benz eCitaro's range increases from 280 km to 400 km with a Toyota fuel cell. In 2020, Nanning, China, aimed to replace 7,000 electric buses with hydrogen hybrids. By May 2022, Cologne, Germany ordered 100 hydrogen buses, aligning with Germany's 'National Hydrogen Strategy' that sees hydrogen buses as viable for long routes.
+Lighthouse Company:
+Daimler:  Mercedes-Benz also plans to offer an eCitaro bus with a Toyota hydrogen range extender. Starting in 2025, Daimler Buses is set to roll out its first fully electric inter-city bus, with hydrogen-fueled coaches following by the decade's end. Embracing the dual-track strategy of its parent, Daimler Truck, the company is diving into both battery-electric and hydrogen-driven tech. They believe this dual approach is essential to cater to the varied requirements of their clientele.
+Ship Improvements
+Overview:
+Ships account for over 18% of nitrogen oxides pollution and 3% of greenhouse gas emissions. Despite their efficiency in transporting cargo, their vast numbers impact the environment. Here's how we can enhance ships for better performance:
+Engine Upgrades: Upgrading propulsion systems, like using LNG or electric systems, can cut fuel use and emissions. Modifying existing engines, like adding turbochargers or waste heat recovery, also boosts efficiency.
+Operational Tweaks: Slower vessel speeds, optimal route selection, and reduced port time can enhance fuel efficiency. Digital tools, like voyage optimization software, can guide operators to the most efficient routes.
+Data-Driven Fuel Management: Analyzing fuel usage data can spotlight areas for improvement, from maintenance needs to operational habits. Continuous measurement provides a comprehensive view of consumption factors, guiding efficiency efforts.
+Lighthouse Company:
+Sails are not only cool but also effective in reducing emissions by 20%. And guess what? Flying sails, like kites, take the cool factor up a notch. Airseas, established in 2016, taps into aeronautics know-how to bring groundbreaking ship propulsion tech to the table. They're prepping to unveil a Seawing production hub in 2026 and are beefing up their industrial sector. With plans to hire 70 more talents by 2023, they're set to grow their crew to 190, all ready for the Seawing production surge. Wind-driven sails are the future, especially with the mission to cut CO2 footprints by 40% come 2030. Big players, like “K” Line, are already sailing with Airseas, aiming to equip 50 ships with Seawing in a two-decade partnership.
+Planes: Sustainable Aviation Fuel (SAF)
+Overview:
+For most sea and air vehicles (and some large land ones), electricity might not cut it. In such cases, biofuels and hydrogen-upgraded fuels seem promising. Biofuels are currently the leading sustainable, commercial fuel, with the US trading 19B gallons in 2021. However, they face challenges like limited feedstock availability and varying carbon impacts. For instance, some biofuels can emit more carbon than fossil fuels. The competition for biomass resources, like land, will also intensify, especially as global warming affects agricultural yields.
+Sustainable Aviation Fuels (SAF) are the top bet for decarbonizing aviation by 2050. With the global narrowbody fleet worth $1.4 trillion, drop-in biofuels and e-kerosene are the go-to for the existing fleet. Airlines are on board, even agreeing to pay thrice the price for greener fuels.
+In 2020, the SAF market stood at $72.1 million and is projected to skyrocket to $6.26 billion by 2030.
+A great breakdown of the SAF market by my friend Christoph Bernkopf can be found
+in this essay
+Lighthouse company:
+Metafuel is on a mission to revolutionize green jet fuel production using innovative processes centered around green methanol. This fuel seamlessly integrates with current sustainable aviation fuel blends. What sets Metafuel apart is its efficiency and precision in targeting desired fuel molecules, minimizing low-value byproducts.
+Navigating the trough of disillusionment is no easy feat. It's a phase marked by skepticism, challenges, and a need for perseverance. But history has shown that many technologies that wade through this phase come out stronger, more refined, and ready to make a lasting impact.
+At Climate Drift, we remain hopeful and excited about the future of these innovations. Join us as we continue to track their journey, from the trough to the slopes of enlightenment.
+Subscribe
+If you are subscribed and liked this post, please consider sharing:
+Share
+Until next time!
+Skander

@@ -1,0 +1,107 @@
+Title: Key Takeaways from IEA's new Net Zero Guide - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/key-takeaways-from-ieas-new-net-zero-406
+==============================
+
+Join
+Climate Drift
+: we explain climate solutions and help you find your part in the journey to net zero.
+Not on board yet? Signup here:
+Subscribe
+Hey 👋
+Skander here.
+Welcome to Part 2 of our 2 parter on the IEA’s updated Pathway to Net Zero report.
+For Part 1, where we focussed on what is currently going well, go here:
+Key Takeaways from IEA's new Net Zero Guide - Part 1
+Skander Garroum
+·
+September 27, 2023
+Read full story
+Today we are focussing on what is not going well.
+Let’s dive in 🌊
+TLDR: 7 key challenges to Net Zero
+The report underscores several challenges in the global race to achieve net zero emissions by 2050, to limit global warming to 1.5°C.
+They highlight several key challenges:
+1) Record high global carbon dioxide emissions from the energy sector in 2022, showcasing the dire state of climate crisis -
+we are not at peak emissions yet
+.
+2) Although clean energy technologies are advancing,
+their pace is too slow
+to meet the 1.5°C goal, necessitating more aggressive climate policies & investments.
+3)
+Infrastructure bottlenecks
+, such as time-consuming permitting processes and inadequate grids, hinder clean energy deployment.
+4)
+Carbon Capture, Utilisation, and Storage (CCUS) technologies have underperformed
+historically, requiring further policy support.
+5)
+The massive investment
+needed, especially in emerging markets, to scale up clean energy, with a sevenfold surge required in some areas by the early 2030s.
+6) A looming
+supply gap for critical minerals
+essential for clean energy technologies, alongside a high geographical concentration in supply chains, raises risks of disruption.
+7) The urgent need for international cooperation and enhanced ambition, as
+current commitments fall short
+of the net zero emissions goal by 2050.
+Let’s dive in and see what the challenges are.
+All graphs from the
+Massive investment is needed - especially in emerging economies
+Today more than 80% of clean energy investment is taking place in advanced economies and China; more is needed in emerging and developing economies. The NZE Scenario sees clean energy investment increasing nearly threefold from the current level by 2030, but fivefold in emerging market and developing economies other than China. Around USD 80-100 billion in annual concessional funding is needed by the early 2030s to lower the cost of finance and mobilise private capital in lower income countries.
+The milestones will be hard to reach
+The IEA gave 4 key milestones for the global electricity transition:
+1. Triple renewables by 2030
+2. Double grids investment by 2030
+3. Phase-out coal by 2040
+4. Double nuclear by 2050
+Only in 1 of the 4 we are on a good track - renewables.  Grid investments will be needed but hard, in the next section we are looking briefly at the lead times for these infrastructure projects, another core issue.
+Phasing out coal and other fossil fuels is very hard however: The IEA calls for a stop to new coal, oil and gas right now, but since the report went out - literally a day later - countries like the UK are already
+approving new oil fields
+. Last week, top emitter China’s climate envoy said that phasing out fossil fuels completely was an “unrealistic” goal.
+Building takes time - and pages and pages of documents
+The planning and permitting phases for major new clean energy infrastructure are extensive, typically spanning three to eight years before construction can commence. This duration may extend further for First-Of-A-Kind projects.
+For projects like electricity lines and pipelines, the assessment of route plans often involves numerous regulatory bodies, jurisdictions, and stakeholders, each adding a layer of complexity to the approval process.
+When it comes to novel infrastructure types, such as CO2 storage sites, determining the responsible regulatory authority for the permitting process is not always straightforward.
+Large infrastructure projects usually traverse lands owned by multiple entities, necessitating early, frequent, and well-strategized stakeholder engagement to mitigate potential delays arising from public opposition.
+However, there seems to be a growing acknowledgment of the imperative to accelerate the permitting processes for clean energy infrastructure to address the pressing demands of energy transition efficiently - but red tape takes time to be cut.
+We need a lot of materials
+Clean energy technologies depend heavily on critical minerals like lithium, cobalt, nickel, and copper, requiring them for various components such as wind turbines, EV batteries, CO2 pipelines, and power grids. These technologies already consume significant portions of the total demand for these minerals, ranging from 15-55%. The ongoing expansion of clean energy solutions is contingent on the swift development of secure and sustainable critical mineral supply chains.
+Over the last decade, there has been a substantial increase in the extraction and processing capacity of critical minerals due to growing demands from the clean energy sector and other industries. From 2010 to 2022, the output of lithium mining has increased fivefold, while nickel and cobalt have doubled. This surge is especially prominent in recent years, with lithium output expanding by about 80%, nickel by about 35%, and cobalt by about 40% between 2020 and 2022 (IEA, 2023f).
+However, this increased supply has struggled to keep pace with rapidly growing demand, particularly for batteries, resulting in tight markets and price volatility. Lithium prices, for instance, have experienced the most fluctuations, increasing more than five times between the first half of 2020 and 2022.
+Investors are reacting to these price surges by announcing more projects for the extraction and processing of these crucial minerals, indicating a prospective supply expansion this decade. Announced lithium extraction projects alone increased by 14% between the end of 2022 and the second quarter of 2023. If these projects come to fruition, the anticipated supply would approximately meet 90% of copper, 80% of nickel, 65% of lithium, and 85% of cobalt demand levels by 2030 in the updated NZE Scenario.
+CCUS: overpromising and underdelivering
+CCUS (Carbon Capture, Utilization, and Storage) is a crucial technology, vital for reducing or eliminating emissions in sectors like cement production or synthetic kerosene manufacturing, where alternative solutions are scarce. However, CCUS has been marked by unfulfilled promises and stagnation, capturing only 0.1% of total annual energy sector emissions, representing 45 Mt annually, leading to its diminished role in climate mitigation scenarios.
+However, a resurgence has been observed since 2018, attributed to improved policies and market conditions, with over 45 countries now investing in CCUS projects. If all proposed projects are realized, we could witness an annual capture of about 400 Mt CO2 by 2030, a notable escalation from the current figures. The projections for 2030 include 20% of the capture capacity allocated for Direct Air Capture (DAC), 20% for hydrogen production, and 8% for industry.
+Despite the renewed interest, as of June 2023, only around 20 commercial capture projects have reached the final investment decision (FID) stage, and even if all planned projects are executed, they would satisfy only about 40% of the 1 Gt/year CO2 capture required by 2030 in the NZE Scenario.
+To meet the 2030 targets, project lead times, currently averaging six years, need to be significantly reduced. The adoption of best practices could decrease lead times to three to four years, and the establishment of CCUS hubs could offer further reductions. To reach a global capture capacity of 1 Gt CO2/year by 2030, planning for an average of 160 Mt CO2/year of capture capacity and 140 Mt CO2/year of storage capacity needs to commence each year between 2023 and 2026. The current pace of project announcements suggests that achieving the requisite global CO2 capture and storage capacity by 2030 is attainable, provided that supportive actions continue to be reinforced.
+Let’s end on some positive news
+Let’s finish this dive into the Net Zero Roadmap with some positive news - in true Climate Drift style - the progress across multiple industries.
+Power Generation
+- Commercial-scale designs of small modular nuclear reactors are anticipated to be operational this decade in China, Europe, and North America.
+- Firms in China, Europe, and the U.S. are competing to commercialize perovskite solar cells, which are nearing 30% efficiency.
+Low-emissions Hydrogen Supply:
+- Commercial-scale solid oxide electrolyzers have begun operating in 2023, demonstrating viable hydrogen supply solutions.
+Road Transport:
+-
+Sodium-ion batteries for EVs are progressing from prototypes to commercial production in China in 2023.
+Heavy Industry:
+- Carbon capture in cement production and 100% electrolytic hydrogen-based direct reduced iron production are scaling up.
+- Carbon-free aluminum is advancing towards small-scale use in consumer goods, with first commercial production expected by 2026.
+Critical Minerals:
+- Bioleaching is moving to commercial operation for electronic waste recycling and metal recovery.
+- Direct lithium extraction from geothermal brine is at the pre-commercial demonstration stage.
+Direct Air Capture:
+-
+A project in Iceland has begun capturing CO2 from the air and storing it underground, with plans for expansion by 2030.
+- A 0.5 Mt/year plant is under construction in the U.S., aiming to begin operations in 2025.
+Aviation:
+- Designs for regional electric planes and electric vertical take-off and landing models are in development, with commercial flights expected before 2030.
+- Hydrogen-powered aircraft designs are also being developed but are not expected to begin operations until after 2030.
+Shipping:
+- The first industrial plant converting biogas into low-emissions bio-liquefied natural gas is set to begin operations in 2023.
+- Developments in ammonia two-stroke engines, methanol-powered container ships, and small-scale hydrogen fuel cell ferries are also underway.
+The IEA’s report underlines the critical obstacles we face—be it the pressing need for massive investments, especially in emerging economies, the swift development of sustainable supply chains for critical minerals, the acceleration in the deployment of clean energy infrastructure, or the realization of the potential of CCUS technologies.
+The road ahead is long, and the milestones are hard to reach. Yet, in the midst of these challenges, let's not lose sight of the progress and the possibilities that lie ahead.
+Looking foward to dive into more solutions,
+Skander
+PS: Liked this part? Share it
+Share

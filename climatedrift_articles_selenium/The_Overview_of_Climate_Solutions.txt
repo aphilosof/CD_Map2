@@ -1,0 +1,53 @@
+Title: The Overview of Climate Solutions
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-overview-of-climate-solutions-6ba
+==============================
+
+Welcome to
+Climate Drift
+, your destination for unraveling climate solutions and discovering your unique part in the sprint to net zero.
+If you're not yet a subscriber, sign up here:
+Subscribe
+Hey there 👋
+Skander here.
+Welcome to Part 2 of our series where we dive into solution maps across 12 areas, ranging from Industry to Transportation.
+If you missed it, Part 1 offers insights into our solutions map for the Industry, Built Environment, and Workforce sectors.
+The Overview of Climate Solutions
+Skander Garroum
+·
+September 18, 2023
+Read full story
+For each map, I've provided a concise overview, targeting around 200 words for brevity.
+Today we dive into the Circular Economy, Finance, Software-first.
+Let’s dive in 🌊
+Click/tap to enlarge
+Circular Economy
+The circular economy is a framework for sustainable production and consumption. Unlike our current linear model, where we extract resources, create products, and eventually discard them, the circular economy aims to eliminate waste altogether. It emphasizes sharing, leasing, reusing, repairing, refurbishing, and recycling to extend the life and utility of materials and products. By 2050, adopting circular strategies in sectors like cement, aluminum, steel, plastics, and food could curtail 9.3 billion tonnes of CO2 equivalent—equivalent to today's total transportation emissions. We have a long way to go: the "Circularity Gap Report" reveals a mere 8.6% of global resources are currently reused.
+The circular economy rests on three pillars:
+Rethink
+: Adopt low-carbon and carbon-negative materials for better product designs. By 2030, such initiatives could reduce Europe's CO2 emissions by 48% compared to 2012 levels.
+Reduce
+: Prioritize reusing and returning packaging, and promote consumer behaviors like repairing, renting, and buying second-hand items. The European Commission foresees a potential 10% waste reduction by 2030 through these efforts.
+Recycle
+: Efficiently track and handle discarded materials and embrace advanced recycling techniques. A holistic recycling strategy could result in annual material savings of up to $1 trillion in sectors like electronics by 2025
+Click/Tap to enlarge
+Finance
+Climate finance focuses on reducing greenhouse gas emissions, bolstering sinks, and enhancing resilience to climate change impacts. But how much do we actually need to spend?
+The International Energy Agency's (IEA) 2011 report projects a need for $16.9 trillion in power generation investments through 2035, with 60% directed to renewable energy. The average yearly capital to meet energy demands through 2030 stands at $1.1 trillion, split between emerging economies and other developing countries. Over the next 15 years, an estimated $90 trillion will be necessary for new infrastructure, predominantly in developing nations. To limit global temperature increases to below 2°C by 2100, the IEA forecasts an annual $3.5 trillion energy sector investment until 2050. A 2023 meta-analysis reveals the EU's urgent investment shifts for climate-critical infrastructure until 2035, particularly in power plants and grids, requiring ~87€ billion more than near-term (2021–25) planned budgets.
+Financing all of this involves diverse strategies, from Climate Angels to VCs and Debt funds. Consumers can contribute through Impact Investing, while the insurance landscape, altered already by climate change, is also evolving rapidly.
+Click/tap to enlarge
+Software-First
+Marc Andreessen's assertion, "Software is eating the world," is at this point a reality of our times. From changing the way businesses operate to reshaping our daily lives, software's omnipresence is hard to overlook.
+Every climate solution, be it in Energy or Food & Ag, now has an embedded software layer. Glancing through our overviews of solutions, we can find software enhancing the efficiency of wind turbines, diligently tracking food waste, and countless other applications.
+In this overview I focus on software-first approaches however, categorized into three main segments:
+Climate Intelligence:
+This encompasses tools that focus on aspects like ESG ratings, sophisticated climate modeling, and insights into earth systems.
+Enterprise Software:
+Provide businesses with a clear understanding of their carbon emissions via carbon accounting, aid in strategizing towards a net-zero scenario, and facilitate the management of offsets and associated emissions.
+Consumer-Facing Software:
+This segment includes platforms related to billing, sustainable investing, and applications aimed at assisting individuals in understanding, mitigating, and reducing their personal carbon footprints.
+From championing sustainable consumption patterns and understanding the vast financial commitments required for climate resilience, to the pivotal role of software in both enterprise and consumer, the road to net-zero is complex but navigable.
+Next time we dive into Carbon Removal, Food & Ag and Protecting Nature.
+Skander
+PS: If you are working on a solution mentioned above, or think we missed one - don’t hesitate to reach out at
+[email protected]

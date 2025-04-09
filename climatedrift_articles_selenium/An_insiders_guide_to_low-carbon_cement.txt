@@ -1,0 +1,159 @@
+Title: An insider’s guide to low-carbon cement
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/an-insiders-guide-to-low-carbon-cement
+==============================
+
+With a strong foundation in strategy development and execution,
+Tessa Peerless
+honed her expertise working with Fortune 500 companies as a consultant at Bain & Company and on the Strategy and Transformation teams at Worldpay/FIS. In 2023, she pivoted her career to focus on scaling emerging climate technologies in the built environment, combining her business acumen with her passion for sustainability.
+Most recently, Tessa served as Chief of Staff at Material Evolution (Mevo), a UK-based low-carbon cement startup. During her time there, she gained invaluable insights into the challenges—and immense opportunities—of commercializing technologies aimed at reducing embodied carbon emissions. Now, she’s leveraging these lessons to drive decarbonization efforts in her home country of Canada, working on a new initiative to transform the built environment.
+An Insider’s Guide to Low-Carbon Cement
+(Click the title 👆 to read the full deep dive online)
+"Its hard to think of a topic less sexy than cement"
+Eric Toone, Technical Lead at Breakthrough Energy Ventures (BEV) in 2021 as BEV invested in their first low-carbon cement manufacturing plant
+For the past year I have been on a mission: to decarbonize the cement industry. Given the emerging nature of the industry and the number of times I’ve been met with blank stares: “What is bad for the environment? Cement?”, I have felt inclined to share the learnings from my personal journey.
+So let’s dig-in: Buzzfeed style.
+An insider's guide to the 7 things everyone should know about low-carbon cement.
+Cement is the backbone of modern infrastructure.
+The built environment (human made structures, features and facilities, of which cement is the core component), globally consumes almost 50% of the materials produced each year (
+1
+) and now
+weighs more than all life on earth combined
+(
+2
+). As infrastructure development increases, especially in Southeast Asia, Latin America and Africa, total global cement consumption is expected to increase as well.
+Cement usage is predicted to increase 20% by 2050
+(barring any further effort to minimize cement usage in infrastructure projects) (
+3
+).
+Cement comprises 8-9% of total global emissions.
+Based in large part by sheer volume of the material used,
+the production of cement contributes 7-8% of total global emissions
+(
+4
+).
+To put this figure into perspective: if cement was a country, it would be the third largest national emitter, after China and the USA (
+5
+).
+Emissions from cement are 4 times those from the aviation industry (
+6
+) and one-third of the entire food production industry (
+7
+). That’s not to say that decarbonizing these topics are not also extremely important or requiring significant exploration (they most certainly are!), it is just to provide a comparison to industries which are widely spoken about in society’s fight against climate change.
+And the cement emissions problem is just getting worse. Unlike other highly-emissive industries (for example, transportation and energy),
+the share of cement-related emissions has been steadily rising
+(~10% CAGR since 2015) and is expected to continue doing so, barring any immediate action (
+8
+). More generally, industrial expansion has accounted for 45% of worldwide growth in GHG emissions over the past two decades (Lamb et al. 2021; IPCC 2022b). Due to the rise in building volume, carbon dioxide emissions from construction are on track to comprise almost 50% of the total emissions of new buildings by 2050 (
+9
+).
+The climate crisis is a unique opportunity to disrupt an industry that has been around for 2000 years and that has barely changed in 200 years
+Cement of some form has existed for centuries, with the Egyptian Pyramids, the Great Wall of China and the Colosseum each having been built with a variation of cementitious binder (although little is known about the supply chains and construction methods used at the time) (
+10
+). Original Portland Cement (OPC), the main cement product that is used today, was birthed in 1824 - meaning we celebrated its 200th birthday last year (
+11
+).
+Trying to innovate in a 200 year old industry brings both technical and commercial challenges.
+Technically, the cement industry is a notoriously difficult one to decarbonize, often being categorized with steel, power and refining as ‘difficult to abate’. The primary reason for this is that the
+majority (50-60%) of cement emissions are process-related and are emitted due to the chemical reaction that occurs in the production of the material
+(as opposed to being released through the fossil fuel emissions associated with the energy of the process) (
+12
+). So even as renewable energy and more efficient kilns come to market, a majority of cement emissions can not be avoided without a fundamental change in the materials used to produce cement.
+Source:
+Laying the foundation for zero-carbon cement (McKinsey)
+Commercially, the construction market has a complex stakeholder ecosystem and significant value chain consolidation, posing challenges for disruptors to penetrate.
+Complex Value Chain:
+Along the construction value chain, there are many industry players who must be educated and ultimately convinced to adopt new technologies - including architects, engineers, building merchants, developers and building owners. These stakeholders all need convincing in addition to the direct purchasers of cement: concrete producers.
+Industry Consolidation:
+To complicate the stakeholder environment further, there is significant industry consolidation. Globally, the top 10 cement companies produce >30% of global supply (
+13
+). In the most mature markets the consolidation is even more dramatic, with the top 10 US cement companies having produced >80% of the countries supply, for example (
+14
+). These large market players have long-standing relationships along the value chain, some even having parent or sister companies who are purchasers of their product.
+Regulatory Environment:
+The building industry is heavily regulated to ensure that the material being used to build our bridges, roads and buildings are reliable and safe (and for good reason - safety and lives are at stake). However, many of the regulations are based heavily on the process itself and the materials being used in traditional cement (Original Portland Cement) - the area which contributes most significantly to emissions. And since the cement market has been around for 2,000+ years, changing regulation is time consuming and slow.
+Financing:
+Scaling up cement plants is capital-intensive and the de-carbonization of the cement industry faces similar financing challenges to those from many emerging climate technologies navigating the
+Valley of Death
+. These challenges include accessing funding for R&D projects and expensive first-of-a-kind (FOAK) capex projects and limited opportunity to command a green premium.
+There are a host of solutions ready for decarbonization
+There are innovative solutions to combat cement-related emissions that exist today. Prominent sustainability journalist Hannah Ritchie, who publishes the Substack
+Sustainability by the Numbers
+has compiled a framework of the three options for reducing cement-related emissions. I highly recommend checking out (& subscribing to) the Substack, but her three main options below:
+Use less cement and more supplementary cementitious materials (SCMs)
+Carbon capture & storage
+Using a different source rock
+Technologies fitting within each of these three buckets do exist today, many of which have been scientifically proven at a lab scale or greater.
+The next step for the industry is to prove the operational and commercial viability of these technologies and to scale the ones which can result in a cheaper and better performing alternative to traditional cement.
+Major industry players have recognized and committed to a need for change
+The largest stakeholders in the construction value chain (which ranges from private companies to concrete and cement producers themselves) understand the issue and recognize the need for change:
+The Global Cement and Concrete Association (GCCA)
+has committed to a 20 percent reduction of CO2 per metric ton of cement and a 25 percent reduction of CO2 per cubic meter of concrete by 2030 compared to 2020 levels. The GCCA calls for complete decarbonization by 2050 (
+15
+).
+Property developers
+are seeing the shift coming as well with 47% of property developers globally stating that building decarbonization is fundamentally important to their business growth (For example:
+HSBC
+).
+Public procurement
+, which comprises 25-30% of total global construction revenue, has also seen a shift towards lower-carbon materials. For example, the City of Helsinki has publicly stated cement targets for all public procurement: “discontinuing the use of lime cement as binder in soil improvement” and “low-emission concrete in infrastructure projects” (
+16
+). This is on their road to be a carbon-neutral city by 2030.
+Private companies:
+have also publicly stated their mission to decarbonize their building projects. For example, Microsoft stated that “the rise in [its] Scope 3 emissions primarily comes from the construction of more data centres and the associated embodied carbon in building materials” (
+17
+) and that is a step to Microsoft’s commitment to be carbon-negative by 2030 (
+18
+).
+The demand for low-carbon cement products exists: meaning the
+timing is right for disruption.
+Low-emission cement progress is significantly
+off track
+to meet The Paris Agreement
+The Paris Agreement (signed by 196 countries in 2015 at COP21) provides a durable framework to keep the global temperature rise well below 2-degrees Celsius above pre-industrial levels (
+19
+). For the cement sector, the first step in this is
+reducing emissions by ~16% (350Mt of CO2) by 203
+0. The International Energy Agency (IEA) outlines this goal and the progress that has been made globally to achieve it. But rather than being on track with the goal (in which cement emissions must fall an average of 3% / year annually through 2030), total CO2 emissions have risen since 2015 (
+20
+). And with only 5.5 years until 2030, the low-carbon cement projects that are currently in place are not likely to get us back on track. Low-carbon cement projects comprise 22Mt of cement, with a potential for an additional 2Mt near-zero emission capable. To be consistent with net-zero emissions targets, 350Mt of cement need to be produced at net-zero by 2030 (
+21
+).
+We aren’t even
+close
+to being on track.
+Economic opportunity
+The previous 6 market drivers of the low-carbon cement industry boil together into perhaps an obvious, final one: there is a large
+economic opportunity
+for the commercialization of low-carbon cement. The cement market size was >$380B USD in 2023, and is expected to grow by 6%, in line with additional cement production (
+22
+;
+23
+). Carbon taxes and net zero commitments by governments and private entities generate an incremental opportunity for firms investing in low-carbon infrastructure. McKinsey suggests that $60B per year will be spent on low-emissions production capacity and carbon capture & storage equipment (
+24
+). This presents a huge opportunity for firms who can adapt and take advantage of the next wave of innovation.
+Although many early climate technologies, especially in hard tech, are expected to fail (read:
+Surviving the Four Valleys of Death
+), climate technology companies are not going away any time soon. The lessons learned from this generation of climate technologies will be required to build the next ones (
+25
+).
+Very personally, I am thankful for a fantastic year at
+Material Evolution
+leaning in to this challenging, exciting problem.
+Me in front of Material Evolution’s low-carbon Cement Plant in Wrexham, Wales
+Interested in learning more or chatting about decarbonizing the Built Environment?
+Connect with me on LinkedIn
+or
+Book Time on my Calendly
+!
+Further suggested reading:
+Problem Overview & Solution Tracking Tool
+(IEA)
+Cement Transition to Net Zero
+(McKinsey)
+Concrete Technology Tracker
+(Institution of Structural Engineers)
+Eco-Efficient Cements: Potential Economically Viable Solutions for a Low-CO2 Cement-Based Materials Industry
+(UN Environment Programme)
+Building the Modern World: Concrete and the Environment
+(Science Museum)

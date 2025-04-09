@@ -1,0 +1,118 @@
+Title: 50 Predictions for 2025: Part 2: Sector-by-Sector predictions
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/50-predictions-for-2025-part-2-sector
+==============================
+
+Welcome to Climate Drift - the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there 👋
+Skander here.
+After yesterday's
+predictions from our community
+, I am back with something extra special. Some of the people we spoke with were a bit shy about sharing their predictions publicly (let’s just say there was some spice involved!).
+We also got tons of questions asking about our expectations across specific sectors.
+So, I did what any sensible person would do: we reached out to experts across various industries, gathered their insights, and anonymized everything so we could share the real talk with you.
+We’ve broken down the predictions by sector – from Energy and Transportation to Carbon Removal, Circular Economy, Industrial Decarbonization, and Food & Agriculture – and we’re diving deep into which solutions are in, which are out, and what you need to watch out for.
+We kept it extra short and spicy, so reading time should be under 15min.
+Tomorrow, in Part 3, we’ll wrap up with the best climate predictions from across the globe.
+🌊 Let’s dive in
+🚀
+Want to make an impact?
+The 4th cohort of our accelerator launches mid-February, and applications are still open (but spots are limited). If you’re ready to fight climate change, don’t wait:
+Apply Now
+50 Predictions for 2025: Part 2: Sector-by-Sector predictions
+⚡ Energy
+Data centers will run on gas (for now)
+The AI boom is fueling an unprecedented data center buildout. With capital allocated, the focus is speed to market, meaning gas will be the default. The long-term shift to renewables + batteries is still the plan, but 2025 will be about getting things online fast (and starting to make money with AI), to the detriment of emissions.
+Renewable growth continues, but slower
+Political headwinds, supply chain issues (especially in solar), and over-optimistic reshoring bets could slow momentum. The "electricity gauntlet" (demand outpacing supply) will be the key story.
+Nuclear moves from theory to reality?
+2024 was a big year for nuclear funding. Now, 2025 will show how fast the sector can translate investment into running prototypes. Advanced reactors and small modular reactors (SMRs) will move from funding rounds to regulatory approvals and early projects​
+✅
+In:
+Microgrids and home battery systems (more resilience, lower grid strain)
+Geothermal as a stable clean baseload option
+AI-driven demand response to optimize grid efficiency
+❌
+Out:
+Grid storage as a fragmented market (consolidation ahead)
+Overpromised green hydrogen for power generation
+Long-distance transmission as a silver bullet (slow permitting)
+🚢 Transportation
+EVs keep growing despite subsidy cuts
+2025 will see 20 million new EVs hit the road, proving that momentum is now self-sustaining.
+The first truly cheap EVs arrive in the West
+Tariff debates will be slow-moving, likely too slow to stop an influx of affordable Chinese EVs. This could be another "Toyota moment" for incumbents.
+Legacy automakers stumble again
+Western carmakers will spend another year in a strategic limbo: doubling down on gas-powered cars while struggling to scale EV production profitably. One step forward, two steps back.
+✅
+In:
+First rollout of battery swapping for fleets and two-wheelers
+Wide rollout of self driving taxis
+Urban EV logistics hubs for last-mile delivery
+❌
+Out:
+Onshoring of battery production and thinking we have something running in a quick timeframe
+Overreliance on government EV subsidies
+Western automakers’ complex, unscalable EV platforms
+♻️ Circular economy
+Brands will try to own their secondary markets
+By the end of 2025, resale and repair programs will be a standard playbook for major brands, whether for sustainability optics or margin protection.
+Regulatory delays will hold back digital circularity
+The infrastructure for digital product passports and recycling tracking won’t be in place yet, largely due to slow-moving regulations and implementation troubles.
+✅
+In:
+First larger scale rollout of textile and plastic recycling technologies
+Circularity-as-a-service
+❌
+Out:
+Landfill-first disposal policies (strict bans incoming)
+"Recyclable" claims without proof of real recycling
+Take-back programs without viable secondary markets
+🏭 Industrial decarbonization
+Things will take longer than expected (again)
+Heavy industry moves at a glacial pace, and decarbonization is no exception. Expect more pilots, more announcements, but little large-scale deployment.
+Rising electricity prices will reshape the conversation
+The electricity gauntlet (high prices + availability constraints) will become an existential issue for industrial players trying to electrify.
+✅
+In:
+Onsite storage for industrial heat
+Waste heat recovery in manufacturing
+Electric arc furnaces scaling up in steel production
+❌
+Out:
+Hydrogen hype for everything (focus shifting to specific use cases)
+CCS-only strategies with no emissions reductions upfront
+Natural gas reliance in industrial processes without a transition plan (the times will be a’changing again)
+🌱 Food & agriculture
+A major animal pandemic
+2025 will likely see a large-scale outbreak in livestock, triggering economic and food security concerns.
+New hype cycle for vertical farming & alternative proteins
+In response to supply shocks, investors and policymakers will revive enthusiasm for controlled environment ag and non-meat proteins.
+✅
+In:
+Supply chain monitoring (for climate risk management)
+Alternative proteins scaling in high-value categories (cheese, seafood)
+Drought-resistant, genetically optimized crops gaining policy support
+❌
+Out:
+Traditional livestock supply chains ignoring disease and climate risks
+Fake meat startups with no path to scale, affordability or better taste
+Just-in-time food logistics with no resilience planning
+📉
+Carbon removal
+A market shakeout begins
+2025 will see weaker carbon removal startups exit or consolidate as funding pressure mounts.
+Direct air capture (DAC) scales up
+Despite costs remaining high, DAC will continue growing, backed by policy support and a shift toward engineered solutions over traditional offsets.
+✅
+In:
+Modular carbon capture co-located with energy sources and industry
+Biochar and enhanced weathering gaining credibility as durable solutions
+Soil carbon sequestration backed by verifiable data and MRV (monitoring, reporting, verification)
+❌
+Out:
+Corporate carbon neutrality claims without actual removals
+Low-quality offsets with unverifiable impact
+Tree planting as the default removal strategy (land constraints)

@@ -1,0 +1,53 @@
+Title: 4 Frameworks to understand Climate Tech
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/4-frameworks-to-understand-climate
+==============================
+
+Welcome to
+Climate Drift
+- the place where we break down climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join as one of our first 1,000 readers by subscribing here:
+Subscribe
+Hey there 👋,
+Skander here. Welcome to
+Climate Drift
+!
+After exiting my first startup, I found myself in classrooms, from studying economics to unraveling what makes startups fail and succeed at Stanford with Startup Genome. It was a period of academic questing, and, dare I say, soul-searching. I was gathering the tools to answer questions I didn't even know I had.
+Once we started diving into climate solutions I began to realize that many of these valuable frameworks weren't as publicly accessible as I thought. There's a chasm between what's known in academic circles and what's available to the curious, the concerned, and the committed. It's time to bridge that gap.
+Always keep in mind that these frameworks are only tools, they help us keep things in context, and simplify reality so we can make better decisions faster.
+Time to dive in. 🌊
+4 Frameworks to understand Climate Tech
+Imagine trying to track the evolution of a microbe in the primordial sea all the way to you, sitting in your favorite café, sipping on an oat milk flat white, reading this very sentence. Now, take that brain-twisting complexity, multiply it by a gazillion, add a dash of existential urgency, and welcome to the party that is Climate Tech.
+This task turns even more complex, yet crucial, when we dive into the deep ocean of climate tech – a realm where groundbreaking solutions are not an exception, but a norm.
+Revolutionary carbon capture tech promising to scrub our guilty air clean? Check. Cutting-edge renewable energy poised to disrupt our energy matrix like a rockstar with a new hit? Double-check.
+News breaking about climate solutions at a pace that makes your Twitter/X/Threads feed look like a snail race? Triple-check.
+In this series of essays, we're not just pulling back the curtain; we're tearing it down. We're deploying four interdependent frameworks that are as insightful as they are interconnected, giving you a bird's-eye view of climate tech. Buckle up; it's going to be a wild, enlightening ride through the chaotic world of climate tech solutions.
+Grab your reusable mug and settle in.
+Part 1: Technology Readiness Level (TRL)
+Ever sketched an idea on a napkin and then wondered how to take it from that scribble to a world-changing system? From idea to a proven system - TRL helps understand the progression of a technology's maturity from idea to system readiness, offering a clear path for its development, risk mitigation, and ultimate deployment in the real world to combat climate change.
+Learn about TRLs
+Originally a NASA framework from the 70s, now in use worldwide.
+Part 2: Valleys of Death
+So, you’ve got a working system, a shiny new climate tech solution that promises to save the world, one CO2 molecule at a time. Pop the champagne, right? Not so fast.
+Welcome to the perilous terrain of Death Valleys, where even the most promising climate startups find themselves gasping for life (ironically, not unlike a planet grappling with climate change).
+These aren’t just bumps in the road; they're full-blown, startup-slaying chasms. Four of them, to be exact, each one lurking with its unique blend of risks, riddles, and reasons to keep you up at night.
+Take me to the Valleys of Death
+I walk through the valley of the shadow of death / And I'll fear no evil because I'm blind to it all
+Part 3: The Market Share S-Curve
+Technological adoption is no straight path; it's an S-Curve, zigzagging from early adopters to the mass market. In Climate Tech, this isn't just a line on a graph; it's a roller coaster with exhilarating highs, frustrating plateaus, and thrilling surges.
+I want to learn about Market Adoption
+How does change happen? Slowly and then all at once.
+Part 4: The Hype Curve of Solutions
+Picture it: A new technology bursts onto the scene, and suddenly it's all anyone can talk about. Funding flows, expectations soar, and demand skyrockets. It's the wild peak of the roller coaster, and the view is incredible.
+But hold on tight, because what goes up must come down. Market expectations can overshoot, funding rounds might miss their mark, and that once-sizzling demand might cool off faster than a polar ice cap. That's the stomach-dropping descent, and it's a ride unto itself.
+But fear not, for the savvy can navigate these cycles, understanding that they're not a one-way ticket to either success or failure, but a rhythmic pulse, a beat to which Climate Tech dances. Recognizing the patterns, playing the game, and keeping a cool head when all around are losing theirs – that's the art and science of riding the hype.
+Take me Beyond the Hype
+Every technology has its 10 minute of fame. Perhaps even multiple.
+Thank you for reading this introduction to our 4 frameworks in Climate Tech.
+In our next post, we will delve into the Technology Readiness Level (TRL), a vital tool for assessing and understanding the maturity of climate solutions.
+See you next time,
+Skander
+Thanks for reading
+Climate Drift! 🌊
+Subscribe for free to receive this series and our next in your inbox.
+Subscribe

@@ -1,0 +1,168 @@
+Title: How can we incentivize safe & durable geostorage? - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-can-we-incentivize-safe-and-durable-f1c
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there! 👋
+Skander here.
+Welcome back! In
+Part 1
+, we explored the complexities of Carbon Capture, Utilization, and Storage (CCUS) projects and the critical role of geological storage could play.
+In this part, we'll explore:
+The key players in the CDR ecosystem and how they can collaborate
+A new framework for incentivizing subsurface operators to transition from extraction to sequestration
+The potential of geological storage capacity as a new asset class
+The challenges and opportunities in creating a robust CDR market
+🌊 Let’s dive in
+Join the Climate Drift Accelerator and accelerate your climate journey.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+Meet our guide for today:
+Kim Vinet
+, a geologist turned sustainability expert and carbon market advisor (and happy Drifter), bringing a unique perspective on climate solutions and the future of energy:
+Kim is the founder of Affirmative Sustainability, a consultancy she established in 2020 to help corporations navigate the complex landscape of international policy, climate reporting, and disclosure frameworks. With nearly two decades of experience spanning the energy sector, policy development, and carbon markets, Kim now focuses on low-carbon economy transition planning and carbon market advisory for both private and public clients.
+Her journey began as a geologist in the petroleum industry, giving her firsthand insight into the fossil fuel production. This background, combined with her passion for nature as a former professional skier and ski guide, fuels her commitment to environmental protection and sustainable solutions.
+Kim's expertise covers the entire emissions lifecycle, from petroleum production to carbon offset project development and strategic advisory on carbon market economics.
+Part one discussed how carbon dioxide removal (CDR) projects are necessary to create impactful and scalable global emissions reductions. It also defined carbon capture, utilization and storage (CCUS) and differentiated between nature-based solutions and the novel CDR projects that would require the development of transportation and processing infrastructure as well as injection operations for permanent geostorage.
+In part 2 we explore the players across the CDR ecosystem and how they can work together to strengthen demand signals for novel CDR project development. It will also introduce a due diligence framework that will enable profitability for subsurface operators to transition from extraction to sequestration practices.
+Historically, booking and claiming reservoir volumes has been the backbone of petroleum project financing. As part of mandatory annual financial auditing, companies undergo third-party reserve verifications to confirm ownership of petroleum stored in the subsurface. These volumes are booked as assets and a company may borrow against them on the claim that those volumes will be produced. Management of reserves is one of the strongest signals lenders and shareholders have to indicate the strategic competency of a company. Petroleum companies are on a treadmill of identifying, borrowing against, and extracting petroleum reserves – so what if we introduced a new type of asset class to borrow against?
+If geostorage capacity were allocated as a verified security or asset, subsurface operators could suddenly find themselves with a vested interest in accelerating innovation in CDR technology. A new form of borrowing capacity combined with the potential for joint venture revenue, could provide funding for infrastructure as well as support for the transformation of oil and gas operations. Initiating a book and claim system for geostorage capacity within deep saline formations and depleted oil & gas reservoirs could provide:
+Financial incentive for the subsurface operator to transform operations (from extraction to sequestration)
+Increased due diligence and integrity for safe and durable geostorage
+Increased demand for and rapid scale-up of CDR innovation
+A regulatory framework to establish robust CDR policy and subsidization
+Much-needed emissions reductions available to hard-to-abate sectors
+CCUS refers to Carbon Capture Utilization & Storage projects. This article refers solely to the emissions extracted through the novel Carbon Dioxide Removal (CDR) technologies of Direct Air Capture (DAC) or Bioenergy Capture (BEC), which are subsequently transported and injected into depleted oil & gas wells or deep saline aquifers for permanent geological storage.
+For context, nature-based CDR solutions, CO
+2
+utilization projects or any scheme that perpetuates the use of fossil fuels (such as point-source industrial emissions capture) are not included.
+Stakeholders within the CDR ecosystem
+There are quite a few players who interact within the CDR ecosystem. The most obvious are the novel capture technology project developers, but there are many stakeholders acting in various capacities to ensure emissions removals are carried out. Beyond the operations involved in emissions capture, transportation, and storage, there are also regulators and financial partners who support the project development. Because carbon offsets are generated, it is important that emissions are accurately measured and accounted for. Each time “a tonne of carbon” changes hands (in quotations here because emissions take various forms throughout the process), there is not only potential for a financial transaction, but there is also an accounting adjustment and a transfer of ownership that may need to be made.
+Though somewhat of a chicken-and-egg conundrum, let’s start with project financing. The project developers interact with lenders or corporate buyers who will financially support the development of novel CDR technologies. These days, insurers not only support the development but also back projects against reversal risks. If the captured emissions are released, insurers will pay to make sure they are subsequently removed again. Joint venture partners may also operate adjacent aspects of the solution; like the transport or geostorage of emissions.
+The infrastructure associated with geostorage projects is traditionally owned and operated by petroleum companies. These companies often also hold surface and mineral access rights or have developed relationships with those who do. For over a century, petroleum companies have been studying reservoir characteristics (more on this later), and have developed leading practices for physically accessing the subsurface. Because the petroleum extraction process has been so well-established, it is common practice to have reservoir volumes verified or audited by independent experts.
+Both in the air and in the ground, emissions need to be quantified. Sound monitoring ensures safe operational practices and also provides reasonable assurance that financial transactions are appropriate and validated. That said, legal oversight is required to ensure project due diligence is fulfilled. To ensure transparency, carbon offset registries disclose projects and credit transactions and ensure that protocols are followed. There are many parties involved in safeguarding local communities and ecosystems as well as the integrity of CDR projects.
+Figure 1:
+Stakeholders across CDR project development ecosystem.
+Diving deeper into CDR stakeholders, it is important to understand how the various players interact. To do this, financial investment, reservoir operators and those responsible for safety and risk management must collaborate to ensure that emissions are effectively captured and permanently stored. Some of these relationships are currently overlooked and aspects of the project lifecycle are presently being operated in isolation. Opportunities for collaboration exist and will drive innovation and demand across the sector. Here is a rundown of different players across the novel CDR space:
+Existing Geostorage Frameworks
+Guidances have been prepared for aspects of the CDR lifecycle, but to date, no individual methodology holistically describes the process from carbon capture through transportation and geostorage.
+The International Emissions Trading Association (IETA) has compiled evolving geostorage methodologies from the UN Clean Development Mechanism, the American Carbon Registry, Verra/CCS+, Gold Standard, Puro.Earth, Isometric, Global Carbon Council and the Alberta and British Columbia governments. The recently released (April 2024) ‘
+Geostorage and Carbon Crediting: Comprehensive Handbook for Methodological Design & Safeguarding
+’ outlines leading practices for crediting geostorage activities. The review does a fantastic job defining geostorage as a measurable entity that can be quantified for trade within carbon markets.
+The guidance covers aspects of carbon crediting such as applicability, project boundaries, baselining, additionality, leakage, reversal risks & liabilities and impact assessments from the “upstream” or novel CDR-facing side of the supply chain. What it has not yet addressed is the commercial viability of the “downstream” or permanent geostorage-facing side. Thorough and accurate valuation of carbon credit pricing requires inclusive consideration of geostorage operations, especially in the context of advance market commitments or forward agreements.
+IETA’s handbook states that “the responsibility for governing the geological pore space into which CO
+2
+is injected and stored is typically vested into government (but sometimes the surface property owner).” This is an appropriate boundary for IETA given the complexity of needs across various jurisdictions. Unfortunately, these standards have not been unilaterally determined. For leading practice, we can look to the Alberta Energy Regulator’s
+operational geostorage standards
+, which have been borrowed from the petroleum industry’s directives on wellbore and subsurface integrity, injection and disposal and the province of Alberta’s
+Quantification Protocol for CO
+2
+Capture and Permanent Storage in Deep Saline Aquifers
+.
+The International Society of Petroleum Engineers (SPE) has released draft 6 (August 2024) of the
+CO
+2
+Storage Resources Management System
+. The resource framework will establish technically-based capacity and resources evaluation standards (including details of the processes of quantification, categorization, and classification of storable quantities) and is intended to alleviate the subjective nature of subsurface assessments and provide consistency for auditors of storage resources. It also includes guidance on determination of project commerciality (including technical reservoir assessment, development plan, ongoing operational economics, assessment of sustained demand, operational and legal due diligence), but not in the context of upstream CDR activity and carbon market activities.
+Figure 3:
+Chance of geostorage commerciality and level of uncertainty are important considerations for determining geostorage project viability and investment requirements. Actualization of permanent geostorage is dependent upon the stage of project maturity. Geostorage opportunities that are less developed will inherently bear higher costs. Commerciality of geostorage opportunities certainly affects carbon credit deliverability as well as operational risk and safety (image from the SPE CO
+2
+Storage Resources Management System).
+What’s missing?
+What the World Needs…
+The United Nations Framework Convention on Climate Change (UNFCCC) initially established 163 nationally determined contributions (NDCs) submitted under the Paris Agreement. Despite novel CDR technology’s potential to contribute to emissions reduction targets, only fourteen (14) NDCs specifically call out novel CDR use as part of their decarbonization strategy. Even as CDR tech is expected to scale up and become more affordable in the future, only five (5) nations have submitted 2050 net-zero strategies that include a description of novel CDR usage. For example, Canada has an NDC of 23 Mt CO
+2
+e captured and stored by 2050. Nations that do mention novel CDR use have also noted extensive usage barriers; specifically cost, the lack of up-front project financing, and the lack of government policies and incentives.
+What the Industry Needs…
+The International Energy Agency (IEA) has recognized that growth opportunities for
+novel CDR technologies, such as DAC
+, are deeply linked to the development of robust emissions accounting frameworks. The IEA also recommends that governments promote policies and incentives to support the monitoring, reporting, and verification of associated emissions volumes. Recently (July 2024), the Institute for Policy Integrity at the New York University School of Law published a
+large-sample expert elicitation on the future of CDR
+. Consensus showed that incentives such as
+45Q in the United States
+are not attractive enough and that more money is required to incentivize CCUS projects over a longer time horizon. Experts also advocated for subsidization of pilot projects that can build momentum and enable future projects, as well as provide learning opportunities for regulatory bodies.
+What CDR Projects Need…
+The context of the CCUS conversations is still seemingly lost between the priorities of the capture, the transport, and the storage operators. There is a resounding focus on how to measure volumes that have been captured. While that is important, there is a lack of focus on whether or not a reservoir can effectively store those volumes. I have also observed that many stakeholders cross the boundaries of the CDR project ecosystem. Novel CDR project developers presently do not have access to subsurface reservoirs, as many are leased and operated by petroleum companies. For safe and durable geostorage to become mainstream, experienced subsurface operators, such as those who work for established oil and gas companies, will need to control the process of injecting emissions into the subsurface. As yet, there is very little financial upside for petroleum companies to transition their operational strategy. The following are needed to activate geostorage viability within CDR projects:
+Financial Incentive
+— Novel CDR projects are still costly to operate. There is presently no financial incentive for subsurface operators to transform their traditionally extractive practices into emissions sequestration activities. Not only are emissions capture tech developers not yet prioritizing geostorage, but there are no financial drivers for mutually beneficial partnerships between subsurface operators and capture tech operators. Currently, capture facilities are targeting areas with broadly known geostorage capacity and infrastructure. Capture tech developers are presently looking for geostorage with the lowest short-term cost, not the highest durability, permanence or long term cost-efficiency or storage viability.
+Due Diligence
+— When operated according to leading practices, geostorage has the potential to permanently sequester captured emissions. While concern exists that the removed CO₂ could leak back into the atmosphere over time, experienced subsurface operators have the knowledge and ability to assess reservoir opportunities ensuring that the highest-integrity opportunities are selected. Safe and durable geostorage requires due diligence beyond what is presently being realized.
+CDR Demand
+— Rapid scale-up of CDR innovation is needed to achieve necessary global emissions reductions. Novel CDR technology is presently unproven at scale and the associated risks are largely unknown. Voluntary corporate pledges and net-zero initiatives are contributing to advancements in innovation and the deployment of technology. As project efficiency and effectiveness are increasing, there is greater integrity and trust in the entire novel CDR market, which will lead to greater adoption and demand.
+Regulatory Framework
+— To establish robust CDR policy and subsidization, we must also formalize methods for evaluation, quantification, verification, and certification of emissions volumes that are permanently stored. This will enable pricing mechanisms that not only recognize and value geostorage but also provide consistency between projects and allow for comparison of their prospective climate impacts. Project compatibility provides a competitive environment for the growth and evolution of novel CDR technologies.
+Global Emissions Reductions
+—  Carbon removals will provide much-needed reduction opportunities for hard-to-abate sectors. Though an over-reliance on CDR could lead to distraction from abatement activities, CDR is an instrumental tool for creating net-negative emissions today. The
+time value of carbon
+describes the concept that the benefits of carbon removals today are higher than the benefits we would expect from the removal of the same amount of emissions later. Meaning we need to do more to make progress now, rather than wait patiently to perfect climate solutions in the future.
+The importance of collaboration
+Novel CDR requires collaboration between emissions capture technology developers, infrastructure owners and subsurface operators. Petroleum companies have the appropriate knowledge, operational experience, and assets to facilitate safe and durable geostorage. To establish an effective due diligence process, sequestration potential, operational risk & safety, regulatory control, and financial modelling will need to be defined in detail.
+Figure 3:
+Successfully conducting permanent geostorage activities requires the quantification of subsurface reservoir volumes, consideration of operational risks and safety, regulatory control, and project financial evaluation.
+Sequestration Potential
+A subsurface reservoir is more than just a hole in the ground. Emissions are injected into microscopic pore spaces within rocks that are several kilometres below the Earth’s surface. Geoscientists and reservoir engineers have studied reservoir dynamics for decades and can predict with relative certainty not only what volumes of liquids can be stored, but also how those liquids will behave within the reservoir. Appropriate monitoring of reservoir characteristics (such as pressure, temperature, fluid mobility and viscosity, reservoir permeability, and geochemistry or miscibility) can be modelled and sequestration capacity can be calculated. Quantification of geostorage volumes is a practice that could be standardized and subjected to audit and verification by third-party technical experts.
+The likelihood of commercialization as well as the long-term durability of geostorage operations increases with improved reservoir evaluation and planning. Comprehensive reservoir due diligence will provide the insight needed to prioritize effective geostorage sites and enable the design of effective operational practices, controls, and monitoring systems for safe and durable geostorage operations. Effective monitoring and measurement of stored volumes will support effective GHG accounting.
+Operational Risk & Safety
+Reservoir due diligence can also prevent unintended consequences that will lead to reputational misconceptions and a negative perception of geostorage practices. Because many unintended consequences are reminiscent of petroleum extraction practices (such as over-pressurization resulting in accidental fracking or microseismic activity), it is imperative that operational due diligence and monitoring are implemented. These mistakes could decrease the emissions storage permanence (i.e. leak) and lead to emissions aquifer or ecosystem contamination. Even small-scale or isolated issues with emissions storage could greatly damage the perception of geostorage; leading to widespread incrimination and condemnation of the practice.
+Mitigating or completely avoiding unintended negative effects will require careful site selection, effective regulatory oversight, and appropriate monitoring to provide early warning that the site may not be functioning as anticipated. It is important to ensure the emissions captured through novel CDR technologies are compatible with the reservoir parameters (namely chemical composition) and that the associated infrastructure is adequate and appropriate (infrastructure integrity is an especially important consideration for abandoned wells or other stranded assets).
+Regulatory Control
+As previously mentioned, frameworks for geostorage are presently intended to outline the carbon market practices of novel CDR projects in isolation from geostorage operational practices, sequestration potential or verification of capacity. As emissions change hands, ownership and liability are important to define. A consistent and comprehensive description and definition governing operational practices, quantifications, and due diligence across the entire CDR project lifecycle could provide a framework for policy integration and subsidization. Insufficient regulatory control is presently limiting market stabilization.
+Commercialization
+Project economics
+– Geostorage costs are highly site-specific and depend upon the accessibility of the site, infrastructure in place, the depth of the reservoir, and reservoir pressure and maintenance requirements. The IPCC estimates operational costs (including monitoring) to lie in the range of 0.6–8.3 USD/tCO
+2
+e stored. More recent studies have defined continental-scale CO
+2
+storage supply curves, indicating that emissions could be transported and stored in geologic formations for less than 12–15 USD/tCO
+2
+e in North America and 25 USD/tCO
+2
+e in Western Europe. Incidentally, according to the IPCC those costs result in profitable EOR at only 15-20 USD/bbl. Modelling project economics against carbon price and commodity pricing will contribute to greater certainty around capital and operational expenditures, long-term project viability and will also contribute to calculating ultimate sequestration capacity.
+Joint Venture Partnerships
+–  Corporate investment into research and development (R&D) can help to speed up the deployment of emerging technologies while also creating jobs in engineering, construction, project management, and maintenance. These investments prove particularly strategic when empowering innovation in technology that could one day lead to internal abatement (corporate decarbonization), especially within the hard-to-abate, industrial sectors such as cement, steel, and chemical manufacturing. Both the transactional and strategic value of joint ventures are important to create efficiencies along the CDR lifecycle. This is another example where emissions ownership and project liability must be well defined.
+Comparative Practices
+– Quantifying, verifying, and subsequently booking and claiming petroleum reserves provides financing for project expenditures. Reservoir management is a strong signal used by lenders and shareholders as an indication of corporate strategic competency. Institution of a similar process describing the verification of “storable quantities” or geostorage capacity could alleviate shareholder pressures attached to petroleum production. Booked geostorage potential could be perceived as a positive indicator of strategic transition planning. In contrast, some companies may maintain resistance to transition to low-carbon practices either due to shareholder perception, perceived insufficient return on investment or inability to attain effective partnership agreements between stakeholders of the capture, transport and geostorage stages of CCS projects. Geostorage should be considered an effective climate risk mitigation strategy, especially as regulations evolve to support a low-carbon economy.
+Asset class allocation
+– In addition to creating borrowing potential for the subsurface operator, allocating geostorage capacity as an asset class could incentivize rapid scale-up or uptake and an acceleration of innovation in the novel CDR space that would unlock several other attractive financial incentives for geostorage operations:
+Increased asset value (infrastructure and optimization of stranded assets)
+Offset revenues (the operational cost paid by the capture tech developer)
+Evolving policies that decrease compliance costs or subsidize CDR project development
+Economies of scale and joint ventures (cost and risk-sharing)
+Increased project success and profitability resulting from due diligence
+Decreased levelized cost of geostorage
+Project securitization (added due diligence allows insurability and longer contract terms)
+A new, strong and clear performance indicator to promote shareholder confidence
+Strategic value and shareholder support for operational transformation (extraction to sequestration)
+Other sustainability-linked lending opportunities
+Increasingly attractive project economics could initiate operational change that happens over several budget cycles, with geostorage projects expanding in size and complexity over time. Ideally, allocating geostorage capacity as an asset class could accelerate the out-performance of sequestration over fossil fuel production, lead to long-term CDR project cost stabilization, and create much-needed, large-scale emissions reductions for hard-to-abate sectors.
+Next steps – Make it mainstream
+I am extremely interested in building out a pilot project and am looking for collaborators from across the CDR stakeholder ecosystem who are interested in project funding and implementation. Verification of storable quantities, operational risk assessment, operational assessment and detailed project economics are necessary on a project-by-project basis. Some important milestones to achieve:
+Define project-specific injection & geostorage parameters
+using the International Society of Petroleum Engineers (SPE)
+CO
+2
+Storage Resources Management System
+Calculate verifiable geostorage volumes
+forecast the geostorage capacity attached to commercial carbon market negotiations
+Attain lender and insurer approval
+ensure that capacity estimates are sufficiently descriptive in communicating performance expectations
+Establish stakeholder/partnership boundaries
+define legal and transactional requirements between project stakeholders
+Regulation and policy development
+modify or define legislation and protocols describing geostorage monitoring and reporting as well as the associated GHG quantifications
+Booking and claiming geostorage capacity could lead to the transformation of the petroleum industry from extractive, emissions-producing operations to emissions sequestration operations. It could drive demand and rapid scale-up of CDR innovation. It could also incentivize safe and durable emissions sequestration providing much-needed emissions reductions available for hard-to-abate sectors – a massive win for the climate as well as economic stability that I look forward to implementing – who’s with me?!
+If you are interested in collaborating, please email me at
+[email protected]
+or
+contact me on LinkedIn
+.
+Join the Climate Drift Accelerator and accelerate your climate journey.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now

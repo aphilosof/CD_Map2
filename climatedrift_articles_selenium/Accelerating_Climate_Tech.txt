@@ -1,0 +1,97 @@
+Title: Accelerating Climate Tech
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/accelerating-climate-tech
+==============================
+
+Join
+Climate Drift
+: explaining climate solutions and realizing your essential part in the journey to net zero.
+Not on board yet? Sign up here:
+Subscribe
+Already a Climate Drift(er)? Pass the knowledge on to a friend, relative, or that cool stranger you just met:
+Share Climate Drift
+Hey there 👋
+Skander here.
+At the heart of Climate Drift's mission is the acceleration of Climate Solutions.
+We strive to explain these solutions, bridge the gap between investors and startups, and help people shift into climate.
+We're certainly not alone in this - There are companies trying to accelerate Climate Solutions through various approaches: From accelerators to venture studios, from VC investors to foundations.
+I spoke to many of them last week and I'd like to shed some light on their work.
+Today I wanted to spotlight a specific category: The venture studio
+Out of the venture studios I want to take 2 to dive deeper:
+- Deep Science Ventures:
+A deep tech venture studio
+- Marble:
+A Climate Tech Venture Studio
+This is just the tip of the iceberg, and I'll be showcasing different models in the future.
+For the climate investors among our readers, stay tuned – a spotlight on key players in the climate investment realm is on the horizon.
+Let’s dive in 🌊
+For a startup to survive, let alone succeed, it must navigate many types of risk.
+In a pivotal essay, Marc Andreessen once said: "The only thing that matters is getting to product/market fit." The underlying implication is that most startups fail at reaching product market fit - and indeed it is the most common valley of death.
+In climate tech we have even more Valleys of Death: 4 to be precise.
+Surviving the Four Valleys of Death
+Skander Garroum
+and
+Marco Morawec
+·
+August 2, 2023
+Read full story
+What is a venture studio?
+A venture studio is a company dedicated to building new companies.
+It concentrates on streamlining the startup creation process, ensuring that founders have access to the essential support and resources right from the outset. So: the idea is to make starting these companies as easy as possible, having the highest chance of survival through the valleys of death.
+Venture studios and venture capital firms share a fundamental similarity in their business models, which is acquiring equity stakes in startups, hoping for an increase in their value. However, this is where the similarities begin and end.
+Unlike venture capital firms that scout for founders already pursuing an idea, venture studios take a different approach. They often originate promising concepts in-house, driven by comprehensive research, and then seek capable operators to bring these ideas to life. Sometimes they scout, but not founders who already started startups, but researchers who work on tech that might be good fit.
+This operational approach likens venture studios more to consulting firms, designating "employees" specific projects to manage. Such a shift is significant. While traditional venture capital adopts a reactive stance, awaiting deals to come their way, venture studios embrace a more proactive strategy: they create the solutions they are looking for.
+In climate solutions this might be what we need: The time is running out, the problems are clear, the viable solutions paths are also becoming clearer.
+Many of these markets aren't monopolistic, allowing room for multiple startups to prosper within a single solution path.
+Refer to the climate solutions map that highlights 200 distinct paths. Each sector has the potential for one or more venture studios to actively produce solutions.
+The Climate Solutions Map
+Skander Garroum
+·
+September 6, 2023
+Read full story
+In some ways we are still at the early stages of climate tech. However, several climate venture studios have already emerged. Here are two of the leading venture studios as our case studies this time:
+Deep Science Ventures
+Deep Science Ventures (DSV), established in 2016 and headquartered in London, is a deep-tech venture builder. Comprising both a venture studio and an investment fund, DSV has streamlined its approach to science company development and investment.
+DSV concentrates its efforts on four core sectors: Agriculture, Computation, Climate, and Pharma.
+Central to their approach is the commitment to foster ventures steered by expert teams. Taking inspiration from "How Solar Got Cheap", DSV's strategy in the Climate sector is to reverse engineer solutions by beginning with fundamental human needs like shelter, energy, and food. Their objective is to pinpoint technological combinations that promise high long-term efficiencies coupled with accelerated learning curves.
+How Solar got cheap
+Skander Garroum
+·
+August 8, 2023
+Read full story
+Venture creation at DSV is characterized by its emphasis on shared outcomes. Rather than zeroing in on a solitary idea, technology, or individual, DSV focuses on broader macro perspectives. Around these marco visions they recruit founders equipped with specific skillsets, thereby ensuring that the desired macro changes can be pursued from multiple angles.
+Founders who collaborate with them are provided with a salary up to 18 months to establish a company. Throughout this period, they receive consistent funding and the support of a dedicated sector-specialist team.
+These founders engage with opportunities DSV has pre-identified. Additionally, they have the flexibility to form multiple companies during their tenure with DSV, which significantly mitigates the traditional risks associated with founding a startup.
+What have they achieved so far?
+DSV has experienced significant growth since its inception, expanding its team to predominantly include deep experts, 95% of whom have PhDs or C-Suite founder backgrounds. Within the past five years, DSV has demonstrated a failure rate of less than 10%, with all failed startups failing in their first year. 77% of associated founders launched their companies successfully and 80% of their portfolio companies secured follow up investments.
+On an operational level, DSV’s companies have achieved an average of 18 months to TRL4 (Technology Readiness Level 4).
+Technology Readiness Level: From Idea to Proven System
+Skander Garroum
+and
+Marco Morawec
+·
+August 1, 2023
+Read full story
+A notable success story includes Mission Zero's accomplishment in carbon capture at minimal energy requirements, which subsequently won Elon Musk's X Prize.
+DSV's forward-looking strategy is robust. They have an extensive pipeline with over 20 partnered domains, which will provide foundational funding for 30 startups in the next three years.
+Their vision for the next five years includes establishing 100 new companies and opening their toolkit to the wider scientific community - also in collaboration with Climate Drift.
+Dive Deeper on DSV here.
+Marble
+Marble stands as Europe's only venture studio with a sole focus on climate solutions, headquartered in Paris, France. The company's primary ambition is the significant reduction of annual greenhouse gas emissions—targeting several gigatons—and laying the groundwork for a climate-resilient future. Recognizing the magnitude of this endeavor, Marble understands the need for multiple strategies only focussed on climate.
+Marble's approach to climate solutions encompasses a range of solutions. These include Bio-Production, Direct Air Capture along with its Use and Storage, Carbon Mineralisation, and Ocean Carbon Removal. Additionally, they delve into Desert Farming, the sourcing of Critical Minerals essential for the energy transition, Methane Oxidation in regions with low concentrations, novel Biotech methodologies for Carbon Dioxide Removal (CDR), and advanced Biomass Processing techniques for both CDR and its subsequent utilisation.
+The partners at Marble come from a strong tech background: they have been aiding hundreds of pre-company founders, contributing to the inception of over 30 startups spanning domains like AI, biotech, materials, and fusion. Their roles as advisors or angel investors have facilitated capital raises from known venture capitalists, culminating in a value creation surpassing $250 million.
+Their program is clearer structured like an accelerator/company builder model. This methodology stands in contrast to more traditional programs, which are typically geared towards intellectual property commercialization or accommodating vast cohorts. The strategy has been dubbed as "reverse tech transfer." and unfolds over three phases:
+Phase 1: Explore - Identifying the Optimal Idea in 3 Months
+In the initial phase, participants will work together to produce and evaluate a range of venture hypotheses. The methodology integrates elements like structured ideation, technical overview, thorough market research, interactions with experts, and a techno-economic assessment. The objective is to systematically narrow down these hypotheses in pursuit of a concept that not only has a notable potential for climate impact but also demonstrates substantial business viability. At the culmination of this stage, an evaluation will be conducted to decide on the viability of advancing to the 'Create' phase, with the intent of forming a startup.
+During this and the next phase, participants receive a €2,500 monthly stipend.
+Phase 2: Create - Turn The Idea Into a New Company in 6 months
+In the "Create" phase, the aim is to collaboratively transform the most viable idea into a pre-seed company primed for investment. The primary objectives during this phase include validating the technical approach and market entry strategy, showcasing early customer engagement, defining a roadmap with milestones, and most important: recruiting leading co-founders and advisors. Additionally, in certain instances, an initial prototype might already be in development. Upon the phase's conclusion, participants, alongside their co-founders, will present their progress and vision to the investment committee.
+Phase 3: Spinout
+Upon securing approval from the investment committee, participants and their co-founders will spearhead a new startup, with the backing of an initial €250k pre-seed investment. The founding team will retain 80% ownership of the newly established company.
+While this is the end of the program, the commitment from Marble continues, as they continue to offer support throughout the startup's journey towards securing a seed funding round.
+Dive Deeper on Marble here.
+Thank you for joining our dive into Venture Studios. Their model, distinct from traditional VC firms, is characterized by proactive involvement in the birth and growth of startups, and might be the perfect fit for Climate Solutions.
+See you next time,
+Skander
+PS: Like this article? A share always helps:
+Share

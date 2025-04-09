@@ -1,0 +1,100 @@
+Title: Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/why-carbon-engineerings-1-billion
+==============================
+
+Explore
+Climate Drift
+, your gateway to climate solutions and understanding your part in achieving net zero emissions.
+Haven't joined yet? Become a part of our pioneering community by subscribing here:
+Subscribe
+Welcome 👋
+Skander here.
+We interrupt our regularly scheduled program: Due to overwhelming reader interest, we're shifting gears this week to delve into Oxy's recent $1 Billion acquisition of Carbon Engineering.
+The opinions are polarized: is this literally the single worst thing that happened to climate tech (so far), or is this the best thing that happened (so far)? The jury is out, but let’s gather the facts and judge for ourselves.
+One thing is sure: this is huge.
+And huge things deserve at least 2 parts.
+So we are going to cover the basics in Part 1:
+An overview of CDR and its current status
+Enter player 1: An introduction to Oxy
+Enter player 2: An introduction to Carbon Engineering
+How they began collaborating
+In part 2 the jury will come back and we will judge:
+Why this acquisition is the Best Thing
+Why it is the Worst Thing
+Public sentiment and reactions
+Let’s dive in 🌊
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Part 1: Understanding CDR & the Players
+Removing Carbon
+For us to have any chance to align with our climate objectives, we must swiftly reduce emissions and simultaneously fast track carbon dioxide removal. At least, that’s what the IPCC says.
+Here is the different carbon removal methods as outlined by the IPCC
+While there are numerous methods for CO2 extraction, ranging from natural to technological, the scalability of natural solutions is limited. For instance, there's a cap on how many trees we can plant, especially when our forests burn like… parched wood.
+So this explains why technological carbon removal, called Direct Air Capture, is currently on
+the peak of expectation of the climate tech hype curve.
+By 2030, we need to scale up technological carbon removal to approximately 75 MtCO2 (Megatonnes of Carbon Dioxide - so 75 Million tonnes) annually, and by 2050, this should reach 4,500 MtCO2 per year.
+Currently, we are at 0.01 MtCO2/year globally.
+Of course, this is in addition to all the other solutions, such as renewables and transportation, that we need to successfully implement by 2050.
+24 nations are contemplating the integration of technological carbon removal strategies to achieve their overarching climate ambitions and 27 DAC plants have been commissioned to date worldwide.
+What is CDR?
+Direct Air Capture (DAC) technologies can extract CO2 from the atmosphere regardless of location, setting them apart from traditional carbon capture methods that typically occur at emission sources like steel plants. The captured CO2 then either needs to be securely stored in deep geological formations or repurposed for various applications.
+Why is it hard?
+Extracting CO2 directly from the atmosphere is notably costlier than other carbon capture methods. The reason being, atmospheric CO2 is far more dispersed compared to concentrated sources like emissions from power stations or cement plants. This dilution results in DAC requiring more energy and incurring higher costs. Companies like Carbon Engineering, along with their competitors, are ambitiously aiming to reduce the cost of capturing a ton of CO2 from the current range of $500-$1000 to approximately $100 (or even less) over the next 5-10 years.
+Where do we stand?
+IPCC targets in a nice graph in the State of Climate Action, one of
+our 10 essential books on Climate Solutions
+Speed is picking up: Public and private entities are investing, and we are building our first facilities. But we are nearly not fast enough.
+Breakdown of some of the milestones in CDR in the the last years, again from
+State of Climate Action
+For a deeper diver into CDR check out the (also gorgeously designed) CDR primer:
+Read it for free here
+What is the endgame?
+In the end DAC will probably not be a 'winner-takes-all' market; multiple major DAC players will gain a foothold.
+However, as described in
+How Solar got cheap
+, there's a clear feedback loop between scale and cost.
+The first company or technology that demonstrates they're within this loop is likely to attract a disproportionate amount of funding, drawing both investors and customers.
+Another thing one needs to understand for this acquisition: To Prime or not to prime
+In the aerospace and defense sectors, the term "prime contractor" (or "prime") denotes companies specializing in project-based tasks, for example designing and building fighter jets. Unlike sub-contractors, primes oversee entire projects, they are the main contractor, subcontracting smaller components. Their existence outlasts individual projects.
+Drawing parallels with DAC,
+Climeworks
+, another DAC player, based in europe, aspires to be a prime, while Carbon Engineering opts to be a sub-contractor, specializing in the DAC technology, partnering with firms like Oxy. This Prime or not to prime decision influences risk, reward, skill allocation, control, and scalability. For instance, primes like Climeworks retain decision-making control, while Carbon Engineering's licensing approach expedites scalability.
+For a comprehensive analysis and in-depth exploration of the "Prime or not" decision,
+check out Joe Rigodanzo's essay.
+Let’s now look at the players: Elders first, so we will start with 114 year old Oxy.
+Oxy
+Occidental Petroleum Corporation, commonly referred to as Oxy due to its ticker symbol and logo, is an American hydrocarbon exploration and petrochemical manufacturing company.
+Founded in June 1909, so 114 years old this year, it has its headquarters in Houston and operates primarily in the U.S. (around 80% of its production) and Middle East (20%, being the largest independent oil producer in Oman).
+Warren Buffett’s investment firm Berkshire Hathaway has amassed Oxy stock worth an estimated $13 billion, or a 24.9% stake.
+It holds multiple top positions: In 2021, it ranked 183rd on the Fortune 500 based on 2020 revenues and 670th on Forbes Global 2000. In 2017, it was listed 55th on the Carbon Majors Report, highlighting top greenhouse gas emitters from 1988-2015.
+Oxy is no stranger to large scale acquisitions: In 2019 Oxy acquired Anadarko Petroleum for $57 billion, marking the fourth-largest oil and gas acquisition globally.
+With over a century of expertise, Oxy excels in chemical engineering. Its ambition is to establish a carbon capture division targeting ~$2B in annual revenue by the early 2030s.
+Enter: 100 years younger and America’s leading DAC company, Carbon Engineering.
+Carbon Engineering
+Established in 2009 in Canada, the company secured $110 million in funding from a mix of government entities, sustainability-centric agencies, and private investors. Notable backers include Microsoft founder Bill Gates, VCs like Lowercarbon Capital & First Round Capital. It also saw significant investments from fossil fuel giants such as Oxy, Chevron Corporation, BHP and oil sands financier Murray Edwards.
+Carbon Engineering employs a
+water-based Direct Air Capture (DAC) system
+. This system utilizes potassium and calcium molecules to initiate a looping reaction that isolates CO2 from the air.
+While capturing CO2 is straightforward, extracting it from the capturing agent is energy-intensive, accounting for 80% or more of the system's total energy consumption. The primary energy source is heat, making geothermal and natural gas (which Oxy produces) more viable than solar or wind.
+The captured CO2 can be stored, used for enhanced oil recovery, or converted into low-carbon synthetic fuels.
+They've operated a pilot plant in Squamish, British Columbia since 2015,
+proving that they passed TRL 9
+, producing fuels from captured CO2 since December 2017.
+A 2018 study based on pilot plant data suggests that their CO2 capture costs range from $94 to $233 per ton. Both DAC and "air to fuel" technologies have been validated at the pilot level and are transitioning to commercial scales. A single Carbon Engineering DAC facility could capture up to 1 million tons of CO2 annually, offsetting emissions from approximately 250,000 cars.
+So how did Oxy come into play?
+Working together:
+In May 2019, Carbon Engineering announced it was partnering with Oxy Low Carbon Ventures (OLCV), a subsidiary of Oxy and investor in Carbon Engineering, to design and engineer a large-scale DAC plant capable of capturing 500,000 metric tons of carbon dioxide from the air each year, which would be used in OLCV's enhanced oil recovery operations and subsequently stored underground permanently.
+Located in the
+Permian Basin
+in Texas, construction for the plant began in 2022, with operations targeted for 2024. In September 2019, Carbon Engineering announced they were expanding the capacity of the design of the plant from 500,000 metric tons to an expected 1 million metric tons of CO2 captured per year.
+Fast forward to August 2023: It was announced Occidental Petroleum had acquired all the outstanding equity of Carbon Engineering for $1.1 billion.
+With a solid grasp on CDR and a closer look at our main actors one thing is clear:
+The partnership between these two entities, one a century-old fossil giant and the other a pioneering player in Direct Air Capture, signifies a potential paradigm shift in how we approach both carbon removal and climate solutions.
+Stay tuned for Part 2 launching tomorrow, where we'll explore why this acquisition is seen as both the best and worst thing, along with insights into public sentiment and reactions.
+Ensure you don't miss out; subscribe now to have Part 2 delivered straight to your inbox:
+Subscribe
+Before we delve deeper into our analysis and the prevailing sentiments, we're curious: What's your perspective on this?
+See you tomorrow,
+Skander
+P.S.: If you found this explainer insightful, please support our efforts by sharing it with colleagues, family, friends, and anyone caring about our planet.
+Share

@@ -1,0 +1,127 @@
+Title: A Look at Food & Agriculture
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-food-and-agriculture
+==============================
+
+Welcome to
+Climate Drift
+, your hub to understanding climate solutions. Uncover your role in the path to net zero.
+Haven't subscribed yet? Dive in with us here:
+Subscribe
+Hey fellow readers 👋
+Skander, here!
+Welcome to part 5 of our deep dive into companies attending
+The Drop conference
+in Sweden this week.
+In Part 1 we shine a light on Transportation
+🚄
+A Look at Transportation Companies
+Skander Garroum
+·
+August 29, 2023
+Read full story
+In Part 2 we explore the Built Environment.
+🏗️
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+In Part 3 it is time for the Circular Economy
+♻️
+A Look at the Circular Economy
+Skander Garroum
+·
+August 31, 2023
+Read full story
+In Part 4 we look at Industry 🏗️
+A Look at Industry
+Skander Garroum
+·
+September 1, 2023
+Read full story
+Today we are looking at Food & Agriculture, from insect farms to plant based meat.
+Let’s dive in 🌊
+First, as always, let’s look at the emissions of Food & Agriculture
+From the great State of Climate Action 2022
+Food and agriculture play vital roles in sustaining the global population, but they come with significant environmental implications. Collectively, these sectors account for about 24% of the world's greenhouse gas emissions. Livestock alone contributes to nearly 14.5% of global emissions, with beef and dairy cattle being the primary culprits. Meanwhile, rice cultivation, responsible for around 10% of agricultural methane emissions, and deforestation, often pursued to create new farmlands, further exacerbate the problem. Additionally, about 70% of global freshwater withdrawals are for agriculture. As climate change becomes more pressing, reimagining these sectors to ensure sustainability while meeting global food demand is crucial.
+Fortunately,  solutions are at hand: from alternative proteins like plant-based meats to efforts in curbing food waste. Let's explore the attendees of The Drop and delve into their solutions:
+inoqo
+Inoqo, founded in 2020, offers a Retail Solution focused on sustainability. Specializing in the F&B sector, the company provides scientific data regarding the environmental, social, and biodiversity impacts of grocery products. Leveraging scientific databases, inoqo assists retailers and brands in calculating and communicating their products' socio-environmental impacts. This is further relayed to consumers through an intuitive grading system on labels. The platform also recommends alternative products aligned with a user's values and priorities.
+http://www.inoqo.com
+http://www.linkedin.com/company/inoqo
+FaunaPhotonics
+Founded in 2014 and originating from Lund University Laser Center, FaunaPhotonics specializes in insect sensor technology. This advanced system remotely monitors insect species, offering a significant improvement in data quantification over manual methods. By continuously refining their technology in response to market demands, FaunaPhotonics ensures data-driven decisions for better insect management.
+http://www.faunaphotonics.com
+http://www.linkedin.com/company/faunaphotonics
+Entocycle
+Entocycle is the UK's premier insect farm and insect farming technology company, focusing on black soldier fly breeding at a commercial scale. Their mission is to create a highly efficient and sustainable protein production system, converting local food waste into protein-packed insects as a sustainable replacement for soy or fishmeal. Established in 2016, Entocycle is expanding its team to further develop its key product, the Entocycle Neo—a hardware module aiding in monitoring and data collection for insect farms. By automating the farming processes, the company aims to improve productivity and sustainability in the protein supply chain.
+http://www.entocycle.com
+http://www.linkedin.com/company/entocycle
+The Supplant Company
+The Supplant Company is a plant-tech firm pioneering novel categories of food ingredients derived from fiber-rich side streams of agriculture, such as stems, hulls, and cobs, which often remain unused in the food system. Their flagship product, Supplant sugars from fiber, provides a healthier alternative to traditional sugars. Made from fiber, this sugar substitute is lower in calories, possesses a reduced glycemic response compared to glucose, and boasts prebiotic benefits. Supplant aims to offer ingredients allowing popular treats to maintain their authentic taste and texture while being healthier.
+http://www.supplant.com
+http://www.linkedin.com/company/supplantcompany
+MicroHarvest
+Microharvest is a company based in Hamburg and Lisbon that specializes in the production of protein using microorganisms through advanced biomass fermentation. Dedicated to creating sustainable and nutritious protein alternatives, Microharvest aims to address and strengthen future food system challenges.
+http://www.microharvest.com
+http://www.linkedin.com/company/microharvest
+Nordic SeaFarm
+Nordic SeaFarm specializes in cultivating seaweed in the nutrient-rich waters of the Swedish west coast. The company is committed to promoting sustainable consumption by creating delicious plant-based products derived from the ocean. Collaborating with top Swedish chefs, Nordic SeaFarm ensures that its seaweed products are not only nutritious but also palatable, emphasizing the combination of sustainability and taste.
+http://www.nordicseafarm.com
+http://www.linkedin.com/company/nordic-seafarm
+Phytoform
+Phytoform Labs is dedicated to revolutionizing agriculture by tapping into the genetic potential of plants to make farming more sustainable and nutritious. Using their proprietary machine learning platform,  Phytoform targets precise DNA sequences in plants to enhance their resilience and reduce susceptibility to crop losses.  Upon identifying favorable traits, the company integrates them into plants using footprint-free genome editing techniques powered by microfluidics, resulting in faster and cost-effective solutions. Current projects focus on reducing environmental footprints for crops like potatoes and tomatoes, creating alternative plant proteins, and catering to emerging sectors like vertical farming.
+http://www.phytoformlabs.com
+http://www.linkedin.com/company/phytoform-labs
+Farm Urban
+Farm Urban, founded in 2013, aims to transform urban areas with sustainable food solutions, notably through vertical farming. Located in Liverpool, they engage communities in local food cultivation. Collaborating with various stakeholders like councils, schools, and businesses, they emphasize sustainable behaviors and education. Farm Urban offers three primary services: sustainable food production through "Greens for Good", educational programs under "Routes & Shoots", and research and consultancy via "FU Labs".
+http://www.farmurban.co.uk
+http://www.linkedin.com/company/farm-urban
+Tiamat
+Tiamat focuses on advancing plant molecular farming technology to produce cost-effective growth factors and proteins, aiming to make cell-based meats a prevalent alternative. Their approach offers an economical production system with notable scalability tailored to meet the demands of clean meat production.
+http://www.tiamat-sciences.com
+http://www.linkedin.com/company/tiamat-sciences
+Your Beet
+Your Beet offers a 3-week Plant-Based Challenge, positioning itself as a Personal Food Assistant for users. It streamlines meal planning and shopping, reducing the process to a  2 minutes. Besides offering economic advantages by slashing food bills by 10-15%, it emphasizes environmental responsibility, enabling users to cut down their carbon footprint by over 30%.
+http://www.yourbeet.app
+http://www.linkedin.com/company/your-beet
+GreenBytes
+GreenBytes is a digital restaurant management tool designed to enhance sustainability and efficiency in the food service sector. The platform utilizes artificial intelligence to predict sales and optimize food ordering, aiming to reduce food waste and associated CO2 emissions. By automating stock tracking and centralizing distributor orders, it streamlines inventory and ordering processes for restaurants. On a broader scale, GreenBytes confronts the environmental and financial implications of food waste, noting the daily CO2 emissions and the yearly costs restaurants incur due to waste.
+http://www.greenbytes.is
+http://www.linkedin.com/company/rvk-greenbytes
+Improvin'
+Improvin' is a sustainability platform tailored for the agri-food sector, assisting companies in measuring, reporting, and reducing greenhouse gas emissions while promoting biodiversity throughout their value chain. Their platform provides clear guidelines for stakeholders, from food brands to growers, simplifying the transition to sustainable agriculture.
+http://www.improvin.com
+http://www.linkedin.com/company/improvin
+FlyFarm
+FlyFarm is an agri-tech company revolutionizing the protein sector by cultivating Black Soldier Fly Larvae that transform organic waste from the food and beverage industry into sustainable insect-based products, including amino acid-rich protein powder, oil, and frass fertilizer. Responding to the rising demand for sustainable protein alternatives, FlyFarm products serve as replacements for soy and marine protein in pet food, poultry, egg production, and aquaculture. Based in Hong Kong for tech development, with its headquarters in Singapore and a production unit in Australia, FlyFarm incorporates IoT, robotics, and automation in their vertical farms.
+http://www.flyfarm.com
+http://www.linkedin.com/company/flyfarm
+Saveggy
+Saveggy is dedicated to mitigating global food waste by offering plant-based edible coatings that prolong the shelf life of fresh fruits and vegetables. Originating in Sweden, their solution can be applied through dipping or spraying post-harvest. Addressing the fact that roughly 45% of fruits and vegetables are wasted worldwide, Saveggy's innovation not only combats food waste but also contributes to reducing carbon emissions, pollution, and energy usage throughout the food value chain. The company plans to replace plastic wraps, commonly used for preserving items like cucumbers, with their sustainable coating, supporting a more circular economy.
+http://www.saveggy.com
+http://www.linkedin.com/company/saveggy
+Nextfood
+Nextfood offers automated vertical farming solutions to food professionals, enabling them to grow fresh, flavorful, and nutritious vegetables sustainably throughout the year. Their offerings range from compact in-store systems for supermarkets and restaurants to large-scale, high-efficiency farming units. Not only do these farms reduce water consumption by 98% and fertilizer usage by 75%, but they also reduce food waste, transportation needs, and CO2 emissions while eliminating the use of pesticides.
+http://www.nextfood.co
+http://www.linkedin.com/company/nextfoodco
+Hortiya
+Hortiya is a venture that merges machine learning with plant science to revolutionize food cultivation, ensuring sustainability, climate resilience, and accessibility for all. Collaborating with plant researchers and commercial greenhouse growers, Hortiya strives to make plant behavior and performance both predictable and manageable. Analogous to how ChatGPT interprets text, Hortiya aims to develop an AI technology tailored for plants, optimizing light, climate, and nutrition based on the plant's unique needs.
+http://www.hortiya.com
+http://www.linkedin.com/company/hortiya
+Cirkulär
+Cirkulär is a biotech firm dedicated to advancing the sustainable protein sector through the production of single-cell protein using state-of-the-art fermentation techniques. With a goal to provide green, cost-efficient, and superior protein alternatives, Cirkulär targets the aqua feed and pet food industries. The company's unique method utilizes filamentous fungi to transform industrial by-products into precious protein resources, meeting the rising demand for sustainable feed options. Their premier product, Cirkulein, not only boasts a great amino acid profile but also has potential health benefits for animals. Located in Southern Sweden, Cirkulär is piloting production and aims for expansion in the near future.
+http://www.cirkular.bio
+http://www.linkedin.com/company/cirkul%c3%a4r
+Re:meat
+Re:meat is a Swedish-based company pioneering the production of cultivated meat with an aim to radically enhance sustainability in the meat industry. . The process involves sourcing cells from high-quality livestock, which are then cultivated in bioreactors to produce meat without the need for continuous animal slaughter. Their cultivated meat promises no compromise on taste, and the product range will initially focus on minced meat, with potential expansion to whole-cut products.
+http://www.remeatfoods.com
+http://www.linkedin.com/company/re-meat
+The Food & Agriculture sector, despite contributing approximately 24% of global greenhouse gas emissions, is undergoing transformational changes. From insect farming at Entocycle to alternative sweeteners from The Supplant Company, each organization above is pioneering solutions to reduce our carbon footprint.
+For those attending The Drop, I'd love to connect. Reach out to me at
+[email protected]
+.
+Skander
+PS: If you want to share this list, you can simply click on the following button
+Share

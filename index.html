@@ -48,9 +48,68 @@ svg {
   z-index: 1000;
   visibility: hidden;
 }
+
+/* URL popup styles */
+.url-popup {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.95);
+  border: 1px solid #666;
+  border-radius: 8px;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  max-width: 250px;
+  z-index: 1001;
+  visibility: hidden;
+  pointer-events: auto;
+}
+
+.url-popup h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+.url-popup a {
+  display: block;
+  color: #1a73e8;
+  text-decoration: none;
+  padding: 4px 0;
+  margin-bottom: 2px;
+}
+
+.url-popup a:hover {
+  text-decoration: underline;
+}
+
+.url-popup .confidence {
+  color: #666;
+  font-size: 12px;
+}
+
+.url-popup .close-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #666;
+}
+
+.url-popup .close-btn:hover {
+  color: #000;
+}
   </style>
  </head>
 <body>
+    <!-- URL popup div -->
+    <div id="url-popup" class="url-popup">
+      <span class="close-btn" onclick="hideUrlPopup()">×</span>
+      <h4 id="popup-title"></h4>
+      <div id="popup-urls"></div>
+    </div>
+
     <canvas height="900" width="1200"></canvas>
     <svg style="height: 900px; width: 900px;"></svg>
     
@@ -62,6 +121,7 @@ svg {
   			<br>Use dropdown menu to color by different categories.</br>
   			<br>Hover over a circle for name and details.</br>
         <br>Click on circles to zoom in and explore subcategories.</br>
+        <br>Click on circles with URLs to see related articles.</br>
       </p>
   	</div>
 
@@ -87,6 +147,56 @@ var ctxScale = window.devicePixelRatio;
 var colorCircle = d3.scaleOrdinal()
     .domain([0,1,2,3,4,5,6,7])
     .range(['#bfbfbf','#849191','#4c4c4c','#dbb8e3', '#a3c9a8', '#84b6f4', '#fdcb6e', '#ff7675']);
+
+// URL popup functions
+function showUrlPopup(d, event) {
+  if (d.data.url_data && d.data.url_data.length > 0) {
+    const popup = document.getElementById('url-popup');
+    const title = document.getElementById('popup-title');
+    const urlsContainer = document.getElementById('popup-urls');
+    
+    // Set title
+    title.textContent = d.data.name;
+    
+    // Clear previous URLs
+    urlsContainer.innerHTML = '';
+    
+    // Add URLs with confidence scores
+    d.data.url_data.forEach(urlInfo => {
+      const urlLink = document.createElement('a');
+      urlLink.href = urlInfo.url;
+      urlLink.target = '_blank';
+      
+      // Extract domain for display
+      const domain = new URL(urlInfo.url).hostname;
+      urlLink.textContent = domain;
+      
+      // Add confidence score
+      const confidence = document.createElement('span');
+      confidence.className = 'confidence';
+      confidence.textContent = ` (${Math.round(urlInfo.confidence * 100)}% match)`;
+      
+      urlLink.appendChild(confidence);
+      urlsContainer.appendChild(urlLink);
+    });
+    
+    // Position the popup near the click
+    const x = event.pageX;
+    const y = event.pageY;
+    popup.style.left = (x + 10) + 'px';
+    popup.style.top = (y - 10) + 'px';
+    
+    // Show the popup
+    popup.style.visibility = 'visible';
+    
+    // Stop event propagation to prevent zoom
+    event.stopPropagation();
+  }
+}
+
+function hideUrlPopup() {
+  document.getElementById('url-popup').style.visibility = 'hidden';
+}
 				
 // Create tooltip
 var tooltip = d3.select("body")
@@ -148,743 +258,175 @@ const pack = data => d3.pack()
     .padding(3)
     (customHierarchy(data));
 
-// Inline climate solutions data to avoid file loading issues
-const climateSolutionsData = {
-  "name": "Climate Drift",
-  "children": [
-    {
-      "name": "Climate Solutions",
-      "children": [
-        {
-          "name": "Power",
-          "children": [
-            {
-              "name": "Renewables",
-              "children": [
-                {
-                  "name": "Software",
-                  "children": [
-                    {"name": "Asset Management"},
-                    {"name": "Predictive Analytics"},
-                    {"name": "Planning and Design"}
-                  ]
-                },
-                {
-                  "name": "Solar",
-                  "children": [
-                    {
-                      "name": "Production and Deployment",
-                      "children": [
-                        {"name": "Solar Supply Chain"},
-                        {"name": "Lack of Solar Installers"},
-                        {"name": "Residential Solar"},
-                        {"name": "Commercial Solar"},
-                        {"name": "Utility Scale Solar"},
-                        {"name": "Solar Financing"}
-                      ]
-                    },
-                    {
-                      "name": "Software for Solar",
-                      "children": [
-                        {"name": "SCADA"},
-                        {"name": "Yield Optimization"},
-                        {"name": "Asset Performance Management"}
-                      ]
-                    },
-                    {
-                      "name": "Technological Improvements",
-                      "children": [
-                        {
-                          "name": "Advanced Panels",
-                          "children": [
-                            {"name": "Perovskite"},
-                            {"name": "Other new combinations"}
-                          ]
-                        },
-                        {"name": "Advanced Trackers"},
-                        {"name": "New Structures Concentrated Solar"},
-                        {"name": "Floating Solar"},
-                        {"name": "Building Integrated Photovoltaics (BIPV)"}
-                      ]
-                    },
-                    {
-                      "name": "Maintenance",
-                      "children": [
-                        {"name": "Inspections"},
-                        {"name": "Vegetation"},
-                        {"name": "Panel Cleaning"},
-                        {"name": "Recycling"}
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Wind",
-                  "children": [
-                    {
-                      "name": "Production and Deployment",
-                      "children": [
-                        {"name": "Wind Supply Chain"},
-                        {"name": "Lack of Wind Installers"},
-                        {"name": "Regulation"}
-                      ]
-                    },
-                    {
-                      "name": "Onshore Wind"
-                    },
-                    {
-                      "name": "Offshore Wind",
-                      "children": [
-                        {"name": "Fixed Support"},
-                        {"name": "Floating"}
-                      ]
-                    },
-                    {
-                      "name": "Improvements",
-                      "children": [
-                        {"name": "Turbine Attachements"},
-                        {"name": "Taller Wind Towers"},
-                        {
-                          "name": "New Turbine Design",
-                          "children": [
-                            {"name": "Vertical-axis wind turbine (VAWT)"}
-                          ]
-                        },
-                        {"name": "Blade Recycling"}
-                      ]
-                    },
-                    {
-                      "name": "Sensors",
-                      "children": [
-                        {"name": "Hub"},
-                        {"name": "Blade"},
-                        {"name": "Windspeed"}
-                      ]
-                    },
-                    {
-                      "name": "Software",
-                      "children": [
-                        {"name": "Yield Optimization"}
-                      ]
-                    },
-                    {
-                      "name": "Maintenance",
-                      "children": [
-                        {"name": "Inspections"},
-                        {"name": "Blade Maintenance"}
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Hydropower",
-                  "children": [
-                    {"name": "Modernising old plants"},
-                    {
-                      "name": "Generation",
-                      "children": [
-                        {"name": "Conventional"},
-                        {"name": "Pumped Storage"},
-                        {"name": "Run-of-river"},
-                        {"name": "Tide"},
-                        {"name": "In-pipe"}
-                      ]
-                    },
-                    {
-                      "name": "Drought Management & Planning"
-                    },
-                    {
-                      "name": "Environmental Impact",
-                      "children": [
-                        {"name": "Assessment"},
-                        {"name": "Mitigation"}
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Biomass & Waste-To-Energy (WTE)",
-                  "children": [
-                    {"name": "Carbon Capture & Storage"},
-                    {"name": "Waste Management"}
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Nuclear",
-              "children": [
-                {"name": "Fission"},
-                {"name": "Fusion"}
-              ]
-            },
-            {
-              "name": "Fossil Fuels",
-              "children": [
-                {
-                  "name": "Coal",
-                  "children": [
-                    {"name": "Carbon Capture & Storage"},
-                    {"name": "Repurposing of Mines"}
-                  ]
-                },
-                {
-                  "name": "Gas",
-                  "children": [
-                    {"name": "Improvements"},
-                    {"name": "Carbon Capture & Storage"},
-                    {"name": "Flaring emissions"}
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Energy Storage",
-              "children": [
-                {
-                  "name": "Daily peak shaving & ancillary services (4-6h of storage)",
-                  "children": [
-                    {"name": "Lithium-ion Batteries"}
-                  ]
-                },
-                {
-                  "name": "Daily net load balancing (8-16h of storage)",
-                  "children": [
-                    {"name": "Flow Batteries"},
-                    {"name": "Gravity-based Batteries"},
-                    {"name": "Zinc-based Batteries"},
-                    {"name": "High-temperature Heat"},
-                    {"name": "Compressed Fluids"},
-                    {"name": "Compressed Air"}
-                  ]
-                },
-                {
-                  "name": "Firm multi-day & seasonal capacity (100+h of storage)",
-                  "children": [
-                    {"name": "Iron Air Batteries"},
-                    {"name": "Hydrogen"}
-                  ]
-                },
-                {
-                  "name": "Software",
-                  "children": [
-                    {"name": "Analytics"},
-                    {"name": "Optimization"},
-                    {"name": "Systems"}
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Transmission and distribution",
-              "children": [
-                {"name": "Building new transmission"},
-                {
-                  "name": "Technologies",
-                  "children": [
-                    {"name": "Transformers"},
-                    {"name": "Superconducting cables"},
-                    {
-                      "name": "Power flow controllers",
-                      "children": [
-                        {"name": "Advanced Power Flow Control"},
-                        {"name": "Dynamic Line Ratings"},
-                        {"name": "Topology Optimization"}
-                      ]
-                    },
-                    {
-                      "name": "Maintenance",
-                      "children": [
-                        {"name": "Inspection"}
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "The Grid & Demand",
-              "children": [
-                {"name": "Smart Grids"},
-                {"name": "Smart meter"},
-                {"name": "Demand response & control"},
-                {"name": "Microgrid"},
-                {"name": "Rising Complexity of the Grid & Renewables"},
-                {"name": "Virtual Power Plants & Distributed Energy Resource (DER)"},
-                {"name": "Auto feeder switches"},
-                {"name": "Phasor measurement unit (PMUs)"},
-                {
-                  "name": "Maintenance",
-                  "children": [
-                    {"name": "Fault and outage detection"},
-                    {"name": "Technical services"}
-                  ]
-                },
-                {
-                  "name": "Software",
-                  "children": [
-                    {"name": "Workforce Management"},
-                    {"name": "Asset Management"},
-                    {"name": "Analytics"},
-                    {"name": "Cybersecurity"}
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Batteries",
-              "children": [
-                {
-                  "name": "Manufacturing",
-                  "children": [
-                    {"name": "Supply Chain"},
-                    {"name": "Gigafactories"}
-                  ]
-                },
-                {"name": "Portable Use"},
-                {"name": "Industrial Use"}
-              ]
+// Load the enhanced JSON data
+d3.json("enhanced_hierarchy.json").then(function(data) {
+  const root = pack(data);
+  
+  var focus = root;
+  var nodes = root.descendants();
+  var view;
+
+  // Create detached container for canvas rendering
+  var detachedContainer = document.createElement("custom");
+  var dataContainer = d3.select(detachedContainer);
+
+  // Set up color selector
+  var colorSelect = d3.select("#select-color")
+      .on("change", function() {
+        let colorOption = colorSelect.property('value');
+        d3.selectAll('circle')
+          .transition()
+          .duration(1000)
+          .style('fill', function(d) {
+            if (!d.children) {
+              if (colorOption == "none") {
+                return colorCircle(d.depth);
+              }
+              else if (colorOption == "power") {
+                return d.data.name.includes("Power") || d.ancestors().some(a => a.data.name.includes("Power")) ? "#F11421" : colorCircle(d.depth);
+              }
+              else if (colorOption == "transport") {
+                return d.data.name.includes("Transport") || d.ancestors().some(a => a.data.name.includes("Transport")) ? "#4287f5" : colorCircle(d.depth);
+              }
+              else if (colorOption == "buildings") {
+                return d.data.name.includes("Buildings") || d.ancestors().some(a => a.data.name.includes("Buildings")) ? "#41ab5d" : colorCircle(d.depth);
+              }
+              else if (colorOption == "carbon") {
+                return d.data.name.includes("Carbon") || d.ancestors().some(a => a.data.name.includes("Carbon")) ? "#8856a7" : colorCircle(d.depth);
+              }
             }
-          ]
-        },
-        {
-          "name": "Transportation",
-          "children": [
-            {
-              "name": "2 Wheelers & Micro Mobility",
-              "children": [
-                {"name": "eScooters"},
-                {"name": "eBikes"},
-                {"name": "eCargo Bikes"}
-              ]
-            },
-            {"name": "3 Wheelers"},
-            {
-              "name": "Cars",
-              "children": [
-                {
-                  "name": "EVs",
-                  "children": [
-                    {"name": "Production"},
-                    {
-                      "name": "Charging",
-                      "children": [
-                        {"name": "Public Charging Network"},
-                        {"name": "Home charging"}
-                      ]
-                    },
-                    {"name": "Autonomy"},
-                    {"name": "Battery Improvements"}
-                  ]
-                },
-                {"name": "Hydrogen"},
-                {"name": "Natural Gas"}
-              ]
-            },
-            {
-              "name": "Fleet electrification",
-              "children": [
-                {"name": "Fleet electrification-as-a-service"},
-                {"name": "Charging for corporate fleets"},
-                {"name": "Driver-focused services"},
-                {"name": "Logistics & optimisation"},
-                {"name": "Fleet management & telematics"},
-                {"name": "Last-mile delivery electrification"},
-                {"name": "Mobility-as-a-service for corporates"}
-              ]
-            },
-            {
-              "name": "Buses",
-              "children": [
-                {
-                  "name": "Electric Buses",
-                  "children": [
-                    {"name": "Production"},
-                    {"name": "Charging"},
-                    {"name": "Autonomy"},
-                    {"name": "Battery Improvements"},
-                    {"name": "Electrify school buses"}
-                  ]
-                },
-                {"name": "Hydrogen"},
-                {"name": "Natural Gas"}
-              ]
-            },
-            {
-              "name": "Trucks",
-              "children": [
-                {
-                  "name": "Electric Trucks",
-                  "children": [
-                    {
-                      "name": "Delivery Trucks",
-                      "children": [
-                        {"name": "Light & Medium"},
-                        {"name": "Heavy"}
-                      ]
-                    },
-                    {"name": "eRV"}
-                  ]
-                },
-                {"name": "Hydrogen Trucks"},
-                {"name": "Hybrid Trucks"},
-                {"name": "Carbon Capture"},
-                {
-                  "name": "Power train & Drive train retrofit",
-                  "children": [
-                    {"name": "Electric"},
-                    {"name": "Hydrogen"}
-                  ]
-                },
-                {"name": "Truck stops"}
-              ]
-            },
-            {
-              "name": "Rail",
-              "children": [
-                {"name": "Electric Rail"},
-                {"name": "Hydrogen Rail"},
-                {"name": "Autonomy"}
-              ]
-            },
-            {
-              "name": "Maritime",
-              "children": [
-                {"name": "Electric Ships"},
-                {
-                  "name": "Improvements & Energy Efficiency",
-                  "children": [
-                    {"name": "Sails"},
-                    {"name": "Operational Measures"}
-                  ]
-                },
-                {"name": "Autonomy"},
-                {"name": "Carbon Capture & Storage"},
-                {
-                  "name": "Alternative Fuels",
-                  "children": [
-                    {"name": "LNG"},
-                    {"name": "Hydrogen"},
-                    {"name": "Ammonia"}
-                  ]
-                },
-                {
-                  "name": "Ports",
-                  "children": [
-                    {"name": "Portside fueling"},
-                    {"name": "Loading & Port Operations"},
-                    {"name": "Carbon Management Software"},
-                    {"name": "Autonomous Unmanned Vehicles"}
-                  ]
-                },
-                {"name": "Recreational boats"}
-              ]
-            },
-            {
-              "name": "Planes",
-              "children": [
-                {"name": "eFuels"},
-                {"name": "Hydrogen"},
-                {"name": "Electric Planes"},
-                {
-                  "name": "Airports",
-                  "children": [
-                    {"name": "Fueling"},
-                    {"name": "Gate electrification"},
-                    {"name": "Rental Cars"}
-                  ]
-                },
-                {"name": "Efficiency improvements"}
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Buildings",
-          "children": [
-            {
-              "name": "Construction",
-              "children": [
-                {"name": "Pre-Fabrication"},
-                {"name": "Building Materials"},
-                {"name": "Building Assembly Automation"},
-                {"name": "Building Code"},
-                {"name": "Additional Dwelling Unit"},
-                {"name": "Material Planning & Management"}
-              ]
-            },
-            {
-              "name": "Building Envelope",
-              "children": [
-                {"name": "Windows"},
-                {"name": "Insulation"},
-                {"name": "Air Sealing"},
-                {"name": "Roof"}
-              ]
-            },
-            {
-              "name": "Heating",
-              "children": [
-                {
-                  "name": "Heat pumps",
-                  "children": [
-                    {"name": "Ground"},
-                    {"name": "Air"},
-                    {"name": "Gas"},
-                    {"name": "Industrial"}
-                  ]
-                },
-                {"name": "Hydrogen"}
-              ]
-            },
-            {
-              "name": "Cooling",
-              "children": [
-                {"name": "Lower GHG refrigrants"},
-                {"name": "Smart refrigeration"}
-              ]
-            },
-            {
-              "name": "Home Automation",
-              "children": [
-                {"name": "Smart thermostats"},
-                {"name": "Data"},
-                {"name": "Lighting"}
-              ]
-            },
-            {
-              "name": "Induction Stoves",
-              "children": [
-                {"name": "Appliances & Equipment"}
-              ]
-            },
-            {
-              "name": "Software",
-              "children": [
-                {"name": "Planning"},
-                {"name": "Optimisation"},
-                {"name": "Financing"}
-              ]
-            },
-            {
-              "name": "Workforce",
-              "children": [
-                {"name": "Recruiting"},
-                {"name": "Training"},
-                {"name": "Engagement"},
-                {"name": "Software"}
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Carbon Removal",
-          "children": [
-            {
-              "name": "Solutions",
-              "children": [
-                {
-                  "name": "Engineered",
-                  "children": [
-                    {"name": "Biochar and Biomass Carbon Removal and Storage (BRICS)"},
-                    {"name": "Carbon mineralization"},
-                    {"name": "Enhanced weathering"},
-                    {"name": "Direct Air Capture (DAC)"},
-                    {"name": "Bioenergy with Carbon Capture and Storage (BECCS)"},
-                    {"name": "Soil carbon sequestration"}
-                  ]
-                },
-                {
-                  "name": "Nature based",
-                  "children": [
-                    {
-                      "name": "Forests",
-                      "children": [
-                        {"name": "Forestation"},
-                        {"name": "Tree Engineering"}
-                      ]
-                    },
-                    {
-                      "name": "Oceans",
-                      "children": [
-                        {"name": "Ocean alkalinity enhancement"},
-                        {"name": "Mangrove Restoration"}
-                      ]
-                    },
-                    {"name": "Wetlands and Peatlands"}
-                  ]
-                },
-                {
-                  "name": "Carbon offset verification, monitoring, and creation",
-                  "children": [
-                    {"name": "Project management platforms"},
-                    {"name": "Offset project crowdfunding"},
-                    {"name": "Offset APIs"},
-                    {"name": "Offsets databases and registries"},
-                    {"name": "Offsets marketplaces, exchanges and APIs"},
-                    {"name": "Verification and Certification"}
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-};
-
-// Process the data directly instead of loading from file
-const root = pack(climateSolutionsData);
-
-var focus = root,
-    nodes = root.descendants(),
-    view;
-
-// Create detached container for canvas rendering
-var detachedContainer = document.createElement("custom");
-var dataContainer = d3.select(detachedContainer);
-
-// Set up color selector
-var colorSelect = d3.select("#select-color")
-    .on("change", function() {
-      let colorOption = colorSelect.property('value');
-      d3.selectAll('circle')
-        .transition()
-        .duration(1000)
-        .style('fill', function(d) {
-          if (!d.children) {
-            if (colorOption == "none") {
-              return colorCircle(d.depth);
-            }
-            else if (colorOption == "power") {
-              return d.data.name.includes("Power") || d.ancestors().some(a => a.data.name.includes("Power")) ? "#F11421" : colorCircle(d.depth);
-            }
-            else if (colorOption == "transport") {
-              return d.data.name.includes("Transport") || d.ancestors().some(a => a.data.name.includes("Transport")) ? "#4287f5" : colorCircle(d.depth);
-            }
-            else if (colorOption == "buildings") {
-              return d.data.name.includes("Buildings") || d.ancestors().some(a => a.data.name.includes("Buildings")) ? "#41ab5d" : colorCircle(d.depth);
-            }
-            else if (colorOption == "carbon") {
-              return d.data.name.includes("Carbon") || d.ancestors().some(a => a.data.name.includes("Carbon")) ? "#8856a7" : colorCircle(d.depth);
-            }
-          }
-          return colorCircle(d.depth);
-        });
-    });
-
-// Set up data binding for canvas
-var dataBinding = dataContainer.selectAll(".node")
-  .data(nodes)
-  .enter().append("circle")
-  .attr("class", function(d) { 
-    return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; 
-  })
-  .attr("cx", function(d) { return d.x; })
-  .attr("cy", function(d) { return d.y; })
-  .attr("r", function(d) { return d.r; });
-      
-// Draw circles on canvas
-dataBinding.each(function(d) { 
-  var node = d3.select(this);
-  context.fillStyle = colorCircle(d.depth);
-  context.beginPath();
-  context.arc(node.attr("cx"), node.attr("cy"), node.attr("r"), 0, 2 * Math.PI, true);
-  context.fill();
-  context.closePath();
-});
-
-// Create SVG circles
-var circle = g.selectAll("circle")
-  .data(nodes)
-  .enter().append("circle")
-  .attr("class", function(d) { 
-    return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; 
-  })
-  .style("stroke", "#333")
-  .attr("stroke-width", 0.5)
-  .style("fill", function(d) { return colorCircle(d.depth); })
-  .on("mouseover", function(d) {
-    // Show tooltip with node name and count info
-    let tooltipContent = d.data.name;
-    if (d.children) {
-      tooltipContent += "<br>Subcategories: " + d.children.length;
-      tooltipContent += "<br>Total descendants: " + d.value;
-    }
-    tooltip.html(tooltipContent);
-    tooltip.style("visibility", "visible");
-  })
-  .on("mousemove", function() {
-    return tooltip
-      .style("top", (d3.event.pageY - 10) + "px")
-      .style("left", (d3.event.pageX + 10) + "px");
-  })
-  .on("mouseout", function() {
-    return tooltip.style("visibility", "hidden");
-  })
-  .on("click", function(d) { 
-    if (focus !== d) zoom(d), d3.event.stopPropagation(); 
-  });
-
-// Add text labels for larger circles
-var text = g.selectAll("text")
-  .data(nodes.filter(function(d) { return d.r > 20; }))
-  .enter().append("text")
-  .attr("class", "label")
-  .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-  .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
-  .text(function(d) { 
-    // Truncate text for display
-    return d.data.name.length > 15 ? d.data.name.substring(0, 15) + "..." : d.data.name; 
-  });
-
-// Enable zooming
-svg.on("click", function() { zoom(root); });
-
-zoomTo([root.x, root.y, root.r * 2 + margin]);
-
-function zoom(d) {
-  var focus0 = focus; 
-  focus = d;
-
-  var transition = d3.transition()
-      .duration(d3.event.altKey ? 750 : 500)
-      .tween("zoom", function(d) {
-        var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
-        return function(t) { zoomTo(i(t)); };
+            return colorCircle(d.depth);
+          });
       });
 
-  // Update text visibility
-  transition.selectAll("text")
-    .filter(function(d) { 
-      return d.parent === focus || this.style.display === "inline"; 
+  // Set up data binding for canvas
+  var dataBinding = dataContainer.selectAll(".node")
+    .data(nodes)
+    .enter().append("circle")
+    .attr("class", function(d) { 
+      return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; 
     })
-    .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-    .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
-    .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
-}
+    .attr("cx", function(d) { return d.x; })
+    .attr("cy", function(d) { return d.y; })
+    .attr("r", function(d) { return d.r; });
+        
+  // Draw circles on canvas
+  dataBinding.each(function(d) { 
+    var node = d3.select(this);
+    context.fillStyle = colorCircle(d.depth);
+    context.beginPath();
+    context.arc(node.attr("cx"), node.attr("cy"), node.attr("r"), 0, 2 * Math.PI, true);
+    context.fill();
+    context.closePath();
+  });
 
-function zoomTo(v) {
-  var k = diameter / v[2]; 
-  view = v;
-  
-  // Update node positions
-  g.selectAll("circle")
-    .attr("transform", function(d) { 
-      return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; 
+  // Create SVG circles
+  var circle = g.selectAll("circle")
+    .data(nodes)
+    .enter().append("circle")
+    .attr("class", function(d) { 
+      return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; 
     })
-    .attr("r", function(d) { return d.r * k; });
-  
-  // Update text positions
-  g.selectAll("text")
-    .attr("transform", function(d) { 
-      return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; 
+    .style("stroke", "#333")
+    .attr("stroke-width", 0.5)
+    .style("fill", function(d) { return colorCircle(d.depth); })
+    .on("mouseover", function(d) {
+      // Show tooltip with node name and count info
+      let tooltipContent = d.data.name;
+      if (d.children) {
+        tooltipContent += "<br>Subcategories: " + d.children.length;
+        tooltipContent += "<br>Total descendants: " + d.value;
+      }
+      // Add URL available indicator
+      if (d.data.url_data && d.data.url_data.length > 0) {
+        tooltipContent += "<br><strong>Click for related articles</strong>";
+      }
+      tooltip.html(tooltipContent);
+      tooltip.style("visibility", "visible");
     })
-    .style("font-size", function(d) {
-      return Math.min(2 * d.r * k, 24) + "px";
+    .on("mousemove", function() {
+      return tooltip
+        .style("top", (d3.event.pageY - 10) + "px")
+        .style("left", (d3.event.pageX + 10) + "px");
+    })
+    .on("mouseout", function() {
+      return tooltip.style("visibility", "hidden");
+    })
+    .on("click", function(d) {
+      if (d.data.url_data && d.data.url_data.length > 0) {
+        showUrlPopup(d, d3.event);
+      } else if (focus !== d) {
+        zoom(d);
+      }
+      d3.event.stopPropagation(); 
     });
-}
+
+  // Add text labels for larger circles
+  var text = g.selectAll("text")
+    .data(nodes.filter(function(d) { return d.r > 20; }))
+    .enter().append("text")
+    .attr("class", "label")
+    .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+    .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
+    .text(function(d) { 
+      // Truncate text for display
+      return d.data.name.length > 15 ? d.data.name.substring(0, 15) + "..." : d.data.name; 
+    });
+
+  // Enable zooming
+  svg.on("click", function() { 
+    hideUrlPopup();
+    zoom(root); 
+  });
+
+  zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+  function zoom(d) {
+    var focus0 = focus; 
+    focus = d;
+
+    var transition = d3.transition()
+        .duration(d3.event.altKey ? 750 : 500)
+        .tween("zoom", function(d) {
+          var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+          return function(t) { zoomTo(i(t)); };
+        });
+
+    // Update text visibility
+    transition.selectAll("text")
+      .filter(function(d) { 
+        return d.parent === focus || this.style.display === "inline"; 
+      })
+      .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
+      .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
+      .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
+  }
+
+  function zoomTo(v) {
+    var k = diameter / v[2]; 
+    view = v;
+    
+    // Update node positions
+    g.selectAll("circle")
+      .attr("transform", function(d) { 
+        return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; 
+      })
+      .attr("r", function(d) { return d.r * k; });
+    
+    // Update text positions
+    g.selectAll("text")
+      .attr("transform", function(d) { 
+        return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; 
+      })
+      .style("font-size", function(d) {
+        return Math.min(2 * d.r * k, 24) + "px";
+      });
+  }
+}).catch(function(error) {
+  console.error("Error loading data:", error);
+  // Fallback to use inline data if loading fails
+  alert("Error loading enhanced hierarchy data. Check console for details.");
+});
 </script>
 </body>
 </html>

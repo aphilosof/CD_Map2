@@ -1,0 +1,162 @@
+Title: A Look at Carbon Removal
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-carbon-removal
+==============================
+
+Welcome to
+Climate Drift
+, your destination for unraveling climate solutions and discovering your unique part in the sprint to net zero.
+If you're not yet a subscriber, seize the opportunity to be among our first 1,000 readers by signing up here:
+Subscribe
+Hey there 👋
+Skander, here!
+Welcome to part 6 of our deep dive into companies attending
+The Drop conference
+this week.
+Today: Carbon Removal.
+Fortunately, we've previously explored this topic, allowing me to reference… Climate Drift:
+The Guide to the Carbon Removal Hype
+Skander Garroum
+·
+August 21, 2023
+Read full story
+We also have a 3 Part guide to Carbon Offsets:
+Part 1: The Origins
+Carbon Offsets Explained: Part 1
+Skander Garroum
+·
+August 24, 2023
+Read full story
+Part 2: The Problems
+Carbon Offset Explained - Part 2
+Skander Garroum
+·
+August 25, 2023
+Read full story
+Part 3: The Future
+Carbon Offsets Explained: Part 3
+Skander Garroum
+·
+August 28, 2023
+Read full story
+We also have a deep dive on the largest climate tech & carbon removal deal so far:
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Skander Garroum
+·
+August 17, 2023
+Read full story
+But today the focus is on some of the Carbon Removal companies attending The Drop.
+Let’s dive in 🌊
+Agreena
+Founded in 2018, Agreena began as an online commodity trading platform and has since evolved into a soil carbon certification program in the pan-European arena. Using established practices, Agreena aids farmers in transitioning to regenerative agriculture, offering third-party verified carbon certificates. These can be retained or sold on the Voluntary Carbon Market (VCM) for offsetting. Adhering to the ISO 14064-2 standard, the AgreenaCarbon program operates on an annual harvest cycle, enabling regular data capture and yearly payouts for farmers.
+http://www.agreena.com
+http://www.linkedin.com/company/agreena
+Patch
+Patch is a platform that facilitates businesses' integration with the voluntary carbon market. With the carbon credit market poised to touch $50 billion in the upcoming decade, Patch's technology addresses the current market's fragmentation, offering a more streamlined approach.
+http://www.patch.io
+http://www.linkedin.com/company/usepatch
+Opna
+Opna, a London-based startup, is on a mission to help companies achieve 'net zero' greenhouse gas emissions by aiding in the discovery and funding of carbon projects. Founded in 2022 and recently rebranded from Salt, Opna serves as a vital conduit, allowing corporations to connect with fully-vetted project developers. By streamlining the financing process and offering monitoring capabilities via key performance indicators and risk reporting, the platform aims to simplify the once-manual and inconsistent process of carbon project discovery and financing.
+https://opna.earth/
+https://www.linkedin.com/company/opna-earth/
+Land Life
+Land Life Company, based in Amsterdam and operating in 25 countries, is a technology-driven reforestation enterprise dedicated to restoring the world's 2 billion hectares of degraded land. By integrating advanced technologies like drones, artificial intelligence, and monitoring applications, they offer a transparent and sustainable approach for organizations to offset carbon emissions through nature restoration. Beyond environmental revitalization and enhanced biodiversity,
+http://www.landlifecompany.com
+http://www.linkedin.com/company/landlifecompany
+UNDO
+London-based UNDO is a climate tech startup that employs enhanced rock weathering (ERW) to capture carbon. By spreading crushed basalt rock on farms, UNDO accelerates the natural carbon storage process while boosting soil health and reducing fertilizer needs. This technique securely locks away carbon for millennia. UNDO targets the removal of 1 million tonnes of CO2 by 2025.
+http://www.un-do.com
+http://www.linkedin.com/company/undocarbon
+Brilliant Planet
+Brilliant Planet harnesses the potential of algae for cost-effective, large-scale carbon sequestration. Their unique approach cultivates vast amounts of microalgae in open-air, coastal desert ponds without the need for fresh water. By utilizing a natural method beneficial to both oceans and atmosphere, the company innovatively and sustainably captures carbon at the gigaton level.
+http://www.brilliantplanet.com
+http://www.linkedin.com/company/brilliantplanet
+Carbonfuture
+Carbonfuture is a trust platform for end-to-end carbon removal, offering both comprehensive MRV solutions and a leading marketplace for Carbon Capture and Storage (CDR). With a strong emphasis on data, their approach focuses on quality in carbon removal projects. They bolster suppliers with the tools and funding they need to transform their endeavors into top-tier carbon credits. Corporate buyers benefit from access to our curated portfolios of superior carbon removal credits. Trusted by global companies like Microsoft and Swiss Re.
+http://www.carbonfuture.earth
+http://www.linkedin.com/company/carbonfuture
+Neustark
+Neustark, headquartered in Bern, Switzerland, founded in 2019, utilizes a unique method to permanently sequester atmospheric CO2 in recycled mineral waste like demolished concrete. Neustark already consistently captures and stores tons of CO2 weekly. With a team of 35 (as of Q1 2023), the company targets the removal of one million tons of CO2 by 2030.
+http://www.neustark.com
+http://www.linkedin.com/company/neustark
+Carbo Culture
+Carbo Culture transform waste biomass into biochar using patented reactors, guaranteeing lasting carbon sequestration. Beyond producing biochar suitable for agricultural and construction uses, Carbonculture also works on renewable energy generation.
+http://www.carboculture.com
+http://www.linkedin.com/company/carbo-culture
+Neutral
+Neutral is a environmental asset exchange platform. They tokenize carbon credits, renewable energy credits, and carbon forwards. With a specialized market infrastructure in place, Neutral emphasizes efficiency, transparency, and trustworthiness. They aim to streamline the way environmental assets are traded and managed.
+http://www.neutralx.com
+http://www.linkedin.com/company/neutral-exchange
+Mission Zero
+Mission Zero, founded in June 2020 as a spin-out from Deep Science Ventures, specializes in advanced Direct Air Capture (DAC) technology. This revolutionary technology captures high-purity CO₂ from the atmosphere, boasting a significant reduction in both costs and energy consumption. Inspired by human respiratory processes, their innovative method is energy-efficient and leverages mature technologies like cooling towers and electrochemical water purification.
+http://www.missionzero.tech
+http://www.linkedin.com/company/missionzerotech
+Riverse
+Riverse empowers European GreenTech SMEs to tap into the voluntary carbon market, offering an avenue for added revenue. The firm has a carbon credit standard complemented by a digitized solution to streamline the measurement, reporting, and verification (MRV) for carbon credit issuance. This system, which encompasses life cycle assessments, digital reporting, automated verification, and a transparent project registry, revolutionizes the process, facilitating carbon credit issuance 20 times faster and at a third of conventional costs. Riverse primarily targets SMEs in biogas, CO2-intensive equipment reconditioning, biochar, and bio-based construction materials sectors.
+http://www.riverse.io
+http://www.linkedin.com/company/riverse
+Atem
+Atem creating a transparent carbon market that emphasizes permissionless participation for all. By integrating automated transaction systems, Atem ensures quick and cost-efficient exchanges of offsets and funds, streamlining the process towards achieving net-zero emissions.
+http://www.atem.earth
+http://www.linkedin.com/company/atem-earth
+Seqana
+Seqana, headquartered in Berlin, is a B2B startup focused on satellite-based Soil Organic Carbon (SOC) monitoring tailored for the Voluntary Carbon Market. Leveraging satellite technology, Seqana provides cost-effective solutions for farmers, NGOs, project developers, and corporations to capitalize on carbon sequestration practices.
+http://www.seqana.com
+http://www.linkedin.com/company/seqana
+Rhizocore
+Not all trees we plant survive. But we can use engineering and other plants to make them survive longer. Rhizocore Technologies taps into the potential of locally-sourced mycorrhizal fungi to optimize tree planting results. Rhizocore's focus on soil integration by introducing fungi to young trees, significantly reducing sapling mortality rates often attributed to inadequate soil connectivity. Their method not only accelerates woodland recovery but also boosts forest productivity, offering a viable pathway for reforestation and enhancing the trees' capacity for long-term carbon storage. Their fungi-infused pellets catalyze a 20% growth acceleration in young trees.
+As climate change threatens more frequent droughts over the next 30-40 years, Rhizocore's method ensures enhanced drought resistance.
+http://www.rhizocore.com
+http://www.linkedin.com/company/rhizocore-technologies
+Tree.ly
+Tree.ly is a Berlin-based venture committed to ecological preservation by leveraging the carbon storage capabilities of forests. Serving European forest owners, Tree.ly offers an innovative revenue model centered around CO₂ storage, transforming the conventional approach of forest monetization. Concurrently, the platform provides businesses with a tangible means to offset their carbon footprint through verified CO₂ credits. These credits are TÜV certified, adhering to ISO 14064-2:2019 standards.
+http://www.tree.ly
+http://www.linkedin.com/company/hitreely
+Treeconomy
+Treeconomy is a company addressing the financial challenges of carbon capture through reforestation. Recognizing that traditional incentives fall short, Treeconomy employs advanced remote sensing techniques, utilizing drone-based LiDAR and satellite imagery, to precisely measure carbon retention by trees. This captured carbon is then financially packaged and sold as premium carbon offsets.
+http://www.treeconomy.co
+http://www.linkedin.com/company/treeconomyco
+Paebbl
+Paebbl, a European carbon storage startup, has pioneered a carbon-negative construction material. Utilizing carbon captured from industrial facilities or directly from the atmosphere, Paebbl transforms it into a versatile construction powder. This innovative solution addresses the construction industry's significant carbon emissions, which account for 38% globally.
+http://www.paebbl.com
+http://www.linkedin.com/company/paebbl
+Carbon
+ˣ
+Carbonˣ is a Paris-based carbon removal fintech. Driven by a desire to clear the ambiguity surrounding high-quality carbon credits, Carbonˣ connects corporate clients with carbon removal credits. Their platform significantly simplifies the procurement process and amplifies transparency.
+http://www.carbonx.world
+http://www.linkedin.com/company/carbonx-world
+Planboo
+Planboo is a biochar carbon removal company with a focus on the tropics. Planboo utilizes the biochar production methodology for tropical landowners that it co-developed with European Biochar Certificate. Their technology turns biomass waste and crops like bamboo into biochar, a carbon storage solution lasting 100-1,000 years. With operations spanning across Sri Lanka, Malawi, and Namibia focuses on tropical landowners.
+http://www.planboo.eco
+http://www.linkedin.com/company/planboo
+Carbon Atlantis
+Carbon Atlantis pioneers a scalable, electrochemical Direct Air Capture (DAC) solution for carbon capture. Using off-the-shelf materials, their technology efficiently seizes CO2, offering permanent storage or repurposing in carbon-neutral products. Targeting hard-to-decarbonize sectors like cement and chemistry.
+http://www.carbonatlantis.com
+http://www.linkedin.com/company/carbon-atlantis
+Emizio
+Emizio is a carbon accounting platform. Emizio streamlines and automates the data processing aspect of carbon accounting, ensuring rapid, accurate, and traceable emissions results. The platform's primary focus is to simplify compliance processes, conserve operational resources, and offer a new approach to carbon accounting.
+http://www.emizio.com
+http://www.linkedin.com/company/emizio
+Biorecro
+Biorecro captures carbon emissions sourced from biomass. The process involves the natural extraction of CO2 during biomass production, followed by its permanent storage deep underground.
+http://www.biorecro.com
+http://www.linkedin.com/company/biorecro
+Pronoe
+Pronoe harnesses the power of surface waters by elevating their alkalinity. Using advanced, autonomous systems, they merge with prevailing coastal operations. This innovative approach yields top-tier carbon credits and repurposes once-wasted effluents. Beyond carbon capture, Pronoe's strategy directly combats local ocean acidification
+http://www.pronoej.cluster028.hosting.ovh.net
+http://www.linkedin.com/company/pronoe-earth
+Ecoera
+Ecoera, a Swedish company with over a decade in the carbon removal field, they introduced the world's first biochar carbon sink certificate. Committed to a sustainable agricultural landscape, Ecoera employs biochar technology to capture carbon in soil and harness bioenergy from biomass waste.
+http://www.ecoera.se
+http://www.linkedin.com/company/ecoera-ab
+Cbamboo
+Cbamboo, headquartered in London, provides solutions for navigating the Carbon Border Adjustment Mechanism (CBAM), the inaugural carbon border tax launching in the EU in October 2023. Born out of Carbon13 in May 2023, Cbamboo is dedicated to assisting companies in staying compliant while pushing them towards supply chain decarbonization. They offer tools that predict CBAM costs, assess embodied carbon, gauge the influence on pricing, and provide sustainability metric reports. Cbamboo caters to importers, suppliers, and customers.
+http://www.cbamboo.com
+http://www.linkedin.com/company/cbamboo
+Whether through the harnessing of fungi to bolster tree survival, the development of carbon-negative construction materials, or the use of technology to monitor and validate carbon sequestration practices, each company is paving a way towards a carbon removal market that works.
+For those attending The Drop, I'd love to connect. Reach out to me at
+[email protected]
+.
+Skander
+PS: Interested in sharing this list? Just click the button below.
+Subscribe

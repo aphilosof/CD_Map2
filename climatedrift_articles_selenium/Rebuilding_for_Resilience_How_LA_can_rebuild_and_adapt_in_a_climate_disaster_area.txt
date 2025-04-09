@@ -1,0 +1,113 @@
+Title: Rebuilding for Resilience: How LA can rebuild and adapt in a climate disaster area
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/rebuilding-for-resilience-how-la
+==============================
+
+Gillian Wildfire
+is a seasoned product leader with 16 years of experience building and scaling technology-driven solutions across climate tech, SaaS, consumer goods, and government sectors. As co-founder and CEO of Fordje, she applies this expertise to simplify complex processes, ensuring cities and developers have the tools they need to navigate building and zoning codes with confidence and efficiency.
+Gillian lives in the Pacific Northwest after a lifetime of nomadism. When she isn’t thinking about how to deploy climate tech and housing faster through city code comprehension, she is a professional musical and Shakespearean actor and makes (locally) award-winning wine with her dad.
+Rebuilding for Resilience:
+How LA can rebuild and adapt in a climate disaster area
+Ethan Swope/AP photo
+The recent fires in Los Angeles, fueled by drought and changing weather patterns, raged through parts of LA,
+destroying over 16,000 homes and buildings
+. Estimates show that insured losses could
+exceed over $20 billion
+, with economic losses reaching much higher numbers. This loss of housing has further fueled the housing crisis, with some housing rental and purchase prices
+more than doubling
+.
+LA is in a climate disaster area - wildfires will continue to occur. And the question after every large, and increasingly frequent, climate change event:
+should they rebuild?
+This question is understandable. Some areas are becoming more and more disaster prone, and rebuilding them is becoming more costly.
+In 2023, weather and climate events cost the United States
+$600B - a 1100% increase since 1980
+. This is in large part due to a few factors: increasing population, material wealth, and a spread into climate vulnerable areas such as coasts, river floodplains. The wildland-urban interface that created a barrier between wild areas and civilization has also been diminished or built into.
+But not all climate disasters are created equal.
+Why? Adaptation works well for some disasters, less well for others. Buildings can be built to withstand certain elements: fire, winter storms, drought, and, to some degree, hurricanes. California has successfully built to withstand many parts of mother nature, even earthquakes!
+Where buildings struggle is flooding. Eventually even the most resilient buildings will succumb to water, making those rising sea levels particularly concerning. This is why insurance companies have stopped supporting flood plains and other parts of the country that consistently flood. It is too expensive to keep rebuilding and there is no good way to guarantee building longevity.
+But fire is a building-adapatable disaster. Not perfectly, but there are many ways to weather the storm (sorry, I had to). With the right tools, LA can and should rebuild.
+The secret? Building codes. Let’s get nerdy.
+A brief background on municipal codes
+City codes are a huge part of your life, and you may not even know it. City codes are basically the rules and regulations that govern how buildings and land can be used within a city. They inform why your house is located where it is (zoning codes), what your house is made of (building codes), how your areas are equipped for safety (fire codes), and even what types of businesses are permitted and how they must operate in your area. Want to bring a circus to your town? I guarantee there are city codes about this.
+And city codes are complex. They have to be. They constantly evolve to enhance safety, respond to environmental changes, and meet the needs of unique communities. Regulations are set at multiple levels of government - international, state, county, and city - with each layer further refining and adapting standards to address local priorities. In practice, this means cities can modify county or state codes to be more specific, such as limiting residential buildings to three stories for aesthetic reasons. But cities will also refrain from making changes to county, state or international codes that they agree with. For example, most cities will fully adopt state-level electrical codes (which in turn are adjusted from international codes).
+Why is this important? Buildings in different areas are built to different standards based on the environment, community and adaptation needs in which they are built. Cities are already thinking about how to adapt to changing environments, and many have adopted or are in the process of adopting standards that meet these needs as they consider the changing climate.
+“Vulnerability is especially high where building codes are insufficient for reducing damage from extreme events. This is part of the reason that the 2010s decade is far costlier than the 2000s, 1990s, or 1980s.” -
+Climate.gov
+How fire damage is avoidable: Build to adaptation requirements
+There are several aspects of buildings that can be leveraged for adaptation: building materials, building standards, defensible area and landscaping, and wildlife-urban interface.
+LA County has done an excellent job of creating fire safety codes that all cities in the county have adopted - codes that new houses must include. These include:
+Fire-safe exterior walls: Fire-resistant wall assemblies are designed to prevent fire spread and protect occupants. This includes building materials, minimizing air gaps, and strengthened joint systems to prevent collapse giving fire new locations to spread to.
+Fire resistant materials: Different materials are required based on zoning (ie residential, commercial, industrial) and, in LA, how close a building is to a potential fire zone due to encroachment into the wildland-urban interface. Check out a GIS map with applicable zoning and building requirements
+here
+.
+Ember-resistant vents: These vents are especially important as wind can blow embers through roof vents and into flammable attics
+Automatic sprinkler systems: Installing automatic sprinkler systems is a vital requirement in new constructions, and required by Los Angeles County Fire Codes. These systems significantly enhance fire suppression capabilities by detecting and extinguishing fires before they spread.
+The
+2024 Los Angeles County Fire Plan
+also strongly suggests
+creating Defensible Space
+around a house, including maintaining native brush and eliminating dead vegetation. Defensible Space is especially effective if a full neighborhood participates as it avoids the potential for easy tinder for wildfires, slowing spread.
+https://lao.ca.gov/Publications/Report/4457
+These adjustments can be made to existing structures too. Clive Dawson in
+Bloomberg CityLab
+’s article “These Homes Withstood the LA Fires. Architects Explain Why” points out that these updates don't only apply to new buildings. “If you remodel a house you can make all these changes to it, and it can be very fire-resistant,” Dawson says.
+Do fire and building codes really work?
+In a lot of ways this seems too good to be true. But these updates work.
+According to Cal Fire
+, homes which were compliant with defensible space standards statistics during the 2022 Oak fire in Mariposa County were
+6 times
+more likely to survive an advancing wildfire.
+And Clive Dawson stated “I haven’t had any house burn that’s been brought up to the latest standard” in the
+Bloomberg CityLab
+article.
+These codes may not fully prevent damage - smoke damage, for example, can be costly to repair. But the more houses in a neighborhood that subscribe to these standards, the more adaptable, fire-avoidant and safer the neighborhood becomes.
+Visual difference in ventilation types
+Balancing building adaptive houses with costs and speed
+So why don’t we do this already?
+Los Angeles does. These codes are required for all new buildings, though there is a lot of old housing stock that hasn’t been adapted.
+But while building to these standards is important, it is also pricier. And housing stock is already expensive and there’s not enough to meet demand. Adding stricter fire codes into the mix can drive up costs even further, making it harder for developers to deliver affordable homes. During a national housing crisis, city planners need to balance costs to build, the supply of developers able to work to these standards, and building diversified housing to fit community needs with the likelihood that a climate event will impact a certain area of a city.
+We see a huge variance as cities look to find a balance. Some cities and entities have become so progressive in support of climate tech and electrification that they have made building requirements for products that don’t exist yet, forcing companies to scramble to figure out a path forward.
+For example, the 2023 National Electric Code (NEC) 705.13 states that when applicable, devices must monitor and/or control an electrical load or a power production or storage source (meaning the ability to curtail output current). The goal was to avoid costly electrical upgrades to the consumer. When this code was first released, however, there weren't approved products on the market, so manufacturers scrambled to develop a solution. This effectively
+pushed companies to further their own innovation
+to meet improved standards, but caused a lot of friction in the interim.
+Other cities around the United States are looking to spur housing development
+by removing code and zoning requirements
+. Unfortunately this leads to unsafe housing stock and increased developer confusion, as fewer codes don’t undo the complexity of laddered city, state and international codes.
+Smart fire design
+through intentional spacing of plants and hardscaping
+How can you lower costs and still build safe, fast housing?
+There may not be easy ways to decrease supply costs immediately. But there are several other ways that cities are looking to build faster, while maintaining safety measures, including densification and new technology.
+Densification
+Instead of sprawling into risky areas, developers can focus on densifying existing zones. Accessory Dwelling Units (ADUs) and multi-family housing are already gaining traction in LA and offer a safer, more efficient way to meet housing demands.
+California started relaxing its notoriously strict zoning rules in 2016, creating a crucial housing pipeline for the Los Angeles metro area, where the median home sale price reached $815,500 in December. “Even before the fires, the area was short about 336,000 residences,” according to Zillow Group Inc. Senior Economist Orphe Divounguy
+via Bloomberg
+.
+Mixed-use housing
+to create density with multiple living options
+Software
+The built environment has seen an influx of software in the last decade with companies looking to disrupt the slow and pricey processes required to build, whether that is housing, commercial buildings, or even electrification projects like solar. Permitting software on both the builders and the government side is in place, promising faster permit timelines. New technology is also helping builders determine what they can build on a specific parcel of land within zoning requirements.
+And I think you won’t be surprised to learn that city code complexity, while important, slows things down. Research shows that
+over 11% of annual construction costs
+are due to city code confusion and resulting planset, permit and inspection rejections - that’s $238B a year! At
+Fordje
+, we are building software that clarifies city codes for both cities and developers ensuring the right regulations are applied from the start. This helps developers (and citizens!) build accurate plan sets, secure permits on the first try, avoiding costly rejections, and guide developers to confidently expand into new markets.
+An extra bonus for these software options is that they also support deployment of climate avoidant technologies like renewable energy and green buildings. On top of that, cities that support these technologies will also attract more developers, further driving down costs.
+Final Thoughts: Building a Safer, Smarter LA
+The climate is changing, and adaptation is required across the country—not just in wildfire-prone areas. Los Angeles County and its cities are actively prioritizing the safety of their communities while balancing immediate needs. If done correctly, they can rebuild resilient, adaptive neighborhoods through a thoughtful mix of policy, city codes, partnerships, and technology.
+Rebuilding in a climate disaster zone isn’t just about resilience—it’s about adaptation. LA has the opportunity to not only recover but to build smarter, ensuring communities remain safe while keeping housing accessible and sustainable. Fire-resistant materials, defensible space, and well-enforced building codes all play a role in shaping a more secure future. And LA already has the right tools in place.
+By taking a proactive approach, LA can serve as a model for the rest of the country as we collectively struggle to adapt to a changing climate. The challenges are real, but so are the solutions. The question isn’t whether to rebuild—it’s how to do it better.
+What can you do?
+If you’re a
+homeowner in a wildfire or disaster prone area
+, consider
+“hardening” your house
+. Improvements like ember-resistent vents, fire-resistent siding and defensible space can make a big difference.
+If you work for a city
+or are a construction developer who wants to build and deploy faster with clearer city codes, or know someone who would be interested,
+reach out
+!
+Are you excited to learn or chat more
+about how city code clarification paves the way for climate tech and housing?
+Connect with me on
+LinkedIn
+!

@@ -1,0 +1,117 @@
+Title: Strategies for making the climate career switch
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/strategies-for-making-the-climate
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+We are currently gearing up for the next cohort of
+our Career Accelerator
+- helping mid-career & exec-level climate job seekers into climate.
+We're taking a new approach: Our main goal is for the participants to tackle company challenges and work on their career transition skills, such as crafting pitches and developing standout content.
+Based on what we did at Climate Drift so far, we're also focussed on education: We're delving deep into problem-solving solutions and featuring a diverse lineup of expert speakers.
+We are very excited for the next cohort, and are very grateful to the climate companies & investors supporting us.
+You can still apply here:
+Apply & Info on the Accelerator
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+Today we feature the second guest post by
+Clint Amadeus Chan
+! Clint joined us last year, sharing his
+deep dive into Virtual Power Plants (VPP)
+.
+After spending his career building tech products, he just joined the California Public Utilities Commission. Today he will share which strategies worked for him, and which didn’t. You can connect with him
+here
+.
+Let’s dive in 🌊
+At the start of last year, I felt like I had it all - my Maslow’s hierarchy of needs was mostly ticked. I had a great job at a growing unicorn software startup being paid good money. I was living with a group of friends in a trendy part of Sydney. Even my love life was doing ok!
+But by March It dawned on me that my work was becoming less and less fulfilling. I found myself thinking back to the IPCC
+Assessment Report 6
+when it came out in late 2021 and its suggestion that to keep global warming below 1.5C, we needed to cut emissions by 50% by the year 2030. That meant the 2020s was the decade of action - so what was I doing about it?
+I realised that cycling to work or eating less meat was only ever going to do so much. If I was serious about climate change mitigation why didn’t I make it my career?
+Now more than 9 months later, I made that dream come true. I’m proud to announce that I have found a career in climate mitigation working halfway around the world in San Francisco at the California Public Utilities Commission. I’ll be working in the Energy Division for a team that will help plan the future of renewable energy in California.
+I climbed to the top of Twin Peaks to celebrate moving to SF!
+I know what you’re thinking, it’s a big change from software to climate/energy policy! So how did I get here? In this article, I’ll talk about how I found a job in climate and tips and tricks that might be useful to others looking to do the same. I’ll also talk about strategies for jobhunting in employer-favouring vs employee-favouring markets and the two types of candidates that succeed in tough job markets. Much of the advice here will likely apply beyond just looking for climate jobs.
+A bit about me
+I’m an Australian of Chinese heritage who was born and raised in Sydney, Australia (beaches and kangaroos yes). After graduating from highschool I went to law school at the University of New South Wales thinking that I could be the next Amal Clooney - human rights had been a passion of mine growing up. However, I soon decided that law was too archaic, and my law school preferred pumping out M&A lawyers. I finished my LLB and decided to move into tech like every yuppy having been won over by the free lunches and “mission-driven” culture. I worked as a “product manager” for 4 years which is as much about tech strategy as it is buzzword central.
+Starting the job hunt
+I started looking for a job in climate in March of 2023. I was tire-kicking initially, trying to understand what types of roles were out there. I initially focused on “climatetech” organisations which encompassed everything from working at Tesla, to solar panel design software, and fake meat. As you can tell from the CTVC diagram below, “climatetech” is an expansive and still evolving category. I also decided to focus on finding jobs in the Bay Area as I knew that it remained the Mecca of tech. California’s policies for climate mitigation also led much of the US (the world’s 2nd largest emitter) and was on par with progressive regions like the EU.
+Source:
+CTVC
+I started applying to organisations, cold emailing, asking around my network, and even landed some first-round interviews. I was waking up at 5am some days to interview or network with the East and West Coasts of the US. But soon the rejections rolled in. It was clear that something wasn’t right - I lacked the 3+ years in the industry these organisations wanted and many organisations and contacts told me their organisations weren’t hiring (many were laying off!).
+Job markets matter: Employee vs employer-favouring markets
+One factor that many job hunting guides don’t talk about enough is that the job market matters a tonne regardless of which industry or role you want to move into. At any given point the job market will be along a two-sided spectrum: it’ll either be employee-favouring or employer-favouring. As a caveat, I’ve only been working full-time for ~4 years so I hadn’t seen the horrorshow of the dotcom boom or
+Global Financial Crisis
+. However, between the years 2021 and 2023 I had seen a dramatic shift from the hiring frenzy of 2021 to the layoff armageddon of late 2022 and 2023. Ultimately it’s a classic story of supply and demand.
+The path I chose
+Even though I knew it would be hard to find a job I didn’t think deeply about what a horrible job market would mean for me as a candidate. Naively, after applying to jobs for 2 months (and being ghosted) I decided that the best thing to do was the “nuclear” option. I decided to leave my company in June and head to California for 3 months on a job-searching expedition.
+I did this because I felt that my passion for working in a climate-mitigating career wasn’t translating through Zoom calls (nor was my charismatic personality). I also knew that if I networked in person I would make deeper connections which could lead to referrals, and I could better understand the competition.
+I didn’t know many people in the Bay Area but I was fortunate that I’d saved enough money and was ready and willing to network my butt off to make something. Over roughly 90 days (the length of my
+ESTA
+visa) I tried a bunch of different strategies and had countless interviews and coffee chats. I went to 3+ climate-related networking events a week in the Bay Area and even flew to New York for Climate Week to try my luck there. By the end of the 90 days, I hadn’t landed a job and returned home. It was only several weeks after I’d re-settled in Sydney and started job hunting there that I got my current job offer (the only offer I got).
+So in the section below, I’m going to share what I think works depending on the job market you’re in. I also want to caveat that the advice I give below could be tainted with a level of survivor bias.
+Job hunting in an employee-favouring market
+I’ll keep this section short because honestly this type of market is a bit easier and there are many guides about how to land yourself a job.
+Some of the things you might want to do are:
+Anyhow - it’s standard stuff. Here are some solid job hunting guides:
+Gibson Biddle’s “
+How to find a great job
+”
+This notion board
+This guide from
+80,000 Hours
+Job hunting in an employer-favouring market
+Now for the fun part. All of the above still applies (kind of) but there’s one important step I think you need which people don’t often suggest. You need to find and dive into an industry niche. But how niche is niche? And what makes a good one?
+A good niche is hard to define but consider finding a sector or industry that has about ~20 organisations or less. This is a rough number so adapt it to your situation. A niche will likely be a group of organisations that are all solving a similar problem or supplying a similar service. A simple path to finding a niche would be to find a company that inspires you and then list out all of its direct and indirect competitors (including incumbents). You don’t want to be overwhelmed by the number of players in the niche but you also want enough to keep you busy trying to chat to each one.
+You can also think of an area of interest (e.g. renewable energy) and then refine your niche by finding a “sub-sector” and limiting it by:
+Geography or served markets,
+organisation size,
+organisation function (e.g. private vs public sector),
+funding size, or
+technology or product types (e.g. just seafood substitutes), etc.
+My niche industry was “virtual power plants (VPPs) and distributed energy resources (DERs) broadly ”. I arrived at this through the following thought process:
+It’s important to leverage your prior experience or training when defining a niche and speaking to contacts. When I decided that “renewable energy” was something I was interested in I started reading around the different sub-sectors and understanding the problems for companies in the space (I spoke to lots of people!). It quickly became clear that a lot of the barriers to growth in renewable energy were related to regulation and policy.
+To stand out in the renewable energy niche it made sense then to show off my law degree and past software experience to prove that I was comfortable navigating the politics and technology opportunities in highly-regulated markets. It also made sense to find jobs or organisations that would holistically value my previous training and experience. This is likely what made me a standout for my current government job.
+But why is this niche important? It’s important because in an employer-favouring market they likely only hire two types of people:
+Ultimately whether you’re a unicorn or a passionate person, in a tough job market you need to show the employer why you are the ONLY person fit for the job. You’re not a tire-kicking generalist, you are the messiah sent to help them.
+When you choose a niche it arguably becomes easier to find a job for several reasons:
+Build Expertise
+: You build expertise in that area faster. You understand who the key players are, the key problems that the industry has, and you can speak the lingo. You end up turning up to interviews or coffee chats asking more substantive questions and can easily show off your knowledge. Interviewers will be impressed that you know about “Issue X” despite being an outsider. I even
+wrote an article for Climate Drift
+on VPPs to show my knowledge, which many people in the industry commented on.
+Better Focus
+: You focus on fewer issues so you know how they relate to each other more. Importantly, it also means that you can say “no” or disregard certain opportunities or leads that only see you fall into a rabbit hole without certainty of a job.
+Easier to Network
+: Because there are ~20 organisations to work with (or less) you quickly know who the bigwigs are. It’s also likely that people you meet in the niche have worked at other organisations in the niche. Once you connect with someone, you can be introduced to old colleagues or friends at other organisations quickly. Soon you’ll be able to impress people by showing who in the community you know by saying things like “oh yes I was talking to Dr. Lisa the other day, loved her recent article…”. You get to the in-crowd faster this way.
+Less Competition:
+You might wonder, “but what if the area I want to go into isn’t that niche or is still competitive?”. Naturally, some sectors will be very popular and it’ll be up to you to define your turf of expertise. But ultimately by being disciplined about your turf and diving deeper into the substantive issues in this space (e.g. carbon removal tech but specifically BiCRS) your superior knowledge and connectedness to key players will mark you above the generalists.
+More Passion
+: When you’ve done all of the above and have taken the time to hone your understanding of your niche and build networks with key leaders, your passion for this area shines through in all your interactions, be they interviews, or LinkedIn posts. People will say “wow I’ve never met somebody who knows so much about X” especially if you have a compelling story to explain how you built knowledge in this niche. They will be enlivened by your passion and will remember you for it.
+You Become “that” Person
+: Finally, another side effect of going deep on a niche is that people begin to remember you as the “X” person. If all you say and think about is X, then you become the “X” person. This also means that if your connections hear about opportunities or meet people in this space they might say “oh yes my friend Ganesh is really into X, you should talk to him!”. Your network can start advocating for you!
+Be wary of burnout
+I’ll be the first to admit that in my months of job hunting when I was honing in on my niche it got dry at times. There will be days when you don’t want to read another article or jump on another Zoom coffee chat with that connection you made last week. Take breaks, spiritual and mental breaks. Don’t talk about your niche for 48+ hrs on the weekend, immerse yourself in something else and be kind to yourself.
+The risks of the “niche” approach
+Of course, there are downsides to this approach and it’s up to you how much of this approach you want to adopt.
+Siloing
+: The obvious risk is that you either land the job in this niche and can’t pivot out of it later or you don’t end up with anything and are stuck with seemingly useless knowledge. The way that I’d advise combatting this is by checking in with your progress every fortnight to see if you think there is a chance that you will land a desirable job by investing time in this niche. VPPs wasn’t my first niche, my first niche was in the Carbon Dioxide Removal space with a focus on BECCS. After about 3-4 weeks of investment and about 5 networking calls it became clear that the industry was nascent and only hiring science personnel so I pivoted quickly. Additionally, even when I was focusing on VPPs I didn’t lose sight of key issues and opportunities in the broader renewable energy landscape to give me a backup.
+Time-Consuming
+: Of course another issue is the time-consuming nature of this process. A lot of hours are spent reading, blogging, or chatting to folks as opposed to actually applying for roles. But it depends on what job market you find yourself in. If you are being auto-rejected and not hearing back from the last 30 jobs you’ve applied for, this strategy might work for you.
+Too Niche
+: You can of course find something that is “too niche” as well. I personally think that anything less than 5-10 organisations is likely too niche (unless these orgs are megacorporations like Boeing).
+In closing
+My advice is therefore to think about what kind of job market you’re in, which side it favours and cater your search strategy and self-improvement and positioning to that end. Job hunting is time-consuming and laborious (like dating) - there are no silver bullets and you may need to apply this strategy for 3 or more months. But in the end it worked for me so I really hope it can work for you too!
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+And that’s it for today, thanks Clint for sharing.
+If you enjoyed this post, share it with your network!
+Share

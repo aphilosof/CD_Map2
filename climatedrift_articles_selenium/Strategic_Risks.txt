@@ -1,0 +1,261 @@
+Title: Strategic Risks
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/strategic-risks
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Carbon Removal purchases are exploding - but has the legal side kept up? Time to dive into Carbon Removal Purchase Agreements and how enhance their effectiveness. Guiding us will be
+Isaac de León
+, Climate Drifter and lawyer.
+Isaac is a seasoned legal expert with more than a decade of experience in the energy sector, focusing on the development of infrastructure in the Gulf of Mexico and the North Sea. He has a long track record in handling complex public and private energy projects, leading negotiations related to joint ventures, EPC agreements, licensing, and pioneering contracts for hydrogen and carbon removal.  Isaac has spearheaded teams in Mexico, the US, and Europe.
+I have been diving into Carbon Removal a few times before, from our 3 part series on the Carbon Removal hype,
+The Guide to the Carbon Removal Hype
+Skander Garroum
+·
+August 21, 2023
+Read full story
+To the debate around Carbon Engineering’s Acquisition last year:
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Skander Garroum
+·
+August 17, 2023
+Read full story
+Let’s dive in. 🌊
+If you want to make a difference and bring your talent into climate:
+Apply to our May ’24 cohort
+and join the Climate Drift community.
+Apply Now
+Executive Summary
+In the face of escalating climate change, carbon removal technologies have become vital to meet global climate targets, specifically the 1.5°C temperature cap as outlined by the Intergovernmental Panel on Climate Change (IPCC). Despite the urgency, the current development pace of these technologies lags significantly behind the necessary scales. Initiatives like Frontier, backed by major corporations including Stripe and Alphabet, aim to bolster the deployment of these technologies through Advance Market Commitments (AMCs). This support not only promises to amplify innovation but also drives the financial and technological scaling needed. However, the structuring of Carbon Removal Purchase Agreements (CRPAs) carries inherent legal and commercial risks, ranging from technological uncertainties to regulatory shifts and market dynamics. Additionally, trust remains a critical challenge, necessitating high-quality credits and assurances regarding verifiability, additionality and net negativity. This article explores these risks, offering a detailed analysis based on publicly available agreements (those from Stripe), and discusses strategic mitigation approaches essential for cultivating a robust carbon removal market. By addressing these challenges, Buyers
+1
+and Companies
+2
+can navigate the complexities of CRPAs effectively, thereby accelerating the adoption of crucial carbon removal solutions, enhancing trust, and supporting broader climate goals.
+Figure 1: Purchased Carbon Dioxide Removals by Company
+3
+.
+Background
+The urgent need to address climate change and limit global temperature increases to 1.5°C has led to a growing recognition of the crucial role carbon removal technologies must play alongside emissions reduction efforts. The Intergovernmental Panel on Climate Change (IPCC) has made it clear that achieving this goal will require removing gigatons of CO
+2
+from the atmosphere and ocean, with carbon removals needing to ramp up from 0.1 gigatons today to an average of around 6 gigatons by 2050. However, the current pace of carbon removal project development falls far short of this target, with projections indicating an 80 percent shortfall by 2025
+4
+.
+To accelerate the development and deployment of carbon removal technologies, Frontier, an advance market commitment (AMC) (founded by Stripe, Alphabet, Shopify, Meta, and McKinsey Sustainability, Autodesk, H&M Group, JP Morgan Chase & Co and Workday) has emerged as a critical initiative. Frontier aims to aggregate demand from buyers and facilitate purchases from high-potential carbon removal companies, sending a strong demand signal to researchers, entrepreneurs, and investors. By guaranteeing future demand, Frontier seeks to stimulate innovation, attract investment, and ultimately drive down the costs of carbon removal technologies.
+As society at large increasingly recognizes the importance of carbon removal in achieving climate goals, the need for well-structured carbon removal purchase agreements (CRPA) becomes paramount. These agreements play a vital role in providing the financial incentives and long-term trust necessary for carbon removal companies to scale their technologies and operations. However, negotiating these agreements also involves navigating a complex landscape of legal and commercial risks that must be carefully considered and addressed.
+One of the primary challenges in scaling carbon removal technologies is their relatively high cost compared to established emissions reduction solutions. This cost barrier can make it difficult to attract sufficient buyers to create a self-sustaining market and drive down prices through economies of scale. Frontier's AMC model aims to overcome this challenge by facilitating both low-volume pre-purchase agreements for early-stage technologies and investing in future tons of carbon removal to help scale these promising solutions. By providing a guaranteed source of demand, Frontier can help de-risk investments in carbon removal technologies and accelerate their development and deployment.
+The legal and commercial risks associated with CRPAs are varied and complex, requiring careful consideration and mitigation strategies. These risks can include uncertainties around technology performance and scalability, regulatory and policy changes, market dynamics, and the long-term permanence and verifiability of carbon removals. Navigating these risks requires a deep understanding of the technical, financial, and legal aspects of carbon removal projects, as well as the ability to structure agreements that align incentives, allocate risks appropriately, and provide the necessary flexibility to adapt to changing circumstances.
+The following analysis of the legal and commercial risks associated with CRPAs is primarily based on the agreements made public by Stripe. These agreements provide valuable insights into the key considerations and strategies for structuring effective partnerships between Buyers and Companies in the carbon removal space.
+By examining the terms and conditions of these agreements, we can identify common risks, mitigation approaches, and best practices that can inform the broader development of the carbon removal market.
+In the following sections, we will explore the key legal and commercial risks that must be considered when negotiating CRPA, drawing on insights from Shopify’s
+5
+approach and the broader context of the urgent need to scale carbon removal technologies to meet climate goals. By understanding and effectively addressing these risks, companies and governments can help create a robust and sustainable market for carbon removal, driving innovation, investment, and the rapid deployment of these critical solutions in the fight against climate change.
+Figure 2
+6
+1. Legal: Default Consequences - What happens if Companies don’t deliver?
+One of the main obligations of CRPAs is for Buyers to pay CDR companies to remove and store tons of CO
+2
+.Given the fact that these are new technologies, there are many risks that can prevent companies from delivering in their commitment so default consequences and mitigation strategies are important considerations in CRPAs, as we need to balance technology development support with contractual obligations. Following some thoughts on default consequences, avoidance strategies, and the impact for the advancement of carbon removal technologies:
+Default Consequences
+Companies may face financial penalties for failing to meet contractual obligations, such as delivery of the agreed-upon carbon removal tonnage or achievement of cost reduction milestones. These penalties could include forfeiture of milestone payments, repayment of technology development grants, or termination of future purchase commitments. It is important to negotiate these financial consequences from the beginning and not wait until actual default happens to negotiate and discuss what the consequences should be.
+Depending on the specific terms of the agreement, a company in default may face legal action for breach of contract, which could result in additional financial damages or legal costs.
+It is also worth discussing what happens when there is actual default, will Buyers allow Companies some time to deliver on their commitments (cure period), what actions should companies take? Should they continue scaling up their facilities with the money they received? Should they stop spending the money?
+Building flexibility into these agreements could prove pivotal to help avoid default by allowing for adjustments to targets, timelines, or payment terms in response to unforeseen challenges or changes in circumstances. This could include provisions for force majeure events, market disruptions, or technology breakthroughs.
+Avoiding Default
+Now, even if good will and flexibility are built into the contract no company wants to be in default, so it is important to set achievable carbon removal tonnage targets and cost reduction milestones to minimize this risk. Buyers should work with Companies to develop realistic timelines and goals based on each Company's technology maturity, scale-up plans, and risk factors.
+As with any agreement it is crucial to maintain open and frequent communication between Buyers and Companies to help identify potential issues early and develop proactive solutions to avoid default. Buyers should foster a collaborative relationship with the Companies, offering guidance, resources, and problem-solving support as needed.
+Impact for Technology Development
+While default consequences are necessary to ensure accountability and protect Buyer’s investments, overly punitive measures could stifle innovation and discourage Companies from taking calculated risks in developing new CDR technologies. Buyers should aim to strike a balance between holding companies responsible for their commitments and providing a supportive environment for technology development.
+We need to remember that the primary goal in these agreements is to foster the development and deployment of effective, scalable CDR technologies. In cases of default, Buyers should prioritize working with the companies to identify and address the underlying challenges, rather than immediately resorting to punitive measures. This may involve providing additional support, renegotiating terms, or exploring alternative pathways to success.
+It could also be said that defaulting on a CRPA can provide valuable learnings and insights for the broader carbon removal industry. In this context, Buyers should encourage Companies to share their experiences and lessons learned from default situations, as this knowledge can help other companies avoid similar pitfalls and accelerate the development of successful CDR technologies.
+Sample Provisions
+I took the liberty of drafting some model provisions that can be included in CRPAs, these provisions aim to provide a balanced approach to default consequences, with a focus on identifying and addressing the underlying causes of default, providing support and flexibility where appropriate, and leveraging default experiences to drive industry-wide learning and advancement. The specific terms and remedies should be tailored to the unique circumstances of each CRPA and should be reviewed by legal counsel to ensure enforceability and compliance with applicable laws and regulations. Note that text in [brackets] can (and should) be customized to address each project’s specific needs.
+(a) Default and Cure Period
+"If the Company fails to meet any of its obligations under this Agreement, including delivery of the agreed-upon carbon removal tonnage or achievement of cost reduction milestones, Buyer shall provide written notice of default to the Company. The Company shall have [90] days from receipt of such notice to cure the default. Should the Company fail to cure the default within the specified cure period, the Buyer may, at its discretion, exercise any of the remedies outlined in this Agreement."
+(b) Remedies for Default
+"In the event of an uncured default, the Buyer may, at its discretion, exercise one or more of the following remedies:
+i. Withhold or reduce milestone payments until the default is cured.
+ii. Require the Company to repay any technology development grants or shared savings payments received under this Agreement.
+iii. Terminate or reduce future carbon removal purchase commitments.
+iv. Terminate this Agreement and pursue legal action for breach of contract.
+[Buyer shall prioritize working with the Company to identify and address the underlying causes of the default and shall only resort to punitive measures if the Company fails to make reasonable efforts to cure the default or if the default is due to gross negligence or willful misconduct.]"
+(c) Force Majeure:
+"Neither party shall be liable for any default or delay in performance under this Agreement if such default or delay is caused by events beyond the reasonable control of the party, including but not limited to acts of God, natural disasters, wars, riots, strikes, and government actions. The affected party shall provide prompt notice of the force majeure event to the other party and shall use its best efforts to resume performance as soon as practicable. If the force majeure event persists for more than [insert number] days, the parties shall negotiate in good faith to modify the terms of this Agreement to accommodate the changed circumstances."
+(d) Renegotiation and Modification
+"If the Company defaults on its obligations under this Agreement due to [unforeseen technical challenges, market disruptions, or other extenuating circumstances], Buyer may, at its discretion, [agree to renegotiate the terms of this Agreement to provide additional support or accommodate the changed circumstances]. Any modifications to the Agreement must be mutually agreed upon in writing by both parties."
+(e) Knowledge Sharing and Industry Advancement
+"If the Company defaults on its obligations under this Agreement, it shall provide Buyer with a detailed report outlining the reasons for the default, the lessons learned, and any potential solutions or alternative pathways identified. Buyer may, at its discretion, share this information with other carbon removal companies and stakeholders to promote industry-wide learning and advancement. The Company agrees to participate in good faith in any knowledge-sharing activities or events organized by Buyer related to its default experience."
+Figure 3 Private Investments in durable CDR 2017 – 2023 in million USD
+7
+2. Commercial: Incentivizing efficiencies during the term of the Contract
+Factors that affect costs
+It is important to note that depending on the type of solution there will be differences in cost per ton of CO
+2
+removed this can be attributed to several factors:
+Technology maturity:
+Companies at an earlier stage of development, such as Heirloom and Ebb
+8
+, have higher costs due to the use of pilot-scale or first-of-a-kind facilities. These early-stage plants often have higher capital costs, lower efficiency, and semi-automated processes, resulting in elevated costs per ton of CO
+2
+removed.
+Economies of scale:
+Larger, more mature facilities benefit from economies of scale, reducing the cost per ton of CO
+2
+removed.
+Energy costs:
+The cost of energy, particularly low-carbon electricity, can significantly impact the overall cost of CO
+2
+removal. Companies that have access to cheaper, low-carbon energy sources may have lower operating costs. For example, Sustaera's cost of $700 per ton is lower than Heirloom's and Ebb's, likely due to Sustaera’s modular design objectives to deliver more captured carbon per acre of land and the use of carbon free and more advanced technology development.
+Process efficiency:
+The efficiency of the CO
+2
+capture and storage process directly affects the cost per ton of CO
+2
+removed. Companies that have optimized their processes, such as improved sorbent performance or better heat integration, can achieve lower costs.
+Infrastructure and transportation:
+The proximity of CO
+2
+capture facilities to storage sites and the availability of transportation infrastructure can impact the overall cost. For example, 44.01's cost of $170 per ton for storage only is lower than capture and storage costs of the other companies, this could be because the storage is integrated.
+Storage method:
+The choice of storage method, such as geologic sequestration or mineralization, can affect the cost. Some storage methods may have higher upfront capital costs or require more energy for injection and monitoring and even be less scalable than others.
+Strategies to incentivize efficiencies
+Buyers can employ several strategies to incentivize efficiencies and drive down the cost per ton of carbon removal for these companies, here are a few ideas on how to do that which will be followed by sample provisions:
+The agreement can be structured to include milestone-based payments tied to specific Project Milestones. For example, a portion of the payment could be contingent upon the company achieving a certain cost per ton by a specified date. This approach provides a clear financial incentive for the companies to focus on efficiency improvements and cost reduction measures. This was implemented by Stripe in their CRPAs.
+Companies can be required to provide detailed cost breakdowns and regular reporting on their progress in reducing costs. This transparency would allow Buyers to identify areas for potential efficiency improvements and collaborate to develop targeted cost reduction strategies.
+Buyers can include provisions in the agreement that allow for shared savings if the companies achieve cost reductions beyond the specified targets. For example, if a company manages to reduce the cost per ton below the target price, they could receive a percentage of the savings as an additional incentive. This approach aligns the interests of both parties in driving down costs.
+In the specific case of Stripe, they could facilitate the sharing of best practices and benchmarking data among its portfolio of CDR companies. By fostering a collaborative environment and encouraging the exchange of experiences, Stripe can help the companies learn from each other and identify proven strategies for efficiency improvement and cost reduction.
+Implementing a combination of these strategies, can create a strong incentive structure that motivates the companies to continuously improve their efficiency and drive down the cost of carbon removal. However, remember it is essential to maintain a balance between cost reduction pressures and the need for the companies to invest in long-term technology development and scale-up efforts.
+Sample provisions:
+I drafted some provisions designed to create a strong incentive structure for the companies to focus on efficiency improvements and cost reduction while providing them with the necessary support and resources to achieve these goals. Keep in mind, the specific terms and targets should be tailored to each company based on its technology, stage of development, and other relevant factors.
+(a) Milestone-Based Payments
+"The total contract value shall be disbursed in installments based on the achievement of the following cost reduction milestones:
+i. [20%] of the contract value shall be paid upon signing the Agreement.
+ii. [30%] of the contract value shall be paid upon the Company achieving a cost per ton of [insert target cost] by [insert date].
+iii. The remaining [50%] of the contract value shall be paid upon the Company achieving a cost per ton of [insert final target cost] by [insert date].
+If the Company fails to meet the specified cost reduction milestones, the Buyer reserves the right to terminate the Agreement without further payment obligations."
+(b) Cost Transparency and Reporting
+"The Company shall provide the Buyer with detailed quarterly cost reports, including a breakdown of capital expenses, operating expenses, and any other relevant costs associated with the carbon removal process. The reports shall also include an analysis of cost trends, efficiency improvements, and progress towards achieving the target cost per ton. The Buyer shall have the right to audit the Company's cost records upon reasonable notice."
+(c) Shared Savings Mechanism
+"If the Company achieves a cost per ton lower than the target cost specified in Exhibit [A], the Buyer and the Company shall share the savings [equally]. The shared savings shall be calculated as follows: Shared Savings = (Target Cost per Ton - Actual Cost per Ton) × Carbon Removal Tonnage × [50%] The Company shall invoice the Buyer for its portion of the shared savings on an annual basis, accompanied by a detailed calculation of the savings achieved."
+(d) Technology Development Support
+"The Buyer shall provide the Company with a technology development grant of [insert amount] to support research and development efforts aimed at improving the efficiency and reducing the cost of the Company's carbon removal technology. The grant shall be disbursed in quarterly installments, subject to the Company providing regular progress reports and achieving specified R&D milestones."
+(e) Volume Commitments and Economies of Scale
+"If the Company achieves the target cost per ton specified in Exhibit [A] by [insert date], the Buyer commits to purchasing an additional [insert tonnage] of carbon removal from the Company over the next [insert number] years, subject to [the Company maintaining or further reducing its cost per ton]. This volume commitment is intended to support the Company's investment in larger-scale facilities and realization of economies of scale."
+Figure 4
+3. Legal / Commercial: Relationship with the Buyer or the Company during the term of the contract
+When it comes to the relationship between the parties during the term of a CRPA, effective communication and collaboration are essential. The nature of these agreements, which often involve long-term commitments and the development of nascent technologies, requires a partnership-oriented approach that goes beyond a simple transactional relationship.
+Stripe's CRPAs provide some insights into what this relationship may entail. The agreements typically include provisions for regular reporting and information sharing, allowing Stripe to monitor the progress and performance of the carbon removal projects. This may include quarterly or annual reports on the technical and financial aspects of the projects, as well as updates on any challenges or obstacles encountered. By maintaining open lines of communication, Buyers and Companies can work together to identify and address potential issues early on, helping to ensure the success of the projects.
+In addition to regular reporting, the agreements may also provide for more direct forms of interaction and collaboration between the parties. This could include site visits, technical reviews, or joint problem-solving sessions. For example, Stripe's agreements often include provisions for meetings between the Buyer and the supplier to discuss the results of the carbon removal projects and answer any questions that may arise. These interactions provide valuable opportunities for buyers to gain a deeper understanding of the technologies and processes involved, while also allowing suppliers to benefit from the expertise and resources of their partners.
+Effective interfacing between the Buyer and the supplier during the contract term also requires a clear understanding of roles and responsibilities. The agreements should specify the key points of contact for each party, as well as the protocols for communication and decision-making. This may involve designating specific individuals or teams to manage the relationship, such as technical experts, contract managers, or executive sponsors. By establishing clear lines of communication and accountability, Buyers and Companies can ensure a smooth and efficient partnership throughout the duration of the agreement.
+Sample provisions
+These provisions are designed to foster a collaborative and communicative relationship between the Buyer and Company throughout the contract term. By establishing clear expectations and protocols for reporting, site visits, problem-solving, renegotiation, and communication, the parties can build a strong foundation for a successful partnership in the development and deployment of carbon removal technologies. Remember that these should be tailored to each specific technology / company.
+(a) Regular Reporting
+"The Company shall provide the Buyer with [quarterly] progress reports detailing the status of the carbon removal project, including technical performance metrics, milestone achievements, and any challenges or issues encountered. The reports shall be delivered within [insert number] days of the end of each calendar [quarter]. The Buyer may request additional information or clarification on the reports, and the Supplier shall promptly respond to such requests."
+(b) Site Visits and Technical Reviews
+"The Buyer shall have the right to conduct site visits and technical reviews of the Company’s facilities and operations related to the carbon removal project, upon reasonable notice and during normal business hours. The Company shall provide the Buyer with access to relevant personnel documents, and equipment to facilitate these visits and reviews. The Buyer and Company shall work together to schedule these visits in a manner that minimizes disruption to the Supplier's operations."
+(c) Collaborative Problem-Solving
+"In the event of any technical, operational, or financial challenges that may impact the performance or viability of the carbon removal project, the Buyer and Company shall engage in good-faith discussions to identify potential solutions and mitigation strategies. The parties shall establish a joint problem-solving team, consisting of representatives from both organizations, to assess the issues and develop a mutually agreed-upon action plan."
+(d) Renegotiation and Modification
+"If there are significant changes in market conditions, regulations, or technologies that materially impact the economics or feasibility of the carbon removal project, either party may request a renegotiation of the terms of this Agreement. The parties shall engage in good-faith discussions to explore potential modifications that could help adapt the project to the new circumstances, with the goal of preserving the long-term viability and benefits of the partnership."
+(e) Key Points of Contact
+"Each party shall designate a primary point of contact for the management of this Agreement and the carbon removal project. The Buyer's primary point of contact shall be [insert name and title], and the Company’s primary point of contact shall be [insert name and title]. These individuals shall be responsible for facilitating communication, coordination, and decision-making between the parties. Either party may change its designated point of contact by providing written notice to the other party."
+Figure 6. Frontier’s data on their Carbon Removal Purchases
+4. Reports: Define Benchmarks and standards for reporting
+When it comes to defining benchmarks and standards for reporting in CRPAs, the goal is to establish clear, consistent, and meaningful metrics that allow Buyers to track the progress and performance of the carbon removal projects they are supporting. These benchmarks and standards should be tailored to the specific characteristics of the carbon removal technology in question, while also aligning with industry best practices and relevant regulations.
+Stripe's CRPAs offer some guidance on the types of benchmarks and standards that can be included in these contracts. These agreements typically require Companies to provide regular reports on a range of technical, operational, and financial metrics, which help assess the project's performance against predefined targets and milestones.
+One key area of focus for reporting benchmarks is the quantification and verification of the carbon removals achieved. Companies should be required to provide detailed documentation on the methodology used to measure and calculate the amount of CO
+2
+removed from the atmosphere, as well as any relevant data and assumptions underlying these calculations. This may include information on the specific technologies or processes employed, the source and quality of any inputs or feedstocks, and the permanence and durability of the carbon storage.
+To ensure the credibility and comparability of these carbon removal metrics, the agreements may specify the use of recognized industry standards or protocols, such as those developed by the International Organization for Standardization (ISO) or the Greenhouse Gas Protocol (GHG Protocol). By aligning with these and other standards, Companies can demonstrate the verifiability and reliability of their carbon removal claims, while also facilitating the aggregation and comparison of data across different projects and technologies.
+In addition to carbon removal metrics, reporting benchmarks may also cover other key performance indicators related to the project's technical and operational efficiency, environmental co-benefits or impacts, and financial health. For example, Companies may be required to report on energy consumption, resource utilization, land use changes, biodiversity impacts, job creation, and community engagement and even their sourcing strategy. These metrics can help Buyers assess the broader sustainability and social responsibility of the projects they are supporting.
+Financial reporting benchmarks are another important component of these agreements, as they help Buyers monitor the economic viability and scalability of the carbon removal technologies. Companies may be required to provide regular updates on their revenues, costs, investments, and funding sources, as well as any key financial risks or opportunities. This information can help buyers assess the long-term sustainability of the projects and make informed decisions about future investments or partnerships.
+To ensure the quality and reliability of the reported data, CRPAs should also include provisions for data verification and auditing. This may involve the use of independent third-party auditors or verification bodies to review and validate the supplier's reports and methodologies. The agreements should specify the frequency and scope of these audits, as well as the standards or protocols to be used in the verification process.
+Sample Provisions
+Incorporating benchmarks and standards for reporting into CRPAs, can help Buyers ensure that they have access to the information and data needed to effectively monitor and evaluate the performance of the projects they are supporting. This, in turn, can help build trust, transparency, and accountability in the carbon removal market, ultimately supporting the scale-up of these critical technologies in the fight against climate change:
+(a) Carbon Removal Quantification
+"The Company shall quantify the amount of CO
+2
+removed from the atmosphere using the [insert specific methodology or protocol] and shall provide a detailed report on the calculations, data sources, and assumptions used. The report shall be prepared in accordance with the [insert relevant industry standard, e.g., ISO 14064-2] and shall be subject to third-party verification by an accredited verification body."
+(b) Environmental and Social Impact Metrics
+"The Company shall report on the following environmental and social impact metrics on an annual basis:
+(i) Energy consumption and renewable energy usage;
+(ii) Water consumption and conservation measures;
+(iii) Land use changes and biodiversity impacts;
+(iv) Job creation and local community engagement;
+(v) Health and safety performance The metrics shall be calculated in accordance with [insert relevant industry standards or guidelines] and shall be accompanied by supporting documentation and data."
+(c) Financial Reporting
+"The Company shall provide quarterly financial reports, including:
+(i) Revenues and expenses related to the carbon removal project;
+(ii) Capital expenditures and investments;
+(iii) Funding sources and any changes in financial position;
+(iv) Key financial risks and mitigation strategies The financial reports shall be prepared in accordance with generally accepted accounting principles (GAAP) and shall be reviewed by an independent certified public accountant."
+(d) Data Verification and Auditing
+"The Company’s carbon removal quantification, environmental and social impact metrics, and financial reports shall be subject to annual third-party verification by an accredited verification body. The verification process shall be conducted in accordance with [insert relevant verification standards, e.g., ISO 14064-3] and shall include a review of the Company’s data collection, calculation, and reporting methodologies. The Company shall provide the Buyer with a copy of the verification report and shall promptly address any issues or discrepancies identified during the verification process."
+Provisions applicable to Storage Only CRPAs
+Some CRPAs only include the obligation from the Company to store the captured carbon in that case, it is advisable to include some provisions regarding Measuring Monitoring and Verification (MMV), for example:
+Provisions that specify accepted standards or methodologies for CO
+2
+MMV. This could reference industry standards or guidelines developed by reputable bodies (see previous section).
+Establish clear performance benchmarks related to the efficiency and reliability of CO
+2
+injection and storage, against which the project's success can be measured.
+Require regular, detailed reports on CO
+2
+removal operations, including amounts injected, stored, and any leakage detected. These reports should be made available to the Buyer, potentially including a third-party auditor.
+Mandate independent verification of CO
+2
+storage claims by a third-party entity with expertise in carbon accounting and geological storage.
+Include provisions for ongoing monitoring for potential CO
+2
+leakage from storage sites and detailed plans for addressing any leakage that occurs to ensure permanence of storage.
+Ensure that all MMV practices comply with local, national, and international laws and regulations regarding carbon storage and reporting.
+Sample Provisions
+(a) Measurement Standards and Methodology
+“The Company shall adhere to internationally recognized standards and methodologies for the measurement of carbon dioxide (CO
+2
+) capture and storage volumes. This includes, but is not limited to, [specify standards, e.g., ISO standards, IPCC guidelines for greenhouse gas inventories, etc.]. Measurement techniques shall accurately account for all CO
+2
+captured and injected, ensuring precise quantification of net carbon removal.
+(b) Monitoring Protocols
+“The Company commits to continuous monitoring of the carbon storage site(s) to ensure the integrity of CO
+2
+storage and to detect any potential leakage or environmental impact. Monitoring activities shall include:
+(i) Real-time monitoring of injection rates and pressures.
+(ii) Regular surveillance of the subsurface via seismic or other geophysical techniques to confirm CO
+2
+plume dispersion and stability.
+(iii) Surface monitoring for any signs of leakage or environmental change.
+All monitoring data shall be recorded and preserved in a secure, auditable database.
+(c) Verification by Independent Third Parties
+“Verification of the carbon capture and storage operations shall be conducted annually by an independent third party selected by the Buyer with expertise in carbon storage verification. The verifier will assess compliance with the agreed MMV protocols, the accuracy of CO2 storage measurements, and the effectiveness of monitoring strategies. The verification report shall be made available to both parties and relevant stakeholders.”
+Figure 6 IPCC’s assessment of CDR shows three functions in different phases of an ambitious pathway.
+Conclusion
+The path to scaling carbon removal technologies critically hinges on the establishment of Carbon Removal demand. Standardization of Carbon Removal Purchase Agreements is essential not only for attracting project financing from major banks but also for building the trust necessary to secure substantial investments. Drawing on lessons from other industries, we understand that clear, streamlined contracts can accelerate industry growth while ensuring accountability. However, it is equally important to ensure these frameworks do not stifle innovation by overburdening the emerging carbon removal sector with excessive legal complexities. The balance we strive for is one where contractual certainty coexists with the flexibility needed to adapt to technological advancements and evolving market dynamics. Initiatives like Frontier are paving the way by demonstrating how advance demand can build trust within the industry. For those of us passionate about fostering sustainable, impactful carbon removal practices, these are exciting times. I write about this topic out of a deep interest in climate action and would be thrilled to collaborate with like-minded professionals looking to explore this dynamic field further. If you are interested in discussing this more, please feel free to reach out.
+1
+"Buyer" in this document refers to any company or fund that finances carbon removal and/or storage. This analysis is based on Stripe’s Carbon Removal Purchase Agreement (CRPA), available on GitHub, where Stripe is identified as the "Buyer." It should be noted that Stripe is a founding member of Frontier, an initiative mentioned in this context, which includes other major organizations such as Meta, Alphabet, Shopify, McKinsey Sustainability, Autodesk, H&M Group, JP Morgan Chase & Co, and Workday.
+2
+"Company" in this document denotes any enterprise, including startups and established firms, engaged in developing carbon removal technologies seeking funding from initiatives like Frontier or aiming to sell carbon credits to significant emitters. Notable examples of such companies that have entered into Carbon Removal Purchase Agreements include Eion, Sustaera, SeaChange, Ebb Carbon, Carbon Built, Heirloom, 44.01, Mission Zero, Running Tide, and The Future Forest Company.
+3
+The chart illustrates the amount of carbon dioxide removals, measured in metric tons, purchased by leading companies committed to mitigating climate change impacts. This data highlights the significant role that corporate investments play in advancing carbon removal technologies. Microsoft leads with a substantial purchase of 3,134,637 metric tons, underscoring their commitment to environmental sustainability. The chart also details contributions from other major corporations like Airbus, Amazon, and NextGen, among others, reflecting a diverse and growing interest across different sectors in carbon removal solutions. Source: Statista 2024.
+4
+See Boehm, S., L. Jeffery, J. Hecke, C. Schumer, J. Jaeger, C. Fyson, K. Levin, A. Nilsson, S. Naimoli, E. Daly, J. Thwaites, K. Lebling, R.Waite, J. Collis, M. Sims, N. Singh, E. Grier, W. Lamb, S. Castellanos, A. Lee, M. Geffray, R. Santo, M. Balehegn, M. Petroni, and M. Masterson. 2023. State of Climate Action 2023. Berlin and Cologne, Germany, San Francisco, CA, and Washington, DC: Bezos Earth Fund, Climate Action Tracker, Climate Analytics, ClimateWorks Foundation, NewClimate Institute, the United Nations Climate Change High-Level Champions, and World Resources Institute.
+https://doi.org/10.46830/wrirpt.23.00010
+.
+5
+See Shopify’s Carbon Removal Buying guide at:
+https://cdn.shopify.com/static/sustainability/Shopify-Carbon-Removal-Buying-Guide.pdf
+6
+This graph displays the total sales versus actual deliveries of carbon removal credits from inception to the present. While sales have surged to an impressive 4 million tons of CO
+2
+, reflecting robust market demand and confidence in carbon removal technologies, deliveries have struggled to exceed 0.2 million tons. This stark contrast highlights significant challenges in operational scalability and the fulfillment of carbon removal commitments, underscoring the need for enhanced technological deployment and reliability in the carbon removal industry. Source: State of Climate Action 2023, World Resources Institute.
+7
+https://web-assets.bcg.com/67/f7/0f41cd074a66b49cdb8baf5e59c0/bcg-the-time-for-carbon-removal-has-come-sep-2023-r.pdf
+8
+Data taken from available CRPAs executed in 2021, costs per ton of CO
+2
+may have decreased since then.

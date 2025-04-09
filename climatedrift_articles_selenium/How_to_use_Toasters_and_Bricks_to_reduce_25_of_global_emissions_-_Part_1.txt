@@ -1,0 +1,68 @@
+Title: How to use Toasters and Bricks to reduce 25% of global emissions - Part 1
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-to-use-toasters-and-bricks-to
+==============================
+
+Dive into
+Climate Drift
+: explaining climate solutions and finding your role in the path to net zero.
+Haven't joined yet? Subscribe now:
+Subscribe
+Hey there 👋
+Skander here!
+Welcome to a new format at Climate Drift:
+Company Deep Dives
+.
+Today we start with Rondo, a company aiming to significantly reduce global emissions - how significantly? Their stated goal is reducing 1% of world emissions in a decade. But this is not where their ambition stops: in 15 years they want to reach 15%.
+So far they have dozens of pilots running and hundreds more in the pipeline. They raised more than $100 million, with their last round of $60 million this year coming from tier 1 climate funds: Breakthrough Energy Ventures, Energy Impact Partners, John Doerr and industrial leaders including Microsoft's Climate Innovation Fund, Rio Tinto, SABIC and Aramco Ventures.
+How do they want to do it?
+Combine a toaster with bricks, and decarbonize industrial heat.
+Today we are first looking at the problem of Industrial Heat, tomorrow we are diving deep into Rondo.
+Let’s dive in 🌊
+Intro
+Industrial heat accounts for 26% of the total global energy consumption. It’s a crucial component in diverse manufacturing processes, be it creating baby food, fuel, cement, or steel, where the majority of energy is used in the form of heat as opposed to electricity.
+Recently, the Department of Energy highlighted that in the United States, the predominant sectors utilizing industrial heat are, in descending order:
+chemicals, food and beverage, paper products—including a range from toilet paper to cardboard—cement, and finally, steel.
+Heat is not equal heat however; for instance, chemicals need about one-third to 50% of all heat in the form of steam, whereas, for food and beverages and paper products, it's primarily steam. On the other end of the scale, for cement and steel manufacturing, steam is not utilized.
+The newest way to decarbonise this heat is a new category of battery, coined as “rocks in a box.” This technology stores renewable energy as heat in diverse materials, from sand to graphite, ensuring a consistent supply of heat for all industrial needs.
+Rondo is emerging as a new player in this domain, developing a rocks in a box battery that efficiently stores heat in bricks.
+But first: let’s dive into the problem of industrial heat.
+From McKinsey’s study on decarbonizing Industry
+🔥 Heat is not uniform
+When considering heat for both buildings and industry, one thing is sure: they use a lot of fossil fuels. In Europe approximately 60% of all the natural gas is consumed for heat.
+However, the utilization of industrial heat is diverse, segmented primarily by the varying temperature requirements of different processes. For instance, cooking processes generally require heat around 150°C in the form of steam, whereas manufacturing cement demands much higher temperatures, around 1800°C.
+In the grand scheme of industrial applications, about 95% of total heat is deployed in processes that operate below 1500°C. More specifically, nearly half to two-thirds of industrial heat applications function below 400°C.
+Industries have distinctive needs; for example, high-temperature industries are relatively specialized and limited, primarily involving steel and concrete production. However, in lower temperature ranges where steam suffices, there are many  smaller, varied industries utilizing heat.
+For now Rondo is focussed on steam, so lower temperatures, as it covers most usecases.
+Let’s take a step back:
+Why is industry currently using fuels and not electricity?
+Historically, the use of off-grid electricity as a primary source of industrial heat has faced significant limitations - the major one being conversion loss:
+When electricity is generated in a power station, only about 40% of the energy obtained from burning fuel is converted into electricity; the rest is lost as waste heat. Furthermore, an additional 5% to 10% of the generated electricity is lost during transmission to the end-user.
+The inherent inefficiency in power generation and transmission, coupled with the operational costs of maintaining power stations and the grid, has historically rendered the cost per unit of electricity substantially higher than that of burning fuel directly.
+Consequently, it has generally been more energy-efficient and cost-effective to burn fuel locally rather than relying on electricity generated from a distant power station.
+Let’s take a step to the side:
+4 ways to decarbonize industry
+As we know: burning fossil fuels is creating a lot of emissions. How can we decarbonise industry then?
+One quick look at our Solutions Map for Industry shows many different pathways:
+Tap/Click to zoom in and explore
+Time to simplify it to 4 approaches:
+1. Carbon Capture and Storage (CCS):
+This is business as usual - but integrates technologies to capture emissions produced and store them underground. This strategy aims to mitigate the environmental impact without altering the processes in place. There are limits however: economical, storage wise, public perception and more.
+Let’s look at this in other deep dive.
+2. Hydrogen:
+A deep dive is also essential for this option, but tldr: it involves converting energy to hydrogen and utilizing it as a fuel source, akin to conventional fuels. In a lot of ways this is fossil fuels with extra steps.
+A note on Hydrogen
+Hydrogen decarbonisation works by producing hydrogen, which is then compressed, stored, and combusted (similar to current fossil fuels). While the cost of electrolyzers is decreasing, the process's overall efficiency is hampered by the laws of physics, yielding approximately one unit of heat for every two units of electricity - due to the involved chemical steps.
+If we look at current industrial boiler systems, where 95% of lifetime cost is fuel, upgrading boilers to run on alternative fuels like Hydrogen becomes economically sensible only when the fuel's economics are favorable.
+Also think about the conversion loss: Hydrogen storage loses about 50% of energy through conversions, whereas lithium-ion batteries offer varying efficiencies, up to 90%. In contrast, thermal energy storage retrieves 90% to 95% of stored heat.
+3. Batteries:
+This alternative focuses on storing energy not as heat but as electrons, through the use of large-scale grid battery storage. While viable, this method tends to be significantly more expensive and less efficient. For example, even the most efficient lithium-ion systems operate at around 90% efficiency, with the remaining 10% lost as heat during the storage process. And modern batteries are expensive to produce and are needed for decarbonizing other sectors (like transportation).
+Just a few months ago, Tesla unveiled their third master plan, detailing their vision for a fully decarbonized world. According to their blueprint, in a world powered by electric thermal storage for industries, we would require twice as much capacity as we would need for batteries connected to the grid to achieve full decarbonization.
+4. Thermal Energy Storage (“Rocks in a Box”):
+This solution involves converting and storing energy in the form of heat instead of combustion, allowing the stored heat to be utilized as needed. This method is emerging as a feasible alternative, offering a balance between efficiency and sustainability - and is the focus of Rondo.
+That was our quick dive into the problem of Industrial Heat and 4 pathways to solve it.
+In the next part we will take a look at Rondo, where they came from, how they are trying to solve the Industrial Heat problem. We will review how far they came already and review some reasons why they will succeed - and some headwinds.
+Looking forward,
+Skander
+PS: If you want to share the industrial heat problem with others - simply click here:
+Subscribe

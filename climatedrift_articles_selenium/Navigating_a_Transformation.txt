@@ -1,0 +1,206 @@
+Title: Navigating a Transformation
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/navigating-a-transformation
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Circular Design champions sustainability, promoting the efficient use of resources through repair, reuse, and recycling. Despite its clear benefits, the question remains: why hasn't it been adopted more widely?
+The reluctance to shift from traditional, consumption-based practices towards a circular economy reflects the challenges seen in digital transformations. Both movements struggle against the inertia of old habits and established systems. Yet, the successes in digital innovation offer valuable lessons for integrating circular principles into businesses, suggesting that overcoming these barriers is not only possible but essential.
+Today we will dive into some of these learnings with
+Jay Bodenhausen
+, the latest Climate Drifter to dive into Climate Solutions and share his learnings.
+Jay transformed his dual passion for Computer Science and Geography into a software engineering career, initially crafting aviation navigation systems from UI to safety. This foundation paved the way for his pivot into Solution Engineering for SaaS platforms, where he applied his expertise to tackle pressing business challenges, culminating in over €50 million in sales. Jay has been setting sales records in two companies and spearheading the expansion of solution engineering practices in EMEA—twice. Now he tackles Climate Solutions.
+If you want to make a difference and bring your talent into climate:
+Apply to our May ’24 cohort and join the Climate Drift community.
+Apply Now
+Let’s dive in 🌊
+There’s not much I remember distinctly from my early years of school, but one thing I do is
+a tune
+Recycle Rex taught us, Close the Loop. I can still hear and sing the refrain of that earworm perfectly, 🎶“Recycle, Reduce, Reuse, and close the loop!”🎶 I don’t know the scope of Recycle Rex’s viewership, but I was damn confident that as a society we were all thinking about how to be more sustainable with materials. What we’d think of as circularity now. Surely we’d be good at this by the time I grew up.
+⏩Fast forward 31 years.
+In the last six years we, Earthlings, have consumed almost as many materials as we did in the entire 20th century.
+And, the status quo model of consumption has pushed us across 6 of 9 of our planetary boundaries related to land, water, and air usage.
+The 2023 update to the Planetary boundaries.
+Licensed under CC BY-NC-ND 3.0
+. Credit: "Azote for Stockholm Resilience Centre, based on analysis in Richardson et al 2023".
+Download the illustration here
+.
+The idea of being more responsible with resources seems simple, practical, and people are interested in it. So why aren’t we seeing more Circular Design practices, like for everything? From a personal perspective, I wanted to know why there was such a gap from where my childhood assumptions told me we would be. Why don’t all of our clothes have a tag telling us where they can be repaired, resold, or recycled like my Patagonia jacket? Why don’t we all know where to access surplus construction materials for our projects? Why is it so rare to get our things refurbished rather than just get rid of them to make room for something new? Why can’t our buildings be disassembled and reused modularly rather than torn down to rubble?
+In short, getting out of the ruts of what we’ve been doing for a long time is really, really hard.
+I started by looking at these barriers to Circular Design, but what I found is that shifting to Circular Design is a huge transformation and that many of these barriers resemble many that we see in Digital Transformations. It seems like we could take lessons from the successes of Digital Transformation to aid the progress of Circular Design.
+Another thing that stuck out to me is that when we think about circularity in business, we need to think about a different kind of business altogether. The needs of this problem are a lot more broad than your typical design innovation challenge. We all need to be aware of this if we want to see its acceleration.
+In this article we’ll examine:
+What Circular Design and Digital Transformation are
+Circular Design vs the Status Quo
+Major Blockers for Circular Design
+Major Blockers for Digital Transformation
+Successful Approaches for Digital Transformation
+Applying Approaches of Digital Transformation to Circular Design
+What Specifically Are We Talking About?
+To understand Circular Design, it’s important to understand the Circular Economy first.
+The idea of the Circular Economy is to create a sustainable way of producing and consuming things that keeps materials and products in use for as long as possible. This can involve sharing, reusing, refurbishing, and recycling as ways to minimize waste and environmental impact while improving resource efficiency and regeneration. Think: acting like nature does where there isn’t a concept of waste. Any end-of-life leads to reuse for a new purpose.
+Circular Economy: 📈economic growth =  🔄replenishing resources + 🌱 environmental health.
+This is in contrast to the status quo Linear Economy where products would be made from extracting resources, creating products, using products, and disposing of them.
+Linear Economy: 📈economic growth = 📉depleting resources  + 😵environmental degradation.
+The image below from the
+Circle Economy Foundation
+helps illustrate these key differences.
+Circular Design then, is the deliberate approach to creating products, systems, and policies in a way that supports the principles of a Circular Economy.
+On the other hand, Digital Transformation is the idea of utilizing digital technology in all areas of a business to improve the way that the business operates and solves problems to provide value to customers.
+Some Examples to Illustrate
+Let’s look at a simple example of a linear product lifecycle. A company designs a product based on solving some customer problem. In this design, how resources are used doesn’t have much limit other than making sure the unit economics work. Externalities, like costs to the environment or greater society, are also ignored. Virgin resources (resources that haven’t been used before) are the basis for creating the product. At this point, there are already some excess resources that will become waste right away. Meanwhile, the finished product gets distributed and sold to a customer. The product gets used by a consumer for some amount of time. Then when the product reaches its end of life, it is disposed of typically ending up in a landfill or burned. Go to any high street/main street shopping area and probably most of the brands have been following this sort of product lifecycle with the goal being to create and sell as much as possible to create economic value.
+Now let’s contrast this to some circular approaches.
+Looptworks
+First, we can look at a company I spent some time near, Looptworks. Looptworks is an award-winning, certified
+B-Corporation
+that apparel industry veterans created with a mission to transform the world's pre & post-consumer excess textile materials into premium circular textiles.  They provide solutions for some of the world’s biggest brands including; Delta Airlines, Walmart, Google, Adidas, and many others.
+Looptworks partners with different businesses that are creating products that have been generating waste, either the extra new materials that weren’t used in the ‘Make’ stage of product creation (e.g. luggage cloth scraps) or by taking items that are at the end of life (e.g. airline seat leather). These can then be used directly as input to design to make new garments or accessories (upcycling). Or the fibers can be sorted, broken down, then regenerated into new fibers that are the input for new products. Whether that be the same types of products the material was originally for (recycling) or new types of products after the qualities of the materials have changed (downcycling).
+With the products they’ve created, Looptworks has offered lifetime guarantees, allowing product repairs. The Loopt Foundation educates about circular solutions.
+Patagonia
+A well-known brand that is often recognized as a leader in circularity is
+Patagonia
+. I’d be surprised if you hadn’t heard of the outdoor apparel brand whose mission is to be “in business to save our home planet.” They are a B-Corporation known for having high-quality products, innovative approaches to sustainability, and being an active advocate for conservation.
+In the realm of Circularity, Patagonia often stands apart for its high-level, purposeful focus. When founder Yvon Chouinard stepped away from the business recently, he left the business to a purpose-focused trust for decision-making, rather than traditional forms of ownership that can often fall for the weaknesses of human greed and the draws of short-term profits. They make sure that you, and they, know their top-level purpose which is important for creating transparency and accountability when making decisions that relate to circularity.
+The brand is also very open when it comes to sharing its impact, supply chain, successes, and more importantly, failures, to help accelerate the path to circularity for others. When it comes to their products, Patagonia focuses on creating long-lasting, durable products using recycled materials. They have educational content and mail-in programs related to repairing products. There’s also the possibility to buy and resell used Patagonia gear through their Worn Wear site (the tag from the jacket I referenced earlier points you there).
+IKEA
+Another household name that we can look at is IKEA. The Swedish furniture brand is well known for making affordable, yet stylish, furniture to fit any lifestyle. Their mission is to create a better everyday life for the people within the boundaries of our planet. They are also known for their modular design, self-assembly, meatballs (now meatless too), and in-store, plus now digital experience, that allows you to find everything you need to furnish a space quickly.
+IKEA wants to achieve full circularity by 2030 and acknowledges that this will impact everything they do from customer interactions, to the products and services they provide, to their entire value and supply chains. IKEA emphasizes that reaching their goals will be based on prioritizing Circular Design. Their modularity invites the possibility to recycle and reuse components for new purposes and product hacks. They offer a program to buy back and resell furniture through stores or an online marketplace. There are also options to recycle various products and other materials. As well as buy spare parts so you can repair your products and tips that educate about sustainable living. They aspire to design all products with circularity capabilities so they can be used longer, adapted, fixed, and disassembled for new use.
+In our Climate Drift accelerator we learned that through the regular evolution of their digital capabilities and landscape, they are constantly finding new ways to experiment with more circular practices. Finally, they are partnering with suppliers and nonprofits to help move others toward circularity.
+I can’t account for everything these companies are doing and most of them will probably admit they still have a long way to go with their Circular Design practices. Yet, their openness, innovation, and ways of interacting with the world are differentiating them and making them leaders in circularity.  They can provide lessons for any business that wants to succeed as more businesses are called upon or required to be more circular in the years ahead.
+Big Differences!
+What you may notice is that operating more circularly means operating a lot differently. A linear-focused company may focus on dealing with suppliers of virgin materials, designing a product that appeals to consumers and creates the margins desired, and then not think much about what happens afterward. This does have its consequences for our finite resources and environment though.
+A circular-focused company starts with partners and suppliers that can provide recycled and downcycled materials (like Looptworks). Then designs are based on not only appealing to consumers and meeting desired margins but also creating durable, long-lasting products, in the right quantities, with minimal excess. Beyond this, the business should think about how to support the repair of products to extend life, packaging with the products, some may choose to allow for the rental/sharing of products as opposed to ownership, and how to facilitate recycling of products when they are truly end of life (again through partners like Looptworks). With all of these extra considerations, it often means that alternative business models need to be used than what worked in a linear economy. Ultimately, rather than depleting resources and negatively impacting life on Earth, we can start to operate sustainably and create benefits for life on Earth.
+Since the circular-focused organization needs to think about so much beyond the product and in so many different areas, Circular Design becomes the business of stakeholders in all areas of the organization. Hint: you don’t have to have “design” in your title to have an impact here. Also, rather than design focusing on a fairly tight product scope, Circular Design requires us to think about designing systems solutions (bigger) that work for interconnected networks of people  (more complex). The upside of this is that more stakeholders have the opportunity to make an impact and contribute their unique skills. The downside is that this is a harder problem to solve and a bigger audience to educate about the space.
+The following are some examples of how different stakeholders may need to think about design for the Circular Economy ( ♻️) in addition to how they do in the status quo linear economy ( ➡️).
+There’s a lot more to think about in Circular Design, but remember that data at the top ⏫👆; we’re using as many resources in the last 6 years as the 20th century in total and exceeding 6 of 9 planetary boundaries. Also, remember the regulations around this are arriving with more on the way soon. Thus, businesses need to move from that linear model to more circular models and they know this. So what are the factors getting in the way?
+Top Blockers to Circular Design
+I looked through a variety of research about the barriers to a Circular Economy as a way to try to find out what is getting in the way of Circular Design (resources shared for further reading
+later
+). Most of the data focuses on the blockers to Circular Business Models as these are a necessary part of the design when products are more robust, reuse is more prevalent, and ideas of access are prioritized above ownership.
+In general, there’s a combination of barriers including internal and external, as well as factors related to technology, legislation, and markets. To sum up, some of the top themes are:
+🙅Resistance to change/risk aversion
+Many long-standing businesses have solidified processes, systems, relationships, and cultures that are geared toward keeping stability with existing approaches and protecting the main form of revenue a company already makes. As such, there is a fear of changing these and the amount of complexity involved with changing so many core elements of the business to support a new way of working that the business hasn’t proven for itself yet. In prioritization processes, timeframes are often short-term focused for payback periods and this also creates a barrier to change since Circular Design requires thinking in extended time frames as resource usage is elongated.
+EXAMPLE:
+Designing for circularity and changing form using virgin materials to secondary (reused) materials would likely entail having to rework much of the existing supply chain for the business and this would take a lot of time, effort, and opens up the possibility for issues with new suppliers that there is not already trust with.
+🧠 Lack of awareness/understanding
+Another challenge standing in the way for many businesses is that they just don’t have experience or understanding of how to operate with a circular approach.
+EXAMPLE:
+A company considering a model that allows for the return of products at the end of life, may find the reverse logistics problem too complicated and intimidating to take on.
+💸 Cost concerns
+It can be slow and expensive to transition to a new approach to business. People are considering the cost of researching, designing, and implementing the new methods. There may also be some new CapEx costs like new equipment needed in the new approach, OpEx for additional labor, or a perception of higher material costs for sustainable materials. At the same time, people worry about the uncertain ROI of this.
+EXAMPLE:
+A company considering adding a repair function needs to consider the labor costs of this function as well as in some places being required to include a VAT cost on repairs.
+🔬 Technology concerns
+The main concern here is that certain areas of solutions are not yet mature or available. Alternatively, organizations may not feel they have the resources that are able to use newer technologies.
+EXAMPLE: If a new sustainable material is available to use for outdoor apparel, businesses may hesitate for it to prove its durability in the market before putting it in a product that gets regular use to minimize risk on the brand’s reputation for durability.
+📜 Regulatory concerns
+The hesitation here can be based on the fact that legislation is often slow to be implemented, some laws may be blockers or disincentivize circularity, and there can be a lack of standardization across entities.
+EXAMPLE:
+If laws prevent the reuse of plastic food containers, even if they are thoroughly washed, a food business may have to incur more costs to be more circular or may be disincentivized from taking more action.
+🗓️ Poor prioritization
+This blocker relates to the fact that planning is traditionally weighted toward short-term, economic gains rather than considering the fact that ecological outcomes are important and can take longer periods to achieve.
+EXAMPLE:
+Management focuses solely on corporate profit over the next quarter, rather than a 3-5 year time horizon that involves considering the sustainability of the business.
+Deja Vu? Digital Transformation’s Challenges
+When I saw these areas, I realized they felt familiar. Having spent over a decade designing solutions with SaaS products, I was regularly situated in the middle of Digital Transformations. These blockers to Circular Design are very common to what I saw getting in the way of Digital Transformations.
+To be clear, there are several unique barriers to the transition to a Circular Economy that aren’t common to Digital Transformation like unlevel playing fields in the market. However, there is a lot that businesses can learn or remember about Digital Transformation that would accelerate a transition to a Circular Economy.
+Digital Transformation started around the time the internet became popular so it has a small head start on the Circular Economy, and in some ways, it was a catalyst for sparking interest in Circular Design because of the access to data and new business models digitization could enable.
+However, we’ve been talking about Digital Transformation almost constantly since it came about. Partly because the technology landscape evolves so quickly that there is always more to keep adapting to stay relevant and efficient as a business, but also because there are still many laggards to this party.
+Something I came to realize is that a lot of organizations fail to digitally transform because they don’t realize / never attempt to change their ways of working. Again, this was commonly for many of the same reasons as the barriers to Circular Design. So it seems like the same techniques that have worked to overcome these blockers to Digital Transformation would be helpful to overcome barriers to Circular Design.
+Let’s look at some of those main blockers to Digital Transformation:
+🙅 Resistance to Change
+One of the primary barriers is resistance from employees who may be comfortable with existing processes and technologies and feel change creates a risk to their position or existing performance. Likewise, resistance can be present in more structured fashions when prioritization processes incentivize more short-term rewards over longer-term transformation. Or siloed business units may pull in different directions creating drag against a transformation. This parallels the resistance to change mindset and the exact structural issues that hinder progress toward Circular Design.
+💾 Systems and Infrastructure
+Many organizations struggle with outdated legacy systems and infrastructure that are not compatible with modern digital technologies. Teams might be lacking the expertise of those who originally implemented them. Integrating new digital solutions with existing systems can be complex and costly. It can also be time-consuming when there is a high level of technical debt (to-do lists of technical needs) for example when data is stored in non-digital forms. This is similar to the technology concerns impeding Circular Design. Both are concerned with moving to a new solution for fear of breaking an existing solution or a lack of trust in it. Timescales can also play a factor here when there are big efforts that exceed the time frames of typical planning.
+💸 Cost and ROI Uncertainty
+Implementing Digital Transformation initiatives can require significant upfront investment, and organizations may struggle to justify the costs without a clear understanding of the expected return on investment (ROI). This is almost the exact sort of cost concern we see in the way of Circular Design.
+🧠 Lack of Digital Skills and Talent
+Digital transformation requires a workforce with the skills and expertise to leverage new technologies effectively. However, there is often a shortage of talent in new areas. There is a clear link here to the lack of awareness/understanding that holds back Circular Design.
+🔒 Data Security and Privacy Concerns
+With the increasing reliance on digital technologies comes the risk of data breaches and privacy violations. Organizations must address cybersecurity challenges to protect sensitive data and comply with regulations. Like the regulatory concerns of operating in an emerging Circular space, there is lots of new ground in new digital landscapes that also have significant regulatory implications.
+🗓️ Misalignment of Goals
+Commonly, businesses will focus on burning issues, enhancements that are flashy but don’t solve strategic problems, or underestimate the need for investment in change management or innovation needs. As such, the objectives and key results for a business define work that doesn’t support the longer-term, deep investments required for successful digital transformation. This is very similar to planning that over indexes on short-term, economic results that delay a business's circular transition.
+Now I hope you are also seeing a lot of the overlap I’ve been seeing.
+What Have Digital Transformations Taught Us About How to Approach These Challenges?
+🌀 Build a Culture of Innovation
+WHY:
+A culture of innovation is one that sees change as essential and embraces it to help move towards desired outcomes rather than resist change while continuously gaining learning along the way.
+Align goals and incentives to reward experimentation.
+Support training and education on new methodologies and skills that raise the organizational skill set and normalize the company’s ability to lead.
+Consider having innovation labs/teams that are run outside of the systems and processes of the core business so they can innovate without being burdened by them.
+🤝 Collaborate Cross-Functionally
+WHY:
+Alignment, buy-in, and feedback of all departments are critical to effectively move towards goals and away from the status quo without gaps or conflicts.
+For Digital Transformation this creates alignment as digital solutions become pervasive in all parts of the business. For Circular Design this can create alignment between different stakeholders that will now be essential to implementing circularity, as we explored above.
+Identify and involve various key stakeholders in the process of plotting the course for change to gather diverse perspectives, address different areas effectively, and create broad buy-in.
+Identify and empower champions for initiatives who will continuously build momentum with your key stakeholders and drive the change when there is resistance.
+Don’t forget to include external stakeholders like customers and partners who can extend your business’ expertise and make your solution more relevant.
+📚 Educate and Keep Educating
+WHY:
+People need support and resources that help them understand new technology, the whole picture around change, and to gain needed skills and understanding.
+This all starts with helping people understand why the status quo isn’t working so that people buy into the need for change.
+As pointed out above, growth opportunities help with innovative culture as you assimilate new skills.
+Training and education are also an important part of introducing and reinforcing new ways of working within the organization.
+Just telling people how to do something isn’t enough though, people need to understand the benefits of new ways of doing things. Make sure to help them understand how they improve on value, efficiency, or other meaningful areas.
+🤸‍♂️ Improve Agility
+WHY:
+Create the processes that allow for understanding, effective learning, team alignment, risk reduction, and quickly adapting in a changing environment.
+See failure as helping improvement and design experiments in a way that allows for testing the feasibility of solutions fast.
+Break bigger initiatives into smaller, more manageable increments that can be more reasonably accomplished while still providing value.
+Frequently reflect with short feedback loops so you can understand and react quickly.
+Foster teams that run autonomously, but share openly.
+Create rituals and artifacts that support the cross-functional collaboration, innovative culture, and growth-minded environment you are creating.
+Cross-functional collaboration was highlighted for its own merits, but it’s also crucial to be able to create organization-wide agility.
+📈 You Don’t Have to Boil the Ocean, Take a Phased Approach
+WHY:
+Optimize the balance between the best solution for a problem and the amount of investment and risk needed to create it. A manageable project can lower barriers to entry, create clarity on useful metrics like ROI, and build confidence in the technology along the way.
+Start with a single pilot project, measure KPIs, prove ROI, and iterate while expanding scope. Focus on minimizing resources, budget, and time needed to test solutions.
+Gradually modernize systems preferring approaches that allow you to focus on managing the impact of change and becoming more focused on delivering on core competencies.
+Scale up solutions in a manner that allows you to ensure that they remain sustainable and aligned with goals.
+🎯 Prioritize Long-term Vision and Strategy
+WHY:
+Assure that near-term actions will lead to the broader results the organization needs to be successful.
+Make sure you have a long-term vision and strategy that considers where the market, customer, regulation, and technology are headed.
+Ensure that plans made connect to higher level strategies.
+Holistically look at teams, projects, technologies, and initiatives to avoid duplications of effort and optimize the path to success.
+Develop change management capabilities so teams can execute on the paths needed to achieve key strategic needs.
+Revisiting Circular Design Blockers with Digital Transformation Tips in Mind
+🙅 Resistance to Change / Risk Aversion Example
+🔒 Designing for circularity and changing form using virgin materials to secondary (reused) materials would likely entail having to rework much of the existing supply chain for the business and this would take a lot of time, and effort, and opens up the possibility for issues with new suppliers that there is not already trust with.
+🔑 Here a culture of innovation can give teams a willingness and readiness to take on this challenge. You may already have practice making improvements in the supply chain and teams or incentive structures that would bias the team toward action. Meanwhile, growth and training materials would help teams understand the need and alternatives for improvement. Tight collaboration would ensure that key stakeholders have helped inform the best decisions and are aware of coming changes to reduce their impact. Finally, pilot projects and agile methodologies will allow changes to be tested in manageable ways that aren’t overly costly and can help determine a plan for the overarching change.
+🧠 Lack of Awareness / Understanding Example
+🔒 A company considering a model that allows for the return of products at the end of life, may find the reverse logistics problem too complicated and intimidating to take on.
+🔑 In this case, a spirit of innovation and working with agile methodologies can create a willingness to experiment with problems like reverse logistics to learn and improve awareness. Likewise, you can continue to seek and create growth tracks to build understanding within the business.
+💸 Cost Concerns Example
+🔒 A company considering adding a repair function needs to consider the labor costs of this function as well as in some places being required to include a VAT cost on repairs.
+🔑 If the company is using agile methodologies to break efforts down into more consumable sizes along with an approach of starting small with a project, you can begin to get a real understanding of the costs and ROI involved in adding repairs (or any relevant taxes) without adding much risk.
+🔬Technology Concerns Example
+🔒 If a new sustainable material is available to use for outdoor apparel, businesses may hesitate for it to prove its durability in the market before putting it in a product that gets regular use to minimize risk on the brand’s reputation for durability.
+🔑 The culture of innovation would create an openness to experimenting with things like new materials. Meanwhile, regular training and education about new materials would create an understanding and familiarity that can make it more ready for use in products. Pilot projects can help with launching in a manageable way while building trust in the new technology.
+📜 Regulatory Concerns Example
+🔒 If laws prevent the reuse of plastic food containers, even if they are thoroughly washed, a food business may have to incur more costs to be more circular or may be disincentivized from taking more action.
+🔑 An innovative culture means regularly exploring new ways to create or incentivize more reusable food containers. Meanwhile, pilot projects and agile methodologies will help with quickly testing these approaches, iterating, and being ready to make more adjustments as regulations around plastic food containers or costs evolve.
+🗓️Poor prioritization Example
+🔒 Management focuses solely on corporate profit over the next quarter, rather than a 3-5 year time horizon that involves considering the sustainability of the business.
+🔑 Quite simply, prioritizing long-term vision and strategy can ensure that there is a counterbalance to short-term economic thinking. Looking further ahead will reveal the importance of ecological considerations for the long-term viability, economic success, and market leadership of the business.
+Hopefully, this provides a clearer picture of how an organization can use the best practices of Digital Transformation to help clear some of the main blockers to more Circular Design. These approaches ready organizations for change, make sure they are enabled with key knowledge and understanding for adoption, build a deep understanding of the costs and ROI related to a solution, and allow for effective iteration and adaptation for a changing environment.
+As I write this, it’s also clear that there’s probably another post to be written about the enablers, aside from the solutions to blockers, that could also be useful to aid the growth of circularity. Such as the utilization of technology to support better data management, defining high-level purpose to shape culture, and good leadership practices.
+Why Not Do Both?
+I alluded to it before, but there is a direct relationship between the transition to a Circular Economy and Digital Transformation. For companies that need to digitally transform as well as transition to a more circular approach, there is an opportunity to use these approaches to learn as an organization and double the benefits with progress on both fronts. In Climate Drift, we’ve even heard from one of the directors of circular strategy from a universally known company who shared that embracing digitalization has constantly brought up new options for circularity in their journey. Such as the idea of digital passports and second-hand marketplaces. So it is not just valuable to apply the ideas of one transition to another, but also to embrace the two shifts together.
+While you’re at it, as you get things moving (a little at a time), consider the valuable tips Johann Boedecker and Ben Crispin shared with Climate Drift to
+avoid key roadblocks on the way
+. Additionally,
+The Ellen MacArthur Foundation and Circle Economy are brilliant resources for guidance on Circular Design and the Circular Economy more broadly.
+For deeper dives into the barriers to circularity, some sources I found helpful were:
+Barriers to a circular economy in small- and medium-sized enterprises and their integration in a sustainable strategic management framework
+Drivers and barriers of circular economy business models: Where we are now, and where we are heading
+The route to circular economy
+The Circularity Gap Report 2024
+Conclusion
+The lessons of our journey through the never-ending realm of Digital Transformation can offer us important traction needed for the shift to Circular Design. As we realize the harsh reality that our consumption patterns have pushed us beyond the planet's limits, the analogy between overcoming barriers in Digital Transformation and adopting Circular Economy principles becomes not just insightful but potentially critical. Much like Digital Transformation, the shift to a Circular Economy will require a holistic rethinking of responsibilities and practices. Emphasizing sustainability, resource efficiency, and a system that strives to achieve the waste-free systems of nature. Lessons such as cultivating a culture of innovation, encouraging cross-functional collaboration, supporting learning, increasing agility, and adopting an incremental growth approach can help us clear key blockers to Circular Design. This helps us make progress toward environmental stewardship while also supporting ample opportunity for compelling economic growth. I certainly don’t think that such modern approaches can hurt our progress. Maybe the seeds planted by characters like Recycle Rex and the gaps we see in our youthful expectations of the future can spark the action we need. What do you think?

@@ -1,0 +1,149 @@
+Title: The Path to Responsible Mining
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-path-to-responsible-mining-211
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there!
+Skander back again for Part 2 of our series on mining and the energy transition. In
+Part 1,
+Samuel broke down why mining is necessary for achieving our net zero goals and shared some real-world examples.
+The Path to Responsible Mining
+Samuel Weingast
+·
+August 13, 2024
+Read full story
+Now, in Part 2, we’re diving deeper into how we can responsibly source the minerals needed for renewable energy technologies. Samuel will explore three major strategies to reduce the environmental and social impacts of mining, along with a few additional approaches that are gaining traction.
+Whether you’re a battery manufacturer or just curious about the future of sustainable mining, this is a must-read.
+Let’s dive in 🌊
+But first: Who is Samuel?
+Samuel Weingast
+is an environmental leader with over a decade of experience at the intersection of climate, entrepreneurship, and education. His work spans ecological restoration projects, where he has led teams of 10 or more to significantly improve biodiversity, water quality, and fire resilience across 20 different sites. Samuel’s hands-on approach and deep understanding of ecological systems have driven impactful environmental solutions that go beyond theory, delivering real-world results.
+In addition to his restoration work, Samuel is a seasoned entrepreneur, having founded two businesses that serve over 120 clients. Self-taught in marketing, business development, and operational efficiency, he has built a custom CRM system to streamline his operations. Currently, Samuel continues to focus on bridging the gap between environmental science and practical applications, with a strong emphasis on sustainable development and responsible resource management.
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+The issues created by extracting minerals out of the ground are myriad. No one solution can tackle the whole issue at once, so we must tackle a few different areas. I will discuss three major solutions to these problems as well as briefly touch upon a few in less detail, and then explain how, as a battery manufacturer, you can make sure you are sourcing responsibly.
+Shishen Mine, South Africa
+Solution One: Symbiotic Partnerships with Locals
+When mining companies knock on the doors of communities, often indigenous, locals fear disease, contaminated water, and cultural destruction. As global mining capacity needs to rapidly expand, communities frequently resist due to potential irreversible impacts on their lifestyle
+The solution lies in forming positive, collaborative partnerships between mining companies and local communities. Companies should court communities as they do shareholders, providing tangible benefits like new hospitals, long term jobs, community development programs, environmental stewardship, emergency support, and cultural investment, ensuring protection for cultural and natural sites.
+The UN Declaration of the Rights of Indigenous Peoples
+mandates that indigenous communities need to have free, prior, and informed consent for development that impacts their land, which is often overlooked.
+The
+First Nations Major Projects Coalition
+(FNMPC) exemplifies effective tribal partnership. First Nations seek more than consent. They desire agency in decision making and a share of the economic benefits. Indigenous involvement is crucial for achieving net zero goals and ensuring environmental care is integrated into mining.
+Companies must strive to understand and address community concerns, ideally starting in the exploration phase. Michael Rowley, CEO of Stillwater Critical Minerals, advocates for early stakeholder dialogue to clarify the potential benefits, possible impacts, and mitigation strategies. He emphasized mining to first-world standards, acknowledging and understanding the environmental footprint of mining, allowing for informed decisions, promoting transparency and trust with all involved stakeholders.
+Case Study - Sibanye Stillwater Mine and the Good Neighbor Agreement
+In the same rural region of Montana that Stillwater Critical Minerals plans to develop a mine in, the Good Neighbor Agreement (GNA) was established between mining company Sibanye Stillwater and local communities after a proposed mine expansion in the mid 1990s. This agreement legally binds the company to a standard exceeding federal or state regulations, granting local communities a say in mining activities. Since its inception, there have been no instances of arbitration or environmental litigation - a notable achievement for any mining operation.
+The GNA includes stringent, enforceable water quality standards and ensures transparency and preemptive problem solving by involving local communities. Sibanye Stillwater fully funds the process, providing funds for the community to hire its own independent scientists and legal experts, recognizing this as the cost of doing business. The agreement also sets goals to develop and utilize new technology to protect the environment.
+The GNA serves as a model for new and existing mines, demonstrating that a partnership can benefit instead of harm a community. Establishing and maintaining community relationships is far more cost effective than engaging in a lengthy legal battle. The GNA is seen as a standard business expense, enabling Sibanye Stillwater to operate a lucrative mine.
+Sibanye Stillwater’s mine in pristine Montana
+Solution Two: Battery Recycling
+Battery recycling is a promising global strategy to mitigate the impacts of mining. Metals used in batteries can be reused, and as more batteries reach their end of life, recycled metals will increasingly contribute to supply. Although recycling may not make a major dent in supply until the 2040s, over time it will help us reduce reliance on mining.
+Recycling metals uses significantly less energy than mining and smelting new material, and yields a higher grade (quality) than those we extract from ore. Up to 80% less energy, 70% less CO2 emissions, and 80% less water, according to
+Redwood Materials
+. In theory, materials can be recycled indefinitely, though challenges persist due to lack of standardization in battery production. Each battery’s unique composition complicates the development of efficient recycling facilities.
+Since EVs are relatively new, recycling companies are emerging, but the supply is not yet there. But we may be on the cusp. By 2030, a plethora of end of life batteries are expected. Most of these batteries contain cobalt, potentially reducing our dependence on exports from the
+Democratic Republic of the Congo
+, notorious for child labor and poor working conditions.
+Redwood Materials
+and
+Li-Cycle
+are leading innovations in the field. Redwood Materials employs a process called reductive calcination, recovering about 90% of the critical raw materials from batteries with lower CO2 emissions and less environmental impact than traditional mining. Li-Cycle’s
+Spoke and Hub model
+aims to produce 8,500 tons of lithium per year by 2024. Currently the US produces only 5,000 tons of lithium per year, surpassing current U.S. lithium production and making recycled batteries a major North American lithium source.
+While battery recycling will gradually lessen the need for new mining, this is a long-term solution and will not immediately reduce mining needs.
+Li-cycle recycling plant
+Solution Three: Renewable Energy Integration
+The third solution to mitigate impacts of mining is to integrate renewable energy into mines, which account for about 10% of global emissions. Although global mining needs to expand by 2-300% globally to meet the Paris Accords, it is feasible to reduce impacts by 90% with current technology, aiming for net zero emissions.
+Traditionally powered by coal, oil, and natural gas, mines are under increasing pressure from regulators, investors, and customers to decarbonize. While reducing emissions doesn't directly address other environmental impacts like habitat destruction, water quality, and biodiversity loss, it significantly contributes to planetary decarbonization.
+Major mining companies,
+BHP
+and
+Rio Tinto
+, are committed to and making progress towards reducing emissions. Key emission sources from mines include hauling trucks (20-25%), crushing equipment (20%), bulldozers (7%), and excavators (5%). According to
+Mckinsey & Company
+, achieving net zero for a typical 25-million-metric-ton shooting for between 2030 and 2040 will cost between $100 and $130 million.
+Initial cost effective strategies include improving operational efficiency, adopting green energy alternatives, switching to existing sustainable fuels, potentially cutting emissions by 60% within three to five years. In the longer term, considering technology still in development, companies should adopt either battery electric vehicles or hydrogen fuel cells.
+Improving operational efficiency through modest investments in optimal equipment and processes boosts productivity, cost effectiveness, and reduces less waste. This generates more funds supporting larger environmental initiatives without substantial upfront capital.
+In the coming years, transitioning to battery electric vehicles or hydrogen fuel cell vehicles will significantly reduce emissions from rock transportation. Many companies are developing prototypes of such clean vehicles. For example,
+First Mode
+is developing hydrogen fuel cell haulers, Boliden has implemented a
+pantograph-charged hybrid
+system at Aitik mine, Sweden, and Newmont Goldcorp has set up the world's first
+fully electric mine
+at Borden in Ontario, Canada.
+Additionally Mines are increasingly using
+microgrids
+with renewable sources like solar, wind, and geothermal potentially cutting emissions by up to 50%. Companies such as
+MineSense
+,
+Intellisense.io
+, are pivotal in advancing sustainability initiatives in mining operations.
+Boliden’s electrified hauling truck
+Check out this graph of green mining technology projected to be available in the next ten years.
+A Note on Geography and Global Metal Exchange
+China dominates the global battery market but bears a higher carbon footprint, approximately 20% higher than the US, mainly due to coal use and mining practices. Similarly, Indonesia, a leader in nickel production, also uses coal, engages in deforestation and a much
+more environmentally harmful extraction process
+.
+The London Metal Exchange, the largest global trading hub for metals and a key price setter, owned by Hong Kong Exchanges, does not currently differentiate metals based on their environmental, social and governance (ESG) standards. For instance, all nickel is treated the same. Introducing price variations based on ESG ratings could incentivize more responsible mining practices.
+Furthermore, it is crucial for manufacturers to prioritize and invest in responsible metals, rather than simply purchasing large, inexpensive quantities from markets like China. BHP has been closing nickel mines that, despite having better working conditions and environmental standards, than those in China, are unprofitable. We crucially need to establish a market based on environmentally and socially responsible mining practices.
+Honorable Mentions
+Emerging technologies and techniques may revolutionize mining and battery production, though many are still in development and not yet available at scale. Here are a few promising innovations:
+Sodium Ion Batteries
+: Utilizing abundant sodium, these batteries offer a potential alternative to lithium ion batteries. Sodium ion batteries could significantly reduce the demand for lithium, making them an attractive option for widespread use. Companies such as Bedrock Materials are advancing this technology.
+Solid State Batteries
+: Known for their safety and efficiency, these batteries use a solid electrolyte instead of a liquid one. The design could potentially eliminate the need for cobalt and nickel, which are currently used in lithium ion batteries. Quantumscape is one of the notable companies developing solid state technology.
+Direct Lithium Extraction
+: Similar in function to a water softener on a kitchen sink, this innovation extracts lithium with minimal environmental impact. It promises to revolutionize lithium production by reducing the process from years to hours and minimize land disruptions. Chile has nationalized its lithium production and aims to implement this emerging tech on scale.
+These technologies, if scalable, could drastically decrease the environmental footprint of battery production and mining, while also addressing resource scarcity.
+Conventional land intensive lithium evaporation ponds in the Atacama Desert
+Modern Mine Waste Management
+Mines extract minerals but generate substantial waste - 99% of excavated material becomes mine waste, typically stored behind tailings dams, a mixture of rock, water, and harmful chemicals. These tailings are often linked to significant environmental issues.
+To mitigate these problems, modern techniques such as Dry Stack Tailings and Underground Tailings Storage have been developed.
+Dry Stack Tailings
+: This method involves drying the waste to reduce risk of dam failure and water contamination. It also allows for the recovery and recycling of wastewater, enhancing safety and reducing environmental impacts.
+Underground Tailings Storage
+: This approach mixes waste with binders and repositions it underground, stabilizing the area and minimizing the surface footprint.
+Additionally,
+Carbon Dioxide Removal
+is an emerging solution to utilize tailings waste, some of which has the ability to naturally absorb carbon dioxide on a geologic time scale. Startups such as Arca are accelerating this process potentially, potentially turning mining waste into a major tool for reducing atmospheric carbon dioxide. This could be a game changer for the industry, turning a byproduct of mining into a carbon sink and beneficial asset for the environment.
+One of Arca’s mobile rovers
+How to ethically source materials
+Purchasers of minerals are increasingly expected to commit to sourcing responsibly. Despite the challenges posed by the rapid pace of the energy transition, which necessitates vast quantities of metals, due diligence in sourcing is essential.
+Mining has impacts even when it is done right, which underscores the need for global responsible mineral sourcing. This is a massive undertaking, but in all such issues, every small bit of pressure counts.
+If you are a consumer, next time you are purchasing a new phone, computer, or electric vehicle, inquire about the origins of the metal. Individual pressure, although seemingly small, contributes to a broader change.
+If you are a company that produces batteries or other renewable technology, it is imperative that you map your supply chain back to extraction. This involves working closely with refineries and smelters to conduct due diligence, incorporating clauses about human-rights and environmental best practices, and establish processes to monitor, audit, and act on non-compliance within the supply chains.
+Companies like
+Circulor
+can trace the whole supply chain, providing detailed information such as CO2 intensity and production dates, helping confirm the responsible sourcing of materials.
+IRMA’s role in Responsible Sourcing
+Manufacturers looking to responsibly source metals should leverage their purchasing power to require or request their suppliers get audited by the Initiative for Responsible Mining Assurance (IRMA). As an independent body, IRMA sets stringent mining standards stricter than any existing government regulations. These standards emphasize transparency, environmental protection, and community rights. Membership requires mining companies to have mines independently audited against the IRMA Standard, and publicly report the results. IRMA does not declare a mine as “responsible.” It rates the mine on a score out of 100 on many criteria such as workers rights and transparency, providing a clear path forward.
+IRMA's comprehensive approach is designed to equip all affected stakeholders, including Indigenous rights holders, local communities, and labor organizations, with necessary information to engage with mines on improving their operations. An IRMA audit offers detailed scores and explanations for each of the 400+ requirements, presenting public scores that offer clear metrics for mines to minimize their impacts and improve operations.
+Membership in IRMA helps companies enforce stringent standards and also demonstrates their commitment to being on the frontier of global efforts in responsible mining and sourcing.
+Here is a list
+of companies partnered with IRMA.
+Here is a sample letter
+manufacturers can use to ask their suppliers to undergo audits.
+IRMA auditing process
+Case Study: Albemarle Lithium Mine in Chile
+-
+read the 180 page audit here
+Albemarle operates a lithium mine in the Northern Chile’s Atacama Desert of which underwent an IRMA audit. Despite scoring over 70% across four major sections - 72% in Business Integrity, 82% in Planning for Positive Legacies, 75% in Social Responsibility, and 85% in Environmental Responsibility - the mine received a classification of IRMA 50 out of 100. This underscores the stringent nature of IRMA’s standards and highlights that achieving a high score does not necessarily mean a mine “responsible”.
+As stated earlier, a mine has impacts even when it’s done right. There are still ongoing complaints about Albemarle’s operations. Nonetheless, the audit represents a significant step towards improving social responsibility and fostering a better relationship with local communities.
+Furthermore, Albemarle has committed to sharing 3.5% of mine sales from with 18 indigenous communities nearby the site, setting a precedent for benefiting local populations in areas affected by mining communities. This practice could serve as a model for new mining operations aiming for social equity and sustainability.
+Albemarle's mine in Chile
+In Conclusion
+Responsible mining is still a developing field, yet it holds significant potential for the future as demand for critical minerals grows. We’ve explored several strategies to mitigate mining’s impacts such as battery recycling, renewable energy integration, and creating collaborative relationships with local communities.
+As demand for critical minerals increases, we will see more manufacturers and consumers demand responsible mining practices. Additionally, regulatory pressure on mining companies will increase. As technology advances, its integration into mining operations, both large and small, is expected to become more prevalent.
+We must tread carefully as we navigate the energy transition. The global scale of mining is set to expand and it is crucial to go about this responsibly. The overall goal is to reduce the environmental impact of mining and enhance the benefits to local communities. Transitioning to renewable energy sources is expected to significantly reduce the amount of carbon emissions and required land use significantly.
+Every participant in the mineral extraction chain, especially those who purchase minerals, must commit to transparent and responsible practices. We have an opportunity in the 21st century to reshape the world in ways we want to see, rather than continuing a legacy of extraction and depletion. By adopting and advocating for responsible mining practices, we can help ensure a more sustainable and equitable future for all.
+If you're interested in discussing these topics further, I would love to
+connect
+. Please feel free to reach out.

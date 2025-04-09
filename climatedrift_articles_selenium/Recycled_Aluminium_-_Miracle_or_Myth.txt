@@ -1,0 +1,414 @@
+Title: Recycled Aluminium - Miracle or Myth?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/recycled-aluminium-miracle-or-myth
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there!
+Skander here.
+After last week's
+100-page guide to Advanced Air Mobility
+, we're back with another deep dive. This time, we're exploring aluminium and why so little of it is actually recycled.
+When Matt first mentioned this topic, I was surprised. Isn't aluminium the miracle material that's almost 100% recycled? As it turns out, this is only a half-truth, often seen with big numbers in climate discussions.
+So today, let Matt take us through his deep dive into the aluminium value chain and how recycling really works.
+Let’s dive in 🌊
+But first: Who is Matt?
+Matt Granger
+is a Product Design Engineer with 12 years of experience working with brands across consumer electronics, medical devices, automotive, and the cycling industry. For the past 7+ years in the cycling industry, he has navigated complex regulations and standards in these fields.
+For 4 years, Matt led product development at Islabikes, where he focused on integrating insights from their circular economy incubator into the core linear business. He also wrote their first impact report and developed user centred products for marginalised groups - picking up a RedDot design award along the way.
+Currently, Matt leads the e-bike engineering team at the international brand and design agency, KISKA. He is passionate about reducing unnecessary production and exploring how the EU Green Deal can create new opportunities for stronger product connections and diversified revenue streams for brands.
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+1. Introduction
+Aluminium is a metal that doesn’t rust and allows engineers to create relatively lightweight structures. Alongside that, it has impressive accompanying environmental statistics such as being infinitely recyclable with 75% of all Aluminium ever produced still in circulation.
+With a resume like that, it's easy to see why it has become ubiquitous in daily life with a significant chunk of society seeing it as the poster-boy for closed-loop miracle materials.
+Fig.1
+Aluminium Can Recycling Rates Across Europe in 2022
+But is that really the case? Or could it be that Aluminium is in fact not a closed loop at all and that marketing programmes filled with half-truths are stopping us from understanding the full picture?
+Having spent the last 6 weeks digging into this topic, my short answer to that is: quite possibly!
+Throughout this article I will use the industry that I know most thoroughly, bicycles & e-bikes, to deep dive on this topic. At the end I’ll close with some practical tips on how to course correct from our current position.
+Now take a breath. I’ve been working in the bicycle supply chain for +7 years and a lot of what I found here shocked me. Make a cup of tea and take a comfortable seat as we jump down the rabbit hole…
+Fig.2
+Jumping Down the Rabbit Hole
+2. BROMPTON x NORSK HYDRO’S 100% PCR RIMS
+In June 2024, the infamous UK folding bicycle manufacturer Brompton announced that they have partnered with Norwegian Aluminium giant Hydro to begin producing their rims from 100% PCR (post-consumer-recycled) content.
+Fig.3
+Brompton Hydro CIRCAL 100% PCR Rim
+Brompton‘s range is largely constructed from fillet brazed steel tubing which makes up the largest proportional mass of the overall bicycle weight. However, following an LCA (Life Cycle Analysis) of their products, the team identified that their use of Aluminium in rims (Fig.4 W3) and cranks (Fig.4 T2) were one of their most significant emissions hotspots.
+Fig.4
+Brompton Parts Diagram
+For those not familiar with the terminology, a "hotspot” in LCA refers to areas within the product‘s manufacturing materials and/or processes that have comparatively high levels of impact upon the environment (carbon emissions, water pollution/consumption etc). Understanding these hotspots is a useful method of prioritising transformation efforts that will have the most impact.
+In comparison to the rest of the industry, the mass of Aluminium within a Brompton is a relatively small percentage of the overall total vehicle mass. In other words, Brompton’s hotspot represents somewhat of a mountain for the rest of the cycling industry to climb!
+Hydro‘s marketing marketing material shows their range of low-emissions Aluminium options showing up significant reductions in CO2e / Kg emission factors compared to the use of virgin material and ‚industry average:
+Fig.5
+Hydro v Market Average Aluminium Emissions Factors (Sourced from Norsk Hydro’s Promotional Material)
+So, if recycled Aluminium is in such abundance, why aren‘t we seeing the use of 100% PCR-content materials like Hydro CirAl 100R in Aluminium bicycle and e-bike frame constructions? I wanted to find out…
+3. WHY ARE BICYCLE FRAMES BUILT FROM ALUMINIUM ALLOY?
+Steel, Aluminium Alloy, Titanium and Carbon Fibre are ubiquitous in the fabrication of any lightweight vehicle structure and each comes with its own pro’s and con’s. Below is a short summary of them using the bicycle frame as a reference. Skip to Section 2 if this isn’t your bag!
+Steel
+Steel in bicycle frames is not made equal. Many price sensitive brands will use Cromoly (or 4130) which has a low material cost but also a low-mid tensile yield strength*. This means that manufacturers need to use tubes with thicker wall thicknesses to achieve a safe frame design. Ultimately this creates a relatively stiff and heavy frame with poor corrosion resistance (unless treated) but potentially excellent fatigue life.
+*Tensile yield strength is the point at which a material will begin to permanently deform (change) under a tensile (stretching) load.
+Fig.6
+Indicative Comparison of Ti/Fe/Al Endurance Limits
+There are also more ‘exotic’ grades of Steel like cold-worked air-hardening Steel Alloys from Reynolds (631/853) or the British Standard BS4 T45. These have a significantly higher tensile yield strength which allows the wall thicknesses to be thinner and the tube profile a smaller diameter for the equivalent frame structural performance. This allows bicycle designers to create a frame with more compliance along with a weight reduction. The downsides are that this grade of steel is expensive, much harder and therefore difficult to cut and prone to cracking, requires TIG welding or brazing (skilled & slower processes) and still has poor corrosion resistance. An alternative to address the latter is Stainless Steel but that drives the price even higher.
+Titanium
+Titanium is less dense than steel but a similar tensile yield strength to premium Steel Alloys giving it a better strength to weight ratio. It also doesn‘t rust meaning that Ti frames can be left in their raw condition with the finish being maintained with a periodic scotch pad rub down. Secondly, the welding process with Ti is extremely vulnerable to contaminants and has to happen in a clean environment - preferably a vacuum.
+A benefit of both Steel and Titanium is its endurance (or fatigue) life. Both materials have an excellent endurance limit which, in simple terms, essentially means that it has a near-infinite fatigue life when stresses in the frame are kept below a certain value. Steel slightly beats Titanium and they are both significantly higher than Aluminium:
+Fig.7
+Indicative Comparison of Ti/Fe/Al Endurance Limits
+Carbon Fibre
+Carbon has a superior strength-to-weight ratio to all of the above options and can be tuned to add stiffness/strength in local areas. This makes it a favourable choice for lightweight performance bicycles such as road racing frames. The downsides are that it requires investment in expensive mould tooling, the layup process is slow, it produces a high quantity of scrap frames, it is difficult to recycle, it has a poor resilience to impact and the dust produced when grinding/machining it is toxic to inhale. Carbon frames won‘t corrode but they do require protection from UV exposure.
+Aluminium Alloy
+Aluminum Alloy exists to service a middle ground between all of these options. It has a relatively low density but is also soft and has the lowest tensile yield strength. This means that tubes need to have thick walls and a large cross-sectional area to achieve the required stiffness and strength characteristics of the frame. The grades typically used within the cycling industry have a good resistance to corrosion but a relatively poor endurance limit making them more prone to cracking in fatigue.
+However, there are three further key reasons why Aluminium is used so predominantly:
+Aluminium‘s current abundance makes it relatively cheap as a raw material.
+The grades used are very easy to machine, casting, extrude, cold form and hydroform.
+It's easy to weld with both human and robot TIG and MIG - despite requiring T4 or T6 post treatment to restore its strength after welding.
+Fig.8
+Heat Treatment Definitions
+Ultimately, Aluminum frames (& components) hit the sweet spot for many in the industry for price, weight, ease of manipulation/forming/fabrication, performance characteristics and freedom of shape in the frame design. This is not the exclusive rule. Indeed Brompton themselves are building from Steel and Titanium for some of the aforementioned reasons.
+There are companies exploring other materials in bicycles such as Magnesium, injection moulded Plastic and even Wood but these make up a very small quantity of the bicycles produced today. Still, an exciting space to watch!
+↑ Section 3 Summary:
+Aluminium is widely used in bicycle frame construction because it can be used to produce a relatively light, low cost, inexpensive frame with good corrosion resistance and design freedom over tube forms.
+4. WHY REDUCE OUR USE OF PRIMARY (VIRGIN) ALUMINIUM?
+Before we dive deep into the intricacies of this topic, it's important to have a baseline understanding of how Aluminium as a material comes into being.
+Aluminium makes up approximately 8% of the total mass of our planet and is the most abundant metal on Earth. However, it doesn't naturally exist anywhere in its pure form. Typically, Aluminium Ore needs to be extracted from a sedimentary rock called Bauxite. The map below from the USGS gives an overview of the distribution of Bauxite deposits across the world.
+Fig.9
+Global Distribution of Bauxite
+The mined Bauxite then goes through an energy intensive manufacturing and refining process to first extract Aluminium Oxide via the ‘Bayer Process’ before smelting and producing pure Aluminium. This is illustrated in the diagram below.
+​​
+Fig.10
+Overview of the Process for Manufacturing Aluminium from Bauxite
+Embodied Energy
+This statistics around the level of energy embodied within Aluminium products is already very well covered. Rather than butchering somebody else’s words, I’ll leave some of the quotes that have particularly resonated with me here:
+“Although aluminium cans represent only
+1.4%
+of a ton of garbage
+by weight
+, according to the Container Recycling Institute, they account for
+14.1%
+of the
+greenhouse gas impacts
+associated with replacing an average ton of garbage with new products made from virgin materials.“
+“Toss
+an aluminium
+can into the trash instead of recycling it, and the
+energy required to replace that discarded resource with new aluminium from bauxite ore is
+enough to keep a
+100-watt
+incandescent light bulb
+burning
+for five hours or
+to power the
+average laptop
+computer
+for 11 hours
+, according to the Container Recycling Institute.“
+“All in all, the
+energy
+it takes to
+replace
+all of the
+aluminium cans wasted every year
+in the
+United States alone
+is equivalent to
+16 million barrels of oil*
+, enough to keep
+a million cars on the road for a year
+. If all those discarded cans were recycled every year, the electricity saved could power
+1.3 million American homes
+.“
+“Globally, about
+23 billion kWh
+are
+squandered every year
+, just as a result of
+trashing or incinerating aluminium cans
+. The
+aluminium industry
+uses almost
+300 billion kWh
+of electricity
+annually
+, about
+3%
+of the
+world's
+total electricity
+consumption
+.“
+(Source:
+https://www.treehugger.com/the-benefits-of-aluminum-recycling-1204138
+)
+* For context this is
+1.4x
+the amount of oil produced by the world’s largest oil producer, Saudi Aramco, during one day of the 2023 fiscal year.
+To simplify this into some quickly digestible statistics, with some help from
+Alupro
+:
+Recycling Aluminium uses
+95% less energy
+than producing Aluminium from virgin materials
+There is also a
+97% reduction
+in the associated GHG emissions.
+Recycling 1 tonne
+of Aluminium
+saves
+9 tonnes of CO2e
+and
+4 tonnes of Bauxite
+extraction.
+Aluminium is
+100% recyclable
+.
+75% of the Aluminium produced is still in circulation today.
+Coincidentally, the last two bullet points set us up perfectly for the next topics to address.
+Biodiversity - Red Mud, Caustic Burns, Bauxite, & Orangutan Habitats
+During the Bayer Process, a sludge referred to as ‘Red Mud’ is created as a bi-product:
+Fig.11
+Aerial Photograph of Red Mud
+Whilst this makes for an interesting photograph, it's capturing the leakage of an environmental pollutant which poses a significant health risk to both land-based and marine ecosystems in even the smallest quantities. According to the
+Oxford University Museum of Natural History
+, this ‘mud’ is an Alkaline toxic cocktail of a whole variety of elements with a typical pH value of at least 9 that contains trace elements of nasties like Arsenic, Uranium, Mercury and Cadmium.
+In 2010,
+ABC news reported
+on a leakage of Red Mud that occurred in Hungary burning 150 people and killing 5 as it made its way through the waterways and towards the Danube. In one town, the Alkalinity of the mud was measured at pH 13 - the same level as bleach and oven cleaner.
+Fig.12
+Bleach Safety Warning
+But it’s not just bi-products of the industrial processes that are creating environmental issues. In 2018,
+Foresthints.news
+reported that PT Laman Mining were exploiting areas of High Conservation Value set aside for landscape conservation. This area of Indonesia is home to both a peat ecosystem and the critically endangered Bornean Orangutan.
+Fig.13
+Aerial Photographs of Bauxite Mining Activity in an Indonesian HCV Area
+↑ Section 4 Summary:
+The production of Primary Aluminium has an enormous impact on the environment from an energy consumption, GHG emission, biodiversity and toxicity perspective.
+This is a problem!
+Thankfully, it can be repeatedly recycled with a comparatively very low impact.
+5. ALLOYS & PROCESS CAPABILITIES / REQUIREMENTS
+What is an alloy and why do we use them?
+In its raw state Aluminium is a relatively weak and soft material. However, by introducing other elements into its composition, refineries can create a blend that optimises the material properties for qualities like strength, corrosion resistance, weldability, malleability and material flow. This process is what creates an Aluminium Alloy.
+As mentioned earlier, once this process is complete, Aluminium Alloys are a popular choice owing to their density, corrosion resistance and ease of manipulation in manufacturing.
+According to the European classification standard, there are 9 different series of Aluminium Alloy each with their own strengths, weaknesses, material costs and therefore typical applications:
+Fig.14
+Overview of Each Aluminium Alloying Grade (1-7xxx)
+Based on the above table, it’s clear to say why the 6xxx series of Aluminium is the alloy of choice. But to really drill down to the core of this topic, we need to go one step further. We need to understand which elements go into the 6xxx series alloys and why.
+Disclaimer:
+I am not a material scientist. However,
+with the help of the ESAB
+, I’m to give a short summary of the role of each of the elements within the two most relevant alloys to this topic; 6061 & 6063:
+Fig.15
+The Role of Each Alloying Element in 6061 & 6063
+Thankfully that’s deep enough into this topic! Now, we need to talk about the Copper and Silicon contents.
+Copper - The Problem with 6061
+According to the BS EN 573-3:2009 standard, the mean average quantity of Copper in both of these Aluminium Alloys is 0.275% in 6061 and 0.05% in 6063.
+Fig.16
+Alloy Composition Comparison Between Al 6061 & 6063 (Highlighting the Percentage Copper Content)
+This sounds like a small difference (and it is) but that is still 5.5x the amount of Copper in 6061 compared to 6063. So why’s that relevant?
+One downside to having too much Copper in an alloy is that the molecules can combine during the recasting process, essentially creating hard spots within the material. This makes the material brittle, prone to cracking and harsh on tools like extrusion dyes further downstream in the manufacturing process.
+Typically these phenomenons are avoided by tweaking the composition of the Aluminium Alloy to include a percentage of virgin/prime/raw material to essentially compensate for the undesirable aspects but this is of course not possible with 100% PCR. By using 6063, Hydro are able to limit this risk without the need for the introduction of virgin material.
+Silicon - Extrusion vs Casting
+Silicon is a relatively large contributor to the Alloy composition in both 6061 and 6063.
+Fig.17
+Alloy Composition Comparison Between Al 6061 & 6063 (Highlighting the Percentage Silicon Content)
+The consideration here however is not the percentage content in one grade to another but, instead, the variations that are created within the grade itself.
+Aluminium Alloys compositions are not only tuned for applications but also to increase their performance in certain manufacturing processes.
+In material grades destined for the extrusion process the Silicon content is relatively low (<1%) as the key criteria for this material is malleability and ductility. As Silicon doesn't offer any benefits to the mechanical strength of the alloy (see Fig 15) it makes sense to keep the quantity of it as low as possible.
+However, there are manufacturing processes where this aspiration is not feasible and one of those is casting. Here an increased percentage of Silicon (typically 5-10%) is used to further reduce the material melting temperature, improve the flow characteristics of the molten material in the tool and reduce the shrinkage during cooling of the material.
+This essentially means that combining parts into the PCR blend that have been manufactured in different manors, such as casting and forging, can affect the composition of the end material. This essentially results in a degradation in the mechanical strength of the material in comparison to a typical forging alloy in this scenario.
+The Current Dichotomy
+As you might have guessed by now, all of these factors are relevant to the construction of a an Aluminium e-bike frame:
+The most frequently used grade of Aluminium across the cycling industry is 6061.
+Frames use a combination of extruded tubes, forgings (from both cast and extruded slugs) and castings in their components.
+These factors mean that
+a high percentage of e-bike frames cannot currently be used as a material source for 100% PCR 6061 Aluminium e-bike frames
+built in the current typical mitre/weld construction style. Clearly that’s…sub-optimal.
+Fig.18
+A Bicycle Graveyard in Hangzhou Province, China
+But what if you change that construction method to one that plays well with a higher silicon content alloy and weren‘t wedded to using 6061? Could we begin using bicycle graveyards like those featured in the Wired article linked above as a material source?
+↑ Section 5 Summary:
+Aluminium Bikes and e-bikes are typically built in 6061. This has a high copper content which makes it difficult to recycle without introducing substituting elements.
+Aluminium Alloys for casting contain a significantly higher silicon content than those for extrusion.
+Combining these two processes in a frame design and using an alloy with a high Copper content prevents frames from being recycled in a closed loop to make more frames.
+6. PIR v PCR - „RECYCLING“ v RECYCLING
+When we talk about recycling there are two important terms to differentiate between; PIR (Post Industrial Recycled) and PCR (Post Consumer Recycled).
+PIR is the waste material generated during a manufacturing process that gets collected, processed and fed back into the factory to be used again during manufacture. Common examples of this include regrind in injection moulding and swarf in CNC machining.
+Fig.19
+The Process of Preparing PIR Scrap for Remanufacture
+The important thing to remember here is that the material has not seen any use or delivered any value beyond the walls of the factory at this point. Its recovery is very straightforward and is primarily focussed around operational efficiencies and profitability for the manufacture. Of course, it's important not to diminish efforts to reduce waste, but we should also be clear that this is not really circularity. One could argue that its responsible profit driven manufacturing efficiency.
+Conversely, PCR is material that has been used out in the field delivering value in its intended application before then being reclaimed and re-entering the supply chain. This activity aligns with the intention behind recycling in the context of the 9+1R’s of circularity.
+Fig.20
+The Process of Preparing PCR Scrap for Remanufacture
+An important concept to grasp at this stage is that 100% PIR/PCR loops rely on us sourcing and processing the exact same specific Alloy that we need at the end of the process. This is not the case in loops with a lower percentage of PIR/PCR because different elements can be added to adjust the mix to the preferred end result. This addition is typically primary/virgin Aluminium but can also be products made from alternative grades like alloy wheels for example.
+As a result of this factor, the sorting process is crucial when using 100% PCR for the high performance Aluminium alloys used in this context. The correct grades have to be identified and separated accordingly. There are currently four ways in which is this done:
+MANUAL HAND SORTING
+Fig.21
+Women Sorting Piles of Shredded Automobile in Shanghai’s Largest Aluminium Facility
+Workers use their hands to sort Aluminium from other mixed metals (AKA “Zorba”).
+This doesn’t identify and separate different grades of the material and relies solely on feel, experience and intuition.
+It creates piles of “generic Aluminium” instead of Zinc, Steel, Copper etc.
+EDDY CURRENT SORTING
+Fig.22
+Diagram of the Eddy Current Sorting Process
+When a piece of non-ferrous metal (like Aluminium) passes over the magnetic rotor at speed, an eddy current forms within the Aluminium.
+This creates a magnetic field around the piece of Aluminium. This has the same polarity as the magnetic rotor causing the two to repel.
+This repelling force ejects the Aluminium up and out of the rest of the passing Zorba into a separate collector.
+This still only creates piles of “generic Aluminium” without separating grades.
+X-RAY SORTING
+Fig.23
+Diagram of the X-Ray Sorting Process
+An X-Ray assesses the density of the passing Zorba in real time.
+When Aluminium is identified it gets ejected from the conveyer belt with a shot of compressed air.
+Again, this is still only creating a pile of “generic Aluminium”.
+LASER-INDUCED BREAKDOWN SPECTROSCOPY (LBS)
+Fig.24
+Diagram of the LBS Sorting Process
+A laser fires at the surface of each piece of passing material. This vaporises a small amount of material causing it to emit a light.
+A spectrometer then measures that light and compares it to the profile of different Aluminium Alloys.
+When the required Alloy is identified, the sample is ejected with a shot of compressed air.
+This is a game changer!
+The introduction of LBS into the sorting process now means that we are able to identify the exact grades of Aluminium Alloy that we want to use as feedstock in the PCR loop. Theoretically we have the building blocks! So what’s holding companies back?
+One big challenge for brands could be a lack of consumer demand for this material. How do you justify the investment and pursuit of a new technology if, ultimately, it doesn’t affect consumer behaviour? This is where, I believe, the somewhat vague nature of public facing marketing and communication on recycling today is hurting progress.
+For example, the image below is an extract from Apple’s 2024 “Environmental Progress Report”. On first read, this paragraph seems mightily impressive. Go Apple! But read it two or three times more and you may notice that it makes zero reference to whether the process being described is based on PIR or PCR… Once you come to this realisation, you question what it is that Apple are
+actually
+doing here?
+Fig.25
+Extract from Apple’s 2024 “Environmental Progress Report”
+This may be completely innocent ambiguous copywriting but I would propose that brand’s need to be careful taking this stance in the context of the mountain we’re collectively climbing! This vagueness essentially leaves the public having to fill in the gaps where important contextual information isn’t provided. But why is that an issue? Let’s “double click” on that for a second.
+Within human psychology there is a well documented phenomenon known as the Optimism Bias. The
+Decision Lab
+define this as:
+“…our tendency to overestimate our likelihood of experiencing positive events and underestimate our likelihood of experiencing negative events.”
+For those of you out there that prefer a visual reference, this sums it up pretty nicely:
+Fig.26
+An Illustrated View of the Optimism Bias
+The point here is that without visibility of the path ahead and the challenges around achieving that, the public will be likely to assume that everything is fine and the job is done.
+The reality is that businesses are just starting on this journey towards circularity and they will need the continued support and understanding from their customers as they make the transition needed. Businesses and brands need the general population to be able to see the green-angry-fish-shark-thing in the valley ahead (see Fig.26) so that they can rely on their customer’s loyalty / acknowledgement / respect when mustering up the courage to turn around and shout “no” at said green-angry-fish-shark-thing.
+In short, transparency today will buy you empathy tomorrow!
+Conversely to the Apple screen grab pictured above, the swing tag pictured below from Samsonite (& Recyclex) gives the customer a complete picture of the detail behind their recycled content claim. It clearly specifies that the recycled content is PCR from post-consumer PET bottles and that the coating and backing are still constructed from virgin materials - where there’s clearly still work to do.
+Fig.27
+Swing Tag Labelling on a Samsonite Case (Source: Own Photo)
+It’s clear that utilising PCR content is significantly more involved than PIR. It’s therefore a reasonable assumption that if a brand isn’t specifying where their recycled content is coming from, it’s likely scrap from an industrial manufacturing process.
+The fact that the Brompton rim is using 100% PCR is what makes it so far unique and newsworthy, particularly within the bicycle industry!
+↑ Section 6 Summary:
+PIR and PCR are not the same!
+The repeated use of PCR is the goal when trying to have a tangible impact on sustainability.
+Check which form of recycling a company is using when they refer to recycling in their marketing material - usually its PIR.
+Companies investing into the uptake of PCR need to tell the story so that the customer has the opportunity to understand the differences, critique marketing and seek the value in your solution!
+Being transparent in your messaging around the challenges ahead will help you gain support from your customer base during the ‘tight’ times in the years of transition ahead.
+The use of increased PCR content in applications with requirements for a specific grade of Aluminium Alloy is being made possible with intelligent sorting technologies like LBS.
+7. COMPLEXITIES OF 100% PCR PRODUCTION
+Similarly to the point raised in the alloying section, the production of 100% PCR also relies on the production facilities being free of contaminants.
+Why is that an issue? Because the typical process uses primary virgin material to essentially compensate for the presence of contaminants in the alloy ‚mix‘. When you remove this primary virgin material, you remove this option.
+This means that both the machinery within the process and the PCR material entering it need to be free from contaminants that would alter the makeup and likely degrade the quality of the resultant Alloy.
+Fig.28
+One Filthy Greenhouse
+The level of preparation required to achieve this level of cleanliness makes it crucial that the material supplier is able to maximise their return on this investment. Ultimately, this means that they need a significant order quantity to commercially justify it.
+↑ Section 7 Summary:
+Processes that disrupt the rhythm of an established manufacturing work flow require volume and/or commercial opportunity in order to justify the interruption and additional effort.
+Don’t expect a factory owner to do it for free or out of the goodness of their heart!
+8. SUPPLY CHAIN INTEGRATION & NEAR-SHORING
+Another significant challenge to overcome is how to get this material into the supply chain. The diagram below shows one example of how a typical bicycle/e-bike brand’s supply chain could look:
+Fig.29
+A Generic Bicycle Frame Supply Chain from Brand to Material Supplier
+Note:
+The frame is just one of many components that are sourced in Tier 2. This is a radically simplified example to focus on just the Aluminium frame portion.
+Unless we are talking about one of the industry giants, small & medium sized bicycle brands will typically only have visibility and influence over Tiers 1 & 2 within their supply chain. If they have a strong bond of trust with the supplier in Tier 2 then they might be able to negotiate access to Tier 3. However, this is generally just for an NPI/Quality Team to witness tooling trials and assist with pilot-production preparation.
+The problem here is that the person controlling the material input is located either in Tier 4 or 5 where the brand has very little visibility and virtually no ability to influence decisions. Because these are the frame builder’s chosen supply base, they are essentially king in this setup.
+From the outside, it looks like Brompton has approached this differently.
+Fig.30
+My Interpretation of Brompton’s Rim Supply Chain from Brand to Material Supplier
+To be clear, I don’t know what the supply chain setup within Brompton is, this is just speculation/informed guess work. But let’s run with it…
+What we do know is that Brompton (Brand) has established a commercial partnership directly with Norsk Hydro (Tier 2) with a joint common objective on circularity. This means that Brompton have not only influence but a gatekeeper with a commercially shared interest controlling the material that’s allowed to enter their supply chain. This firmly puts Brompton in the king position where they have full control over what enters their product - with respect to this component at least. This is not a common stance in the current arrangement of the cycling industry.
+↑ Section 8 Summary:
+If the cycling industry wants to be able to dictate and assure the material flowing into the supply chain, brands will have to move to a position of authority.
+This is very difficult to do in the current format of the globalised bicycle supply chain.
+9. TIME FOR A NEW APPROACH?
+One company exploring this question in depth are France-based Moustache with their ‚J’ full suspension frame. This frame is constructed from 2 pieces which are both manufactured from cast Italian sourced Aluminium at Fonderie du Midi in Marseille.
+Fig.31
+Cast ‘Front Triangle’ from the Moustache J
+Fig.32
+Rudy Megevand (R&D director at Moustache) & the J frame
+As all parts of the frame are constructed using the same manufacturing process, they can also all use the same grade of Aluminum Alloy -  AlSi10M (roughly 90% Al /  9% Si /  0,5% Mg / 0,5% Other).
+Side note, this material grade looks different from my earlier explanation on Aluminium grades because this follows the EN standard for casting alloys:
+Fig.33
+Explanation of Aluminium EN Standard for Casting Alloys
+The Copper in AlSi10Mg is also equivalent to 6063 at just 0,05%. Both of these factors seem to suggest that the Moustache J frames could ultimately be melted down and used as feedstock for the next generation of J frames.
+However, to achieve the level of growth needed to achieve the level of light-duty vehicle uptake that we‘ll need to meet the 2030 targets we‘re going to need more material sources than the Moustache Js…which will hopefully still be in service!
+Fig.34
+Historical progress towards 2030 & 2035 targets for share of electric vehicles in light-duty vehicle sale from The State of Climate Action 2023
+AlSi10Mg is also a widely used grade of Aluminium Alloy in the Aerospace, Automotive and Medical industries. The first two applications have a similar issue in terms of service life to the 6xxx series architectural uses, however, medical is a totally different story!
+Incidentally, Moustache aren’t the first bicycle brand to be exploring this technology. In the late 1800’s a company called Lu-min-um produced the first one-piece cast Aluminium frame.
+Fig.35
+Extract from 1942 Showing Details of Lu-Min-Um’s Cast Aluminium Bicycle Frame
+This frame was marketed on its weight, its ability to maintain its surface finish without rust and the fact that it didn’t need lugs at each joint (a traditional form of building frames). Like many good things in the cycling industry this latest innovation from Moustache stands on the shoulders of those that trod the path before us. That’s no bad thing.
+I started this article asking why nobody was building frames in 100% post-consumer recycled Aluminium and, to my knowledge, I still don‘t know of anyone that is. But perhaps the process pioneered by Lu-Min-Um and brought into reality today by Moustache and their development partners could be the key. Maybe they will be one of the first to make it happen…
+Chapeau Rudy and your team!
+↑ Section 9 Summary:
+Moving to a construction method that utilises the higher silicon content opens the door to discussing a wider variety of feedstock material.
+10. THE ELEPHANT(S) IN THE ROOM
+Of course, it's quite the challenge to capture every possible consideration around utilising 100% PCR and there are 3 areas that I will touch on but still need further exploration.
+Fig.36
+The Elephant in the Room
+Economics
+Economics are at the root of almost every decision in business and raw material selection rarely escapes this lens except for when regulation (such as biocompatibility) intervenes..
+I reached out to the team at Hydro to try and get an indicator on how an average cost/Kg might look in order to overlay it on top of the emission factor chart at the start of this article. Unfortunately this information wasn’t available because it's dependent on a whole variety of factors.
+Outside of having a commercial engagement with Norsk Hydro, it's difficult to estimate what the prices would be. However, based on everything we’ve uncovered throughout this article, I would suppose that the trend would look something like this:
+Fig.37
+Estimated Overlay of Cost/Kg Over Hydro’s Emissions Factors
+Upon further thought, perhaps this lack of transparency (or even indicative markers) is also one of the ‘turn-offs’ for decision makers when discussing material options on a time and cost pressured development project?
+Consumer Perception
+Shortly before publishing this article I asked my LinkedIn community for feedback on what I should include from their perspective. One of the topics that came up was how brands would justify the expected additional cost despite there being limited consumer appeal.
+From my perspective, this is a communication challenge that I’d like to see a brand tackle head on. The process of researching this article has shown me that there is a clear story to tell around why a brand should be actively avoiding the use of primary Aluminium in their products wherever possible.
+In 2024, I believe there is a very profitable position to take on this if you can back it up with tangible action and a product that continues to be competitive for all of the ‘non-climate’ related reasons. Moustache could be very well placed to take up this challenge!
+Steel
+Many will argue that we should be building bicycles in Steel instead of Aluminium. Indeed, there are companies like Brompton, Cotic, Muli and many others that continue to do so.
+Fig.38
+Steel Muli Cargo Bike Frame Fabricated in Cologne, Germany
+The problem is that there is no one fit solution. Each brand has intricacies to their values, product proposition, available facilities, CAP-EX budgets, strategic priorities and a whole bunch of other variables to factor into their decision making.
+For these reasons, unfortunately, I'm sceptical that moving the production of every bicycle and e-bike frame to a Steel based construction is ultimately the right solution or likely to happen…
+11. COURSE CORRECTING - PRACTICAL TIPS FOR DESIGNERS, ENGINEERS, MARKETEERS & CEO’S
+When I first pitched the idea of writing this article to Skander, I imagined this to be a relatively quick investigation ultimately reaching the conclusion that material supply was the issue.
+Instead, I’ve been on a voyage of discovery that has highlighted to me that the decisions I’ve made in the development of bicycles and e-bikes have actively participated in keeping the circularity loop wide open. Writing this article has changed my perspective on a whole variety of factors.
+So here’s my tips on how to move forward based on this new found perspective:
+Designers/Engineers:
+Conscious decision making is going to be crucial for the future generations that have to process the products that we create today.
+Continuing to spec 6061 is currently preventing us from closing the loop on Aluminium bicycle and e-bike production.
+Try not to blend processes. Including a casting in a frame otherwise fully constructed from extrusion introduces a much higher quantity of Silicone into the overall frame composition. This degrades the material quality when the frame is melted back down.
+Have the courage to champion new and innovative approaches to frame construction that challenge the unintended sustainability dead ends created by those treading the path before us.
+Be curious and go deep! Thoroughly understanding your manufacturing processes will lead you to ask questions on topics that you never knew existed.
+Marketeers:
+Have the courage to become storytellers on how your teams are tackling industry half truths that are inconvenient for others to talk about.
+Transparency will not only win you loyalty today but also potentially carry you through the more difficult challenges of tomorrow.
+CEO’s:
+Your team needs your authentic and enduring commitment to this topic to stand any chance of success.
+Conscientious material selection will ultimately be a waste of time if your team isn't able to influence the decisions made within your supply chain. Get them closer to wearing the crown!
+Your marketing team needs to be able to tell the hard hitting stories without the shackles of fear of reprisal. Ensure that they are equipped to accurately tell a fact based story and stand with them as you find your feet in a new normal of transparency and progress.
+Know that brands are already working on these topics. The value proposition around physical products is changing quickly. Make sure you aren’t left out in the cold!
+Progress is going to be difficult to see whilst brands engage in ‘Green Hushing’ for fear of reprisal if they get it wrong.
+Participating in an industry working group around sustainability / ESG / CSRD / Right-to-Repair etc will give you some insight into the level of change that’s going on behind closed doors.
+If you haven’t yet started, check out the
+Shift Cycling Culture
+working group.
+Investors:
+Ask the difficult questions of brands that you meet!
+The cycling industry is an ever revolving door of companies applying a CTG and logo to a  ‘same-but-different’ product with this year’s components fitted. We don’t need anymore!
+Find the people that are challenging convention and turning problems on their heads to find the solutions of tomorrow. That’s where the diamonds are!
+The cycling industry supply chain is an inter-connected juggernaut that will take time to adapt. But it is adapting. It has to. Not only to keep pace with incoming regulation/directives but also to meet the expectations of the consumer of tomorrow.
+Finally, if you made it this far, thank you! I’d like to ask you for one more favour. If you found this article insightful, interesting or thought provoking then please share it as far and wide as you are happy to! As a collective of change makers, we need to start a conversation around these topics and extending the reach helps us do exactly that.
+If you want to reach out to discuss the topic further then please don’t hesitate to get in contact with me here:
+https://www.linkedin.com/in/matt-granger/
+Likewise, if you think I missed something then I’d also be delighted to hear your thoughts!
+THANKS:
+Thank you to both
+Yon van den Oever
+and
+Thomas Mayer
+from Norsk Hydro for generously sharing their expertise in these topics at both the Shift Cycling Culture 2024 Barcamp and their Eurobike 2024 booth.

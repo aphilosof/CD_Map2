@@ -1,0 +1,200 @@
+Title: Charging Ahead
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/charging-ahead
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+By
+some measurements
+we are on a good track to electrify cars - but we are lacking behind on electrifying trucks.
+Time to look at the incentives for etrucks with one of the Climate Drifters: Berkay Issevenler.
+Berkay
+is an attorney at law originally from Turkey now in Germany. He had his own law firm in Istanbul between 2019-2022, mainly focused on working with criminal law cases.
+Berkay recently shifted into climate, holding an MBL in Energy Law from TU-Berlin, with his thesis focused on CBAM, a new carbon pricing policy of the EU. During his master, he worked in a contract management team in the e-mobility unit of Vattenfall.
+Want to dive into climate challenges too?
+You can
+apply directly to our 2nd cohort here.
+Let’s dive in 🌊
+It's good to see grocery shelves fully stocked, right? If you disagree, please think through the Covid lockdown times.
+Freight transport enables this and fulfills our stores and pharmacies, which is a great and inevitable way of distributing goods. The freight sector is expected to
+grow 25% by 2030 and 50% by 2050.
+In 2021, transportation was responsible for  8.1% of CO₂ emissions, and almost ¾ % of that CO₂ was emitted by road transportation.
+Source:
+State of Climate Action 2023, World Resource Institute
+The transportation sector's significant emissions have catalyzed discussions on decarbonization. While electric passenger vehicles have gained traction, with sales surpassing
+10 million in 2022 and electric cars constituting 14% of all sold vehicles
+, the transition to electric is not uniform across all vehicle categories.
+Source:
+Annual update on the global transition to electric vehicles: 2022, ICTT
+This analysis will concentrate on heavy-duty vehicles (HDVs)—specifically, Class 7 and 8 trucks as classified by the EPA and N3 class vehicles in the EU.
+The disproportionality between their small share among vehicles and their energy demand with their large share in exhaust emissions and the prospects for increases in these areas suggest the need for special efforts to decarbonize HDVs.
+Source: CALSTART,
+Moving Zero-Emission Freight Toward Commercialization 2020
+These vehicles have higher gross weight vehicle ratings (GWVR) and are mainly designed to transport humans and goods. It is worth noting that standards are designed for the diesel-fueled world, and the weight of the batteries in trucks reaches the maximum allowed weight for e-trucks with less cargo. Thus, addressing these regulatory barriers is essential for accelerating the adoption of electric trucks. The European Union, for example, has made legislative adjustments allowing an additional weight allowance of up to two tonnes for zero-emission vehicles based on the vehicle type.
+The push for electrifying road freight has been a topic of discussion for years, yet the uptake of electric trucks has varied significantly across the globe. China, the United States, and the European Union are at the forefront, with China leading the way. These efforts must increase to achieve the Paris Agreement's goal—to limit global warming to below 1.5 degrees Celsius. Electrification promises numerous advantages, including enhanced air quality, quieter urban environments, reduced reliance on imported fossil fuels, and improved energy security.
+Replacing fleets with zero-emission vehicles (ZEVs)—battery-electric vehicles, fuel-cell vehicles, and hydrogen-fueled vehicles—could decarbonize HDVs. Despite increased commitments, there is an urgent need to accelerate the deployment of zero-emission vehicles. Current advancements are insufficient to achieve net-zero targets, similar to the challenges many sectors face that emit greenhouse gases (GHGs). Without significant and rapid improvements, GHG emissions from freight transport are projected to increase, particularly in emerging economies.
+Source:
+ITF Transport Outlook 2023.
+Status quo
+China has led the deployment of e-trucks by far. While the United States and the European Union are also scaling up their efforts, electric truck sales represented only 1.2% of global truck sales in 2022. Of these electric truck sales, 85% occurred in China. This means that electric trucks made up 4% of all truck sales in China for that year.
+Source:
+IEA, Electric truck registrations and sales share by region, 2015-2022
+China had a comprehensive incentive policy to kickstart the zero-emission HDV industry. First, early-stage financial incentives for manufacturers started in 2015 and peaked in 2017, with 19 billion CNY annually, followed by a boom in sales. From 2017 onwards, financial subsidies began to decrease again, followed by sales, but after 2020, sales of ZEV HDVs increased.
+Source:
+ICTT, Working Paper. Zero-emission bus and truck market in China: A 2021 update.
+Subsidizing local governments through pilot programs and infrastructure development targets was also part of the Chinese incentive strategy, which entails financial incentives for engaging local governments in building supportive infrastructure. Subsidizing both the demand and supply sides with combined strategies helped China build a robust market, which was proved by increased sales despite decreasing subsidies.
+The recent price announcement of CATL
+will play a crucial role in developing the ZE-HDV market since, as the largest battery supplier in the world, CATL dominates the Chinese market by supplying half of the suppliers.
+How do countries incentivize?
+So far,
+incentives for e-trucks are in force in some countries
+, such as financial incentives towards the purchase of EV trucks in Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, Netherlands, Spain, the USA, and the UK.
+While financial assistance programs may not be established,
+many countries have committed to making road transport more environmentally friendly.
+In total, 27 countries,
+accounting for 20% of new annual MHDV sales globally,
+have done this by signing the "Memorandum of Understanding (MOU) on Zero-Emission Medium- and Heavy-Duty Vehicles." This agreement encourages nations to collaborate towards ensuring that all new truck and bus sales are zero-emission by 2040. To support this long-term goal, an intermediate target has been set for 30% of new vehicle sales to be zero-emission by 2030, aiding the broader objective of achieving net-zero carbon emissions by 2050.
+Both countries and subnational governments, namely Berlin, California, Göteborg, Quebec, and more, endorsed the need to implement policies to enable and incentivize the zero-emission vehicle transition within their jurisdictional powers and switch their fleets to ZEVs.
+Utility and infrastructure providers worldwide recognized the need to charge and fuel infrastructure and collaborate with industry and government partners to make infrastructure no longer a barrier to transition by 2040.
+Fleet owners and operators, such as the European Clean Trucking Alliance, DHL, Heineken, and others, have declared their aims to transform 100% of their fleets to ZEVs by 2040.
+Defining targets is the first step, but robust policies should support reaching those targets. As the figure below shows, not every MOU endorser country has a comprehensive incentive scheme to achieve its targets.
+Source:
+Multi-Country Action Plan 2023 Update, CALSTART
+Moreover, Climate Group’s new global initiative,
+EV100
++, sends a strong demand signal to the market by creating a knowledge-sharing platform and joint policy engagement. As founding members of the EV 100+ initiative, GeoPost, IKEA, JSW Steel, A.P. Moller-Maersk, and Unilever commit to decarbonizing their owned and contracted fleets by 2040. Together, their commitment means approximately 90,00 Medium and Heavy Duty Vehicles. The initiative sent a position paper as a representative of 41 businesses to the EU Parliament and called on the increased emission reduction targets and the extension of the proposal's scope. It also expressed concerns about the new zero-emission vehicle definition.
+Shapes of Incentives
+1. Regulatory Measures:
+Regulatory measures create a framework that encourages the adoption of e-trucks through legislation and policy initiatives. The European Commission’s proposal for new CO₂ emission targets for HDVs implementing new quotas is an excellent example of it. However, it is still not in force in the legislative process in Brussels.
+Source:
+European Union.
+a. Emission Regulations:
+Standards and limits on the emissions produced by commercial vehicles would incentivize the shift to zero-emission alternatives like e-trucks to meet environmental goals.
+🇪🇺:
+The EU's CO₂ emission standards for heavy-duty vehicles mandate reduced truck emissions, encouraging a shift towards e-trucks.
+🇺🇸:
+California's Advanced Clean Trucks (ACT) rule requires truck manufacturers to sell a growing percentage of zero-emission trucks.
+b. Mandates and Quotas:
+Requirements for a certain percentage of new or existing fleet vehicles to be zero-emission push companies towards adopting e-trucks to comply with regulations.
+🇪🇺:
+While the EU sets broad emissions targets, individual member states may implement mandates or quotas for electric vehicle adoption.
+🇺🇸:
+California's Zero-Emission Vehicle (ZEV) program mandates that a certain percentage of new vehicles sold must be zero-emissions, indirectly affecting e-truck sales.
+2. Financial Incentives:
+These are crucial for promoting the adoption of e-trucks by making them economically viable for consumers and businesses, like China's example. These incentives help mitigate some of the financial risks associated with the necessary transition.
+a. Subsidies and Grants:
+Governments can provide direct financial support to reduce the purchase cost of e-trucks or fund research, development, and deployment of electric vehicle infrastructure. This support can lower the initial investment needed to switch to electric mobility.
+🇪🇺
+: The EU's Horizon 2020 program funded innovation and research in electric mobility, including e-trucks.
+Here's a German story:
+Things did not go as planned, and due to the “
+budget crisis in Germany
+,” subsidies for e-vehicles were canceled.
+Until the verdict of the constitutional court
+, which resulted in budget cuts, Germany had a generous (up to 80% percent of costs of ZEV and infrastructure investments and 50% of costs for feasibility studies) subsidy scheme.
+As the ministry says
+, the remaining budget will be spent on infrastructure due to the necessity of ramping up ZEVs.
+🇺🇸
+: California adopted the
+Transportation Electrification program
+to help accelerate EV adaptation, mainly focused on HEVs. 5 years, state-wide, a $1 Billion program, and 70% of this funds will go towards charging for medium and heavy-duty vehicles due to their share of GHG emissions. At the federal level, an example is the USA
+IRA’s $1 Billion fund for transportation.
+b. Tax Credits and Exemptions:
+Financial incentives that reduce the tax burden on individuals and businesses purchasing or operating e-trucks. These can include deductions from income tax, exemptions from sales tax, or rebates that effectively lower the purchase price. As a recent example,
+Thailand just approved an incentive
+for transitioning companies, a special tax deduction to eligible companies.
+🇪🇺
+: Many EU countries offer reduced VAT rates for EVs and exemptions from road and registration taxes to lower the total cost of ownership for e-trucks.
+🇺🇸
+: The IRA's
+clean vehicle tax credits
+offer significant tax advantages for businesses that purchase e-trucks.
+c. Low-Interest Loans:
+Financing options are provided at below-market interest rates to support the purchase of e-trucks or the installation of EV charging infrastructure. These loans can make transitioning to electric mobility more financially manageable.
+🇪🇺
+: The European Investment Bank (EIB) offers financing for climate action projects, including purchasing electric trucks.
+🇺🇸
+: Various programs and initiatives provide low-interest loans for clean energy projects, including adopting e-trucks.
+3. Operational Incentives:
+Operational incentives improve the efficiency and cost-effectiveness of operating e-trucks, encouraging businesses to incorporate them into their fleets.
+a. Access Privileges:
+Preferential treatment for e-trucks, such as access to restricted zones or priority lanes, can enhance operational efficiency and reduce delivery times.
+🇪🇺
+: Amsterdam allows electric vehicles, including e-trucks, to access low-emission zones without restrictions, encouraging businesses to transition to cleaner transportation options.
+🇺🇸
+: New York City's Clean Trucks Program offers rebates for replacing old diesel trucks with new electric trucks, encouraging their use in urban freight delivery.
+b. Reduced Energy Rates:
+Special pricing for electricity used in charging e-trucks, often through time-of-use rates or discounts, aims to lower the operational costs associated with electric mobility.
+🇪🇺
+: Germany's EEG levy reduction for electric vehicle charging includes commercial operations, offering lower electricity costs for e-truck operators.
+🇺🇸
+: The EV Rate Plans by Pacific Gas and Electric (PG&E) in California offer reduced rates for electric vehicle charging, including commercial fleets of e-trucks, during off-peak hours.
+4. Infrastructure Development
+:
+Infrastructure development is crucial for supporting the widespread adoption of e-trucks by ensuring the necessary charging and maintenance facilities are available.
+a. Charging Infrastructure:
+Investment in public and private EV charging stations, including fast-charging options, to support the operational needs of e-trucks, alleviating range anxiety and facilitating longer-distance hauls.
+🇪🇺
+: The Trans-European Transport Network (TEN-T) policy includes funding for EV charging infrastructure suitable for heavy-duty vehicles, facilitating long-distance e-truck routes across the EU.
+🇺🇸
+: The National Electric Vehicle Infrastructure (NEVI) Formula Program under the Biden administration aims to create a nationwide network of EV chargers along highways, supporting e-trucks.
+b. Grants for Charging Stations:
+Financial support for businesses and municipalities to install EV charging infrastructure, often aimed at increasing the density of charging options in strategic locations.
+🇪🇺:
+The European Regional Development Fund provides grants for sustainable urban development, including installing public EV charging stations suitable for e-trucks.
+🇺🇸:
+The Department of Energy's Alternative Fuel Infrastructure Deployment Program offers grants to support EV charging station installation, encouraging electric truck adoption.
+5. Information and education
+:
+Information and education initiatives raise awareness and provide critical information about the benefits and capabilities of e-trucks, addressing misconceptions and promoting their adoption.
+Awareness campaign
+: Programs designed to educate fleet operators, businesses, and the general public about the advantages of e-trucks, including environmental benefits and potential cost savings, such as RMI-led
+NACFE
+.
+Demo Projects:
+Pilot projects
+that showcase the real-world application and benefits of e-trucks, helping to build confidence in the technology and demonstrate its feasibility for various uses.
+6. Research and Development Support:
+Research and development support is essential for advancing e-truck technology, improving vehicle performance, reducing costs, and making electric trucks more competitive with conventional vehicles.
+Innovation Grants:
+Funding provided to support the development of new technologies and improvements in e-truck design, battery efficiency, and charging infrastructure.
+Partnerships and Collaborations
+:  Initiatives that bring together government agencies, industry, and academic institutions to collaborate on advancing electric truck technology and infrastructure, leveraging shared expertise and resources.
+Conclusion
+As increased upfront payment costs are considered as a hurdle alongside a lack of charging infrastructure concerns for the decarbonization of the trucking industry, legislators have to mitigate those hurdles as fast as possible. Let's take a final look at the EU proposal. In 2019, CO₂ emission standards were established, but the Commission has suggested revisions to expand their application to more heavy-duty vehicles (HDVs). The proposal includes achieving a 45% reduction in emissions by 2030, a 65% reduction by 2035, and a 90% reduction by 2040, all in comparison to the levels recorded in 2019. But still,
+ICCT’s study
+estimates a 77% emissions reduction relative to the 2020 level, which indicates that even if increased targets are met, emission reduction will fall short.
+Source:
+ICTT, E. Mulholland, “Analyzing Europe’s CO2 standards proposal for trucks and buses.”
+Comprehensive incentive schemes would be consistent for the countries that recognized the need for decarbonized freight transport and endorsed the MOU. It is worth noting that the MOU is a non-binding agreement for countries; however, even if it were binding, it does not mean the necessary steps would be taken. See the Paris Agreement and current trajectories.
+So far, China will probably have a robust market. Their subsidy schemes in the early market stages were definitely helpful. Still, in the case of China, the correlation between their world dominance in battery production is undeniable. The European Union is seeking to keep its sustainability leader title with ambitious targets, but does every member state have the same approach? It is a clear no when incentives have been examined. Among the ambitious member states, there is no unity, which results in different compliance requirements and eventually becomes a hurdle,
+according to industry reports.
+In the USA, the IRA provides many incentives for decarbonizing transport, among other sectors. Also, California is playing the role of flagship among the states thanks to its Advanced Clean Trucks and Transportation Electrification Program. The Advanced Clean Trucks rule created a necessary snowball effect, but it is limited to 15 states. Although a partnership was formed among these states,
+the adoption of the Advanced Clean Trucks rule is in different stages.
+Although proposed increased targets from flagships like the USA and EU send strong signals to the market, they are falling short in the CO₂ emission reduction projections to reach net zero by 2050. The latest trajectory from the Systems Change Labs confirms the need for enhanced policies.
+Source:
+State of Climate Action 2023, World Resource Institute
+Despite all the scientific evidence, it is tough to understand why not every country is trying to decarbonize road freight transportation, but the same could be said for almost every climate solution. Lack of charging and fueling infrastructure and lack of regulatory incentives seemed to be the biggest hurdles, among others. Therefore, comprehensive regulatory incentive schemes must be implemented worldwide to ensure a well-functioning and decarbonized road freight sector.
+But also, on the business side of the equation, if there is something to achieve, would it not be nice to go for it instead of waiting for regulatory incentives or more technological developments?
+A recent story from RMI
+shows that 43% of trucks are electrifiable in the states that endorsed the Advanced Clean Trucks rule due to their ranges. In this study, the range is estimated to be below 300km since there is a lack of public charging infrastructure, and trucks are charged in home depots.
+The recent price drop in the battery industry is excellent news for the ZE HDV transition. Moreover, enhancing fleet planning with new technologies such as Vehicle-to-Grid or Vehicle-to-Building when the trucks are at Home Depot might create incentives for fleet operators, too.
+Emerging battery-swapping technology, especially in China, has pros and cons. However, due to the time advantages of battery-swapping, effective fleet planning could play a vital role. China’s Ministry of Industry and Information Technology (MIIT) launched pilot projects for battery-swapping in some cities. Battery-swapping-enabled vehicle models are already in the Chinese market, with
+more than 12.000 sold in 2022.
+Aligning CO₂ reduction from the transportation sector will require a 3% emission reduction annually by 2030 to reach net zero by 2050,
+according to IEA.
+The lack of recognition and efforts for decarbonizing HDVs among countries makes me pessimistic when it has been read together with the time aspect.
+Source:
+IEA Global EV Outlook 2023
+The transport sector's recovery from the pandemic has exceeded initial expectations yet faces considerable challenges. The turbulence in energy markets and ongoing cost-of-living crises complicate the transition towards a more decarbonized transport system. Despite observable progress, the rate at which transport emissions are being reduced is insufficient to meet global climate goals in the foreseeable future. Current mechanisms aimed at fostering decarbonization need to be significantly strengthened in ambition. Against this backdrop, governments are confronted with the complex task of managing various priorities, including promoting electric truck incentives, all while striving to uphold their commitments to climate change mitigation.
+We have always talked about new truck sales, but what will happen with the existing trucks since ICE trucks dominate the sales and will be around for more years? Prioritizing retrofitted trucks will correspond to circularity and could be a more sustainable solution. France and Germany have domestic regulations in force, and in France,
+financial aid is available for retrofitted trucks
+. Developing a union-wide policy could ramp up the retrofitting industry, and according to the
+France Environmental Transition Agency
+, retrofitting provides better outcomes than buying a new truck. While establishing an EU-wide regulation, prioritizing the retrofitting of trucks can happen by fine-tuning the existing credit and debt system to hold the credit from a retrofitted truck more valuable than the credit from a newly manufactured truck.

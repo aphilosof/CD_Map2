@@ -1,0 +1,108 @@
+Title: A Look at Transportation Companies
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-transportation-companies
+==============================
+
+Welcome to
+Climate Drift
+, your destination for unraveling climate solutions and discovering your unique part in the sprint to net zero.
+If you're not yet a subscriber, seize the opportunity to be among our first 1,000 readers by signing up here:
+Subscribe
+Hey there 👋
+Skander, here!
+Next week,
+The Drop conference
+in Sweden will be the hotspot for every top European VC, investor, and climate tech company.
+Climate Drift got invited to be at The Drop, ensuring you get firsthand insights and takeaways.
+Leading up to the event, we'll be highlighting the diverse range of companies set to attend The Drop.
+These startups span 9 sectors: from Power to Buildings, Circular Economy, Food & Agriculture, Industry, Finance, and Carbon Removal.
+In Part 1 we shine a light on Transportation
+🚄
+A Look at Transportation Companies
+Skander Garroum
+·
+August 29, 2023
+Read full story
+In Part 2 we explore the Built Environment.
+🏗️
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+In Part 3 it is time for the Circular Economy
+♻️
+A Look at the Circular Economy
+Skander Garroum
+·
+August 31, 2023
+Read full story
+In Part 4 we look at Industry 🏗️
+A Look at Industry
+Skander Garroum
+·
+September 1, 2023
+Read full story
+In Part 5 we try to decarbonize Food & Agriculture 🍃
+A Look at Food & Agriculture
+Skander Garroum
+·
+September 4, 2023
+Read full story
+Kicking things off today, let's delve into the
+transportation companies
+making an appearance:
+The companies attending in our Climate Solutions map
+But first, let’s look at the impact of Transportation on emissions
+From the great
+State of Climate Action
+Transportation contributes to nearly 9% of global carbon emissions.
+Thankfully we are already working on many solutions: Micro-mobility can reduce city transport emissions by up to 30% in urban settings. Sustainable Aviation Fuel (SAF) has the potential to cut aviation CO2 emissions by 80% over their full lifecycle. The maritime sector, responsible for about 2-3% of global emissions, sees potential in alternative fuels like ammonia, which can reduce ship emissions by 99%. Carbon Capture and Storage (CCS) can capture up to 90% of the CO2 emissions produced. Electric Vehicles (EVs) on a renewable energy grid can result in 70% fewer emissions than gasoline cars. Electrifying fleets can potentially replace millions of polluting vehicles, while hydrogen trucks offer near-zero emissions, with hydrogen production from green sources being key.
+Let’s see which solutions are attending The Drop.
+Click here for Part 2, reviewing the Building/Proptech companies joining us at The Drop
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+Maersk
+Maersk, the Danish titan of maritime trade, has long dominated global container shipping. Established in 1904, its vast fleet has become emblematic of globalization's ebb and flow. Yet, the digital age beckons, and Maersk is navigating treacherous waters of technological disruption and environmental scrutiny. Its recent forays into blockchain and sustainable fuels underscore a strategic pivot towards innovation. Amid geopolitical tensions and supply chain conundrums, Maersk's ability to recalibrate its compass is telling. The company boasts a workforce of approximately 110,000 employees, spanning operations in 130 countries.
+http://www.maersk.com
+http://www.linkedin.com/company/maersk-group
+Toyota
+Founded in 1937, Toyota has evolved from a humble loom-making enterprise into a global automotive juggernaut. The Japanese firm's commitment to innovation, epitomized by its pioneering hybrid technology, has solidified its position as an industry leader. Yet, in an era of electric zeal, Toyota faces challenges from nimble upstarts and established rivals alike. Its ethos of 'kaizen' or continuous improvement, however, suggests adaptability. While navigating geopolitical trade spats and supply chain disruptions, Toyota's blend of tradition and tenacity offers a masterclass in resilience.
+http://www.toyota-europe.com
+http://www.linkedin.com/company/toyota-motor-europe
+Carnot
+Carnot, based in London, is working on developing fuel-agnostic zero-emission powertrains aimed at decarbonizing long-haul transport and off-grid power. Their goal is to contribute to a 13% reduction in global CO2 emissions. They plan to collaborate with existing OEMs to integrate their powertrains into various applications, including maritime and HGV propulsion. Central to Carnot's technology is an engine that claims 70% thermal efficiency, potentially reducing fuel consumption. The engine is designed to work with diverse fuels, from biofuels to e-fuels. Carnot has been recognized at Oxford University's Innovation Incubator, secured funding, and is preparing for field trials.
+http://www.carnotengines.com
+http://www.linkedin.com/company/carnot-ltd
+Hived
+HIVED, based in London,  is an electric-powered parcel delivery service, offering fast, reliable, and straightforward experiences. Integrated with platforms like Metapack and Shopify, they provide same-day, next-day, and two-day delivery options. Serving prominent brands like ASOS and Zara, HIVED emphasizes eco-friendly practices and quality service in the delivery industry.
+http://www.hived.space
+http://www.linkedin.com/company/hived-space
+Liftango
+Liftango, based in the UK, is a leader in on-demand shared transport systems, aiding organizations in launching and scaling shared mobility initiatives for a sustainable future. Committed to combating climate change, Liftango's platform optimizes transport systems, reducing CO2 emissions equivalent to planting 31 acres of forest annually. Their services assist cities in becoming smarter, transit agencies in enhancing public bus systems, and corporates in developing sustainable mobility solutions.
+http://www.liftango.com
+http://www.linkedin.com/company/liftango
+Elonroad
+Elonroad, based in Sweden, works on innovative EV charging solutions for both moving and parked vehicles, catering to personal cars and commercial trucks alike. Beyond just electrifying roads, they're at the forefront of road digitization.
+A demo site of 1 kilometre of electric road is in place in the city of Lund, Sweden.
+http://www.elonroad.com
+http://www.linkedin.com/company/elonroad
+Spark
+Spark is dedicated to introducing CO2-neutral e-fuels to the aviation sector. Recognizing the burgeoning demand for sustainable kerosene, we emphasize the integration and enhancement of the entire value chain. Their primary focus lies in crafting, developing, and managing efficient, scalable, and automated e-fuel production facilities.
+http://www.sparkefuels.com
+http://www.linkedin.com/company/sparkefuels
+Pionix
+Pionix’s EVerest is an open-source software designed to streamline and unify the electric vehicle charging infrastructure. Addressing the prevalent incompatibility issues among charging systems, it offers a holistic solution for the burgeoning e-mobility market. Beneficial for automobile manufacturers, commercial charging system operators, energy providers, and private wallbox users, EVerest is aiming to redefine the EV charging experience, fostering innovation within a cohesive ecosystem.
+http://www.pionix.com
+http://www.linkedin.com/company/pionix-gmbh
+Seabound
+London based Seabound builds carbon capture equipment for large cargo ships. The equipment sits adjacent to a ship's funnel and traps up to 95% of the CO2 from its exhaust, using patent-pending technology.
+http://www.seabound.co
+http://www.linkedin.com/company/seabound
+Do share any companies that catch your eye; we might be able to arrange a brief interview at The Drop.
+And if you're attending The Drop, let's connect - just email me under
+[email protected]
+Skander

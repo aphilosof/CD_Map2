@@ -1,0 +1,297 @@
+Title: The Decade of Microgrids Commercialization
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-decade-of-microgrids-commercialization
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+We are continuing our
+Climate Drift Career Accelerator
+deep dives focused on microgrids, with a 2 parter on the state of microgrid commercialisation from Tanner. He will give an overview of the microgrid landscape, dive deep into the opportunities and current state of the market.
+Tanner
+is a sales and business development expert, last he led the sales & commercial strategy for a $350M+ business unit in the U.S. Consumer Goods Industry, directing the top-performing field sales team in the U.S..
+Need a a great primer for Microgrids? Climate Drifter Peter Blair has you covered in Microgrids 101:
+Microgrids 101
+Peter Blair
+·
+April 2, 2024
+Read full story
+Let’s dive in. 🌊
+If you want to make a difference and bring your talent into climate:
+Apply to our May ’24 cohort
+and join the Climate Drift community.
+Apply Now
+Having lived in California most of my life, I’ve grown accustomed to rolling blackout power outages and wildfires. As the frequency of these events have increased over the years, I’ve sought to better understand the causes and effects of climate change and work on solutions that address them.
+At
+Climate Drift
+, we’re exploring climate solutions and sharing insights on these critical approaches to climate change mitigation. One of those solutions – Microgrids – offer resilient and reliable power amidst a rising number of power outages and extreme weather events across the country. They also play an important role in facilitating the clean energy transition in the U.S., which is essential to addressing climate change.
+In this 2-part series, I aim to provide an overview of the microgrid solutions landscape and insights around the commercial opportunity for microgrid developers, potential customers, and anyone interested in the distributed energy resources sector.
+Let’s dive in. 🌊
+Addressing climate change while continuing to meet the world's rising food and energy demands requires rapid emissions reductions by simultaneously transitioning our food, energy and transportation systems to more sustainable designs.
+For the energy system, enabling and accelerating the clean energy transition requires a major transformation of the electrical grid to accommodate the increasing demand from electrification.
+In an era of climate change, where natural disasters and grid outages are becoming more frequent, the need for resilience – the ability to reliably maintain a continuous power supply – is increasingly vital, for communities and businesses alike.
+Microgrids have emerged as a critical component and enabler of the energy transition, offering an ideal solution for delivering resilience when it is needed most. Their inherent attributes of independence and reliability, coupled with recent advancements in technology and innovative financing models, position microgrids for substantial growth.
+This 2-part series will explore the commercial opportunity for Microgrids as a solution for energy resilience and as an enabler of the clean energy transition.
+In
+Part 1,
+we will look at the U.S. energy transition landscape, how the impacts of a changing climate are increasing the need for energy resilience, and provide an overview of Microgrids as a solution to both of these challenges.
+In
+Part 2,
+we will unpack the changing market dynamics that are shaping the commercialization of Microgrids, evaluate some of the microgrid ecosystem players, and offer go-to-market considerations for microgrid developers.
+In the following sections we will cover:
+The challenges of meeting increasing electricity demand
+The grid impact of a changing climate
+Defining resilience
+An overview of Microgrids
+Microgrid benefits & use cases
+Landscape Overview: The U.S. Energy Transition
+Electricity demand in the U.S. is expected to increase 2-3x by 2050
+To meet this growing demand for electricity, the U.S. needs to transform it’s electrical grid
+However, grid interconnection queues and bottlenecks in the country’s transmission grids have become a huge roadblock to clean energy and reliable power
+At the same time, extreme weather events are causing increased power outages and threatening the resiliency of the current grid infrastructure
+Thus, the need for resilience is becoming increasingly important for businesses and communities alike
+[Image source:
+FERC
+]
+Increasing Electricity Demand
+Electricity, or "clean electrons," is one of the most important tools for decarbonization. As the world moves towards “electrifying everything” in a bid to decarbonize our energy supply,
+electricity demand is expected to increase 2-3x by 2050
+[
+1
+].
+More and more people are adding solar to their homes, switching out gas appliances for electric ones, and driving Electric Vehicles (EVs) that need charging; extreme weather events like heat waves or freeze events require more power to cool and heat people’s homes. Recent developments in Artificial Intelligence and the projected growth in AI means that data centers will go from needing tens of megawatts to hundreds of megawatts of power generation.
+In order to accommodate these increases in demand from electrification,
+the U.S. energy grid must undergo a major transformation – adding capacity and modernizing the grid to integrate more renewable, flexible and decentralized energy systems
+to ensure a reliable and sustainable energy supply.
+While the U.S. has shifted its mix of power generation to include more renewables (ex: wind & solar), the buildout of additional electricity capacity in the U.S has been slow, bogged down by
+years-long grid Interconnectivity queues
+and grid infrastructure challenges
+[
+3
+].
+Grid Interconnection Bottleneck
+Interconnection is the complex process of connecting new electricity generators – like wind, solar, and energy storage – to the electric grid.
+Interconnection queue lengths are now widely recognized s the #1 barrier to deploying renewable energy [
+4
+].
+The average time a project spends in the interconnection queue in the U.S. is now nearly
+5 years
+(2023).
+The U.S. has almost 2 million megawatts (MW) of clean energy capacity stuck in interconnection queues, which is more than its current total amount of existing electric generation capacity! [
+5
+]
+[Image Source:
+Decarbonization Channel
+]
+There are many reasons for these growing delays and rising costs, but the most fundamental one is that the grid isn’t being expanded quickly enough to absorb the massive growth in clean energy projects.
+To supply the amount of projected electricity needed by 2050, the U.S. needs to expand renewable energy capacity, upgrade and modernize the grid, and strengthen grid resilience; but grid interconnection and transmission issues remain bottlenecks to these critical objectives
+.
+Increasing Extreme Weather Events and Grid Outages
+At the same time that electricity demand is doubling (creating grid capacity needs), the increasing frequency of extreme weather events is putting tremendous strain on the grid, resulting in a growing number of power outages across the country.
+In February 2021, three severe winter storms swept through
+Texas
+, triggering grid failure and sustained power outages, leading to shortages of water, food, and heat.
+More than 4.5 million homes and businesses were left without power
+, some for several days.
+Hurricane Sally caused
+power outages for over half a million people
+in
+Alabama, Florida and Georgia
+in September 2020.
+In
+California
+, the main utilities companies have had to enact
+“planned outages”
+to reduce the risk of utility-associated wildfires. Also known as
+Public Safety Power Shutoffs
+(PSPS), these “planned outages” may occur when there is imminent and significant
+risk of wildfires…
+…Eight of the 10 largest wildfires in California history have occurred in the last five years.
+[Image source:
+Reuters
+]
+The growing frequency of extreme weather events are causing the number of power outages in the U.S. to increase and are threatening the resiliency of the U.S. grid infrastructure.
+83% of reported major power outages between 2000 and 2021 in the United States are attributed to weather-related events.
+The average annual number of weather-related power outages has increased by almost 80% since 2011, including planned & unplanned shutdowns in states like
+California
+and Texas [
+6
+].
+The average duration of a U.S power outage has
+doubled
+in the last decade, with outages often lasting over eight hours [
+2
+]
+[Image Source:
+Climate Central
+,
+CNN
+]
+Impacts
+Power outages – particularly those caused by extreme weather events – can have significant impacts on businesses and communities, including disrupting critical business operations, affecting access to essential services like emergency response systems and medical care, and causing significant financial losses.
+It’s estimated that the total cost of sustained power interruptions is $44 billion per year and that commercial customers bear the largest share with 70% of the costs
+[
+7
+].
+In 2023 alone, the U.S. experienced 28 separate weather and climate disasters resulting in at least $1 Billion in loss and damage
+[
+6
+].
+[Image source:
+NCEI & NOAA
+]
+And the number of billion-dollar disasters
+(weather or climate related disasters where the government had to spend over a billion dollars on recovery)
+is rapidly rising as the climate changes
+, resulting in tens to hundreds of billions of dollars in loss and damage.
+[Graph data source:
+National Centers for Environmental Information
+]
+Utilities are doing an admirable job in trying to maintain power reliability through ‘normal’ conditions, but a changing climate means there are more ‘abnormal’ conditions and weather events that impact the grid and lead to outages. Customers are taking notice of these more frequent and prolonged outages and are increasingly
+searching for more options for backup power solutions.
+[Image Source:
+EIP Report
+]
+The Need for Resilience
+In an increasingly electrified world where the frequency of extreme weather events and power outages are rising,
+the need for
+resilience
+–
+the ability to ensure a reliable energy supply to maintain operations, even at times of grid disruption –
+is becoming increasingly important
+for businesses and communities alike.
+In light of these challenges,
+microgrids
+have emerged as a promising
+solution to enhance grid resilience
+, offering a way to ensure reliable energy supply and maintain operations even during times of grid disruption. The next section will delve into the concept of microgrids, exploring their benefits and role in the evolving energy landscape.
+Microgrids Solutions Overview & Use Cases
+The term “microgrid” is often used in the larger context of the distributed energy space and can have multiple meanings depending on the context in which it is being discussed. For the sake of this write-up:
+“A
+Microgrid
+is a Distributed Energy Resource (DER) that can provide electricity services to the grid during uptime, and “island” from the grid in the event of a disruption.”
+The defining feature of a microgrid is its ability to
+“island,”
+or operate
+independently from the main power grid
+and
+generate its own
+behind-the-meter
+electricity
+during periods of primary grid disruption.
+This means that in the event of a grid outage or other disruptions, a microgrid in "island mode" can continue to provide power using its own generation sources, such as solar panels, wind turbines, or backup generators.
+Islandable microgrids enhance resilience and reliability by ensuring a continuous power supply even when the main grid is down.
+A microgrid is a smart, interconnected system of of distributed energy assets that can:
+Generate power (through solar, wind, natural gas etc.)
+Store power
+“Island” itself from the grid
+Distribute energy stored locally
+[Image Source:
+Scientific Research
+]
+While the distinguishing feature of Microgrids is the ability to “island”, they also have the ability for interconnection to the utility grid and provide multiple benefits when interconnected.
+When microgrids are interconnected they can serve as energy storage, provide
+peak shaving
+,
+load balancing
+and
+demand response
+, improving grid resilience and reliability.
+Grid interconnection also allows the provider to sell energy back into the main grid, offsetting the cost of the microgrid system and serving as a potential revenue source – a huge benefit.
+Why aren’t generators considered microgrids?
+As opposed to backup (diesel) generators – which mostly sit idle unless there’s a grid outage – microgrids are designed to run continuously, offsetting energy demands using local resources, and storing renewable energy when it is plentiful. In other words, microgrids are islandable and interacting with the grid on an ongoing basis (when interconnected).
+(For a more detailed overview of microgrids, read here:
+Microgrids 101
+)
+Microgrid Benefits & Value Propositions
+In an era of increasing grid outages and the growing need for grid modernization, microgrids have emerged as a critical component and enabler of the energy transition, offering an ideal solution for delivering resilience when it is needed most.
+Microgrids provide energy resilience, reliability, cost savings, sustainability, and grid independence.
+Each of these aspects plays a crucial role in the broader context of energy transition and grid modernization.
+[Image source:
+Federal Energy Management Program
+]
+Resilience and Reliability:
+Microgrids’ inherent value is their ability to enhance resilience and reliability in energy supply. Their islandable nature ensures a continuous power supply even during main grid disruptions, providing a safeguard for communities and businesses against the increasing frequency of natural disasters and grid outages.
+Microgrids typically have a
+99% Service Level Agreement (SLA)
+, meaning that the solutions provider guarantees uptime for approximately 99% of the agreed service period.
+This capability is not just about maintaining power but also about ensuring the operational continuity of critical infrastructure & services, and avoiding major financial loss as a result of power outages/downtime.
+Cost Efficiency and Savings:
+Innovative financing models for microgrids have created compelling economic benefits and dramatically increased accessibility to microgrids as a resilience solution.
+Favorable Cost Structure:
+The
+Energy-as-a-Service
+(EAAS) business model has revolutionized the cost structure of microgrid projects, eliminating the need for customers to incur large upfront capital expenditures to develop a microgrid
+(more on this in Part 2)
+Cost Savings:
+In many cases, it is more cost effective for businesses to develop microgrids where retail energy rates are high. Customers typically see a 0% - 30% cost savings vs. their existing power provider [
+9
+]. Many microgrid components also qualify for federal, state and/or local clean energy tax credits and incentives. [
+2
+]
+Cost Offsetting:
+Additionally, when interconnected with the main grid, microgrids can sell excess energy back to the grid, generating revenue, offsetting system costs and providing a return on investment.
+Sustainability:
+Microgrids also play a pivotal role in advancing corporate sustainability goals. By integrating renewable energy sources such as solar and wind (which are cleaner, quieter and more economically viable than diesel generators) microgrids enable businesses to reduce their carbon footprint and make strides toward Net Zero Commitments.
+For example,
+Walmart invested in microgrid technology
+as part of its “Project Gigaton” Net Zero commitment, signaling the potential for microgrids to contribute to large-scale sustainability initiatives.
+Deployability:
+Technological advancements have led to the development of
+standardized, modular microgrid solutions
+, significantly reducing project development timelines and costs.
+A typical microgrid project can take years between a customer expressing interest in a microgrid to its first operation. Standardization and modular microgrid solutions are being developed as a method to address that.
+This deployability factor is crucial in rapidly scaling up microgrid installations to meet the growing demand for resilient and sustainable energy solutions.
+Companies like
+Scale Microgrids
+,
+BoxPower
+, and
+Schneider Electric
+have standardized, modular microgrid solutions offerings.
+Managed Services:
+As an end-to-end provider, microgrids operators offer a de-risked energy solution, as they are often fully managed, serviced, and maintained by their manufacturers or operators. This hands-off approach ensures 24/7/365 system management, relieving customers of the complexities of maintenance and operations, and allowing them to focus on their core activities.
+Microgrids vs. Diesel Generators
+Diesel generators have been the old industry standard for backup power generation, but developments in microgrid solutions business models make microgrids an increasingly superior resilience solution.
+Microgrids offer a shift towards an economically favorable model with enhanced operational efficiency, revenue potential, and sustainability — when compared to diesel generators, which can be seen as cost centers with limited flexibility and a higher environmental impact.
+Microgrid Use Cases
+[Image Source:
+AlphaStructure
+]
+Microgrids offer distributed energy generation that is
+resilient
+(backup storage) and
+self-sufficient
+(grid independent), creating many use cases and applications:
+Critical Services:
+Hospitals, schools, etc., for uninterrupted power supply.
+Data Centers:
+Increasing energy demands and the need for continuous operation.
+Utilities:
+Water and electric utilities for grid resilience and reliability.
+EV Charging Hubs:
+Reliable, localized power for the growing EV infrastructure.
+Grocery & Big Box Retailers with Cold Storage:
+To prevent food spoilage during outages.
+Military Bases:
+Security and operational continuity during grid outages.
+Remote/Rural Communities:
+Resilience against extreme weather events and uninterrupted power.
+Telecommunications
+: Uninterrupted communication services.
+Agricultural Operations:
+Power for irrigation systems and maintaining production.
+Manufacturers & Distributors:
+Uninterrupted power supply.
+Mining Operations:
+Reliable power in remote locations.
+Off-grid/Edge-of-grid Solutions:
+Self-sufficient energy generation for project site locations like construction.
+As we explore the diverse use cases for microgrids – from critical services to remote communities – it's clear that the need for resilient, sustainable, and decentralized energy solutions is more pressing than ever, and microgrids are a viable solution for addressing these needs.
+In Part 2 of this series on microgrids, we'll delve into the changing market dynamics that are shaping the opportunity for the commercialization and scale of microgrids in the U.S., examining factors such as policy, technological advancements, and innovative financing models that are driving this transformation.
+We’ll look at the technologies, business models and solutions from some of the microgrid ecosystem players, offering insights and go-to-market considerations for successfully commercializing microgrids.

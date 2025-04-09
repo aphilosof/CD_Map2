@@ -1,0 +1,90 @@
+Title: Key Takeaways from IEA's new Net Zero Guide - Part 1
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/key-takeaways-from-ieas-new-net-zero
+==============================
+
+Join
+Climate Drift
+: your guide to explaining climate solutions and your part in the journey to net zero.
+Not on board yet? Signup here:
+Subscribe
+Hey 👋
+Skander here.
+There are many plans and roadmaps to help us reach Net Zero by 2050. The
+IEA's Roadmap to Net Zero
+is one of my favorites. It effectively builds upon their previous reports and explores a variety of topics, from technological progress to governmental commitments.
+Check out our favorite 10 roadmaps to reach Net Zero here:
+10 Essential Books on Climate Solutions
+Skander Garroum
+·
+August 4, 2023
+Read full story
+This week, the IEA has released an updated, extensive 226-page edition of their report. I will dedicate this post and the following to dive into it and share some insights in a shorter, Climate Drift friendly, format.
+I will start with a post highlighting some of the good news of the report.
+Let’s dive in 🌊
+A quick Introduction to the IEA
+First, let’s introduce the IEA:
+The International Energy Agency (IEA) is an autonomous intergovernmental organization, headquartered in Paris, established in 1974 within the framework of the Organisation for Economic Co-operation and Development (OECD). Originally conceived in response to the 1973 oil crisis, its role has evolved to ensure reliable, affordable, and clean energy, focusing on energy security, economic growth, and environmental sustainability.
+In March 2022, the IEA’s Ministerial Meeting extended its mandate to emphasize the clean energy transition, reflecting a global shift towards sustainability and climate-conscious energy policies.
+The IEA has historically faced criticism for underestimating the role and potential of renewable energy sources like photovoltaics and their declining costs in future energy systems. Various stakeholders, including environmental groups, investors, and companies, have urged the IEA to bolster its efforts in supporting the implementation of the Paris Agreement, advocating for stronger emphasis on renewables and sustainable energy solutions.
+Despite the criticisms, the IEA continues to be a major player in global energy policy, offering invaluable insights, data, and recommendations and publishing influential studies such as the Net Zero by 2050 report we are looking at today.
+TLDR: What does the Report say?
+Let’s dive right in: The IEA’s update to its 2021 report, "Net Zero by 2050," focuses on the need for more and accelerated efforts to address the impacts of climate change, aligning with the 1.5°C global warming limit goal.
+August 2023 marked the hottest month recorded, after July 2023, underlining the urgency to act.
+The report presents a pathway for the energy sector, which is a major source of CO2 emissions, to achieve net-zero emissions by 2050. Despite new highs of 37 billion tonnes of CO2 emissions in 2022, positive developments and the adoption of clean energy technologies are pointing towards a peak in demand for coal, oil, and natural gas this decade. However, there are many milestones that will need to be reached:
+All graphs from the revised Net Zero by 2050 report.
+What happened so far - aka since the 2021 report?
+Governments have responded to the climate crisis and the global energy crisis, intensified by Russia’s invasion of Ukraine, by adopting measures to promote clean energy technologies. Advances in solar PV installations and electric car sales are noteworthy, aligning with the set milestones in the 2021 report. If current manufacturing expansions are fully realized, the demand for solar PV and batteries could be met by 2030.
+What do we need to do?
+In order to bend the emission curve downward by 2030, accelerated improvements in energy efficiency, cutting methane emissions, and increasing electrification with existing technologies are imperative. These are most often cost-effective and can deliver over 80% of the required emission reductions by 2030. In this scenario, fossil fuel demand could decline by over 25% this decade, with energy sector CO2 emissions falling by 35% by 2030 compared to 2022 levels.
+Tripling global installed renewable capacity to 11,000 gigawatts by 2030 is also crucial for substantial emissions reduction. With policy reinforcement and international support, especially in emerging markets and developing economies, the global goal can be achievable. Accelerated electrification is essential, driven by booming technologies like electric vehicles and heat pumps. Cutting methane emissions by 75% by 2030 is also crucial as one of the least cost opportunities to curb global warming in the short term.
+Accelerate Innovation
+Investment in clean energy needs to significantly climb from a record USD 1.8 trillion in 2023 to around USD 4.5 trillion a year by the early 2030s, with a sharper focus on emerging market and developing economies other than China. With sufficient investments, no new coal, oil, and natural gas projects would be needed, and fossil fuel demand could be cut by more than 25% by 2030 and 80% in 2050.
+Accelerate Investment
+Innovation is important to reducing reliance on non-existent market technologies for emission reductions. Also, a "build big" mentality for infrastructure like smarter grids, CCUS technologies, and low-emission fuels is needed, with policies to expedite decision-making and foster international cooperation.
+Bridging the supply and demand gap for critical minerals is necessary to avoid disruptions from geopolitical tensions and extreme weather events, ensuring supply chain resilience. Electricity, being the "new oil," requires secure and flexible supplies with a massive expansion of battery energy storage and dispatchable low-emission capacity.
+In a secure and affordable net-zero emissions transition, households, especially low-income ones, need support to meet the higher upfront costs of clean energy technologies.
+Let’s first look at what is going well: Technological progress
+These 4 graphs show remarkable growth in 4 key solutions:
+Solar PV capacity surged by over 400%
+, adding almost 1 terawatt (TW) of capacity, nearly the total installed electricity capacity across the European Union.
+The
+sales of electric cars experienced a skyrocketing increase of around 2,000%
+, totaling over 25 million sales during this period. This number surpasses the total number of cars currently on the roads in Canada.
+The
+market for residential heat pumps saw a 225% increase
+in sales, totaling around 600 GW, almost the entire residential heating capacity found in Russia.
+Stationary battery storage
+saw a monumental increase in capacity additions,
+rising by 2,500%
+. Nearly 45 GW was installed, almost the total installed electricity capacity in Argentina.
+In 2022, the collective global market for five important clean energy technologies—solar PV, wind, batteries, electrolysers, and heat pumps—experienced a surge, reaching just below USD 300 billion, marking nearly a 20% increase from the year before.
+Since 2010, the market value of these five technologies has nearly tripled, coinciding with an approximately 80% decline in their unit costs - thanks to learning and producing at scale.
+We covered the framework behind this in
+How Solar Got Cheap
+How Solar got cheap
+Skander Garroum
+·
+August 8, 2023
+Read full story
+Without these cost reductions, an additional $1 trillion in investment would have been needed in 2022 to attain the level of deployment achieved that year.
+Sales predominantly grew in major markets such as China, North America, and the European Union.
+If we zoom in we can see that EV batteries and stationary storage applications accounted for 65% of the market expansion in 2022, mostly because of the substantial global uptick in electric car sales, which rose from almost 7 million in 2021 to over 10 million in 2022, representing a jump from 9% to 14% of global car sales respectively.
+But are we producing enough?
+Good news first: If all anticipated solar PV module manufacturing projects are realized, the output would exceed the deployment needs of the updated NZE Scenario for 2030 by around 30%.
+Likewise, the demands for EV and grid storage batteries in 2030 would almost be entirely satisfied under the same conditions.
+However, intentions are not implementations: these projects often need to finalized, fully funded and constructed. Currently, only around 25% of globally announced projects for solar PV manufacturing and about 30% for batteries are firmly committed. The commitment is even more sparse, around 5%, for electrolysers essential for hydrogen production.
+The situation is also challenging for wind power. Despite the manufacturing capacity for crucial wind turbine components experiencing a slight increase—around 2% in 2022—many wind manufacturers are encountering obstacles in escalating production. These are primarily due to disruptions in supply chains and increased costs, ramifications of the Covid-19 pandemic, and geopolitical strains, which followed a period characterized by decreasing costs and rapid expansion in the wind sector.
+More good news: Most countries are working towards Net Zero
+Reaching net zero emissions by 2050 requires action on the part of all countries. Different countries have varying starting points, capacities, and resources.
+Thankfully, things are starting to move, as of September 2023, over 85% of global energy-related emissions and nearly 90% of global GDP are encompassed by net zero pledges, with 94 countries and the European Union committed to such targets.
+These pledges, though not possessing the legal binding of NDCs under the Paris Agreement, are important as indicators of national ambitions towards the collective goal of net zero emissions. But pledges are not binding yet.
+This is also starting to change: Several countries have institutionalized these targets in national law, particularly advanced economies in Asia Pacific and Europe.
+However, in many emerging and developing economies, such commitments are often non-legally binding or are merely oral pledges. In the Middle East and North Africa, substantial gaps in commitment persist.
+Most pledges are comprehensive, covering all sectors including energy, but the inclusion of land-use sectors as emission sinks often slows the perceived pace of energy-sector emissions reductions compared to IEA scenarios. More transparent and distinct emission reduction and removal targets would enhance clarity and confidence in these commitments.
+This overview has highlighted the optimistic advancements, the positive shifts in governmental policies, and the momentum in clean energy technology adoption.
+However, we've only scratched the surface of the report and while it’s crucial to acknowledge and build on our successes, it's equally important to understand and address the challenges and areas where progress is lagging.
+Stay tuned for Part 2,
+Skander
+PS: Like this part? Share it please.
+Share

@@ -1,0 +1,142 @@
+Title: A Look at Industry
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-industry
+==============================
+
+Welcome to
+Climate Drift
+, your source for clarity on climate solutions. Discover your part in the journey to net zero.
+Not a subscriber yet? Join us here:
+Subscribe
+Hey there 👋
+Skander, here!
+Welcome to part 4 of our deep dive into companies attending
+The Drop conference
+in Sweden next week.
+In Part 1 we shine a light on Transportation
+🚄
+A Look at Transportation Companies
+Skander Garroum
+·
+August 29, 2023
+Read full story
+In Part 2 we explore the Built Environment.
+🏗️
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+In Part 3 it is time for the Circular Economy
+♻️
+A Look at the Circular Economy
+Skander Garroum
+·
+August 31, 2023
+Read full story
+In Part 4 we look at Industry 🏗️
+A Look at Industry
+Skander Garroum
+·
+September 1, 2023
+Read full story
+In Part 5 we try to decarbonize Food & Agriculture 🍃
+A Look at Food & Agriculture
+Skander Garroum
+·
+September 4, 2023
+Read full story
+Today we are looking at Industry, from carbon free cement to green hydrogen.
+Let’s dive in 🌊
+Let’s first dive into the industry emissions
+From the always great State of Climate Action
+Industry stands as a cornerstone of modern civilization, fueling economies and producing essential commodities. However, with progress comes cost: as of 2019, industries contributed to approximately 24% of global greenhouse gas emissions, with energy production leading the chart. Particularly, the burning of fossil fuels in the industrial sector alone released over 6 billion tonnes of CO2 annually.
+Thankfully we have solutions: from less carbon intensive concrete to new chemical processes, let’s discover who is attending The Drop and what they are working on:
+Glencore
+Glencore is a multinational commodity trading and mining company headquartered in Baar, Switzerland. Founded in 1974, it has grown to be one of the world's leading integrated producers and marketers of commodities. Glencore operates in over 50 countries, with a diverse portfolio that includes over 150 mining and metallurgical sites, oil production assets, and agricultural facilities. The company is involved in the production of key commodities like copper, cobalt, zinc, nickel, ferroalloys, coal, and oil. Listed on the London and Johannesburg stock exchanges, Glencore is known for its global presence, complex supply chains, and significant economic influence.
+http://www.glencore.com
+http://www.linkedin.com/company/glencore
+Anglo American
+Anglo American is a globally diversified mining corporation headquartered in London, UK. Established in 1917 in Johannesburg, South Africa, the company has major operations in diamond, copper, platinum, iron ore, coal, and nickel. Its portfolio includes some of the world's most valuable diamond reserves through its subsidiary, De Beers. Over the decades, Anglo American has transformed itself from a South African-centric entity to a global mining powerhouse, emphasizing sustainable mining practices and social responsibility. Recognized for its influential role in the global commodities market, it's listed on the London and Johannesburg stock exchanges.
+http://www.angloamerican.com
+http://www.linkedin.com/company/anglo-american
+Fortescue
+Fortescue is a leading iron ore producer based in Australia. Through its green energy and technology subsidiary, FFI, Fortescue is ambitiously diversifying to become a global integrated green energy and resources entity. Central to this evolution are its industry-leading objectives: achieving carbon neutrality for Scope 1 and 2 emissions by 2030 and net zero Scope 3 emissions by 2040. Given Fortescue's magnitude and reach, no other mining enterprise of its caliber worldwide is undertaking such decisive measures to eradicate emissions.
+http://www.fortescue.com
+http://www.linkedin.com/company/fortescue
+Novozymes
+Novozymes is a global biotechnology company headquartered in Denmark. Specializing in the research, development, and production of industrial enzymes, microorganisms, and biopharmaceutical ingredients, the company plays a pivotal role in various industries, from agriculture and food to bioenergy and wastewater treatment. Novozymes is committed to harnessing the power of biology to create sustainable solutions that address global challenges.
+http://www.novozymes.com
+http://www.linkedin.com/company/novozymes
+EnginZyme
+EnginZyme is a biotechnology company with a vision: to revolutionize green chemistry across industries. Their ambition is rooted in combating climate change by introducing a technology platform for chemical production. The crux of their innovation lies in their cell-free biomanufacturing platform, which seamlessly integrates the precision of biological catalysts, enzymes, with the robustness of the chemical sector.
+http://www.enginzyme.com
+http://www.linkedin.com/company/enginzyme
+Tanso
+Tanso, based in Munich, is focusing on carbon accounting software, tailored to assist industrial companies on their decarbonization journey. Their platform automates the calculation of direct and indirect carbon footprints (Scope 1-3), facilitating data-driven strategies for emissions reduction. Tanso's software enables organizations to gather data, identify emissions hotspots, set clear reduction goals, and report progress in line with global standards such as GHG Protocol and GRI.
+http://www.tanso.io
+http://www.linkedin.com/company/tansotechnologies
+Mimbly
+Mimbly, a Gothenburg-based cleantech, builds solutions to reshape unsustainable practices, emphasizing water and microplastic conservation. Passionate about sustainable laundry - which means reducing water usage, microplastic contamination, and CO2 emissions - they've introduced the Mimbox. This product seamlessly integrates with professional laundry equipment, elevating facility management and housing companies' eco-friendliness without overhauling existing infrastructure.
+http://www.mimbly.se
+http://www.linkedin.com/company/mimbly
+Concrete is the second most consumed material on Earth after water. Its primary component, cement, is a major environmental concern, contributing to 8% of global CO2 emissions. This is over triple the emissions from the aviation sector. By 2060, cement usage is projected to double. Cement clinker, essential for concrete, is a significant source of these greenhouse gas emissions.
+Material Evolution
+Established in 2017, Material Evolution has introduced a low-carbon cement that boasts an 85% reduced carbon footprint compared to traditional Portland cement. The firm's innovative alkali-fusion process produces cement at ambient temperatures using industrial wastes, negating fossil fuel requirements. Having secured £15 million in Series A funding, the company, although US-incorporated, operates primarily in the UK. Its unique technology distinguishes it from other green cement contenders, and its products are currently being utilized in various industries, aided by a strategic alliance with SigmaRoc, also a major investor.
+http://www.materialevolution.com
+http://www.linkedin.com/company/materialevolution
+ecoLocked
+EcoLocked, a Berlin-based startup, innovatively employs biocarbon to diminish concrete's carbon impact. Initiated in 2021, they targeted the cement industry, discovering that refined biocarbon can considerably lower concrete's carbon emissions. As a result, EcoLocked has developed CO2-neutral, medium-strength concrete mixes that have been extensively tested and verified. Their biocarbon production, derived from waste materials, is scalable, economical, and efficient, with applications extending to sectors like agriculture and water filtration.
+http://www.ecolocked.com
+http://www.linkedin.com/company/ecolocked
+Materials Nexus
+Materials Nexus is focusing on the discovery of environmentally and economically sustainable materials. Harnessing AI-driven software, they've streamlined the material design process, leveraging rapid automation and quantum calculations. Partnering with various stakeholders, their goal is to slash global CO2e emissions and fast-track the innovation of next-generation materials, reducing the typical decades-long discovery timeframe to mere months.
+http://www.materialsnexus.com
+http://www.linkedin.com/company/materials-nexus
+Found Energy
+Found Energy is a firm focused on developing clean energy solutions for major industries, including aluminum smelting, fertilizer production, and maritime shipping. Leveraging MIT-developed technology, the company utilizes metallic aluminum to produce hydrogen and heat on-site, offering energy densities significantly greater than liquid hydrogen, methanol, and ammonia. Their integrated system addresses challenges in renewable energy transportation and storage. Found Energy aims to replace fossil fuels in heavy industries and promote carbon-free energy alternatives derived from aluminum, addressing the critical issue of renewable energy storage and transport.
+http://www.found.energy
+http://www.linkedin.com/company/found-energy
+CR Competence
+CR Competence is a Contract Research Organization based at Lund University, specializing in advanced chemistry and physics. Catering to sectors ranging from Pharmaceuticals to Agriculture, they emphasize innovation and employ high-caliber methodologies to deliver value and competitive advantage. Their achievements include the development of notable intellectual property and the establishment of long-term industry partnerships. Located near prominent research facilities like MAX IV and ESS, CR Competence provides distinct research benefits.
+http://www.crcom.se
+http://www.linkedin.com/company/cr-competence-ab
+Bluestem Biosciences
+Bluestem Biosciences, based in Omaha, Nebraska, is in the field of synthetic biology with a focus on optimizing Midwest infrastructure. Founded in January 2022 by Billy Hagstrom, Tyler Autera, and Jared Wenger, the company employs digital biology to expedite biomanufacturing discoveries. Their primary goal is the sustainable production of chemicals and materials.
+http://www.bluestembiosciences.com
+http://www.linkedin.com/company/bluestem-biosciences
+SnoFox Sciences
+SnoFox Sciences specializes in analytics designed to enhance efficiency and reduce energy consumption in the cold industrial sector, without necessitating new hardware. SnoFox offers an exclusive thermodynamics-driven data analytics platform dedicated to cold chain monitoring and proactive maintenance.
+http://www.snofox.com
+http://www.linkedin.com/company/snofox
+ChemFinity Technologies
+ChemFinity Technologies, originating from UC Berkeley's College of Chemistry, is dedicated to developing molecularly tailored materials that counteract pollution and promote resource circularity. Their solutions target pivotal environmental issues like water purification, mineral recovery, and gas separations. ChemFinity has received support from notable entities such as the Breakthrough Energy Fellows program, USAID, and Conservation X Labs.
+http://www.chemfinitytech.com
+http://www.linkedin.com/company/chemfinitytech
+Southern Lights
+Southern Lights offers a SaaS tool designed to aid energy developers in the design, simulation, and economic assessment of green hydrogen projects. Their goal is to support the transition away from fossil fuels in heavy industries by promoting the adoption of green hydrogen. The platform aims to facilitate the creation of financially sustainable hydrogen projects that contribute to reducing global emissions.
+http://www.southernlights.io
+http://www.linkedin.com/company/southernlights
+Holy Technologies
+Holy is focusing on advancements in sustainable lightweight manufacturing through innovative processes for the mass production of recyclable carbon fiber components. These high-performance components, designed to retain their quality across multiple lifecycles, find applications in key industries such as Wind Energy, Automotive, and Aerospace. The carbon fiber market is projected to surge to an approximate $180 billion by 2030.
+http://www.holy-technologies.com
+http://www.linkedin.com/company/holy-technologies
+Muon Vision
+Muon offers advanced X-ray imaging technology designed for passive and non-invasive operations. The company's primary solutions cater to the visualization of fluid percolation in leaching heaps, monitoring the stability of dams, heaps, and other mining infrastructures, and assisting various industrial sectors where density measurements are pivotal.
+http://www.muonvision.com
+http://www.linkedin.com/company/muon-vision-inc
+Electrogenos
+Electrogenos is a company specializing in Alkaline Electrolyser technology, focused on enhancing green hydrogen production. With an mission to promote the mass adoption of green hydrogen, the company aims to make it more affordable by targeting production costs of under $1 per Kg, thereby competing with fossil-fuel hydrogen prices.
+http://www.electrogenos.co.uk
+http://www.linkedin.com/company/electrogenos
+Avisa Myko
+Avisa Myko has developed an innovative fermentation process to produce melanin at costs 4000 times lower than traditional methods. Historically limited by its high price, this new approach aims to expand melanin's commercial applications. One notable product is an environmentally-friendly sunscreen with SPF 30, using melanin as a UV blocker, offering an alternative to harmful chemical UV blockers that damage marine ecosystems. Beyond cosmetics, the company explores melanin's potential in pharmaceuticals and industrial applications, like rechargeable batteries.
+http://www.avisamyko.com
+http://www.linkedin.com/company/avisa-myko-inc
+As The Drop conference draws near, it’s evident that each company highlighted brings a unique approach to the complex puzzle of reaching Net Zero for Industry.
+Stay tuned for our next deep dive and, as always,
+don’t hesitate to reach out at
+[email protected]
+Skander
+PS: Feel free to share this list with anyone you believe would benefit from it.
+Share

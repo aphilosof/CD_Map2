@@ -1,0 +1,56 @@
+Title: An offensively brief climate VC thesis
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/an-offensively-brief-climate-vc-thesis
+==============================
+
+Mairi Robertson
+is Director of Asset Financing at Ezra Climate, where she develops innovative financing structures for energy transition investors and companies. Previously she was part of McKinsey's Climate Finance Practice, and is now (another) Australian based in New York.
+An offensively brief climate VC thesis
+LEDs: The most boring climate solution that actually worked. Photo by
+Kari Shea
+on
+Unsplash
+Most of your customers don’t care about carbon reduction, even if you’re a climate tech company
+.
+Homo economicus
+— the rational individual who is driven by self-interest—should instead be the main paradigm investors use when thinking about companies that decarbonise the world.
+I think two conditions define winners within the world of potential climate technology companies. This is especially important
+as we enter a political environment where climate investing might need a rebrand
+.
+Simple maths
+Winning climate tech companies do two things:
+They save (or make) customers money
+.
+From Day 1, not eventually. LED lighting didn’t succeed because people suddenly cared about efficiency — it won because the electricity bill savings were obvious.
+They are “drop in” solutions.
+Installation should be trivial. The more work required to adopt something, the fewer customers will bother.
+That’s it:
+Customer Savings
++
+Drop-In Solution
+=
+Viable Climate Company
+. [1]
+Why solar finally worked
+Early 2010s residential solar is a perfect test case. Rooftop solar could save money and help the environment, but was stuck for years. Why? Installation cost tens of thousands upfront, and bank financing took months. Most customers gave up before installation.
+On-the-spot financing from companies like
+Mosaic
+(co-founded by my boss,
+Dan
+) helped unleash the segment in the US:
+Monthly loan payments cost less than monthly utility bills. Instant savings for customers.
+Customers could win instant approval for solar loans rather than months of bank paperwork. This was much closer to a “drop in” solution.
+Since 2010, residential rooftop solar has increased from <1GW in 2010 to >36GW
+— and of that, today
+85% of residential rooftop solar is financed
+.
+The formula works!
+Today’s stragglers
+The same framework explains current market struggles:
+Nuclear SMRs? Costs are falling, but still too high for most customers (
+just ask any data center investor or operator
+).
+Green hydrogen? New infrastructure everywhere = the opposite of drop-in
+Carbon capture? The economics rarely make sense without policy support, and either way it’s still a bugger to implement.
+The next time someone pitches their climate start-up, ask two simple questions: Will it save customers money from Day One? And how close is it to “drop in”? The answers will tell you a lot about its chances of success.
+[1] Yes, I know there is an alphabet soup of other things that matter in VC investing— CAC, ROI, LTV, etc. But who doesn’t love an oversimplified framework?

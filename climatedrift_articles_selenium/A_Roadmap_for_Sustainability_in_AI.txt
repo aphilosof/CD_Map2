@@ -1,0 +1,18 @@
+Title: A Roadmap for Sustainability in AI
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-roadmap-for-sustainability-in-ai
+==============================
+
+Tracy Cheung
+is a sustainability leader with over 15 years of experience in energy and advanced mobility programs. Her most recent role was Head of Sustainability at Cruise, a self-driving tech company, where she led initiatives to power the company's fleet with 100% renewable energy.
+Tracy's background spans finance, utilities, and tech. She began her career in private equity before spending nearly 12 years at PG&E, the largest utility in the U.S., where she launched several distributed energy resource (DER) programs. At PG&E, she led projects such as redesigning energy billing statements and implementing home energy reports that resulted in significant household energy savings.
+Introduction
+How AI companies can address these problems
+Key Environmental and Social Challenges for AI Companies
+Finding comparables: Benchmarks within the Tech industry
+What AI companies’ carbon footprints look like
+Meta as a case study for AI companies’ future carbon footprint
+Recommended focus areas and ambition levels  for AI companies
+Sample roadmaps
+Meta as an environmental case study - how AI companies could drive future impact
+Last but not least: A look into the future

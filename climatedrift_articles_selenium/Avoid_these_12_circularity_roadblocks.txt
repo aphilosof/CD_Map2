@@ -1,0 +1,125 @@
+Title: Avoid these 12 circularity roadblocks
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/avoid-these-12-circularity-roadblocks
+==============================
+
+Hi there! 👋
+Skander here!
+A lot is brewing at Climate Drift, from new open research initiatives, to our efforts helping people break into climate.
+Here are a few brief updates:
+🎉 Overwhelming demand for our 1-on-1 Climate Career Mentorship
+First I want to say thanks for the overwhelming applications for our 1-on-1 Climate Career Mentorship sessions. We now had dozens of calls and our waitlist is still 200+ awesome people long.
+We are currently trying to clear up larger parts of our calendars and will try to get through the whole waitlist.
+🚀 Introducing: The
+1-day Climate Career Workshop
+For those that can’t wait: We decided to run a
+1-day Climate Career Workshop
+in the next weeks, going through everything we have learned so far and the most common challenges in a climate transition - and the solutions:
+Join our 1-day Climate Career Workshop
+In case you also want a
+1-1 session
+where we try to help you along your climate journey, review your pitch & refine your approach:
+Apply here.
+On to the post of the week: How to build a circular economy roadmap ♻️
+After looking into the
+Circular Economy two months ago
+quite a few established companies approached us with the question of how they could become more circular - especially how to develop a Circular Roadmap.
+The solutions we are currently tracking for the Circular Economy
+The circular economy emphasizes sharing, reusing, and recycling to extend product longevity, with principles like "Rethink" for greener inception, "Reduce" for minimizing waste, and "Recycle" for advanced material management.
+We asked around and our friends at Pentatonic responded. Pentatonic is a climate-tech platform accelerating circularity at scale in the world’s largest consumer brands. They are used by customers like L'Oréal, Lego, and Diageo.
+Johann co-founded Pentatonic in 2016 and oversees the company’s material lifecycle and engineering streams. Johann’s background is in material, circular supply chain and manufacturing, including nine years of hands-on experience in Taiwan and China, and he is an advisor to early-stage climate investor Regeneration.VC.
+Transitioning a large, established company to truly circular operations demands a holistic vision: uncoordinated siloed adjustments alone won’t deliver the necessary systemic change across multiple core business domains.
+In response to this complexity and scale, many companies seek to define staged transitional milestones, often referred to as a ‘circular economy roadmap’ or ‘pathway to circularity’.
+However, early versions of this roadmap often only serve to reveal the true depth of the change to be navigated. This is entirely normal of course, and it’s clearly better to make a start, make mistakes, and learn some lessons than never begin.
+We’ve
+advised
+and executed with some of the world’s biggest consumer brands when it comes to driving this transition, categorizing a few common pitfalls and misconceptions to avoid along the way.
+Here are 12 of the most frequent we see.
+1. Suffering legislative blind spots
+Recent years have seen a growing raft of legislation across the US, EU and UK aimed at addressing pollution and emissions, much of which mandates significant change for businesses.
+The stakes are high. Much of the legislation carries significant non-compliance penalties, in addition to reputational damage from public reprimands. Wether you are in
+packaged goods
+, California’s Senate Bill 54, which compels companies to significantly reduce single-use plastics and packaging, imposes penalties of up to $50,000 daily, per infraction, for non-compliant corporations.
+Or in
+consumer products
+: The French Climate and Resilience Law requires brands to substantiate ‘carbon neutral’ or ‘zero carbon’ style product claims with an annual product life cycle emissions report, or
+automative
+, while the German Electrical Devices Act (ElektroG) mandates company action across the marketing, disposal, and recycling of electrical and electronic devices. Violations for both can result in fines of up to €100,000.
+In addition, the UK government has also signaled it will remove the cap to make fines for polluting businesses unlimited in size, opening the door for penalties in the hundreds of millions of pounds.
+Make sure your best-laid circularity plans aren’t in conflict with upcoming legislation in one, two or five years. Consider impact across all operational areas, track and prepare for upcoming laws, and have a plan for regional variations and interpretations.
+2. Missing the molecular
+Many bills of materials will shift over the coming decades to create more easily compostable and recyclable products. Having the right competencies in the room when making your move towards biobased and recyclable materials is key. If you can compare the relative strengths and weaknesses of your material options at the molecular level, you can unlock the opportunity to truly hardwire operational circularity.
+Understanding, or even engineering, material options at the molecular level allows for optimal characteristics to be emphasized or balanced. For example, a furniture manufacturer may seek a material choice which combines enhanced recycling potential with optimal durability. Or an electronics producer might focus on maximizing end-of-life material recoverability for optimal value chain reintegration.
+3. Being sold a (material) silver bullet
+As well as the granular characteristics, material selections should balance current and future availability. Pragmatism pays off here: it’s a mistake to prematurely assume that recycling the current material portfolio is not a worthwhile effort.
+There are many materials like PLA that are simply overrated. But even the promising bio-based options such as polyhydroxyalkanoates (PHAs, including PHB), despite providing a pathway forward, won’t be available in viable quantities (with the attendant drop in production costs) for some time. Winners over the next 10-15 years will hedge their bets through a nuanced blend of legacy materials and new sustainable selections. So, for example, those planning on PHA will have to gradually integrate it with traditional petrochemical-derived plastics, like polyethylene terephthalate (PET).
+Consider how your requirements might evolve over the next three to five years. Do your material selections support cost-effective scaling? Can you rely on their availability over the medium term and beyond to ensure supply chain stability?
+4. Adopting a narrow circularity vision
+Don’t constrain yourself to only the most obvious routes forward. Remember that much of the change required for true circularity is significant and systemic, so reframing the way you look at your operations is often crucial.
+Shape your initial vision by considering the bigger picture, asking:
+Which circular economy principles particularly align with our values?
+How can we design products to extend lifespan (through durability, modularity, repairability, or upgradability)?
+What opportunities exist to introduce ‘product-as-a-service’ models to increase reuse and efficiency?
+What sharing or collaborative consumption opportunities exist for our products?
+Where can we introduce closed-loop systems into our supply chains?
+Questioning certain fundamentals might be the first step towards making real changes. It’s important to respect your brand legacy but don’t allow it to limit you when breaking new sustainability ground.
+5. Piloting at the wrong scale (hint: too small)
+Many brands waste time and ultimately resources with timid pilots. Resist the temptation to start off too small when it comes to designing studies to prove aspects of your circularity roadmap.
+Initial pilot size has a significant bearing on whether the resulting data and learnings will truly map onto subsequent and larger initiatives.
+UK supermarket Tesco tested more than 200 products across online and in-store prefill and reusable packaging
+pilots
+. Data from over 80,000 pilot product purchases allowed Tesco to confidently model the potential impact of scaling: concluding that a prefill offer rolled out to 400 stores would be a viable business prospect, and replace millions of plastic packaging items with reusable alternatives.
+Small pilots generally have poor unit economics and yield statistically insignificant proofpoints. Build confidence by simulating critical pilot processes and outputs before committing. Be sure to include the limitations imposed by critical enabling structures or third parties.
+6. Leaving out the KPIs
+Neglecting analytics across all areas of your circularity roadmap can undermine your ability to create sustainable products, optimize supply chains and manufacturing, and transform your end-of-life processes.
+The ability to gather real-time data also aids regulatory compliance and reveals opportunities to reduce costs.
+Build monitoring and KPIs into your circularity planning. Continuous measurement empowers companies to make decisions and act immediately to adjust and improve processes, as well as refine models more iteratively.
+7. Putting the marketing cart before the circularity horse
+Talk about your journey the right way. Don’t risk greenwashing accusations by putting the marketing cart before the circularity horse. Avoid unsubstantiated claims - be honest about the process.
+Building a pragmatic, transparent and well-considered narrative around your sustainability roadmap - both externally and internally - serves several purposes. It builds trust with stakeholders, consumers and partners, helps attract the best talent, and elevates your brand.
+The way you communicate internally must also align with your public utterances. Ensuring consistency here is vital to boosting brand authenticity.
+IKEA
+,
+LEGO
+, and
+Patagonia
+have all received positive attention for their straightforward sustainability communications. Although they operate in different spaces and have different styles, they all share goals, celebrate successes to date, and are clear about the challenges that remain.
+8. Expecting too much from the consumer
+Failing to remove friction from the customer experience is a common pitfall when designing circularity initiatives. Particularly for those dependent on significant consumer participation for their success - think refill or takeback schemes.
+How well do you know your customers? Are your demands realistic? Consider consumer motivations and behavioral tendencies at all times.
+Carefully tailor incentives and messaging across all physical and digital channels - including packaging - to maximize the likelihood of new model adoption.
+9. Not collaborating
+Navigating major organizational change in the name of circularity requires an open and collaborative attitude: internally and externally. Recognizing when to join forces with partners and peers can become a vital enabler: sharing knowledge and resources to better solve major circularity challenges. Clearly define what you can bring, and what you might seek, from a potential collaboration and remember, partners can be found outside your immediate industry.
+Sustainable and circular initiatives often require coordinated efforts across various stages of the value and supply chains. Collaboration unlocks significant innovation potential, boosts efficiency, and reduces risk. It also increases trust and transparency between participants and improves overall systemic resilience.
+For example, the
+Sustainable Apparel Coalition (SAC)
+brings together brands, retailers, suppliers, and NGOs. The SAC is known for its Higg Index: a widely adopted suite of sustainability measurement tools providing the apparel and footwear sector with standardized performance metrics. Members also share data, develop best practices, and build new capabilities.
+10. Becoming an LCA dogmatist
+Lifecycle assessments (LCAs) evaluate the environmental impact of a product, process, or service throughout its entire lifecycle, from raw material extraction to production, use, and end-of-life. They are powerful but have important limitations: not everything can be neatly reduced to numerical values and squeezed into (often rigid) systemic boundaries.
+Generic data inputs used in LCA may contain averaging and unrepresentative samples - particularly around product use and end-of-life phases. Social aspects are also typically underrepresented. Static datasets only provide an accurate snapshot of the moment they were collected, becoming almost instantly outmoded.
+Emerging sustainable materials might be penalized via an LCA unable to account for a current lack of enabling infrastructure (such as specific recycling facilities) and pilot-scale footprint data. This can mean they are demoted in favour of an unrecyclable material with an established supply chain.
+Use first-principle assessments to determine true material or process potential. Can you establish a feedback loop for real-world (energy usage, material movement, and impact from specific locations and events) data? Prioritize this class of information above retrospective analysis in your decision-making.
+11. Not keeping your roadmap ‘live’
+It’s important to remember that a circularity roadmap - like every strategic, long-term plan - takes time and consideration to create but, once in play, must be a living and continually optimized reference point.
+Schedule milestones and checkpoints as part of a phased approach which allows your organization time to adapt. Periodic reviews and updates enable you to respond to changing market conditions, as well as incorporate new technologies and growing internal capabilities.
+12. Not making a start
+Don’t let the perfect become the enemy of the good (or even of the ‘adequate for now’). Know that when it comes to initiating circularity progress, you can iterate and improve exponentially from even the most modest of starts.
+In fact, it's often more pragmatic to start with modest, manageable initiatives. It’s a journey and you won’t have all the answers to begin with. Begin, measure, learn, and move forward: you’ll be proud of where you are a year from now.
+Finally, it’s worth noting that most companies don’t usually make all of the above mistakes. Our customers often have strong intuitions across many of these areas and generally have to focus on a few particular aspects.
+We find that understanding when to attend to specifics and details (legislative implications, building in KPIs, and molecular-level material analysis), and when to have your eyes on the bigger picture (LCA limitations, collaborative opportunities, and legacy material integration) is a major theme for success.
+Johann Bödecker
+is cofounder of
+Pentatonic
+, a climate-tech platform empowering circularity transformation in the world’s largest consumer brands. Johann is also leading Pentatonic’s Series A fundraising and invites enquiries from potential investors and partners at
+[email protected]
+.
+Haven't joined
+Climate Drift
+yet? Click below to
+subscribe
+and stay updated.
+Subscribe
+Want to make a difference? Share
+Climate Drift
+with someone you know—whether it's a friend, coworker, or anyone you think should think about climate change and solutions:
+Share Climate Drift

@@ -1,0 +1,66 @@
+Title: Microsoft’s $10 billion power bill
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/microsofts-10-billion-power-bill
+==============================
+
+Mairi Robertson
+is Director of Asset Financing at Ezra Climate, where she develops innovative financing structures for energy transition investors and companies. Previously she was part of McKinsey's Climate Finance Practice, and is now (another) Australian based in New York.
+Microsoft’s $10 billion power bill
+(and why Wall Street is picking up the tab)
+Photo by
+Nicolas HIPPERT
+on
+Unsplash
+In May 2024, Microsoft announced what should have been a pretty standard renewable energy deal: They’d buy power from some new wind and solar projects that Brookfield would build
+. Except the deal was for 10.5GW of power — about 8x larger than any previous corporate power purchase agreement (PPA). The price tag? North of $10 billion.
+This is big. The AI revolution isn’t just changing how we use power — it’s upending how we finance it, too.
+How to Build a Power Plant (The Old Fashioned Way)
+The traditional playbook for building a new power plant is pretty simple. Imagine you’re a developer. You need to:
+Find some land, and convince the owner to let you build a big power plant on it.
+Sign a power purchase agreement with a large corporate customer or utility. They promise to buy electricity from your future power plant at a fixed price for 15–20 years.
+Find a utility backstop, so that if your large corporate customer goes bust, someone will purchase all that electricity you’re producing.
+Go to a bank and ask them to lend you some money to build the power plant. (The PPA + utility guarantee provide the contracted cash flows that make the project bankable).
+The whole thing is basically a complicated way of turning future electricity sales into present-day financing — kind of like a mortgage, where you’re using your future salary to pay for a house.
+When things get complicated
+Things are a little more complicated in the Age of AI.
+Why? The people want lots of AI! And AI needs lots of data centers! And data centers need lots of power! (
+AI data center demand could double by 2026
+). Ultimately, this means
+lots
+of money needs to get deployed into new power generation — and fast.
+The snag? Traditional project finance doesn’t quite work here:
+Offtake risk:
+Lenders get nervous when your off-taker is also effectively your developer. All of the underlying customer risk is concentrated in a single entity. When your customer wants more power than some small European nations use, who exactly is your backup plan?
+“Don’t worry, if Microsoft doesn’t want the power, we’ll just sell it to… um… France?”
+Demand risk:
+It’s…kind of hard to predict electricity demand for these centers over the next 10–20 years. Will more efficient chips offset the surge in demand? Will government regulate usage? How many new AI models will we train? Or will we have just turned off AI at that point to stop the robots from taking over? I don’t know!
+Ticket size:
+Building lots of data centers and power plants is just, like,
+super
+expensive. (Microsoft’s $10B deal with Brookfield is
+more than the entire nation of Australia spent on electricity generation, transmission, and distribution in 2021–22
+). A lot of traditional project finance lenders just, well, don’t have that kind of money.
+Enter Wall Street (And their very large cheque book)
+How do you solve these problems? By completely reinventing the project finance playbook. Instead of trying to squeeze AI-scale power needs into traditional project finance boxes, Wall Street and Big Tech are basically creating their own private power utilities. Sort of like if Netflix got so big they had to build their own internet (which, tbh, might be next).
+Here’s how the new mega-deals are solving our three problems:
+The offtake risk problem? Solved by having massive financial institutions effectively underwrite Big Tech’s power needs.
+When KKR and ECP put $50 billion into data center infrastructure
+, they’re not just lending money — they’re betting their balance sheet that AI power demand isn’t going away. The traditional utility guarantee is replaced by Wall Street’s balance sheet.
+The demand uncertainty? Handled through vertical integration.
+Meta’s deal with Ørsted for both solar farms
+and
+battery storage
+shows how tech companies are building flexible, integrated power systems rather than just buying electricity. If demand is lower than forecast, they can store and resell excess power; if it is higher, they can optimize when they draw from the grid rather than their own batteries.
+The ticket size problem? That’s where the likes of KKR come in.
+Traditional project finance can top out around $2–3B per deal (the cost of a small-ish offshore wind farm). But when you’re KKR with a $50B joint venture, suddenly Microsoft’s $10B power need doesn’t look so scary.
+What we’re seeing is the emergence of a two-speed power market. On one track, you have the traditional project finance world, where deals still look like they did in 2019 — utility-scale solar farms selling power to regional utilities, backed by regulated rates and public utility commissions. On the other track, you have these new AI-powered mega-deals, where Wall Street and Big Tech are essentially building their own parallel power infrastructure.
+Welcome to the new normal.
+The Final Boss: Physics (and Federal Government)
+What started as three problems now has three different endings:
+The money problem? Solved spectacularly.
+When KKR shows up with a $50B checkbook, traditional project finance limits become irrelevant.
+The technology problem? Handled creatively.
+Big Tech isn’t just buying power anymore — they’re building their own mini-utilities, complete with batteries and backup systems.
+The physics problem? Still firmly in place.
+Turns out even Wall Street’s billions can’t fast-track FERC Order 2023’s byzantine interconnection process. All those fancy new power plants still have to wait in line with everyone else to connect to the grid.
+Money can’t speed up the laws of physics. But it turns out $10B can buy you a pretty nice parallel universe while you wait.

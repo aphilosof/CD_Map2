@@ -1,0 +1,89 @@
+Title: The Rise of Climate Tech Accelerators
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-rise-of-climate-tech-accelerators
+==============================
+
+Dive into
+Climate Drift
+– your guide to understanding climate solutions and uncovering your place in the net zero movement.
+If you're not yet a part, you can subscribing here:
+Subscribe
+Hey there 👋
+Skander here.
+We are continuing on our theme of accelerating climate tech.
+Last time we looked into venture builders, companies building companies:
+Accelerating Climate Tech
+Skander Garroum
+·
+September 11, 2023
+Read full story
+Today we are looking at accelerators.
+Again I want to spotlight two:
+- Third Derivative:
+From Research to Acceleration
+- Elemental Excelerator:
+A non-profit approach to Acceleration
+Let’s dive in 🌊
+First: What even is an accelerator?
+Startup accelerators are structured programs that offer early-stage companies a combination of seed investment, mentorship, and training in exchange for equity in the company. The primary goal is to help startups validate their business models, refine their pitches, and rapidly grow their business in a short amount of time, often 3-4 months. The core idea is thus: accelerate the trajectory a startup is already on.
+Startups apply to join these programs, and if accepted, they're immersed in an intense period of learning and execution. At the end of the program, they typically pitch to a room full of investors on "Demo Day" to secure further funding.
+The best known startup accelerator is probably Y Combinator. Founded in 2005, YC has incubated many successful companies, including Dropbox, Airbnb, and Stripe. YC provides startups with funding ($125,000 in exchange for 7% equity & $375,000 uncapped on top), guidance from seasoned entrepreneurs, and a vast network of alumni and resources.
+The value of YC goes beyond its initial seed money; the reputation, mentorship, and network they offer can be pivotal for a startup's success.
+Why do we need dedicated Climate Tech accelerators?
+Although YC accepts climate startups - out of the >4000 they invested in
+146 currently have a climate angle
+, and even has a
+Request for Climate Startups
+, there are some good reasons why dedicated climate accelerators make sense:
+- Market Challenges:
+Software companies are often entering a blue ocean: A new land to explore, without large incumbents. Climate tech often enter and try to disrupt existing markets, with large players that need to be worked with (think utilities) and regulations to be understood. Accelerators assist startups in refining their market approach, ensuring a fit for their innovations, and building the necessary connections to drive adoption.
+- Specialized Expertise and Resources:
+Climate tech combines varied disciplines like energy, biology, and technology. Dedicated accelerators can offer the specific mentorship, tools, and expertise tailored to these unique intersections, which general accelerators might lack.
+- Long Development Cycles:
+Climate solutions may take longer to develop and commercialize than, say, a software app. Accelerators can provide sustained support and resources during these long cycles and the 4 valleys of death.
+Surviving the Four Valleys of Death
+Skander Garroum
+and
+Marco Morawec
+·
+August 2, 2023
+Read full story
+Next we will take a look at 2 accelerators:
+Third Derivative
+Third Derivative (D3) is a pioneering initiative aimed at accelerating climate innovation on a global scale. Established in December 2020 by RMI and New Energy Nexus, D3 emerged as a response to the uneven distribution of funding and resources in the climate tech sector. Recognizing that access often depends on networks, D3 seeks to level the playing field by connecting climate tech entrepreneurs to a vast ecosystem of experts, investors, and corporate partners.
+RMI (Rocky Mountain Institute), co-founded by Amory Lovins, is a U.S.-based organization dedicated to research, publication, consulting, and lecturing in the realm of sustainability. Established in 1982, its primary focus is on uncovering profitable innovations for energy and resource efficiency. Since its inception, RMI has expanded significantly, with over 550 staff and an annual budget exceeding $120 million. The organization's approach is non-adversarial and independent, placing a strong emphasis on market-based solutions to drive sustainable change.
+With a network that has corporate partners with a market cap of $4T, $8B AUM of investor partners spread across five continents, and over 150 startups, D3 is aiming to bridge finance and resource gaps to accelerate market entry.
+Their accelerator program boasts flexibility and customization:
+Cohorts typically follow specific themes, such as DAC or SAF.
+The program spans 18 months.
+Startups chosen for the accelerator are offered an optional $100k convertible note.
+The program is crafted to align a startup's current growth phase, providing tailored programming to suit their needs: either hand-off or hands-on.
+I'd also like to highlight that their collaborative research with RMI is exceptional. While it might require a bit of digging to locate, it's undoubtedly worth it:
+Check out one of their reports here.
+Dive deeper into Third Derivative here
+Elemental Excelerator
+In 2022, Elemental allocated $8 million across 17 climate startups. This year, the organization aims to invest between $350,000 and $1 million in up to 20 ventures, with an additional $30 million earmarked for three to six scale-up projects with tangible greenhouse gas reductions and positive community impacts.
+In the upcoming five years, their aim is to support 100 climate technology companies. To date, their portfolio boasts over 150 companies, with a $8B in follow-on funding and awards totaling $59.4M granted to these enterprises.
+Elemental’s interests are about as broad as climate tech itself — spanning electric vehicles, energy storage, recycling tech, cement decarbonization, seaweed cultivation and composting. Elemental addresses two key climate change challenges: community-focused climate tech funding and integrating equity into solutions.
+Elemental offers two distinct tracks for climate tech companies:
+The Strategy Track
+, running 10 months, is geared towards newer ventures, requiring CEOs engage in weekly workshops, coaching, and strategic exercises. This track predominantly supports companies in their early stages, offering both funding ($350K) and a tailored curriculum.
+Average Stats for Companies Joining:
+$164K annual revenue.
+6 full-time employees.
+$2.8M total funding raised.
+1 commercial pilot project.
+On the other hand,
+the Project Track
+is tailored for more mature, later-stage companies with existing commercial deployments. The focus here is on executing high-impact projects by reducing risks associated with innovation and transformation. Companies in this track receive substantial funding (of $1m) to explore new products, business models, or expansion strategies, all while emphasizing collaborations with community-based partners.
+Average Stats for Companies Joining:
+$12.2M total funding raised.
+$1.1M annual revenue.
+19 full-time employees.
+2+ commercial deployments.
+Dive deeper into Elemental Excelerator here
+While general accelerators like Y Combinator have proven their mettle, there's an evident need for specialized climate tech accelerators. Third Derivative's global outreach and synergy with RMI harnesses a vast ecosystem, while Elemental Excelerator, with its dual-track approach, showcases adaptability by catering to both emerging and mature startups.
+Of course, these two are merely the tip of the iceberg, as numerous other accelerators continue to emerge rapidly.
+Tomorrow we will feature a guest post - a guide to VPPs.
+Looking forward,
+Skander

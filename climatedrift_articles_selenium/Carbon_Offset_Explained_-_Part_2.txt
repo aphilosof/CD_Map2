@@ -1,0 +1,97 @@
+Title: Carbon Offset Explained - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/carbon-offset-explained-part-2
+==============================
+
+Discover
+Climate Drift
+– your portal to sustainable solutions and insights into your role in reaching net zero emissions.
+Not a member yet? Immerse yourself and join our trailblazing community. Subscribe now:
+Subscribe
+Hey there 👋
+Skander, here.
+Dive into the second installment of our series on unraveling Carbon Offsets.
+In this segment, we'll exclusively address the challenges, shedding light on tales of deceit, misaligned incentive and outright scams.
+We'll also outline five key problems with offsets: Additionality, Leakage, Verification, Permanence, and Double Selling.
+Missed the beginning? Go here for Part 1: The origin story of Carbon Offsets.
+Carbon Offsets Explained: Part 1
+Skander Garroum
+·
+August 24, 2023
+Read full story
+Stay tuned for our last piece, where we'll explore the market's ongoing evolution.
+Let’s dive in 🌊
+Carbon Offset Explained - Part
+The Great Carbon Offset Scam
+Since the landmark COP26 summit in Glasgow in November 2021, the landscape of the carbon offset market has undergone considerable changes.
+Nature-based offsets, which predominantly focus on tree-planting projects or incentives to deter deforestation, emerged as the preferred offset type.
+Yet, as tides go, their prices have nosedived by an astonishing 90%.
+The reason behind this drastic decline? An overwhelming amount of research and documentation, turning the public opinion.
+Over 160 studies and reports in recent years have highlighted the fraudulent practices
+associated with Carbon Offsets, casting doubts on their credibility and effectiveness.
+One of the big decisive moments happened this January: The UK's Guardian, Germany's Die Zeit, and research organization Source Materials collaborated on an extensive
+nine-month scientific investigation
+. Their focus was on what were previously deemed high-quality offsets aimed at preserving the Brazilian rainforest. Notably, these offsets were purchased by major corporations like Shell, Disney, and Gucci. Shockingly, their research unveiled that a staggering 94% of these offsets held no real value.
+Don’t believe fake news? In 2016 the European Commission commissioned a study on the Clean Development Mechanism. After evaluating hundreds of projects, the Commission determined that a mere 2% met high-quality standards.
+The lawyers wake up
+This shift in public opinion also awoke a new force on the climate action field: lawyers.
+In the past 12 to 18 months, there has been a surge in such lawsuits.
+These legal actions typically fall into two categories. The most prevalent type involves approaching the advertising regulator of a country, accusing companies of false advertising.
+For example, the Swiss regulator recently determined that the 2022 World Cup in Qatar's claim of being "carbon neutral" was misleading.
+Kicking the carbon-neutral ball
+In 2019, the world's two leading credit agencies, Verra and the Gold Standard, made a pivotal decision. They resolved not to endorse any offset projects funding renewables unless they were based in extremely impoverished nations. Why? Because
+renewables got so cheap
+that these projects would have happened either way.  Consequently, a vast majority of projects were left unverified and halted.
+However, as the Voluntary Carbon Markets are unregulated, Qatar took matters into its own hands. They established their own offset verification agency, openly welcoming any renewable project for accreditation.
+And guess who became a very big customer of this new verification agency? And that is how the World Cup became carbon neutral.
+This tactic is now being copied by numerous other high-emission entities. Recently, Saudi Arabia established its own verification agency and has begun issuing offsets to its oil and gas sectors.
+But the lawsuits are not stopping. There have been lawsuits in the Dutch court because Shell keeps trying to claim that its oil is carbon neutral or somehow good for the environment, and they've lost four times in a row.
+Last autumn, Evian faced legal scrutiny when their water bottles were labeled as "carbon neutral." They are currently being sued over this claim.
+In late June, Delta Airlines was sued in a federal court in California for proclaiming itself as the world's first carbon neutral airline. The plaintiff argued that they purchased the ticket under the impression that Delta was actively addressing climate issues, only to discover they weren't.
+This has led brands like Nestle to proactively take a step back, announcing that they will retract any carbon-neutral claims for products like Kit Kat and Perrier water.
+The situation has escalated to such an extent that law firms have started sending advisories to their clients this year, warning them of the potential legal risks in the offset domain
+A long list of problems
+I think the Trust issue is well understood now.
+Unfortunately we are running out of essay space, so let’s give a quick summary of all the other problems with Carbon Offsets:
+Additionality:
+Main question:
+Would the emissions reduction have occurred without the offset funding?
+In a nutshell
+: If a credit is granted for a permanently protected forest reserve, then that offset isn't truly "additional" since the forest was already preserved.
+This is especially relevant for renewable energy projects. With the significant decrease in renewable energy costs over the years, it's evident that many projects would have proceeded without offset funds. Thus, buyers shouldn't receive credit for inevitable actions.
+Leakage:
+Main Question:
+How likely is it for greenhouse gas-emitting activities to shift from the project site to another location?
+In a nutshell:
+If an offset aims to protect a section of the Amazon from soy cultivation-related deforestation, but another section gets deforested for soy, then the offset merely caused "leakage."
+Another example: if I own a forest, I might sell you the offsets to prevent deforestation in Area A. However, I could then proceed to deforest Area B. The result? The same number of trees are cut down, even after you've paid to protect Area A. The net emissions remain unchanged.
+Verification:
+Main Question:
+Is the offset verified using a recognized registry and a scientifically-backed approach?
+In a nutshell:
+Traditional verification agencies like Verra have proven unreliable. In this unregulated market, setting up counterfeit verification agencies is feasible.
+Moreover, verifying new removal methods, such as
+Ocean Alkalinity
+, can be complex and slow, hindering actual emission reductions.
+Permanence:
+Main Question:
+How likely is it for stored carbon to be released back into the atmosphere?
+In a nutshell:
+Is the storage actually long term.
+How can we account for variations in storage stability due to intentional actions or unforeseen events like extreme weather and external factors?
+The Oxford Principles for Net Zero Aligned Carbon Offsetting
+- an overview of permanence issues across different types of carbon offsets.
+Double Selling Issue : Net Zero is an accounting issue afterall
+In May, the Danish government disclosed a deal with the bioenergy company Ørsted to implement carbon capture systems on two biomass plants in Denmark. This would capture up to 450,000 tons of CO2 annually, storing it beneath the Norwegian sea.
+Denmark funded this initiative through a dedicated carbon removal and capture fund. Consequently, Denmark is accounting for these tons in its national greenhouse gas inventory. Unlike forest-based offsets, these reductions are verifiable and more permanent. These emissions originated from Danish power plants, aligning with Denmark's commitment under the Paris agreement to reduce emissions.
+However, the issue arose when Ørsted revealed that it was selling over half of these tons, which Denmark had already claimed, to Microsoft. Microsoft contributed financially and is using these tons to offset its corporate emissions
+The same carbon credits are being double-sold and double-claimed. Ørsted's stance is:
+It's not an issue; it's merely two distinct accounting methods.
+Net Zero is an accounting problem after all.
+So what have we learned today? 94% of offsets purchased by major corporations are worthless. There is a surge in lawsuits against companies falsely advertising carbon neutrality, such as the 2022 World Cup in Qatar and Shell.
+We also have an overview of the major problems: Additionality, Leakage, Verification, Permanence, and Double Selling.
+The current voluntary carbon offset market allows companies to offset Net Zero emissions at a minimal cost. But the market is evolving rapidly, and in the next part we will see how a voluntary market might be created that brings actual emissions reductions.
+See you next time,
+Skander
+Thank you very much for reading. Every like, comment and share counts - both for the climate and for our motivation.
+Share

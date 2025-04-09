@@ -1,0 +1,150 @@
+Title: The Complete Guide to Alternative-Proteins
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-complete-guide-to-alternative
+==============================
+
+Hey there 👋
+Skander here.
+Welcome to Part 1 of our complete Guide to Alternative-Proteins.
+Today we will look at the problems with our current food system and learn where the emissions actually come from. Then we will dive into the solutions landscape & see how far the solutions are.
+Haven't joined us yet? Click below to
+subscribe
+and stay updated.
+Subscribe
+Want to make a difference? Share
+Climate Drift
+with someone you know—whether it's a friend, coworker, or anyone you think should think about climate change and solutions.
+Share Climate Drift
+Let’s dive in 🌊
+Imagine you're in a bustling food market halfway across the world. The air is thick with spices, and a vendor hands you a skewer. It looks like meat, smells like meat, even tastes like meat. But it's not. Welcome to the new frontier: alternative proteins. From plant-based burgers that ooze 'juice', to lab-grown chicken that has never seen the light of day, the rules are changing. We're not just talking plants, but fermentation, cultivated meat, mushrooms and insects;. Why? Because our current ways are not sustainable, and we need options.
+So pull up a chair, dig in, and let's explore the world of alt-proteins.
+TLDR: The 30 second version of this Deep Dive
+Food systems are responsible for about 25% of global greenhouse gas emissions; from land use change, on-farm production, processing, transport, packaging, and retail. About 30% of food emissions arise directly from livestock and fisheries, with ruminant livestock like cattle being major methane emitters. Additionally, crop production, including both human and animal consumption, accounts for roughly a quarter of food emissions.
+Various solutions are being explored to reduce emission in food and agriculture. On the farm side we have sensors measuring crop production & emissions, automation, and climate-tolerant crops. Animal farming explores carbon capture techniques, like cattle feed additives. Embracing sustainable methods, we see the rise of regenerative and hydroponic farming.
+Efforts in food waste revolve around analytics and surplus management, Food Coatings are making sure that food doesn’t spoil in the first place.
+Last but not least the focus of this series: Alternative proteins, from plant-based meat to fermentation and cultivated meat.
+The problem: The impact of food
+The food sector, encompassing the entire cycle from farm to fork, is a substantial source of greenhouse gas emissions, with meat production being a significant contributor.
+But meat is not the only emitting source: the production, transportation, processing, and waste management - all contribute to its carbon footprint.
+Starting with
+production
+, ruminant animals like cows and sheep emit methane, a potent greenhouse gas, during digestion. Additionally, the cultivation of feed for these animals necessitates the use of fertilizers, releasing nitrous oxide, another impactful greenhouse gas. Meat production alone accounts for around 14.5% of global emissions, with methane forming a major portion of this - this is why there is such a big focus on alternative proteins as a solution.
+Land-use change
+for agriculture, especially for pastures or feed cultivation, often plainly means deforestation, diminishing the earth's carbon dioxide absorption capacity.
+This land use change is severe;
+half of the world's habitable land is now designated for agriculture
+. Formerly forested and wild areas have been converted for agricultural use, leading to a significant loss of natural habitat and a decline in biodiversity.
+Transportation and processing of mea
+t further add to its carbon footprint due to the burning of fossil fuels. Additionally,
+waste
+generated throughout the meat supply chain, like organic waste in landfills, produces methane.
+The emissions from Agriculture, forestry and other land uses according to the IPCC.
+The hope is that Alternative Proteins have a lower emissions footprint, requiring less land, water, and energy compared to meat.
+💧 A note on water
+Agriculture's environmental impact extends beyond meat production. It's a hefty consumer of freshwater, causing environmental pressures in water-stressed regions, and a significant polluter of water bodies through nutrient discharge. Agriculture drives around one-quarter of the world's greenhouse gas emissions, making it a crucial player in climate change.
+Let’s dive deeper into the numbers
+Out of the 52.3 billion tonnes of CO₂-equivalents released globally, 26% are attributed to food production, while 74% come from non-food sources.
+In order of emissions:
+Livestock & Fisheries:
+This sector contributes the highest at 31%. A significant chunk of this is from methane produced by cattle.
+Crop Production:
+This follows closely at 27%.
+-
+Crops for Human Consumption:
+The bulk of the crop related emissions at 21%.
+-
+Crops for Animal Feed:
+These emissions account for 6% of food-related emissions.
+Land Use:
+It accounts for 24%, with land use changes, such as deforestation, being the major contributor at 18%.
+-
+Land Use for Livestock:
+It's double that of human food land use at 16%.
+-
+Land Use for Human Food:
+This contributes 8% to the food emissions.
+Supply Chain:
+This encompasses various stages including retail (3%), packaging (5%), transport (6%), and food processing (4%), totaling 18%.
+Don’t have enough numbers yet?
+Dive deeper in this great explorer from Our World in Data
+Let’s zoom in more: The impact of some of our favorite food
+One thing we are building at Climate Drift is a large-scale visualization to show the scale of emissions and the sources. Thankfully, we have already finished the part for food, here are a first sneak-peak:
+Tap/Click to zoom in and explore our food emissions map
+Comparing Meats
+When looking at the carbon footprint of meats, beef emerges as the most significant contributor to CO2 emissions. At 99.48kg of CO2 per kilogram, beef's impact is notably higher than other meats. For comparison, lamb generates 39.72kg CO2 for every kilogram, which is significantly less than beef, but still higher than most other meat types. Poultry and pig are comparatively more carbon-efficient, with emissions of 9.87kg and 12.31kg CO2 per kilogram, respectively. This makes chicken nearly ten times less impactful in terms of carbon emissions compared to beef.
+Dairy vs. Plant-Based
+The dairy industry, particularly cheese, also has a substantial carbon footprint. Parmesan cheese, for instance, contributes 19.1kg of CO2 for every kilogram produced. On the flip side, plant-based foods such as tofu exhibit much lower emissions, with only 3.16kg of CO2 per kilogram. When juxtaposed, choosing tofu over Parmesan could significantly reduce one's carbon footprint.
+Breakfast Choices
+Even our morning meals can have varying carbon impacts. A liter of orange juice, for instance, has a footprint of 6kg CO2, while an 800g loaf of bread only has 0.63kg CO2. This suggests that opting for a slice of bread over a glass of orange juice in the morning might be a more environmentally conscious choice.
+Choose your taco, choose your emissions
+Taco choices also showcase varying carbon footprints. Four vegan bean and avocado tacos result in 4kg CO2, whereas the veggie variant with avocado doubles the footprint at 10kg CO2. Interestingly, opting for beef and cheese tacos significantly increases the emissions to 33kg CO2. Thus, transitioning from beef to plant-based tacos can make a notable difference in one's dietary carbon footprint.
+So where does this leave us?
+Ignoring the emissions from food systems isn't an option if global climate targets are to be met. In a business-as-usual scenario, it's projected that food systems could emit around 1356 billion tonnes of CO2-equivalent by 2100, overshooting the carbon budget for limiting global warming to 1.5°C or 2°C.
+At the same time: without food there is no humanity.
+So, what are the solutions to this challenge?
+The solutions
+Tap/click to explore our Food & Agriculture solutions
+As we have established, we need a lot of solutions to curb Agriculture and Food emissions and quickly.  Thankfully, we are currently tracking quite a few of those:
+Farm Soils:
+The solutions encompass soil carbon measurement, farm monitoring, and soil improvements. The focus broadens to different farm types, such as Macro and Micro farms.
+Crop Production:
+This solution space involves the use of automated farm equipment, pest control measures, and sensors for crops. A big focus is also on the development of new climate-tolerant crops, particularly rice and wheat.
+Software Solutions
+: Software is eating everything, including food & ag. The current focus is on emissions analysis, aiming to provide a clearer insight into the environmental impact of various agricultural practices.
+Food Waste
+: In food waste there are 2 frons: residential and commercial. Solutions address  analytics, efficient surplus management, and overordering.
+🌊 A personal highlight here is Food Coatings.
+Animal & Livestock Farms:
+The category spotlights farm carbon capture techniques, diving into methods such as cattle feed additives, manure digestion, and biogas capture.
+Sustainable Agriculture:
+Sustainable methods form the backbone of this category, encompassing techniques from regenerative aquaculture and farming to more sci-fi approaches. These modern methods include vertical, indoor, and hydroponic farming, each promising a reduced environmental footprint.
+For this deep dive we are focussing on the right side: Alternative Proteins.
+The Hype Curve of Food & Agriculture
+Different solutions are differently far on the hype curve of solution, let’s take a quick reality check across phases:
+Innovation trigger
+The curve starts with innovations in their infancy, capturing the initial excitement and promise. Solutions such as
+Fermentation
+and
+different Food Waste Solutions
+are at this early stage, suggesting a recent emergence and potential for future development.
+Peak expectations
+Moving up the curve, technologies like
+Regenerative Farming
+and
+Cultivated meats
+find themselves here. This stage comes with high anticipation and buzz around these technologies, but they might not have seen widespread application yet.
+Trough of disillusionment
+This stage signifies that after the initial excitement, certain technologies have encountered challenges. Innovations like
+Vertical Farming
+and
+Alternative Proteins
+are currently navigating the pitfalls and obstacles that come after the initial hype fades.
+Slope of enlightenment
+Technologies at this phase, such as
+Crop production Sensors
+and
+Automation
+, indicate a growing understanding and wider implementation. They are on the path of steady growth, overcoming challenges, and refining their applications.
+Plateau of productivity
+At this mature stage, technologies like
+Plant based Milk
+have found stable and widespread use. They've passed the earlier stages and have become generally accepted and integrated into regular consumption.
+Want to understand Hype Curves better and what leads a technology to transition from one stage to the next? Check out our guide here:
+Beyond the Hype
+Skander Garroum
+·
+August 7, 2023
+Read full story
+What’s next
+Now we're aware of the significant role the global food system plays & the numerous solutions available. In the next parts it's time to explore Alternative Proteins. The goal is always to replace conventional meat with more sustainable alternatives, given the inefficiency of the Plant -> Animal -> Food chain.
+We will dive into:
+Plant-Based Meat:
+Is it possible to craft meat entirely from plants? And will consumers embrace it?
+Fermentation:
+Can fermentation offer us the alternatives we're searching for?
+Cultivated Meat:
+Is it possible to cultivate meat without an actual animal? What are the challenges that we faced for this so far?
+What other solutions are out there?
+We will look at Mushrooms & Insects.
+Looking forward to diving deeper,
+Skander

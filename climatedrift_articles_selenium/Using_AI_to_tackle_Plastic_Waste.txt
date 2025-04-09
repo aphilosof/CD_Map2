@@ -1,0 +1,56 @@
+Title: Using AI to tackle Plastic Waste
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/using-ai-to-tackle-plastic-waste-515
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+In Part 1, we examined the staggering scale of the plastic waste crisis and how AI has the potential to revolutionize our approach to tackling it. Today, in Part 2, we shift our focus to the critical role of reverse logistics—how we can use AI to streamline the return, repair, and reuse of products.
+The reality is we’ve perfected the art of getting products into consumers’ hands, but we’ve utterly failed at getting them back. This is where reverse logistics comes in—handling everything from returns and repairs to recycling and reuse. The problem? It’s a logistical nightmare, and without AI, it’s nearly impossible to manage at scale.
+Fortunately, AI is beginning to transform reverse logistics. Companies like Kadeya and Optoro are at the forefront, using new technologies to rethink how products are returned and reused. They’re not just improving existing processes; they’re laying the groundwork for a circular economy that can genuinely make a difference.
+🌊 Let’s dive in
+Join the Climate Drift Accelerator and turn your passion into action.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+But first: Who is Mark?
+Mark Lammers
+is a seasoned product and program manager with over 25 years of experience navigating technology and business strategy. With a career spanning roles in management consulting and more than 10 years at Microsoft, Mark has shown his ability to translate complex business needs into clear technological solutions.
+Mark's passion lies at the intersection of technology and sustainability, particularly in how AI can drive the circular economy. As a member of the Climate Drift Career Accelerator cohort, he is dedicated to using his expertise to address environmental challenges, focusing on how we can reduce plastic waste and design more sustainable systems.
+Part Two – Reverse Logistics Solutions
+In my previous post I made the case for using AI to accelerate our path to a circular economy and removing plastics from the waste system. In this post I’d like to take a deeper dive into how AI is helping companies figure out reverse logistics, or how we get products returned so that we can repair, refurbish, repackage and reuse them.
+Reverse logistics
+covers everything that happens to a product after the sale. It enables product return, repair, repackage, reuse, and recycling. We have gotten very good at sending products in one direction– to the consumer and then to the landfill – but now we need to get better at figuring out how to get products back and reuse them. AI can help to optimize the processes for collecting, sorting, and reprocessing used products and materials, and help to "close the loop" into a circular system.
+Figure 1. Reverse Logistics
+Retailers often have no data on their products once it leaves their hands. There is a data gap in understanding the return flow of a product so that it can be repaired, refurbished, resold, and re-used. Addressing that data gap is the main challenge of reverse logistics.
+Figure 2. A Kadeya vending machine (the size of an upright piano)
+Kadeya - Closing the Loop on Product Data
+Kadeya,
+a Chicago startup, has created a hydration vending machine that creates a closed loop on product return. A Kadeya vending machine can sell a number of commercial beverages like Coke, and Pepsi as well as charged water, in a reusable aluminum bottle to employees in industrial workplaces. Once consumed, the bottle can be returned to the vending machine to be washed and re-vended to the next customer. Kadeya sees a high percentage of returns because the bottle isn’t taken home and can be returned to several vending machines.
+Every bottle has a unique laser Edge QR code that contains very simple data—what the beverage was, where it was purchased, what time. By factoring in data capture into the returns process, Kadeya created a closed system. Although today this model works in a setting like a factory where the bottle is highly likely to get returned, Kadeya’s vision is to set these vending machines up in offices and eventually in grocery stores. Capturing product data will enable them to achieve this.
+According to Manuela Zoninsein, founder and CEO, the possibilities for future AI use cases are plentiful: OSHA compliance, tracking cost of employee dehydration and predictive maintenance of the bottles themselves. But it’s Kadeya’s potential ability to tie customer data to product data that sounds the most promising. As a customer goes to the station and self-identifies with a QR code in an app on their phone, their purchase of a beverage is joined with their consumer data. Kadeya can identify insights and deliver recommendations to the consumer at the moment they are going to make an informed decision. “The driving force behind Kadeya is giving an instantaneous feedback loop of reward and information around climate, around waste, and around your personal hydration,” says Zoninsein. By tying bottle data to customer data, Kadeya can create a data ecosystem that will enable them to deliver quality hydration to the employee, reduce maintenance costs for the employer and, as a beneficial byproduct, remove plastic waste from the system.
+Optoro and IKEA – Reducing Returns Friction
+IKEA
+, the world’s largest furniture company, aims to become fully circular and climate positive by 2030. They have many initiatives that are going to help them get there, one of them being circular services such as repair removal, buy-back both online and in physical stores. But getting products back from consumers isn’t easy.
+In 2019 IKEA made a strategic investment in Optoro, a Washington D.C. based start-up that uses AI solutions to assist retailers in making smarter routing decisions. Optoro’s SmartDisposition platform “leverages machine learning alongside customizable business logic to understand demand for each returned unit and route it to its most profitable channel.” In other words, it uses customizable algorithms to figure out the routing of a product post use whether that is repair, resell or recycle, thus reducing friction in the return process.
+In reverse supply chains, inventory takes a circuitous route to its destination. Using graph theory, a data-driven method for identifying patterns in the relationships between connected entities, a retailer can map out the steps a return can go through (e.g. shopper → warehouse → original vendor → store → shopper), to identify the costs associated with these sequences, and then apply algorithms to find the lowest cost route for a given return.
+Figure 3: IKEA Preowned website
+IKEA also wants to become a bigger player in the resale of its own products and is using AI to help accelerate peer-to-peer resale. This month it announced a platform called
+IKEA Preowned,
+a platform that allows sellers to list their pre-owned furniture by uploading photos and setting a price. It then uses AI to pull in the correct measurements for the piece from the IKEA database, alongside any supporting images from its back catalog. This second hand marketplace is being tested in Madrid and Oslo with worldwide rollout scheduled for next year.
+The goal is to rival resale platforms like eBay, Gumtree and Facebook Marketplace, where IKEA products already make up a significant part of the inventory. “10% of the second-hand home furnishing market is made up of IKEA products,” according to Jesper Brodin, Ingka Group CEO. By accelerating resale, IKEA has a higher chance of reaching its circularity goals by 2030.
+Reverse logistics will continue to be hard for the foreseeable future. Kadeya has the luxury of being able to design their own supply chain from end-to-end, and have created a closed loop system where returns are easy. I am bullish on their ability to grow into offices and other markets where a closed loop system is easier to implement. However, implementing a closed loop system in retail markets is going to be a significant challenge. I am convinced that they can continue to use data to address that space. Optoro is using data to tackle reverse logistics for companies that can’t design their reverse supply chains from scratch. Their ability to help retailers like IKEA become bigger players in the resale of their own products is crucial to enabling circularity.
+Optoro isn’t the only player in the reverse logistics game. CoreCentric Solutions is a leading repair, remanufacturing, and product returns management company. Reconext is a leading provider of aftermarket services and solutions for electronic products.
+In my next post: How
+NREL’s PolyID,
+a data-enable materials discovery tool is being used to reduce plastic dependency.  And how a partnership between
+AutoDesk and Makersite
+is putting the power of AI in the hands of designers.
+I am passionate about the circular economy and removing plastics from waste. Please reach out to me on
+LinkedIn
+if you’d like to discuss these topics more.

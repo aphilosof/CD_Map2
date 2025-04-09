@@ -1,0 +1,141 @@
+Title: How has the climate tech capital stack evolved?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-has-the-climate-tech-capital
+==============================
+
+Mairi Robertson
+is Director of Asset Financing at Ezra Climate, where she develops innovative financing structures for energy transition investors and companies. Previously she was part of McKinsey's Climate Finance Practice, and is now (another) Australian based in New York.
+Why is Mairi doing this?
+With that, I’ll hand the mic to her:
+Over the past 5 years, I’ve sat at the intersection of climate tech and capital, working with investors (such as pension funds, private credit, family and offices) to deploy capital into the sector. I’ve also met with hundreds of climate tech founders wrestling with how to fund their companies’ growth.
+A hard truth is clear: Traditional VC, while readily available, is often not fit-for-purpose in ClimateTech. While there is a place for equity investment, the model that scaled B2B SaaS doesn’t work for companies that build hardware and deploy physical assets. Solar panels, batteries, and electric vehicles need different financial tools.
+The good news? I’m seeing more and more capital innovation in ClimateTech. I’ve worked with dozens of creative founders and financiers who are designing new structures to scale climate solutions. They’re using alternative capital like debt, grants, and tax equity to do this. And they’re borrowing financing innovations from other industries and adapting them for ClimateTech.
+This blog aims to share some of what I’m seeing in the field. Some questions I’ll explore:
+What debt financing deals are actually getting done in climate tech today? What’s working — and what isn’t?
+Where is the opportunity for investors? What is making deals hard for them?
+How are founders navigating these new forms of finance?
+I hope that this is the beginning of a conversation. If you’re a financier, founder, or the generally curious, please follow along. (And if you are involved in putting together these kinds of deals, please
+reach out
+so we can share notes).
+Onwards!
+The Evolution of the Climate Capital Stack: A story of square pegs and round holes
+Rube Goldberg’s self-pumping tire machine (
+Source
+)
+I’m kicking things off with a quick rundown of how the climate capital stack has evolved over the last decade.
+The thing about ClimateTech is that it’s hard. Not just in the “we’re trying to solve civilization-scale problems” way (though that too), but in the very literal “we’re building hard, physical things” way. And it turns out that when you’re building hard, physical things to save the planet, lots of traditional capital raising strategies don’t really make sense.
+The Software Playbook Hits a Hardware Wall
+The traditional venture capital model was beautiful in its simplicity:
+VC:
+You’re a software company? Great. You raised money from Sequoia? Even better. Here’s some equity.
+Software founder:
+Gee, thank you. Hey, all this equity is diluting me out of existence. Any chance you’d be willing to lend some cash, too?
+VC:
+Sure! Here’s some debt with warrants. It’s backed by literally nothing except the idea that Sequoia probably won’t let you fail (at least in the short-run). Don’t worry about collateral — your most valuable asset is probably a MacBook Pro anyway.
+This worked wonderfully for software companies. The problem is that ClimateTech companies aren’t software companies; they need lots and lots (and lots) of capital. [1]
+Think about the product development cycle for a hypothetical ClimateTech founder, who raised some equity (and a little venture debt) to get going:
+Month 1–12:
+Build prototype
+Month 13:
+Prototype explodes
+Month 14–24:
+Build better prototype (but still not ready for market).
+Month 25:
+Better prototype works! (Sometimes)
+Our founder has already taken meaningful dilution on their equity stake, and on top of that is probably out of the interest-only period on their debt facility. Uh oh!
+Unfortunately, it took some time for the markets to figure this out.
+CleanTech 1.0
+— an earlier burst of green technology innovation from 2006 to 2011) — featured a litany of companies that went bust in no small part because of their capital structures.
+(This Elephant Graveyard includes firms like
+KiOR
+(biofuels),
+A123
+(EV batteries),
+Beacon Power
+(energy storage), and
+Abound Solar
+(er, solar). Poor unit economics, unsteady markets, and expensive corporate loans are common culprits across many of these failures).
+Remember
+Solyndra
+? They raised $1.6B — including $535M in government loans — before spectacularly imploding in 2011. They’re the cautionary tale of what happens when you combine expensive corporate debt, aggressive equity rounds, and technology that wasn’t quite ready for prime time.
+CleanTech 1.0 ended around 2011, with
+$25B of venture capital mostly disappearing with it
+. Many obituaries have been written on the topic; one commonly-mentioned cause of death is the absence of patient capital available for companies at a reasonable cost.
+(One of the few survivors of Climate Tech 1.0 was SunRun, which figured out something important: use project finance-style debt to grow, rather than waiting for growth equity that may never actually materialize. Speaking of project finance…)
+Project Finance to the Rescue (Sort Of)
+Luckily, someone eventually had the bright idea of looking at how we finance other expensive physical things.
+“Hey,”
+they said,
+“what if we treated ClimateTech more like infrastructure, and less like apps?”
+Hardware manufacturers actually learned this game decades ago. Back in the 1970s and 1980s, computing financiers pioneered specialized investing and lending structures for a capital-intensive industry that traditional banks found terrifying. They developed creative structures like lending against purchase orders, IP, and equipment leasing, recognizing that the real value wasn’t in the physical assets but in the contracts and technology. By the 1990s, investors were doing the same for biotech companies, creating a playbook that would later influence ClimateTech financing.
+Generate Capital
+was a pioneer of this approach in the ClimateTech world. Launched in 2014, their
+original mandate
+was to
+“…offer multiple types of financial services products, including short-term asset-based financing, equipment leasing and small-scale project finance.”
+Generate looked at companies like
+Plug Power
+and said
+“
+What if instead of lending against your company (which is scary!), we just finance the actual hydrogen fuel cells you’re deploying to actual customers (less scary)?
+”
+[2]
+This was clever! Instead of betting on a technology company (which might blow up), you’re betting on specific assets generating predictable cash flows (which probably won’t blow up, or at least not all at once, hopefully). Other innovative capital providers such as Breakthrough Energy Ventures and Energy Impact Partners soon followed.
+Reuters. breaking the news that BlackRock partnered with Oxy
+The model has caught on. In 2023, BlackRock created a
+$550M project finance facilit
+y to build direct air capture facilities in partnership with Occidental. In order to get capital comfortable with the meaningful technology and market risk involved,
+the deal had milestone-based capital deployment and modular, reusable technology with proven collateral value
+. [3] Innovative deal terms have helped more of these large-scale opportunities turn into transactions.
+But here’s the thing about project finance: it solved some problems, while raising even more problems elsewhere. Which brings us to today’s Choose Your Own Adventure story of climate financing…
+The Present: Climate Capital’s New Architecture
+Today’s ClimateTech capital stack has evolved into a fragmented mixture of players, bringing financing structures from other sectors with them. Some of the more well-known players I come across include:
+Megafunds and large institutional investors
+like TPG Rise Climate Fund ($18B) and Brookfield’s Global Transition Fund ($25B), who have showed that traditional institutional investors are ready to write big checks for climate solutions. These aren’t just bigger versions of traditional funds — they’ve brought new structures like hybrid project/corporate financing that helped bridge the gap between venture capital and infrastructure finance.
+Specialist project finance and infra funds
+like Spring Lane Capital, who apply traditional project finance principles to smaller-scale deployments. Their hybrid project capital model — providing both corporate capital and project equity — has helped companies like Atlas Organics scale their commercial composting solutions.
+Equipment leasing firms
+like Camber Road. They’re applying lessons from deeptech leasing to climate hardware, offering creative sale-leaseback structures that help companies preserve cash while scaling manufacturing and deployment.
+Climate VC funds expanding into private credit and project finance
+. For example,
+Galvanize Climate Solutions have launched a dedicated credit strategy to complement their equity investments
+, recognizing that their portfolio companies needed more than just equity to scale. They’re not alone — several leading climate VCs are quietly building credit capabilities too.
+FOAK financiers
+like
+Breakthrough Energy’s Catalyst platform
+might be the most interesting evolution. The fund provides capital for large demonstration projects through to first-of-a-kind commercial-scale projects. They’re also leveraging catalytic capital from public sector investment agencies, which will continue to be an important part of the capital stack for companies demonstrating novel tech.
+Advanced market commitments for frontier technologies,
+such as the, ahem, Frontier group’s $1B+ advance market commitment for carbon removal. It’s not a financing structure per se, but it’s what makes financing structures possible. By guaranteeing future revenue, they’re helping projects get financed today — a bit like how power purchase agreements revolutionized renewable energy project finance.
+Even traditional venture debt is evolving
+. Silicon Valley Bank has built a dedicated ClimateTech platform providing venture debt to early stage ClimateTech companies, using traditional underwriting principles like corporate balance sheet and performance.
+(At this point you might be thinking: “Wow, we’ve really figured this climate finance thing out!” And you’d be right, except for all the ways you’d be wrong.)
+Climate Capital — A problem solved! Right? Right??
+Look, we’ve come a long way from the days when ClimateTech companies had to pretend they were software startups to get financing. But some problems are stubbornly resistant to financial innovation. Here’s what still keeps climate investors awake at night (besides the actual climate change):
+The “What’s This Worth?” Problem
+.
+Nobody knows how to value weird new climate assets. What’s the residual value of a used direct air capture machine? Anyone? (
+Er, well…we still haven’t even solved this question for EVs
+)
+The “Numbers Must Go Up” Problem
+. ClimateTech companies are stuck in an awkward place: they need to price their products low enough that customers will actually switch from fossil fuels, but high enough to generate the 15–25%+ IRRs that investors expect. This is about as easy as it sounds.
+The “Geography Is Hard” Problem.
+There are fantastic climate projects across Latin America, Africa, and Asia. There’s also fantastic capital looking for climate projects. Unfortunately, they have trouble finding each other because nobody wants to be the first to underwrite new technologies with new business models in new geographies.
+The “Time Is A Flat Circle” Problem.
+Climate assets often need 10+ year financing terms. Most climate investors need returns before that. You see the issue.
+The “Why Is This Taking So Long?” Problem.
+Yes, some parts of ClimateTech diligence should take time — you probably want to be thorough when evaluating that
+space laser that sends solar power to earth
+. But basic deal documentation shouldn’t take 9–12 months. We have computers now!
+I’ll be diving deeper into each of these challenges (and more) in future posts.
+Questions? Comments? Strong opinions about diligence timelines for space lasers?
+Drop me a note
+— I’d love to hear from you.
+[1] Okay, some ClimateTech companies
+are
+software companies. But they’re mostly not.
+[2] Generate Capital and Plug Power’s partnership is detailed in Plug’s SEC filings, which make for surprisingly entertaining reading if you’re into that sort of thing.
+[3] Details aren’t public, but I would venture to guess that the deal has some provisions for offtake agreements too. (And I suspect that the meaningful corporate balance sheet of Oxy was a nice confidence builder, too…).
+Love this first chapter of
+Mairi’s Clifi Playbook
+? Share it with the climate founders and funders in your life.
+Share

@@ -1,0 +1,89 @@
+Title: The Guide to the Carbon Removal Hype - Part 3
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-guide-to-the-carbon-removal-hype-cdc
+==============================
+
+Dive into
+Climate Drif
+t, your gateway to climate solutions and understanding your part in achieving net zero.
+First time visiting? Join our pioneering community. Become a part of the movement:
+Subscribe
+Returning member? Give our dream a boost by telling your buddies, fam, and everyone you know! Each share guarantees a fresh in-depth analysis.
+Share Climate Drift by Marco and Skander
+Hey 👋
+Skander here.
+Welcome to Part 3 of our series across the Carbon Removal Hype Cycle.
+Start with
+Part 1
+of our Guide to the Carbon Removal Hype:
+Covering the Basics
+Part 2
+looks at early innovations:
+Tree Engineering & Ocean alkalinization.
+Today we are going to look at rocks, with enhanced weathering & CO2 storage. But first we will take a detour and talk about categorisation.
+Here's a sneak peek of what's in store:
+A
+quick overview
+for each solution
+One
+lighthouse company
+per solution
+Let’s dive in 🌊
+The Guide to the Carbon Removal Hype - Part 3
+In our Solutions Map we have 28 solution pathways for Carbon Removal mapped out.
+These are the 16 solutions we will look at through the Hype Cycle.
+A note on categorisation
+Historically, attempts have been made by academics and experts to classify solutions as natural versus engineered or nature-based versus non-nature-based. While these classifications provide a general direction, they often fall short in capturing the nuances, especially when many solutions cross both categories.
+A more recent classification differentiates between Organic and Inorganic solutions, but even here, there's considerable overlap.
+For clarity in this discussion, I'll use the terms "Nature-Based" and "Engineered." If anyone has a more precise framework, I'm open to suggestions and will make necessary updates.
+Nature Based:
+These are mature, well-established practices already in widespread use (
+TRL 8–9
+) and are frequently reported by nations under their Land Use, Land Use Change, and Forestry (LULUCF) activities. This category includes methods such as afforestation/reforestation, soil carbon in croplands and grasslands, peatland and wetland restoration, agroforestry, improved forest management, and the use of durable Harvested Wood Products.
+Engineered:
+Generally at a
+TRL below 8–9
+, these methods are currently deployed at smaller scales. Examples include BECCS, Direct Air Carbon Capture and Storage (DACCS), biochar and ocean alkalinisation.
+Engineered solutions are very early
+How early?
+CDR from novel methods contributes 0.1% of current deployment. Conventional CDR on land accounts for over 99%.
+With that: let’s see how we can improve current CDR.
+Enhanced Weathering
+Overview
+: Enhanced rock weathering bridges the gap between natural processes and human intervention. It amplifies the slow, natural weathering of rocks to expedite carbon removal.
+Historically, volcanic rocks and cliffs have incrementally captured carbon as they weathered under the influence of rain. Enhanced rock weathering, by fragmenting these rocks, optimizes their exposure to rain, thus fast-tracking the weathering and carbon capture processes.
+Carbon mineralization is a method where CO2 interacts with alkaline substances [also
+see Ocean Alkalinity
+] resulting in the formation of solid carbonate minerals. This phenomenon naturally transpires in alkaline environments when atmospheric CO2 binds with certain rocks, producing carbonates.
+Surficial techniques emphasize natural weathering, utilizing byproducts like mine tailings or industrial residues. Research indicates that specific mine tailings have a notable capacity for CO2 capture. While ambitious strategies aiming to extract billions of tonnes of CO2 annually through surficial weathering of alkaline wastes and mined materials are being explored academically, they are yet to be tested on a pilot scale. The Technology Readiness Level (TRL) is currently estimated to be between 3 and 5.
+Current production rates suggest that solid industrial alkaline wastes have the potential to store up to 1.5 GtCO2 annually, with projections reaching 3 GtCO2 in the future. Despite the promise, challenges such as environmental impacts of mining, air quality issues, and potential heavy metal contamination persist. However, a silver lining is that some techniques can neutralize soil acidity, promoting healthier plant growth and increased soil carbon storage.
+Spotlight
+: Heirloom claims it can achieve carbon dioxide removal at $50 a ton at commercial scale,
+undercutting other carbon removal methods
+. The company aims to extract 1 billion tons of CO2 by 2035. Frontier committed to buy 250 tons of carbon removal from Heirloom at $2,054 per ton.
+Their Project Cypress
+with their partners Climeworks and Battelle they were also just selected as one of the DAC hubs of the US Department of Energy.
+Heirloom uses enhanced weathering directly: minerals, such as calcium oxide from ground limestone, are spread on sheets and exposed to air. These minerals rapidly bond with atmospheric CO2. With enhancements, Heirloom believes this bonding can occur in two weeks, compared to the typical year.
+Heirloom's process then involves heating these materials to 400-900 ˚C, releasing CO2, akin to cement production. They could also use other materials like magnesite. The company plans to use electricity-driven kilns, ensuring the process is powered by renewable energy. This produces pure CO2, which can be captured and stored underground indefinitely.
+However, using electricity for this process is currently costlier than using coal or natural gas. The carbon removal benefits are also contingent on the electricity source being carbon-neutral. Questions remain about Heirloom's ability to expedite the bonding process, which impacts its economic viability.
+Heirloom plans to sell carbon removal credits, anticipating increased demand as costs drop and policies favor carbon removal.
+CO2 Storage
+As Terraform Now points out: We have the geological storage we need to store all emissions in 2050.
+Storage is the only long term choice for CO2, as it needs to counteract the effect of emissions lingering in the atmosphere for hundreds of thousands of years.
+I dived into this in Part 1.
+That said, many companies operating in 2023 are excited about what the industry calls “utilization” of the CO2. There are many existing industrial use cases for CO2, including carbonating soda, producing recycled fuels, and manufacturing fertilizer. But what happens if we can store it permanently in a resource we will need a lot of?
+Spotlight
+: Concrete is the second most consumed material on Earth after water. Its primary component, cement, is a major environmental concern, contributing to 8% of global CO2 emissions. This is over triple the emissions from the aviation sector. By 2060, cement usage is projected to double. Cement clinker, essential for concrete, is a significant source of these greenhouse gas emissions.
+This time I am highlighting a promising smaller startup from Berlin: EcoLocked. In 2021, they began exploring scalable and economically viable applications for biocarbon, a carbon-sequestering material. Their research led them to the cement and concrete industry. Here, refined biocarbon can act as an efficient additive to reduce concrete's carbon footprint. EcoLocked has since pioneered CO2-neutral, medium-strength concrete mixes, validated through in-house, third-party, and industry partner testing.
+Today, biocarbon production is already scalable, highly efficient, and cost-effective. This efficiency stems from utilizing waste materials, maintaining low operational costs, and recycling surplus pyrolysis gas. Its vast potential spans industries such as agriculture, water filtration, and notably, construction.
+EcoLocked is a proud member of the Alliance for Low Carbon Cement & Concrete. Learn more at
+AllianceLCCC
+.
+Wrapping up Part 3, I hope you found our deeper exploration into Carbon Removal enlightening. 3 things to take away from today:
+- We can  speed up the carbon capture process by fragmenting rocks
+- We've got the geological storage to handle 2050 emissions
+- Cement's a big CO2 culprit. But we can make it part of the solution.
+Let’s dial in next time for more solutions on the Carbon Removal Curve.
+Skander
+PS: Whether you're a first-time visitor to Climate Drift or a seasoned member, your engagement is the catalyst for change. Every share, every conversation counts.
+Share Climate Drift by Marco and Skander

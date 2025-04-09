@@ -1,0 +1,202 @@
+Title: Startups don’t have to fail
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/startups-dont-have-to-fail
+==============================
+
+Jonathan Stokely
+is a driftie and a multi-faceted Swiss army knife with experience in sales, marketing, technical implementation, finance, and operations at fast-growing startups (including some climate companies you might know) and large Fortune 500 organizations (you know for sure). He has mentored, advised, and worked with hundreds of entrepreneurs and startups in diverse industries, while starting an accelerator and venture studio.
+He is also a fourth-generation conservationist, who now decided to devote the rest of his career to the fight against climate change.
+Startups don’t have to fail:
+Operators as a Solution
+(Click the title 👆 to read the full deep dive online, it’s a long one)
+Photo Credit:
+https://www.linkedin.com/pulse/why-startups-fail-qualitative-analysis-common-isuru-s-ranmohotti/
+Overture:
+Time is running out for the planet while scientists and engineers wrestle with pitch decks and content calendars. The brutal truth is that the traditional startup model, where founders stumble, learn, and usually fail, is a luxury we can’t afford in the race against climate change. Cleantech and deep tech startups must deploy and scale faster and, to do so, should utilize
+business operators
+to help ensure success.
+A business operator, an experienced executive who manages day-to-day company operations, from sales and marketing to finance and legal, is a crucial early team member for science-driven startups. While brilliant scientists drive innovation, they shouldn't have to learn business through costly mistakes that can cause the startup to fail. Business operators bring proven expertise in scaling companies and accelerating revenue. This partnership frees scientists to focus on breakthroughs while operators navigate the business challenges that often sink promising ventures.
+The urgency for technology solutions that can fight climate change at scale is apparent. Still,
+venture capital
+(VC) investors and
+accelerators
+who utilize an outdated network model of business education that worked in
+SaaS
+will not realize the return they require or make the impact they desire. Cleantech and deep tech companies that build and generate revenue faster become more investable, generate return on investment (
+ROI
+) more reliably, and attract more investment into the space.
+In this article, I will argue for inserting operators into the early stages of a startup to manage all the business problems that engineers and scientists typically lack the expertise to solve. I will also demonstrate why VCs and accelerators should utilize this approach to increase shareholder returns and promote success for growth.
+Startup Failure Rate
+Credit source:
+https://www.upsilonit.com/blog/startup-success-and-failure-rate
+Beyond SaaS
+VC
+returns achieved a golden age in the SaaS era, 10x to 100x. We will probably never see similar returns in any industry again, but we need cleantech and deep tech to grow 10x to 100x. The problem is that SaaS is what VCs, accelerators, and most investors know, but the world has changed. Cleantech and deep tech require different approaches to realize success as they span industries far more diverse than software platforms.
+In the SaaS boom, investment in the founders typically came with the business acumen required for launch and scale, as programmers lived in the business environment. This is why there was so much investment in the founding team members rather than the technology. Successful SaaS founders understood monetization, and investors knew the right founders, especially repeat founders, could monetize an idea on a napkin.
+SaaS provides recurring revenue streams, low marginal customer acquisition costs, rapid scale, and automatic updates with relatively low maintenance. Cleantech and deep tech startups often require significant upfront capital for manufacturing and deployment, with longer sales cycles, complex installations, and extended maintenance/upgrade cycles. Because of these differences, as the table below indicates, the scale for deep tech typically occurs after Series C fundraising. In contrast, the SaaS scale should occur with
+Series A
+fundraising.
+Traditional Deep Tech Fundraising Path
+Credit Source:
+https://www.bcg.com/publications/2023/deep-tech-investing
+Deep tech and cleantech can yield the same double-digit returns as other traditional VC investments, if not slightly better, as the graph below indicates. The issues is these return over a longer time horizon, 5 - 12 years vs 3 - 7 years. Typical VCs are wary of these longer time horizons due to associated risks and need higher returns in shorter periods because of their
+LP
+fund requirements. Fund size does matter, but VCs and accelerators must learn that these industries require a new model and approach if they wish to realize the reward they can offer.
+Deep Tech vs Traditional Investments IRR
+Source Credit:
+https://www.bcg.com/publications/2023/deep-tech-investing
+Time vs. Money, The Funding Problem
+If we wish to see more investment in saving the planet, cleantech and deep tech companies must provide faster ROI to funders, making the space more
+attractive to investment
+. The graph below demonstrates that planet-saving cleantech is not providing the ROI investors require, so they are investing less in it year over year, which doesn’t bode well for its inhabitants.
+Cleantech Funding Year Over Year
+Credit Source:
+https://www.pwc.com/gx/en/issues/esg/climate-tech-investment-adaptation-ai.html
+There are numerous external funding options from the public and private sectors for very early-stage startups to help get research out of the lab initially, but they lack options when they need them most: scaling. While revenue generation is the best funding option, its execution, per the graph below, often falls during the
+valley of death
+, when startups need money the most. Unfortunately, VC, accelerators, and
+angel investment
+are some of the only options to navigate this time of growth and scale, even if the company generates revenue.
+Valley of Investment Reliance Death Elongation
+Source credit:
+https://www.ctvc.co/from-foak-to-noak/
+As the graph below details, founders can spend countless hours, days, months, and years fundraising. During this time, their revolutionary products languish in development as they grapple with unfamiliar tasks like financial modeling, marketing strategy, investor relations, sales, and customer development. While their technical expertise is unquestionable, they typically lack the business acumen to commercialize their innovations rapidly. This disconnect leads to a critical loss of time and money.
+Average Time Between Deep Tech Funding Stages
+Credit Source:
+https://www.bcg.com/publications/2023/deep-tech-investing
+I worked with a vertical wind turbine startup a few years back. The wind turbine leveraged an
+Archimedes screw
+shape vertically, and in lab testing, it produced more energy, especially at low flows, than any wind turbine on the market for its size. They were modular, could be stacked, and also placed almost anywhere with very little noise. The vertical shape also allowed alternators to be placed at the top and bottom, increasing energy generation. The founder has been trying to raise funding for this revolutionary wind turbine startup for the last 5+ years. It has taken so long because he has also been juggling all the other business creation activities required in a startup.
+I have dozens of stories similar to this: world-changing technologies built by brilliant founders who lack the business acumen to execute on startup business challenges and are forced to chase funding constantly.
+VC and Accelerator Model is Broken
+The current VC and accelerator business model operates on a network-model volume game to provide crash courses in business education, fundraising, and mentorship. This model works for established players with big budgets but creates issues for smaller, sub $100M VCs and accelerators because of the typical
+VC/LP 2 and 20
+revenue model.
+To survive and scale, these smaller funds require higher startup success rates with more exits over shorter periods. As such, VCs and accelerators, especially smaller ones that provide early-stage capital, are dying off, as the graph below shows. Investors are taking their money elsewhere because the current VC model can’t beat the stock market and other alternative investments that yield higher returns with less risk.
+US Venture Capital Firm Decline
+Credit Source:
+https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3
+The decrease in the VCs graph above is similar to the decline in the cleantech funding graph from a previous section. VCs, in general, have been buoyed because of the AI craze but still face a survival problem because they use an outdated network model to encourage success. The market is telling VCs and accelerators the network model is a poor investment and that they must find a better way if they wish to survive. To combat the decreased investment, they must help their portfolio companies generate revenue faster and become a more attractive investment to other VCs and accelerators.
+Prominent accelerator models include
+Y-Combinator
+and
+Techstars
+, which typically offer a percentage of equity ownership in exchange for operating capital and program support. These models provide networks for mentorship, education, and fundraising, sometimes offering business crash courses. However, they often push founders back into the real world with high failure rates, leaving them to do all the business building in addition to building their product.
+I know more than a few founders whose startups were ruined by going through a prominent accelerator like Techstars. The founders shared how bad advisors misguided them, forced them to replace key team members, and pushed their product toward an unmarketable direction against their better judgment. Needless to say, their startup didn't survive.
+Large accelerators do not need every startup to succeed, just 1 in 10 or even 1 in 100, similar to large VCs. Everyone hails Y-Combinator as the golden accelerator, but the below graph indicates over a 50% failure rate of their startup graduates. The problem is that most cleantech and deep tech accelerators and VCs operate on the same network model as Techstars and Y-Combinator, assuming that if it works for them, it will work for us.
+Y-Combinator Success vs Failure Rate:
+Credit source:
+https://jaredheyman.medium.com/on-the-life-and-death-of-y-combinator-startups-d58aa03421f0
+While not a bad theory, it's flawed for several reasons. The planet needs most, if not all, cleantech and deep tech VC investments and accelerator participants to succeed. That, and most cleantech and deep tech founders, are scientists and engineers, not experienced business people.
+Business is Complicated
+Yes, scientists and engineers can learn business, but this often contradicts their scientific and engineering training. Science education is primarily taught through theory validation, using the
+scientific method
+and research-based frameworks. Engineering education is also based on science but uses definitive mathematical principles for validation. Business, especially in the startup days, is less than a perfect science and regularly requires instinctive, gut-based decisions, which can take years of experience to develop.
+Tools like the
+Lean Canvas
+and
+Business Model Canvas
+can be great for validating and testing decisions to decide direction, but it only gets them so far. They are remarkable frameworks for putting pen to paper and plan creation as they help founders think more holistically about the business and the many facets required to get from point A to point Z. Yet they are just that, frameworks like
+SWOT
+,
+4 P’s
+, etc., etc. etc., and still require business experience for executing all of the aspects outlined. Like completing the canvas frameworks, building a successful business is not a linear path, and it takes experience to know when and how to pivot or monetize a previously overlooked potential product.
+I recently talked to a participant going through a well-known deep-tech accelerator, and they were running out of funding. Engineers ran the company, focusing too heavily on the end goal of building advanced computing technology. After a 30-minute conversation, I uncovered three different paths they could start making revenue within the next three months: licensing IP, consulting, and reselling machine time as a service.
+Business Model Canvas Template
+Credit Source:
+https://www.strategyzer.com/library/the-business-model-canvas
+Financial modeling
+is a perfect example.
+Forecasting
+utilizes data from accounting, market assumptions, and intelligent guesstimation for growth percentages. Even the best financial models can be upended by the unforeseen and operate under a veil of ambiguity. Most of the time, they aren’t even accurate a year or quarter out, as we regularly see in the stock market, and they have departments full of people working on them. Scientists and engineers can become financial wizards, but they must first overcome the hurdle of certainty in the uncertainty, which takes more time than startup life affords, and willful neglect of their scientific training that accuracy is paramount.
+I have repeatedly explained to different scientists that financial analysts build models on assumptions without rigorous hypothesis testing and that business leaders make critical decisions based on these unverified models with absolute certainty. I also can not tell you how often scientists and engineers have told me they wish their university training included at least one business course.
+To the point, is a scientist or engineer's time better spent tweaking an overly complex financial model or focusing on building their product and readying it for manufacture? I’ve spent hours helping scientists and engineers simplify their financial models or walk through how to create a basic one.
+A few months back, I helped a hard tech startup that built three prototype sensors for monitoring and reducing methane produced from rice production. They built three prototype sensors, wanted to raise funding to manufacture them, and had no clue about their CAPEX, pricing, margins, revenue model, or anything financial. I walked them through every nut and bolt to help them analyze potential margins and ultimately focus on one of the prototypes as their initial product. Did you know rice production is responsible for
+1.5%
+of global greenhouse gas (GHG) emissions and 48% of GHG from croplands alone? I was surprised to learn that as well.
+Sales. Selling business-to-business (
+B2B
+) requires demonstrating a product that solves some aspect of the time vs. money equation. Selling also requires relationship development,
+CRM
+implementation,
+marketing automation
+, and a hardened follow-up process to close the sale with a convincing, charismatic, personable charm. (Not to get personal, but charming, personable, and charismatic are not usually adjectives used to describe scientists and engineers….)
+Scientists and engineers can be reluctant to market, sell, and push a product that isn’t 100% finished, especially first-of-its-kind (
+FOAK
+) technology.
+Customer discovery
+is one of the first and most essential sales steps a startup can take, as it ensures they build something a customer wants and is willing to pay for. Therefore, founders must get out there, talk to potential customers, and start sales activities on Day 1. Customer discovery activities can turn into long-term relationships and even potential customers. Companies can then leverage these relationships to secure Letters of Intent (
+LOI
+), which can leveraged for fundraising.
+First impressions are critical, and so is process implementation at the onset.
+I recently helped an energy storage startup with its investment strategy raise $2M in pre-seed funding from $57 million in LOIs. The founder is on his second company, the previous one sold for over $100M, and brought on a head of development who is also on his second startup. They know what they are doing, and how to do it, successfully.
+Founders have to sell, with the CEO being the best salesperson because of their authority. Having an experienced businessperson with sales experience at the helm is critical to success. Investors are ready to bet on serial founders because they know how to do business successfully.
+The Accelerator Model Opportunity
+Accelerators and VCs must go beyond support, mentorship, and guidance for cleantech and deep tech companies if they genuinely want to make a difference with their dollars while realizing higher returns faster. They need to put the people, processes, and basic building blocks every business requires in place for the engineers and scientists so they can focus on their climate solution's success. Time is of the essence.
+Instead of utilizing a flawed hands-off network model, VCs and accelerators should adopt a more hands-on
+venture studio
+model and either insert or ensure experienced operators are in place to focus on the business of money from the beginning. Rather than simply offering advice and networking opportunities, VCs and accelerators should help put the operators in place in their portfolio companies and use fractional teams shared across the portfolio to handle everything business-related that needs to get done right the first time. There is even data to support that startups who go through studios have higher success rates than non-studio startups, as per the graph below.
+Studio Startup Success vs Non-studio Startups
+Credit Source:
+https://reseaucapital.com/en/news/8-advantages-of-venture-studios/
+Certain business activities must be done right and done by people who have done them before, especially in the early days, if they wish to attract fundraising. There is no margin for error. Examples include financial modeling, data room building, branding, website creation, pitch deck design, content calendars, marketing campaigns, go-to-market sales strategy, project management, talent management, technology systems, process implementation, and on and on. Certain business divisions, such as marketing, finance, accounting, legal, and even sales, can also be shared to reduce costs across multiple startups until they grow large enough to take them in-house.
+Again, do you want to leave these critical first steps up to an engineer or scientist to figure out as they go along after you’ve invested millions of dollars in them or to a professional operator who has been there and done that multiple times?
+The accelerator venture studio-style non-profit I co-founded several years ago, whose mission is to further local mission-driven organizations for economic resilience and sustainability,
+Coventure.io
+, utilizes this approach with great success. We have helped 25 diverse organizations, from cleantech to Web3, and even a cohort of non-profits, raise over $28M in VC, angel, and grant funding. As a public-private partnership, we operate on a shoestring budget and have helped create hundreds of local jobs. We can boast two startups with
+unicorn
+valuations, one
+Shark Tank
+feature, and a 50% graduate success survival rate of our program participants.
+We discovered many critical startup business activities can also be outsourced and/or shared across a team of vetted business professionals on a fractional project basis to keep expenses down. We acted as the business operator to help identify solutions before problems arose and outsourced them to fractionals where necessary so the founders could focus on building. The model works with the right people in place, helping founders make the right decisions or doing them on their behalf where appropriate.
+State of the Accelerator
+A few accelerator-style venture studios that dabble in cleantech and deep tech have successfully realized this approach. Atomic.vc is a fantastic example of a venture studio that pairs engineers and scientists with business operators and utilizes fractional in-house teams to ensure success.
+Atomic.vc
+boasts impressive wins in transitioning startups from the lab into industry, including the wellness brand
+Hims
+and
+Hers
+and the renewable energy company
+ExoWatt
+. Others, such as
+Elemental Impact
+and
+Deep Science Ventures
+, are getting there based on hiring needs, but not fast enough.
+Here is a rough breakdown of current cleantech and deep tech accelerators as they utilize operators to accelerate cleantech and deep tech startups:
+This segmentation doesn’t mean any of these programs are better than the others or are unsuccessful due to their differentiated approach. There are most likely numerous reasons for this, from founder experience to funding. Funding is a big part as the operator model is strained under smaller funds with limited budgets. Then again, there are many creative business models smaller VCs and accelerators strapped for cash can leverage to implement an operator model.
+Private equity (PE)
+proves that the
+operator model
+is successful. There is no reason why accelerators cannot use a similar operator model in the early stages without the associated
+negative PE baggage
+. If anything, startups are better suited for an operator to develop a company from a blank canvas than fix an aged spaghetti behemoth.
+Call to Action: The Operator's Role
+The operator's role in PE is to reduce expenses, increase revenues, and drive operational efficiencies. Similarly, the startup operator monitors the burn rate and extends it via fundraising and, ideally, revenue sales while putting the operational process structures in place necessary for scale. The more money a startup brings in and the earlier it does so, the greater its chances of succeeding or at least living another day to do so. Operators focus on everything related to business, from fundraising and product monetization to marketing and sales, technology implementation, talent management, and more. Most importantly, they focus on Money.
+I need to repeat this: No matter what industry, how impactful the mission, or how world-changing the technology is, if your organization does not generate revenue through fundraising or sales, it will not survive long. Even then, you can only fundraise for so long before you have to generate revenue.
+MONEY. I hate to say it, but it's all about money. If your world-saving technology does not make money, a lot of it, quickly and repeatedly, your company will not survive long. Not enough founders, especially engineers and scientists, understand this. Yes, there are some actual “impact” funds and investors out there, but even they are hoping for some return at some point. If not, it’s called a donation and not an investment.
+Startups fail repeatedly for the same reasons, repeating the same avoidable mistakes. The CB Insights graph below identifies two main reasons: lack of market and/or funding. Sales are the single best signal of product-market fit. If a customer is willing to buy a product, it means a startup has achieved or is in the right direction of product-market fit and is making money.
+Top Reasons WHY Startups Fail
+Credit Source:
+https://startupsventurecapital.com/the-top-20-reasons-startups-fail-e37097d973d4
+It amazes me the number of founders I’ve worked with who are building products with tons of potential but have no idea how to monetize them, but they think they will figure it out. It's even more astounding how many well-funded companies believe they can raise investment into Series A, B, etc., without a clear revenue model or producing a penny. Then again, some pull it off, but not many.
+I recently reviewed a cleantech enterprise platform for investment that received $10M in
+Pre-seed and Seed
+investment. The company poorly managed the original platform buildout and had nothing to sell. It was going into its Series A to raise another $10M without a product, zero revenue, a revenue model, product-market fit, targeted Fortune 500 enterprises, and did not have a useable customer-ready platform. A savvy operator would not have wasted the $10 million investment with nothing to show.
+Operators are the money-focused people in startups who should constantly be trying to determine what to monetize and how while ensuring everything runs optimally. The planet, its people, and all the lesser creatures require cleantech and deep tech startups to succeed faster, and operators are the answer. If you are an investor, accelerator, or startup in the cleantech or deep tech space, I encourage you to reach out. I would be happy to either build these programs for you or provide consulting services, as I am a business operator with experience positioning startups for growth and scale.
+About the Jonathan
+Jonathan Stokely is a multi-faceted Swiss army knife with experience in sales, marketing, technical implementation, finance, and operations at fast-growing startups and large Fortune 500 global organizations. He has mentored, advised, and worked with hundreds of entrepreneurs and startups in diverse industries, from cleantech to fintech and AI.
+Jonathan lives in Western Colorado with his wife and 1-year-old son. He loves skiing, whitewater rafting, biking, hiking, fishing, and anything outdoors. His other hobbies include beekeeping, rearing plants, cooking, reading, and music. He is passionate about helping entrepreneurs and startups succeed, believing they are key to making the world a better place for all to live. As a fourth-generation conservationist, he recently decided to devote the rest of his career to the fight against climate change and sees cleantech and deep tech companies as the solution. “If not us, who, if not now, when? We can all make a difference. All we can do is try until we do.”
+Jonathan advises two storage startups,
+HyWatts
+,
+Reusable Technologies
+, and is also on the advisory board for Coventure. He currently volunteers as a subject matter expert for the
+Work on Climate
+founders and finance channels while looking for his next big career opportunity. Jonathan would love to join a VC or accelerator in the cleantech and deep tech space to implement an operator venture studio program or be an operator at a funded startup.
+Career Highlights:
+Co-founded a hands-on business incubator and accelerator venture studio, Coventure.io, where he helped 28 mission-driven organizations from energy to Web3 raise $25M in VC, angel, and grant funding.
+Managed the implementation of Deutsche Bank's Salesforce Marketing globally to realize a 25% increase in sales conversions for a 15,000-person division by using data from marketing to feed intelligent information for sales decisions.
+Helped launch CME Group, the world's largest commodity exchange colocation facility for high-speed AI trading, and managed a $300M business book.
+At the beginning of his career, he was one of the first 400 employees at Groupon, where he cut his teeth in sales to be in the top 1 percent. He negotiated over 200 contracts to produce $1M in gross profit and grew his territory into a top 25 market as the company grew to over 10,000 globally in under a year.
+He graduated from the Milwaukee School of Engineering with his bachelor's degree in Business Administration, where he also started a rugby and lacrosse team without ever playing either before. He recently received his MBA in Finance and Entrepreneurship from the University of Colorado Boulder and was a Deming Center Venture Fund member.

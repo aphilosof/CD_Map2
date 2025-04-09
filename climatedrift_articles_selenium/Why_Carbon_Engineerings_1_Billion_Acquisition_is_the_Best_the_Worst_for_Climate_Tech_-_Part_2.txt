@@ -1,0 +1,118 @@
+Title: Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/why-carbon-engineerings-1-billion-d72
+==============================
+
+Dive into
+Climate Drift
+, your portal to climate solutions and realizing your role in reaching net zero.
+Not on board yet? Jump in and join our trailblazing community by signing up here:
+Subscribe
+Help us out by spreading the word to coworkers, loved ones, pals, and all humans out there.
+For every share, we promise to drop at least one more post!
+🌊
+Share Climate Drift by Marco and Skander
+Hey there 👋
+Skander here.
+Welcome to Part 2 on our deep dive of Oil & Gas giant Oxy's recent $1 Billion acquisition of DAC startup Carbon Engineering.
+In Part 1, we dove deep to cover the essentials.
+We began with an overview of CDR (Carbon dioxide removal) and its status. We then introduced our first player, Oxy, followed by a spotlight on Carbon Engineering. To wrap it up, we explored how these two entities initially collaborated.
+People are still split: Is this the absolute best or worst thing to hit climate tech?
+Today we will look at exactly this:
+Why this acquisition is the Best Thing
+Why it is the Worst Thing
+What does the public say?
+Let’s dive in 🌊
+The last time we checked in on Oxy and Carbon Engineering, Oxy had taken their 4-year collaboration up a notch by straight-up purchasing Carbon Engineering with a $1.1 billion in cash.
+So is this good or bad?
+It might be tempting to paint this narrative as "Big Oil snaps up a small climate tech startup for a green PR move." That's one perspective we'll explore in the "Worst Thing" section. But before we dive into that, let's don our optimistic hats and rose-colored glasses to consider why this might be the best thing to ever happen for climate tech.
+Best Thing:
+Let's dive into six reasons why this could be a good thing:
+Scaling up is essential, but it comes with a hefty price tag
+We're all on the same page: net zero is the goal. To even stand a chance at hitting the 1.5-degree target, we need a significant amount of Carbon Capture. But scaling up to make a global impact on CO2? That's a monumental financial challenge. The costs are almost beyond comprehension. So, where's that funding going to come from? Bridging this
+valley of death
+might require teaming up with industry titans, like Oxy.
+Oxy isn't playing small either. Their current strategy envisions a network of carbon-capture sites, with ambitions to build close to 100 plants powered by Carbon Engineering’s direct air capture (DAC) tech.
+Fossil fuel giants aren't vanishing overnight
+Here's a reality check: Fossil fuel companies are here to stay. They won't just disappear in a snap. So, in a world aiming for net zero, what's their play? Historically, when these giants set climate goals, it's often translated to a shift towards renewables, perhaps even a pledge to reduce oil output down the line.
+BP's setting up wind turbines, Shell's diving deep into hydrogen, and Total's investing big in lithium-ion batteries. But Oxy? They've taken a distinct path, one that resonates with their core expertise and strategy.
+Having a long-standing focus on using CO2 to extract more oil (
+see EOR
+), Oxy might now pivot to direct sequestration.
+This acquisition isn't an isolated move either. It's part of a trend, as evidenced by another major CCS deal: Exxon Mobil's recent $4.9 billion purchase of CO2 pipeline operator Denbury.
+A success story of a fossil giant shifting green is Ørsted. Originally known as Dansk Naturgas A/S, this state-owned Danish company was established in 1972 to oversee gas and oil resources in the Danish North Sea. However, they managed a successful shift to wind energy. Fast forward to today, Ørsted boasts about 30% of the global offshore wind power capacity, excluding mainland China. They generate 90% of their energy from renewable sources and aim to push that to over 95% by 2023 and 99% by 2025. It's worth noting that Ørsted fully committed to this transformation, divesting from gas and oil to wholeheartedly embrace their new direction.
+Dive deeper in this Bloomberg Podcast
+Harnessing Technical Know-How & Repurposing Oil & Gas Talent
+Who's better equipped with the expertise and infrastructure to store CO2 underground than those already in the industry? Consider this: Oxy boasts a workforce of 11,618, while Carbon Engineering operates with just 151. Imagine the potential if even a third of Oxy's vast team were to pivot their passion towards DAC, discovering a renewed purpose in this technology. That's a potential influx of around 4,000 seasoned professionals with deep industry insights. The ripple effect could be profound: these experts sharing their knowledge, some branching out to launch new DAC ventures, or joining other energy behemoths in their green transitions.
+A lot of climate tech people will make money from this, creating a network of angels
+Get ready for the Carbon Engineering Mafia. Ever heard of the PayPal Mafia? It's a term for former PayPal folks who went on to kickstart major tech companies like Tesla, LinkedIn, Palantir, SpaceX, YouTube, and more. Now, think about the 150-strong team at Carbon Engineering who've likely hit a financial jackpot. This influx of cash for these individuals could spark a similar trend, with them branching out to launch or back new ventures.
+Given the current ice cold venture market, this fresh capital, which could be reinvested by next year, might just be the gust of wind that climate solution startups desperately need.
+Either you compete or have a golden exit
+Regardless of opinions on the sell-out aspect, this move has bolstered confidence across the sector. DAC companies now have tangible proof of a profitable exit strategy. Inspired by this beacon of success, individuals will be drawn to DAC firms next year, gaining insights and launching complementary ventures. Expect a surge of investors gravitating towards this newly promising market.
+We've heard directly from insiders at DAC companies, and the sentiment is clear: before the entry of fossil industry heavyweights, challenges like funding shortages and unresponsive vendors were daunting. Now, there's a palpable shift in momentum, with better connections, ample funding, and access to significant resources.
+Worst thing
+In case you need a soundtrack for this section:
+Oxy’s mission statement: Net Zero Oil
+Vicki Hollub, Oxy's CEO
+Oxy plans to continue its oil & gas business and the connected emissions, and their CEO has been candid about it. Vicki Hollub, Oxy's CEO, remarked, “Thanks to Direct Air Capture, we don’t need to ever stop oil,” suggesting that the technology offers the industry “a license to operate for…60, 70, 80 years…”.
+For a deeper dive into Oxy's perspective,
+check out this interview with Vicki Hollub
+.
+Some key takeaways from the interview include:
+“Back in 2011, as the general manager of our Permian EOR operations, we assessed our oil and gas assets in the Permian Basin and realized we lacked sufficient CO2 to fully harness our resources.”
+Their long-term solution? DAC.
+“Our goal is to produce net-zero oil by injecting CO2 into our oil reservoirs globally, starting in the Permian. The process involves injecting more CO2 to extract the oil than the emissions the oil would produce when consumed. That's the essence of our net-zero carbon approach.”
+“Our objective is to prolong oil production as it's a potent energy source. It's essential for the world, making it a better place.”
+For Oxy, boasting a market cap of $56 billion, the $1 billion investment in DAC is a drop in the bucket, accounting for less than 2% of their business. Yet, it might just be the most impactful PR move they've ever executed.
+Oxy is not Orsted, the good ex-Oil company
+Despite the investment, there's no indication from Oxy about divesting from fossil fuels like Orsted did. Rather, they appear to be reinforcing their vision of Net Zero Oil. When questioned about Oxy's projected revenue in 2050, the response was clear:
+“If our plan works the way that we'd like for it to, our revenues from our capture of carbon for ourselves and others would equal the oil and gas revenues. And that's understanding that we don't intend to reduce our oil and gas as some are. We intend to develop our oil and gas so that it helps to match demand. A
+nd we believe that using CO2 for enhanced oil recovery, and generating the net-zero barrels is the way to be the last company standing in terms of who's going to produce the last barrel in the world.
+”
+Get out of jail free card for every fossil giant
+This move potentially hands other oil behemoths a convenient loophole: employ DAC technology and continue extracting more oil unchecked.
+Missed learnings: If CE gets absorbed by Oxy and nothing happens
+Should Oxy fully integrate Carbon Engineering, it could disrupt the essential iterative learning process in DAC that's currently crucial. As highlighted in How Solar Got Cheap , scaling technologies like DAC requires a diverse global ecosystem with robust competition to drive innovation and efficiency.
+Deal was sponsored by the US government
+Adding another layer of complexity, the U.S. government played a role in bankrolling this deal. Oxy recently pocketed half of the U.S. government's $1.2 billion carbon capture fund, which they promptly used to acquire Carbon Engineering. This raises eyebrows, especially when the Secretary of Energy, Jennifer Granholm, has just earmarked a whopping $12 billion for direct air capture projects. This allocation is part of an even grander $35 billion commitment. Given these circumstances, it's hard not to view this as the U.S. government's indirect bolstering of the fossil fuel sector, potentially at the expense of genuine green initiatives.
+Public sentiment and reactions
+Let's tap into the public pulse. We'll kick off with those who view this move as the worst:
+Jonathan Foley, renowned for Project Drawdown, wrote
+an article
+critiquing the Biden administration's backing of industrial carbon capture projects. He contends that such initiatives mainly line the pockets of big oil firms, giving them a veneer of eco-responsibility. In essence, it enables them to continue their polluting ways, all while masquerading as champions of the environment.
+He summarizes it well in this
+tweet
+:
+Next in line is James Temple, the Senior Climate & Energy Editor at MIT Technology Review. He shared his insights in the
+following thread:
+Rounding out our list is David Ho, a climate scientist and professor in Hawaii,
+whose comments
+ignited a flurry of memes and critical perspectives.
+Unearthing positive public opinions on this acquisition has been challenging, given the dominance of the greenwashing narrative.
+However, there are three perspectives worth spotlighting:
+Torben Schreiter, Climate VC, underscores this as a
+monumental moment
+for the entire Climate Tech industry, warranting celebration.
+Dan Miller, a fellow VC, spots a
+silver lining
+:
+Joe Rigodanzo, writing on
+Terraform Now
+on carbon capture, provides a comprehensive breakdown. He enumerates five compelling reasons celebrating the move, ranging from Financial implications and Partnerships to Permitting, Expertise, and Ambition.
+Dive into his
+in-depth explanation here
+One can't help but wonder: What would the climate tech landscape look like had this deal not materialized?
+While we can speculate, the reality is that the deal has been sealed, and its true impact remains to be seen.
+What's clear is that the intersection of traditional fossil fuel giants and emerging climate tech startups is a complex terrain. While the infusion of capital and expertise from established players can accelerate the growth and impact of green technologies, it's crucial to ensure that these collaborations prioritize genuine environmental progress over mere optics.
+At Climate Drift, we're leaning into an optimistic market outlook: We believe Oxy's involvement will catalyze Carbon Engineering's scaling efforts. As the demand for DAC begins to overshadow that for oil, we're hopeful that Oxy might emulate Ørsted's transformation, evolving into a leading DAC proponent.
+Should Carbon Engineering's momentum stop post-acquisition, it's motivating to remember that they aren't the sole players in this field.
+If you found this analysis insightful, consider
+sharing it
+with your network. Every share helps us reach a wider audience and amplify the conversation around climate solutions.
+Share
+For more updates and in-depth analyses,
+don't forget to subscribe
+:
+Subscribe
+Till our next deep dive, keep making waves for a better tomorrow. 🌊
+Skander

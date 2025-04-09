@@ -1,0 +1,132 @@
+Title: A Look at the Circular Economy
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-the-circular-economy
+==============================
+
+Welcome to
+Climate Drift
+, your source for clarity on climate solutions. Discover your part in the journey to net zero.
+Not a subscriber yet? Join us here:
+Subscribe
+Hey there 👋
+Skander, here!
+Welcome to part 3 of our deep dive into companies attending
+The Drop conference
+in Sweden next week.
+In Part 1 we shine a light on Transportation
+🚄
+A Look at Transportation Companies
+Skander Garroum
+·
+August 29, 2023
+Read full story
+In Part 2 we explore the Built Environment.
+🏗️
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+In Part 3 it is time for the Circular Economy
+♻️
+A Look at the Circular Economy
+Skander Garroum
+·
+August 31, 2023
+Read full story
+In Part 4 we look at Industry 🏗️
+A Look at Industry
+Skander Garroum
+·
+September 1, 2023
+Read full story
+In Part 5 we try to decarbonize Food & Agriculture 🍃
+A Look at Food & Agriculture
+Skander Garroum
+·
+September 4, 2023
+Read full story
+Today we are looking at the
+circular economy
+: Rethink, Reduce, Recycle.
+Let’s dive in 🌊
+The circular economy is a paradigm for production and consumption. Prioritizing sharing, leasing, reusing, repairing, refurbishing, and recycling, it seeks to maximize the longevity and usefulness of materials and products.
+It is based on three foundational principles:
+Rethink
+involves leveraging low-carbon and carbon-negative materials, aiming for a greener product inception. By 2030, this could lead to a 48% reduction in Europe's CO2 emissions compared to 2012 levels.
+Reduce
+emphasizes re-using and returning packaging. In line with this, the European Commission predicted a 10% waste reduction by 2030.
+Recycle
+focuses on efficiently mapping and managing discarded materials and using advanced recycling technologies. With a comprehensive approach, material savings in sectors like electronics could reach $1 trillion annually by 2025.
+Let’s see which solutions along the value chain the companies at the Drop are exploring:
+Pentatonic
+Pentatonic offers a tech-empowered platform to streamline the journey towards circularity. Their unique Material Lifecycle Management (MLM) system provides an integrated solution for companies to source, track, and recycle materials across their products. Serving as a central hub, it connects suppliers, recyclers, and stakeholders, backed by high-touch engineering to navigate challenges.
+By 2030, they aim to manage over 1 million tons of materials annually. Collaborating with Fortune 500 companies like Starbucks, Nike, Microsoft, and L'Oreal, and with offices in Berlin, London, and New York, Pentatonic provides end-to-end solutions. These encompass product design, supply chain optimizations, and customer engagement strategies to promote closed-loop consumption.
+http://www.pentatonic.com
+http://www.linkedin.com/company/wearepentatonic
+Sourceful
+Sourceful offers a comprehensive sourcing and supply chain platform, aiding clients in locating eco-friendly packaging solutions. With the challenges of discerning genuine sustainable practices from greenwashing, and the intricacies of supplier selection and supply chain management, Sourceful streamlines the process. The platform integrates packaging options, data tools, and a team of specialists.
+http://www.sourceful.com
+http://www.linkedin.com/company/sourceful-com
+one • fıve
+Founded in 2020, Hamburg-based startup One Point Five, named after the Paris Agreement's 1.5-degree global warming target, recently secured €10.5 million for their innovative "litter-proof" packaging solutions. If discarded, their materials degrade naturally without harming ecosystems. Leveraging a unique software, they scan global patents, particularly from universities, licensing or purchasing relevant IP. They then tailor and build these technologies for specific packaging needs, developing prototypes onsite. With a current focus on Asia, One Point Five aims to expand across Europe, starting with Germany.
+http://www.one-five.com
+http://www.linkedin.com/company/one-five-com
+Epoch Biodesign
+A Short note on Plastic:
+Addressing the critical challenge of plastic waste is paramount. Every year, a staggering 460 million tonnes of plastic is produced, with recycling efforts falling short. Furthermore, plastic production contributes up to 2Gt of CO2 emissions annually. Despite its vital role in multiple applications, the majority of plastics, due to inadequate waste management, are either incinerated, dumped in landfills, or find their way into our oceans.
+Epoch tackles this challenge through a combination of computational and experimental techniques: They are developing enzymes that can transform plastics into low-carbon, circular chemicals. They envision a world where plastic waste isn't merely thrown away — it's repurposed into environmentally-friendly and valuable commodities.
+http://www.epochbiodesign.com
+http://www.linkedin.com/company/epochbiodesign
+Hide Biotech
+Hide Biotech, headquartered in Cambridge, is a startup focused on the research and development of sustainable biomaterials reminiscent of leather. The company's product caters to leather goods and fashion brands exploring sustainable alternative materials that maintain high-quality standards. This material is derived from non-animal sources and is made from collagen, the primary protein in traditional leather. Furthermore, it's designed to be environmentally conscious, avoiding plastic and excess waste in its production.
+http://www.hidebiotech.com
+http://www.linkedin.com/company/hidebiotech
+Bintel
+Bintels digitizes the waste industry to offer CO2 emissions reduction, littering mitigation, and enhanced customer satisfaction. Their platform provides insights into waste patterns, enabling efficient, eco-friendly initiatives.Bintel has solutions for multi-apartment areas, underground containers, waste baskets, various industry containers, and residential bins.
+http://www.bintel.se
+http://www.linkedin.com/company/bintel-ab
+Swedish Algae Factory
+Swedish Algae Factory specializes in cultivating diatoms, a group of algae, and extracting their silica shells for diverse applications, termed Algica. While primarily utilized in cosmetics, studies suggest that Algica might boost silicon solar panel efficiency by 4% and DSSC by 38%. According to WWF, each kilogram of Algica® in solar panels could potentially reduce CO2 emissions by around 200 tons. The production leverages a circular methodology, using nutrient-rich water from land-based fish farms. In this process, the algae consume CO2 and vital nutrients, aiding the development of sustainable fish feed.
+http://www.swedishalgaefactory.com
+http://www.linkedin.com/company/swedish-algae-factory
+Intropic Materials
+Intropic Materials is working on enzyme stabilizing technology, embedding degrading enzymes in plastics to ensure a responsible end-of-life from the outset. Once activated, these enzymes cause the plastic to quickly degrade into biodegradable or chemically recyclable molecules. Enzymes, with their vast functional diversity, hold promise for revolutionizing sectors from sustainable materials to food technology and pharmaceuticals. Yet, their stability outside of cells has hindered broad application. Intropic Materials offers a scalable solution to this, aiming for a sustainable, circular bio-based economy and a forefront in compostable plastics.
+http://www.intropicmaterials.com
+http://www.linkedin.com/company/intropic-materials
+Saltyco
+Saltyco is a materials science company specializing in planet-positive textiles. By integrating material supply chains, the firm actively aids in the restoration of harmed ecosystems. his involves the strategic selection of resilient crops and a redefined approach to regenerative agriculture.
+http://www.saltyco.uk
+http://www.linkedin.com/company/saltyco
+Movo
+Movo is a company specializing in the development of sustainable packaging solutions, primarily targeting the e-commerce sector. At the heart of its offerings is a unique packaging design that can be reused over 20 times, aimed at countering the prevalent single-use culture. By emphasizing a shift from linear to circular operational models and promoting reusability over disposability, Movo's approach has demonstrated a potential reduction in waste and a 75% decrease in CO2 emissions associated with packaging. Beyond the environmental impact, the company also provides an innovative reverse logistics service, further minimizing the ecological footprint of e-commerce businesses. Movo's packaging solution also focuses on the user experience, with a design that's intended to enhance the unboxing process for end consumers.
+http://www.movopack.com
+http://www.linkedin.com/company/movopack
+MorrowX
+MorrowX crafts digital and SaaS tools designed to untangle and simplify multifaceted sustainability challenges. The primary objective is to facilitate organizational shifts towards sustainable practices by offering user-friendly digital solutions.
+http://www.morrowx.com
+http://www.linkedin.com/company/morrowx
+Carbon Cleanup
+Carbon Cleanup focuses on promoting the sustainable utilization of carbon fiber materials. Through an innovative recycling method, the company has made it possible to repurpose significant amounts of carbon fiber residues that, as of current statistics, over 90% end up in landfills.
+http://www.carbon-cleanup.com
+http://www.linkedin.com/company/carbon-cleanup-gmbh
+Smobya
+Smobya is a company focused on producing microbial leather as an eco-friendly alternative in the fashion industry. Utilizing specific bacterial strains, they generate bacterial nano-cellulose through fermentation. In a day, these bacteria can convert minuscule threads into a pellicle, yielding a material that, even untreated, is ten times stronger than its plant-based counterpart. Smoby's material is distinctive for being bioassembled, grown directly by microorganisms, and free from petroleum derivatives. Leveraging this technology, the company transforms waste and raw materials into resilient, flexible materials.
+http://www.smobya.com
+http://www.linkedin.com/company/smobya
+Brineworks
+Brineworks is a company specializing in the extraction of carbon-negative materials from industrial waste streams. The firm aims to enhance regional water availability, decrease atmospheric carbon dioxide levels, and produce essential raw materials pivotal for sectors such as construction, agriculture, and manufacturing.
+http://www.brineworks.tech
+http://www.linkedin.com/company/brineworks
+Stena Metall Group
+Since 1939, the Stena Metall Group has evolved from local scrap dealings in Gothenburg to powering the circular economy. Partnering closely with clients, they provide resource management, recycling, aluminium alloy production from recycled materials, steel products, and international trade in raw materials and marine fuels.
+http://www.stenametall.com
+http://www.linkedin.com/company/stenametallgroup
+That was our take on the Circular Economy companies coming to The Drop.
+As we navigate through, if there's any company you'd like a deeper dive on, just give us a shout!
+If you're attending The Drop, let's touch base. Feel free to drop me an email at
+[email protected]
+.
+Warm regards, Skander
+P.S.: Want to share this list? Just hit the button below
+Share

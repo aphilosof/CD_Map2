@@ -1,0 +1,123 @@
+Title: The Companies of Residential Solar
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-companies-of-residential-solar
+==============================
+
+Dive into
+Climate Drift
+– your essential guide to understanding climate solutions and uncovering your place in the net zero movement.
+If you're not yet a part, be among our initial 1,000 readers by subscribing here:
+Subscribe
+Hey 👋
+In the early days, meaning the last 30 years, a mere 2 million US homeowners made the leap to harness the sun's power.
+Yet, in the next six years, a meteoric rise will see 10 million more join this sun-soaked revolution.
+Why? Simply put,
+Solar got cheap
+, propelling an astonishing 70% Year-over-Year (YoY)  growth in residential solar (resi) setups.
+And if you are looking for one of the best sectors to start your climate career, a 70% YoY growth is a very clear sign that you’re looking at one of the best industries.
+In
+our last residential solar deep-dive
+, we shed light on:
+The intricate journey of a Solar Buyer.
+What happens inside a resi company
+Outlook: Market shifts in resi
+Solar’s shadows: A look at industry challenges.
+Today, we dive even deeper: it's time to spotlight the market leaders in the US solar realm.
+Let’s dive in 🌊
+Skander
+The Companies of Residential Solar: Part 1
+First and foremost, it's important to grasp that the residential solar (resi again from now on) market is highly segmented. Impressively, local and regional installers handle a significant 66% of the market.
+What makes them so dominant?
+They have built reputable local businesses through:
+Brand trust within their communities
+Years in the business
+Solid financial standing
+Organic word of mouth growth
+Yet, many remain confined to their local regions, facing numerous challenges in expanding further:
+Supply Chain Issues
+Because of their size, they frequently find themselves at the end of the supply chain queue.
+Limited Expertise Due to Smaller Teams:
+Their teams struggle with specialized knowledge gaps, ranging from technical challenges, adapting to new technologies, to insufficient manpower for effective customer service.
+Expansion Hesitancy:
+Their lack of experience in venturing into new markets hinders expansion.
+These constraints can lead customers to bear higher costs while settling for substandard service.
+This landscape is pushing local installers to find refuge under aggregator umbrellas.
+These aggregators fall into two main categories: the long-established industry titans accustomed to partnering with third parties, and the rising contenders bringing fresh perspectives to the table.
+In the next essay we will dive into the rising contenders.
+Next, we'll delve into three prominent players from the traditional camp:
+Sunrun
+- largest player with 13% market share
+Tesla
+- 4th largest player with 3.7% market share
+Sunpower
+- 5th largest player with 2.7% market share
+The Framework of a Resi Company
+Essentially, each resi provider revolves around three pivotal business functions:
+Sales & Marketing
+Installation
+Financial Solutions
+You can read more about all those business functions
+here
+.
+These functions serve as our primary lens, and most innovative approaches and unique attributes can be traced back to these areas.
+Sunrun
+Output in 2022: 990 MW solar
+Employees 12,408
+534 jobs open
+HQ: SF based
+Public company, Nasdaq listed, S&P 400
+Established 2007
+Sunrun, established 16 years ago, currently stands as the market leader in the US with an impressive 13% market share. Listed on NASDAQ and a member of the S&P 400, it's a force to be reckoned with in the solar industry.
+In 2022, Sunrun achieved a remarkable milestone by setting up solar systems capable of producing an astonishing 990 megawatts of energy. Over its lifespan, the company has deployed an immense 5.7 gigawatts of power, serving nearly 800,000 customers.
+For context, in 2022 alone, around 700,000 American households adopted solar energy solutions.
+Sunrun's primary strategy focuses on expansion: aiming to make solar energy accessible to all and integrating it into every facet of daily life. For that they went out and expanded on 3 key areas.
+Direct Sales Approach:
+Sunrun's $3.2 billion acquisition of Vivint Solar in 2020 underscored its ambitious vision. Originating from Lehi, Utah, Vivint Solar's primary mode of operation was through direct home sales, like door-to-door campaigns. Sunrun recognized this as a valuable avenue to enhance its reach, which had earlier constraints in the direct sales segment.
+Financing:
+From its early days, Sunrun championed the power purchase agreement (PPA) model. Here, the company shoulders the responsibility of installing and overseeing a solar system at a client's residence. Following this, Sunrun then sells energy to the homeowner at a pre-determined rate, spanning either a 20 or 25-year duration.
+Especially good at Partnerships:
+Sunrun's association with prominent market players amplifies its reach and impact. Partnerships with giants like Costco and The Home Depot have enabled Sunrun to engage with potential clients within these stores.
+2022 witnessed another milestone when Ford collaborated with Sunrun, appointing it as the official installation partner for bidirectional charging stations tailored for the F-150 Lightning. This facilitates not only home charging for the truck but also the utilization of the vehicle's battery as an alternative power source during grid interruptions.
+Sunpower
+4,710 Employees
+HQ: Richmond California
+Owned by TotalEnergies
+Established 1985
+From the labs of Stanford University to the rooftops of millions, the tale of SunPower is that of passion and innovation. In 1985, a determined electrical engineering professor from Stanford, Richard Swanson, after shattering previous records of solar efficiency, embarked on an audacious journey. He paused his academia and initiated SunPower, a venture to propel solar technology from research confines into the broader commercial realm.
+A key twist in this journey arrived in 2011 when the French energy titan, Total, recognizing the future of renewables, invested a whopping $1.37 billion for a majority stake in SunPower.
+Focus matters: Shift from Utility and resi solar to only resi
+During its formative years, SunPower carved a niche for itself by constructing some of the most colossal solar infrastructures in the United States. The year 2008 marked its venture into large-scale solar farm constructions, partnering with utility mammoths PG&E and OptiSolar in San Luis Obispo and Hayward. Beyond these, the company's prowess was evident in iconic projects like the one at the Kennedy Space Center. Their global footprint expanded in 2004 with the erection of the Bavaria Solarpark in Germany, a mammoth installation covering 62 acres across three distinct sites. At its inception, this German marvel held the distinguished title of the world's grandest solar facility.
+Sunpower built Bavaria Solarpark, largest solar facility at the time.
+Come 2022, the company's trajectory took a significant turn. TotalEnergies acquired the company's commercial and industrial sectors for a neat $250 million. In 2022 Sunpower also added another feather to its cap, SunPower inked a deal with global retail giant, IKEA. The collaboration aimed at offering solar solutions to the eco-conscious clientele of IKEA's California outlet. The pivot to consumer focus was complete.
+Technology matters
+SunPower stands at the forefront of solar technology, offering an array of products and services related to solar energy. This encompasses the sale, installation, and financing of components like panels, batteries, mounting systems, and relevant software. While their offerings might come with a higher price tag, they compensate by delivering unparalleled energy efficiency compared to their competitors. Given their efficiency, SunPower systems are the go-to choice for areas with space constraints, like rooftops.
+So the closest widely known brand comparison is Apple: a self developed, integrated ecosystem, superior performance, superior price.
+Tesla Energy
+Output in 2022: 348 MW solar
+127,855 Employees (at Tesla overall)
+HQ: San Mateo, Bay Area
+Part of Tesla
+Established 2006 as Solar City
+Let’s dive into the sun-soaked story of SolarCity. Back in 2006, the Rive bros - Peter and Lyndon - took a hot tip from their cousin (you might know him: Elon Musk, Tesla’s CEO) and launched SolarCity. Elon didn’t just toss the idea to them; he chaired SolarCity too.
+Fast forward to 2016: SolarCity had installed solar systems for over 325,000 customers, making it the US's go-to for solar installations.
+But then, August 2016 rolls around, and the script flips. Tesla throws in an all-stock offer worth a whopping $2.6 billion to acquire SolarCity.
+Monetary Maneuvers
+Here's where things get intriguing. SolarCity's prime hustle was door-to-door sales of leased systems. It was the “get solar now, pay as you use” kind of deal - zero upfront costs with a 20-year contract. It became America's darling solar model, skyrocketing SolarCity as the residential solar chief. But, plot twist: by 2016, this strategy plunged the company into a debt pit over $1.5 billion deep. Tesla's decision to buy? Not exactly a slam dunk.
+Changing Lanes with Tesla
+Tesla Energy reshaped the Solar City narrative. Their mantra? "Deliver the US's cheapest solar." As of 2021, their rate stood at $2 per watt (pre-tax credits). They achieved this by ditching door-to-door sales, sidelining ads, and cutting down on the lease financing. But  some customers weren't thrilled about slower responses and longer admin waits.
+Consequences?
+After Tesla's takeover, the solar installation numbers saw a dip. Q2 2019 hit a low of 29 megawatts. For context, pre-Tesla in Q4 2015, SolarCity was doing 253 megawatts. Compare that to Sunrun's hefty 2,013 megawatts. Analysts whispered that SolarCity was a cash drain for Tesla in 2019.
+But hey, things are looking up! The 2022 playbook shows solar systems with a power of 348 MW (a tad 1% bump from 2021) and a whopping 6.54 GWh in battery storage (62% up from 2021). Revenue shot up 40% to $3.91 billion.
+Tesla’s Secret Sauce
+Tesla Energy's business revamp focussed on high-margin projects, often paired with Tesla Powerwalls. The US hasn’t fully embraced the solar+battery combo (unlike Europe), but Tesla’s paving the way.
+Unexpected tech insight
+Tesla Energy doesn’t craft its solar panels. As of summer 2023, they were flashing Tesla-branded panels made by Qcells.
+In sum, the residential solar market in the U.S. is vibrant, dynamic, and rapidly evolving. This exploration has offered a glimpse into the market's current market leaders:
+Sunrun, with its rapid expansion and direct sales approach, continues to cast a long shadow across the industry.
+SunPower’s journey from Stanford's labs to commercial grandeur and its shift towards consumer-focused solutions have placed it firmly in the industry's limelight.
+Tesla Energy, riding on the allure of the Tesla brand and its visionary leader Elon Musk, tells a tale of dramatic twists, turns, and reinventions.
+These narratives only hint at the depth and complexity of the solar revolution. The future promises further revelations, as newer players, technologies, and business models emerge.
+Next time we will look at 3 of these challengers. Time to reinvent.
+Skander
+PS: If this guide gave you a bit more clarity on Residential Solar, consider sharing it with friends, family, or even those you've just met.
+Share

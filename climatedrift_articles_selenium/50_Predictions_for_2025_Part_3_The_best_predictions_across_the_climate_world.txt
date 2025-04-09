@@ -1,0 +1,299 @@
+Title: 50 Predictions for 2025: Part 3: The best predictions across the climate world
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/50-predictions-for-2025-part-3-the
+==============================
+
+Welcome to Climate Drift - the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there 👋
+Skander here.
+Welcome to the last part of our predictions for 2025. We’ve already heard from
+our community
+, and we’ve taken a deep dive into our off-the-record
+sector-specific forecasts
+, including what’s in and what’s out.
+Now, it’s time for a final roundup: what is the rest of the climate world predicting for the year ahead?
+Each forecast is a snapshot of how leaders in energy, venture capital, policy, and tech envision the coming year. We’ve sorted them into key sectors, so you can jump to whatever you focus on: power grids, carbon markets, or circular consumer habits.
+I also added a short take on each, to keep it spicy and add context.
+🌊 Let’s dive in
+1. Power & Renewables
+Ed Porter
+Who
+: Commercial Director (Energy Storage & Flexibility), ex-EDF /
+LinkedIn
+Prediction
+:
+“2025 will see record volumes of storage projects take Final Investment Decision (FID). Storage has passed a tipping point with 2024's cost reductions and performance improvements. Once you’ve reached this point, you don’t need government schemes or novel markets—storage works and often outcompetes gas on flexibility. It’s now a question of scale.”
+“I also expect the number of negative-priced hours to grow. We’re adding renewable capacity faster than demand rises. Domestic solar installs, meanwhile, will surge with government support—consumers will see the benefit for 25 years, and it only takes a day to install.”
+Our take
+: Big bets on batteries and the unstoppable force of renewables are following the story we have seen in the data for the last years. If negative prices become more frequent, markets will need to adapt so that flexibility is properly rewarded.
+RMI (Rocky Mountain Institute)
+Who
+: Leading clean energy nonprofit /
+Link
+Prediction
+: (summarized from “What to Watch for in 2025”):
+“By 2025, watch for major jumps in global solar and wind deployment, and a steep drop in battery costs. We also anticipate a broader push to electrify everything—from industrial processes to transport—creating huge new demand for green power. Policy frameworks are aligning, and private investors are flocking to climate solutions at record levels.”
+Our take
+: RMI sees an all-fronts acceleration: renewables, electrification, and surging private capital. It’s an optimistic vision, but depends strongly on a lot of parts playing well together.
+Monica Varman (G2 Venture Partners)
+Who
+: Partner, G2 Venture Partners /
+LinkedIn
+Prediction
+:
+“Major data center operators are creating transformative commercial opportunities for frontier climate technologies like nuclear fusion. The sheer demand for reliable, clean baseload is driving new conversations—and potential off-take agreements—that would have been unthinkable a few years ago.”
+Our take
+: In our 2024 Climate Recap, I took a deep dive into data center decarbonization. Based on today’s buildout pace, I still expect natural gas to lead in the short term. That said, the Overton window has undoubtedly shifted—investors are increasingly looking toward fusion and other advanced alternatives.
+Climate Recap 2024
+Skander Garroum
+·
+December 17, 2024
+Read full story
+Dan Murtaugh (Bloomberg Asia Energy)
+Who
+: Energy Reporter, Bloomberg News /
+LinkedIn
+Prediction
+(paraphrased from coverage on Asia’s energy markets):
+“China’s electric vehicle boom is accelerating the country’s shift away from oil faster than expected. Some of the nation’s largest oil companies now anticipate a peak in domestic oil demand around 2025, given how rapidly EVs are eating into traditional auto sales.”
+Our take
+: When China points to a near-term peak in oil demand, it’s a huge wake-up call for global energy markets. By 2025, if EV uptake hits the forecasted 60%-plus share in urban areas, the ripple effects on oil majors (and OPEC strategies) could be seismic.
+→ China’s year of the Dragon will continue into the Year of the Snake
+2. Venture Capital & Finance
+Brendan Wallace
+Who
+: Co-Founder & Managing Partner, Fifth Wall /
+LinkedIn
+Prediction
+:
+“1️⃣ The IPO market will reopen in 2025—great news for climate tech unicorns itching to go public.
+2️⃣ We’ll see a massive extinction event in VC: many funds formed in the past decade won’t survive.
+3️⃣ Paradoxically, capital will return to VC, but with a flight to quality.
+4️⃣ Confusion around ESG will intensify, but the opportunity in climate and energy transition remains huge.
+5️⃣ Real estate asset classes will be reshuffled. Data centers and cold storage are overtaking office and retail.”
+Our take
+: Wallace anticipates VC shakeouts alongside fresh inflows:
+basically survival of the fittest.
+For climate tech startups planning IPOs in 2025, this could be perfect timing. But only the best-managed funds (and companies) will thrive amid the confusion &
+funding Ice Age
+.
+Jessica Burley
+Who
+: Investor at Planet A /
+LinkedIn
+Prediction
+🔥 Near-Term Price Parity
+I’ve said it before and will say it again - with shifting global political sentiment and the concerning likelihood of falling LNG prices, I’m keen to find companies building tech that achieves strict price parity—or better—in the near term.
+🚀 Software Differentiation
+In the software space, I’ll be looking for businesses that deliver true differentiation—not just incremental feature tweaks, but bold, innovative products paired with sharp GtM strategies.
+🌱 Founders, Founders, Founders
+If I have learnt anything over the past years in VC, it’s that ultimately, it always comes back to the people. I’ll be placing even more focus on the teams behind the ideas. What seems to separate the best is the vision and resilience of the people leading them.
+Our take
+: Jessica’s focus on near-term economics resonates strongly in climate tech: nobody wants to invest in solutions that will take years to develop and even longer to deploy. This is exactly where our new series on the evolved capital stack and financing by the ever great Mairi Robertson comes in:
+How has the climate tech capital stack evolved?
+Mairi Robertson
+·
+Jan 29
+Read full story
+World Fund
+Who
+: European climate-focused venture fund /
+LinkedIn
+Prediction
+(summarized):
+“We expect Europe’s climate tech ecosystem to see record funding rounds in industrial decarbonization, deeptech carbon solutions, and energy efficiency. EU policy instruments—like RePowerEU—are now in place to turbocharge new climate innovations.”
+Our take
+: If the EU’s policy environment remains stable (especially compared to the rest of the world), Europe could maintain its lead in some areas. My hope as a European is that in 2025 we might see some global success stories exit or IPO from our little continent.
+Max Bray
+Who
+: Climate Investor & founder /
+LinkedIn
+Prediction
+📉 Europe is dead. Climate tech is dead. Venture is dead.
+Or...
+📈 Give me wind panels (
+Katrick Technologies Ltd
+, Glasgow), gravity energy storage (
+Gravitricity Ltd
+, Edinburgh), solar heat (
+Naked Energy Ltd
+, Crawley), solar-powered e-fuels co-located with industry (
+Rivan Industries
+, London), solar-powered desalination (
+Desolenator
+, Masstricht), robotic house-building (
+Automated Architecture (AUAR)
+, London), ocean-based carbon capture (
+Blue Carbon
+, Brisbane), franchised precision manufacturing (
+Isembard
+, London), AI-powered process control for steel-making (
+Foresight Data Machines
+, London) and more solar panels than you could even think of.
+Our take
+: Strong agree on the narrative shift, away from Climate tech is dead bla to a focus on solutions. The real question is how fast these technologies can scale across the continent (and beyond).
+3. Carbon Management & Industrial Decarbonization
+Julio Friedmann (“Carbon Wrangler”)
+Who
+: Chief Scientist at Carbon Direct /
+Substack
+Prediction
+(summarized):
+“CCUS and direct air capture are no longer fringe experiments. By 2025, we’ll likely see full-scale carbon management hubs emerge, leveraging policy and private capital. Expect global carbon pricing discussions to heat up, too—it’s an essential piece if we want negative emissions at scale.”
+Our take
+: If Julio excited, it’s a sign 2025 might deliver real traction for carbon capture, especially with the U.S. 45Q tax credit expansions on the horizon. The big question is cost and community acceptance near the proposed hubs.
+Yair Reem (Extantia)
+Who
+: Early-stage climate investor /
+LinkedIn
+Prediction
+1️⃣ Rolling out green discount technologies: There are many green technologies that are not dependent on regulation and can already be deployed at a green discount. These include heat pumps, behind-the-meter storage, etc. Recognising the resilience of these tailwinds, we recently invested in
+Vamo
+, which is accelerating the market adoption of heat pumps.
+2️⃣ Disrupting the cost curve: At the other end of the abatement curve, we continue to invest in innovations that do have a premium for now but they turn green premiums into green discounts. Examples include automation, robotics, and geological hydrogen. Another topic is
+hashtag#DirectAirCapture
+(in the portfolio:
+RepAir Carbon Capture
+,
+Phlair
+). While it’s a long term 5-10 year development - it is within the venture scope, demand is growing with better off-takes, cost curves continue to fall, and we know we will need DAC for reaching
+hashtag#netzero
+.
+3️⃣ Enabling the green transition: Finally, many green transition technologies won't succeed in isolation. We're interested in helping to build that support layer. This could include software plays that speed up the adoption of technologies, help markets work (check
+BeZero Carbon
+carbon ratings), or support the effective integration of distributed energy resources into the grid.
+Our take
+: YR’s strategy shows that the strongest climate solutions don’t need policy windfalls to scale (cue
+Climate Tech is dead, long live [insert your niche here]
+): they’re already cheaper (or close enough to be competitive) and riding the tide of market demand. But the real intrigue lies in backing frontier tech with a current green premium, aiming to flip it into a green discount within five years. Regulators will play catch up.
+4. Circular Economy & Consumer Behavior
+Giordana Flor
+Who
+: Corporate Sustainability Manager at GM /
+LinkedIn
+Prediction
+“2025 will be about scaling what works - from EV adoption insights to circular economy initiatives - while continuing to bridge the gap between technical solutions and human behavior change.”
+Our take
+: Tech is here, but people need to adopt it. Flor’s right: so much hype focuses on the shiny product, but consumer buy-in often lags. 2025 could be the year we see brand giants pushing circular lines, think “Refurbished by X” or “100% Recycled Y.”
+Written from An refurbished Mac by Apple.
+5. Policy & Regulation
+David Carlin
+Who
+: Chair, Climate Risk Task Force at UNEP FI /
+LinkedIn
+Quote
+:
+🌍 2025: A make-or-break year for COP and climate commitments – with critical updates to national NDCs expected.
+💡 Trump’s return and renewables – why the transition is unstoppable, even in the U.S.
+💰 Carbon market reforms – their potential to boost climate finance, but only if credibility is maintained.
+📈 The year of implementation for companies – tackling regulatory requirements and transition plans head-on.
+Our take
+: If regulators clamp down on greenwashing and demand rigorous disclosures, 2025 might be the year “Climate talk” turns into “climate action.” But if the first month of this year is any sign we will be drowning in noise before we can see the signals emerge.
+6. Batteries!
+Alessandro Blasi (IEA)
+Who
+: Special Advisor, International Energy Agency /
+LinkedIn
+Predictions
+The trend is global: From US to
+hashtag#China
+to Europe and other parts of the world, the "mantra" is to deploy, deploy and deploy.
+The shift is remarkable and can be a game changer for the power systems of the future and beyond.
+Because in the end, batteries are the only option having the possibility to contribute transforming simultaneously the energy system across its most important sectors: applications are in the power sector, but in the transportation domain too.
+All good then?
+As any “recent” sector, also batteries have some challenges to address:
+A key concerns is diversification, because while battery manufacturing capacity has more than tripled in the last three years, it remains too concentrated in only a few countries.
+Same issue applies to the extraction and processing of the critical minerals on which battery industry relies.
+Yet, the “certainty” that an energy storage revolution is under way is attracting investment and research also in new chemistries for batteries while in parallel a very welcome and needed recycling industry is emerging.
+2025 might definitely mark the full start of Battery ERA!
+Our take
+: Everyone’s chanting the global “deploy, deploy, deploy” mantra for batteries, across power grids, EVs, and beyond, like it’s the unstoppable force of this decade. And honestly? They’re not wrong.
+But here’s the catch:
+manufacturing is concentrated
+, and the entire battery supply chain depends on a handful of countries digging up and refining critical minerals.
+Northvolt has taught us that onshoring is harder than it looks, no matter how much resources you throw at it.
+So if the supply bottleneck snaps, or if geopolitical tensions flare, we could see the “battery boom” turn into a “battery bottleneck.” Still, with recycling ramping up and new chemistries on the horizon, 2025 could mark the real Battery ERA, assuming we can keep those supply chains from choking in the scramble.
+Intercalation Station
+Who
+: Battery Newsletter /
+Substack
+Predictions
+:
+We’ve got content ideas of what’s going to be big this year. Some of our key themes to look out for are:
+👨‍🏭🏭
+Manufacturing
+🏭👨‍🏭
+Consolidations!
+As more companies consolidate within and outside of China, what’s being pulled out of the rubbish and which bits are left to sink? What does this mean for the supply chain, oversupply, jobs and bottlenecks?
+Can Europe and the US compete on manufacturing Gen3 (current Li ion) chemistries?
+If yes, why and how do they compete with Asia on cost? If not, what part of the value chain should they be focusing on? Likely the ongoing saga at Northvolt will play heavily here.
+Will Trump kneecap US battery manufacturing?
+How much power does Musk actually have over this and how will the focus change for subsidies and incentives if they’re retained?
+💰🗺️
+Funding and Geopolitics
+🗺️💰
+What happens if the $7,500 EV tax credit gets eliminated in 2025?
+A look into economic and environmental implications and who gets affected most.
+What could a Chinese technology export ban look like?
+Is the battery industry being reverse-Huawei’d? Will the west trade chips for batts?
+Venture financing is often not the right fit for scaling battery technologies.
+What would an ideal kind of financing model look like?
+🚁🔋
+Niche Applications
+🔋🚁
+Drone batteries.
+Why are they in hot demand, and what specs do they need?
+Battery-backed appliances.
+Induction stoves are electrifying, whats next in our homes?
+Deep diving into deep sea mining.
+Is it practical? What are the environmental risks and viability? Is this the future or is it just smoke and mirrors?
+Batteries for data centers.
+Many technologies have been adopted by data centers, from lead acid, nickel-zinc, sodium-ion, to lithium-ion, what makes for a good data center power back-up system?
+DIY battery community.
+We’re seeing more social-media content on DIY projects for kWh-scale home batteries, who is taking on these projects, and are they saving money?
+Batteries in the Body.
+Batteries are a key part of healthcare, what makes for a good implant? Also, why do kids keep swallowing coin cells?
+Our take
+: Government policy isn’t sexy, but it’s the glue that holds big climate investments together. If we see updated frameworks—like standardized offtake agreements for hydrogen or e-fuels—2025 could jump-start the next wave of decarbonization in heavy sectors.
+7. Global & Cross-Sector Outlook
+Vojtech Vosecky
+Who
+: Founder The Circular Economists /
+LinkedIn
+Predictions
+5 predictions for circular economy in 2025:
+1. Sharing economy will boom
+–> the B2B market is much more ready than B2C
+2. Regulation will push the bottom line
+-> despite the US elections, we won't see a total stop
+as long as you...
+3. Change your pitch deck to get a buy-in
+-> communicate clearly your ROI, costs, and savings
+4. Recommerce & takebacks will grow
+-> big brands will try to close their loops on their own
+5) AI will enter circularity
+-> Crazy AI solutions to save resources will emerge
+Our take
+:
+Doubling down on our
+sector prediction for Circular Economy
+: 2025 will be the year “circular” goes mainstream, and by that I mean as revenue driving projects in B2B. So make sure your pitch deck screams “ROI”.
+On the AI take: With software development becoming more accessible, non-technical entrepreneurs are now better equipped to tackle local challenges with specialized solutions, and individual developers can more easily build and ship things where we needed full teams before. I’ve already seen several fresh ideas emerge from these new workflows.
+Wrapping Up
+What surprised me this time around is how optimistic a lot of investors and founders are seeing 2025, despite the headwinds, despite the noise.
+If half of predictions come true, we’ll see:
+Record-breaking renewables and energy storage
+A
+restructured VC landscape
+with a flight to quality
+Carbon markets
+revitalizing (or getting more scrutiny)
+Heavy industry quietly going green
+Consumer shifts toward
+circular models
+and carbon transparency
+Policy frameworks kicking in at city, national, and global levels
+Of course, predictions aren’t guarantees. There’s always the possibility of policy U-turns, supply chain hiccups, or hype outpacing reality. But overall, the momentum is undeniable and 2025 appears set to move us closer to a decarbonized future at scale.
+Which predictions do you think will come true? Which might fall short?

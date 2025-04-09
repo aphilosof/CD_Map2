@@ -1,0 +1,50 @@
+Title: Timing is Everything: The working capital crunch in climate tech
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/timing-is-everything-the-working
+==============================
+
+Mairi Robertson
+is Director of Asset Financing at Ezra Climate, where she develops innovative financing structures for energy transition investors and companies. Previously she was part of McKinsey's Climate Finance Practice, and is now (another) Australian based in New York.
+Timing is Everything: The working capital crunch in climate tech
+Photo by
+Ricardo Gomez Angel
+on
+Unsplash
+Imagine going bankrupt because your customers want to buy too much of your product. This happens more often than you’d think in Climate Tech.
+What follows is a composite story of several Climate Tech companies I’ve worked with. Names and numbers are illustrative, but the problem is very real. It’s about how a heat pump installation company almost ran out of money while growing too fast. Not because their product was bad, or because customers weren’t paying, but because of something far more sinister: The cash conversion cycle.
+Act I: “To the Moon!” (Or, “What could go wrong!”)
+Harry’s Heat Pumps had cracked the residential heat pump market. They’d built clever software that made it much cheaper to quote and install heat pumps. No commissioned salespeople, just a smooth online process and a network of vetted installers. The whole thing led to a quick, easy sales process for all involved.
+The company’s unit economics were good — each installation cost them around $30,000, and generated $35,000 in revenue. Customers loved it. Investors loved it. Growth was explosive.
+There was just one tiny problem: Timing.
+Act II: “We’re making money, but we’re also kinda losing money?”
+Harry’s Heat Pumps has two kinds of customers:
+Cash customers,
+who finance the installation from their own savings. They pay half upfront, and half at completion. Not terrible, but still leaving a capital gap for Harry’s Heat Pumps.
+Financed customers,
+who take out a loan from third-party lenders. They don’t pay anything until the system is fully installed and approved. That process takes up to 90 days.
+Here’s what happens when either of those customers says “yes” to a heat pump:
+See the problem? There’s a working capital crunch: For every new customer, Harry’s Heat Pumps was laying out around $30,000 in cash and waiting up to three months to get paid. With hundreds of installations in their pipeline, that meant millions in working capital need.
+You might think this would be an easy problem to solve. After all, these are real contracts with credit-worthy customers. But traditional working capital solutions don’t quite fit:
+Accounts receivable financing?
+The problem is timing. Most AR lenders want to see an invoice, and Harry’s Heat Pumps can’t invoice until the installation is complete. That means most AR financing only helps with the final 30 days of a 90-day cash gap.
+Construction loans?
+Too small and numerous. These are designed for multi-million dollar projects, not hundreds of $30,000 installations. The legal costs alone would eat up the margins.
+Venture debt?
+One lender offered Harry’s Heat Pumps 20% interest plus warrants. Using that kind of expensive money to finance 90-day receivables is what finance people politely call ‘a really bad idea.’
+Act III: Get creative or go home
+The solution Harry’s Heat Pumps eventually found was elegant in its simplicity: They split their financing needs to match their actual business cycle.
+A new hybrid facility would:
+Advance 95% against customer deposits and final payments (normal accounts receivable)
+Advance 75% against “contracted but not yet billed” value once equipment was ordered
+Include a small reserve for cost overruns and timing delays
+Lenders liked this because they could dial up or down risk through advance rates. Harry’s Heat Pumps liked it because they could finally match their financing to their actual installation cycle.
+Epilogue: The Working Capital Revolution will be Televised
+This isn’t just a heat pump problem. Looking across Climate Tech, we’re seeing similar working capital challenges everywhere. Take EV charging companies — they have to pay for charging stations upfront but wait months for tax credits. Likewise, smart building companies lay out cash for hardware while utility rebates crawl through processing. It’s pervasive.
+Some creative solutions are starting to emerge. I recently saw a deal where a battery supplier offered 120-day payment terms to their best customers, effectively becoming a working capital provider. There are also funds that have started specializing in advance funding of utility and tax incentives (like
+Turtle Hill Capital
+).
+The smartest players are realizing that solving working capital isn’t just a financing problem — it’s a competitive advantage. One EV charging company now advertises to installers that they “handle all the upfront costs.” A major equipment supplier recently started offering “deploy now, pay later” terms to qualified customers. Funds are winning deals by knowing how to underwrite utility rebates.
+It’s still nascent, though, and I think in the coming years the financiers and companies that get their heads around working capital will have an edge.
+The irony? Perhaps the next breakthrough in Climate Tech deployment might not come from better technology or policy, but from something as mundane as better working capital solutions.
+Questions? Comments? Competing treatises on working capital and cash conversion cycles?
+Drop me a line.

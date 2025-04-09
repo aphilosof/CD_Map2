@@ -1,0 +1,35 @@
+Title: Packaging: an opportunity not to be wasted
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/packaging-an-opportunity-not-to-be
+==============================
+
+Laura Miller
+is a strategy and operations leader with 10 years of experience (Shopify and PwC Consulting), partnering with senior management and cross-functional teams to transform operations & go-to-market strategies into a key driver of revenue growth, cost reduction, and organizational alignment. She has an MBA from INSEAD, and she strongly believes in the opportunity to improve the sustainability of legacy sectors through digital transformation.
+She currently leads the Business Planning & GTM Strategy function for Shopify EMEA, after having first developed and scaled Shopify EMEA’s commercial processes and cross-functional operating model. As a Manager at PwC Consulting, she advised multi-billion dollar businesses in the Retail & Consumer and Transportation & Logistics sectors on digital supply chain transformation.
+Packaging: an opportunity not to be wasted
+The European Union generates 228K tonnes of packaging waste every day - the equivalent weight of 23 Eiffel Towers! The virgin material demand for packaging is significant: the EU packaging sector (annual turnover of €370B) currently consumes 40% of plastics and 50% of paper produced in the EU).
+However, the majority of value from packaging is lost when the waste is burned, sent to landfill, downcycled into other materials, or ends up in the environment.
+This article will present a new framework to understand the packaging value chain; its current constraints; new capabilities required to drive value; and real life examples of partnerships between legacy players and climate tech companies to improve value capture.
+Companies who establish a circular model for their materials can gain a competitive advantage as they can secure their material supply, customize recycled materials to their needs, and drive customer engagement.
+The packaging value chain can unlock significant value if new capabilities are established to address constraints at three main stages of the value chain: packaging design; packaging waste collection & sortation; and recycling & material resale.
+Building and scaling these capabilities will require close collaboration (and funding) among players across the value chain, and in this spirit, this article will provide insights to multiple stakeholder groups.
+Brands:
+understand the root cause of recycling challenges and opportunities to decrease their Extended Producer Responsibility (EPR) costs and secure material supply for their future packaging
+Climate investors:
+discover ideas about how to help their portfolio companies grow by driving partnerships and data exchange across the value chain
+Waste management and recycling companies
+: a framework to identify opportunities to grow revenue and decrease operational costs through these new capabilities
+Climate tech companies
+: a holistic view of the packaging value chain to identify opportunities for partnerships and ideas about how to quantify the financial benefits of their solutions to customers
+Packaging Design
+About 80% of packaging's environmental impact is determined during design, creating both an opportunity and challenge for brands. While companies can significantly reduce their environmental footprint through design choices, there is a ‘Catch 22’: recycled materials remain costly until supply increases, and supply won't grow until more companies design recyclable packaging. Designers can address this by prioritizing recyclability, material longevity, and resale value alongside traditional metrics like cost and durability, while also reducing material usage.
+Stage 2: Packaging Collection & Sortation
+Waste collectors, waste facilitators, and Material Recovery Facilities (MRFs) play a crucial role in collecting packaging waste and sorting the packaging material into specific waste streams (e.g. PET, HDPE, Paper, Aluminum), which can then be sold to recycling facilities. Increasing the volume of packaging waste that is both collected and sorted is instrumental to increasing the volume of recycled materials available for packaging.
+Packaging waste collection varies by jurisdiction, and is typically divided into single or dual stream collection. The challenge of single stream collection is that all packaging is placed in the same bin, increasing the chances of material contamination, as well as the work (and cost) required to identify and sort the materials accurately.
+The impact of the first stage (packaging design) has a direct impact on the quality of outputs and recovery rates based on: a) materials used; b) ease of being able to separate different materials used in a piece of packaging. For plastics, PET (polyethylene terephthalate) and HDPE (high-density polyethylene), #1 and #2 within the chasing arrows symbol, are most widely recycled.
+Stage 3: Recycling & Material Resale
+As noted earlier, packaging designers should seek to use packaging materials that are commercially attractive to recycle. Similar to other markets in the economy, there needs to be customer demand before MRFs and recyclers will invest in producing different recycled materials. Historically, the sales process between MRFs and recycling companies has happened ‘offline’, presenting an opportunity to digitize the space and drive partnerships between MRFs, recycling facilities, and brands on an international scale.
+As evidenced above, there is an incredible opportunity ahead to transform the packaging value chain through partnerships among brands, legacy players in the recycling and waste management industry, climate tech companies with the pioneering technologies to support new capabilities, and funding from investors to enable these companies to scale.
+Brands who prioritize increasing the circularity rate of materials in their packaging value chain will benefit financially in the long term and will establish a strategic advantage as their material supply will be secured. The environment will benefit too as fewer virgin materials will be used to create new packaging materials.
+Interested in learning more or chatting about opportunities in the packaging value chain & circular economy?
+Connect with Laura!

@@ -1,0 +1,96 @@
+Title: Can the rise of economic nationalism be good for the planet?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/can-the-rise-of-economic-nationalism
+==============================
+
+Welcome to
+Climate Drift
+– where we explain climate solutions and empower you to take action in the race to net zero.
+Not subscribed yet?
+Subscribe
+Hey there 👋
+Skander here.
+One of the biggest questions as last year came to a close was: “
+Is Climate Tech is dead?
+” As global elections hand power to climate skeptics and tariffs heat up, the question isn’t whether climate companies can survive—it’s how they can adapt.
+Today,
+Johann
+, a climate founder at Pentatonic, and
+Katie
+, an climate investor at SOSV, tackle a core question in our
+Climate Recap
+:
+What does the rise of economic nationalism mean for climate companies?
+While the climate space often fixates on carbon metrics and mitigation strategies, this shift is about something bigger—rebuilding industrial systems from the ground up for
+better economics and environmental resilience
+.
+We’ll dive into how circular supply chains are shedding the buzzwords, explore the game-changing role of AI and automation in material recovery, and spotlight companies turning resource efficiency into a competitive edge. Ironically, economic nationalism might just be the unexpected catalyst driving this revolution.
+🌊 Let’s dive in!
+Join the Climate Drift Accelerator and turn your passion into action.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+But first, who are Katie & Johann?
+Katie Hoffman
+is a General Partner at
+SOSV
+, a global venture capital firm advancing deep technology innovations that promote human and planetary health.
+Johann Boedecker
+is the CEO and Founder of
+Pentatonic
+. Johann is also a published author, speaker and advisor on the circular economy.
+Can the rise of economic nationalism be good for the planet?
+Executive Summary
+While most businesses remain fixated on carbon metrics and ESG reports, a new breed of technologist is quietly reshaping industrial competition. With next generation industrial inputs and circular systems powered by AI and automation, they are building what seemed impossible: better unit economics, supply chain resilience, and environmental benefits all at once.
+Viewed in the broader context of recent political trends and threats to the global supply chain - with tariffs on the rise and industries becoming localised - the winners won't be those trying to preserve and retrofit the old models with ‘quick fix’ and mitigation solutions (think reduction), but those looking towards new AI enabled ecosystems like circular supply chains.
+So however you view it politically, it can be seen by those willing to look that hidden within this rising tide of economic nationalism lies an opportunity to drive vital environmental goals as an intrinsic part of its value generation, with an unprecedented $4.5 trillion carrot for investors and innovators willing and able to capitalize.
+This isn't about saving the planet through moral suasion or government incentives, it’s about building better systems that create and capture value effectively and for the long term. It’s the intersection of immediate financial upside for companies, mid term strategic benefit to national interest and long term environmental gains.
+The circular revolution is coming, and this is your guide to taking advantage of it.
+The Fourth Wave
+In the evolving narrative of environmental capitalism, we've witnessed three distinct eras, each marked by its own particular shortcomings. Pre-cleantech environmentalism wallowed in moral imperatives while ignoring market realities. The cleantech bubble of the 2000s crashed on the shoals of unit economics and commodity competition. Climate tech, our current iteration, risks repeating these mistakes through its myopic focus on carbon metrics and perpetual subsidy dependence.
+The impending fourth wave of environmentalism (yet to be named) leverages our newfound computational capabilities to deliver against all metrics. It requires fundamental shifts in perception from both sides of the capitalist/environmentalist dynamic and the recognition that the economy is not subservient to environmental goals, but rather that proper economic design inherently creates environmental benefits and increased revenue generation.
+The circular economy represents this fourth wave's central innovation. Not because it's "sustainable" in the contemporary virtue-signaling sense, but because it's simply better economics. Previous attempts at environmental capitalism failed to reach the necessary scale because they tried to layer green principles onto fundamentally linear systems. Progress at a global scale, and at the timescale that is necessary, can only be driven by pulling the most powerful levers at hand - those of capitalism. Though ideologically uncomfortable for some, this is something that cannot be ignored.
+So if we cannot divert the demand for growth, instead we must decouple growth from the use of virgin materials and the perverse categorisation of essential materials (resources) as ‘waste’.
+Whether powered by tariffs, regulation, or the physical impact of climate change and social unrest disrupting global supply chains, circularity holds the promise of both the resource efficiency and greater economic resilience that can tackle these issues with acuity and long-term stability.
+Fourth Wave Opportunities an
+AI-Enabled Revolution
+It is somewhat ironic that the solution to our environmental challenges might not come from environmental technology, but from better industrial organization. As many climate tech companies optimize for carbon removal, the real revolution is happening in the mundane world of supply chain management, material recovery, and system optimization.
+What makes this moment different isn't some newfound environmental consciousness, but rather our technological capability to implement circular systems at scale. AI provides the computational backbone to manage complexity that was previously intractable. It enables us to track, optimize and coordinate material flows with the same precision that we manage digital information.
+While next gen materials will of course have an important role to play, let’s not forget that the newest polymer we currently recycle (downcycle) at scale is polypropylene, invented in the 1950s. We are working against a backdrop of consistent failure to incorporate next gen materials into the economy. AI gives us better material discovery and the ability to deploy a more complex and fit for purpose material palette, in a circular manner. We are talking about making best use of the materials we have and commonly utilise now, while being able to incorporate new technologies seamlessly the moment they come online (principles at the heart of Pentatonic’s circular models).
+The limitations of superficial 'tech for tech's sake' approaches to circularity are instructive. Consider Rubicon, once heralded as a "tech unicorn" transforming waste management. Despite raising hundreds of millions in capital, it demonstrated the fundamental flaw in layering digital interfaces atop broken systems: why build sophisticated software when everything still ends up in undifferentiated bins? The company's marketplace model optimized the logistics of moving waste around but lacked the intelligence to actually extract value from these material flows. Without integration of computer vision, advanced sorting, and automated recovery systems, no amount of route optimization can transform garbage back into high-quality raw materials.
+This exemplifies exactly what not to do in Environmentalism 4.0: creating digital veneers that make linear waste systems marginally more efficient rather than building the intelligent infrastructure needed to return materials to their highest value state. The next wave of winners won't just connect trash haulers—they'll deploy AI-enabled hardware systems that can identify, sort, and process materials with precision, creating closed loops that preserve material value instead of destroying it.
+Market Realities
+The coming political realignment will create fascinating market distortions, but not in the ways most predict. While some see the next four years as a retreat from environmental progress, the reality is more nuanced. Even as policy attempts to resurrect 20th-century industrial models, market forces are driving a parallel revolution in circular systems.
+Our linear systems were built leaning into comparative advantage by means of globalization. But as production costs increasingly correlate with energy cost vs labor cost and as we move to a post peak globalization state, the once attractive marginal savings are no longer sufficient justification for their acute fragility to outside disruptors.
+Those guided by an environmental purpose have an opportunity to play smart amidst these dynamic tides. There is an opportunity to shift from a model focused on prevention and protection to one organized around retention, maximization and ethical stewardship. In doing so we will sidestep the impossible task of trying to force resistant markets and investors to realign their values, and instead all we require is for them to do what they do best; follow the money.
+A Hardware Renaissance
+Unlike the software-dominated early climate tech narrative, today's investments target the physical backbone of circular systems with hard tech and infrastructure at the fore: advanced recycling facilities, biomanufacturing plants, and automated material recovery systems. This hardware-first approach isn't just about environmental benefits—it's about building resilient supply chains and securing strategic resources.
+The evidence is in the capital flows: despite macroeconomic headwinds, climate tech hardware companies attracted over $70 billion between H2 2021 and H1 2022. This isn't speculative capital chasing carbon credits—it's patient money betting on fundamental industrial reorganization.
+The market is recognizing that circular systems offer competitive advantages that transcend political cycles and ideologies. A battery recycler that can efficiently recover lithium and cobalt isn't just reducing waste—it's securing critical materials and stabilizing input costs for manufacturers. An agtech startup using precision fermentation to transform agricultural waste isn't merely cutting emissions—it's creating supply chain independence and new value streams.
+Take JUMP Bikes, which revolutionized urban mobility with its dockless e-bike-sharing system, as an example of circular principles driving market success. Acquired by Uber for $200 million in 2018, JUMP reduced emissions and fostered healthier urban environments through durable design and resource efficiency, proving that better economics—not subsidies—drive environmental outcomes (TechCrunch).
+While JUMP advanced emissions reduction in transportation, companies like SepPure Technologies and Novoloop represent the next frontier of resource efficiency. SepPure revolutionizes chemical processing with energy-efficient nanofiltration, drastically cutting resource use in industrial processes. Similarly, Novoloop transforms plastic waste into high-performance materials, addressing resource scarcity and pollution while creating valuable new products. In textiles, Unspun exemplifies this shift with its zero-waste, modular manufacturing powered by 3D weaving technology, decoupling growth from virgin material use and creating competitive advantages through circularity.
+These innovations go beyond emissions reduction, delivering full lifecycle optimization through circular approaches that stand as examples of resiliency and place-based development amidst ever changing geopolitical conditions.
+Of course, innovation needs investment. And this next wave will be driven by dedicated investors taking a hands-on approach to scaling the hardware needed for human and planetary health. One example of this is HAX, a branch of global venture capital fund SOSV, leading the charge with its lab in Newark, New Jersey—a city symbolic of America’s industrial decline. This facility serves as more than a lab; it is a hub for urban revitalization, equipping startups like SepPure and Novoloop with the tools and infrastructure to prototype and scale solutions for global demands while addressing local challenges.
+These efforts align with a broader global push to reinvest in climate-smart industrial systems and infrastructure. Between 2020 and 2022, global energy transition investment surpassed $1.1 trillion annually, including clean energy, circular economy innovations, and industrial reinvention (BloombergNEF). Public and private climate investments have nearly doubled in the past decade, though achieving climate targets laid out by the IPCC will require these investments to increase sevenfold by 2030 (Climate Policy Initiative).
+Despite political shifts, such momentum reflects the growing mainstream adoption of “climate” as a cross-cutting category, and while the term “climate” may be in the cross hairs of dynamic global politics, the underlying infrastructure required to transition economies to meet the structural shifts underway must logically prioritize resource efficiency and minimizing waste - be it carbon, materials, plastic or water.
+Political Catalysts
+Paradoxically, attempts to preserve linear economic models through protectionist policies will likely accelerate their obsolescence. As global supply chains fragment under nationalist pressures, businesses will be forced to seek resource independence and supply chain resilience. Retaining materials within circulation of end markets and nearshoring manufacturing capabilities to remanufacture is the obvious solution, meaning that the market will route around political interventions like water flowing downhill, finding the path of least resistance toward circularity. Those who read this moment correctly will recognize that resource nationalism, however misguided we may believe the ‘policy package’ to be, creates vast and meaningful opportunities for circular innovation, finally pushing the wider economy towards essential environmental goals as a consequence.
+In the same way that renewables are now outpacing and out-pricing fossil fuels, so recovery, reuse and redistribution will outpace and out-price raw material extraction. With less than 8% of materials currently going back into circulation, the opportunity to capture this value economically through smarter supply chain management and localized infrastructure is unprecedented. Circular’s tipping point is coming, and when it does it will be unstoppable.
+The Circularity Gap Report 2024 indicates that global circularity has declined from 9.1% in 2018 to 7.2% in 2023, meaning only 7.2% of materials are re-entering the economy after use. This decline highlights the increasing reliance on virgin materials and underscores the need for enhanced recycling and resource efficiency to achieve resource resilience and circularity (
+https://www.circularity-gap.world/2024
+)
+So in spite of much negativity, it is reassuring to acknowledge that arguments driving circular business models are coming from both sides of the political divide. Whether it’s Trump’s proposed tariffs, California’s SB 54, aimed at extending producer responsibility for products and packaging, or CBAM, which sits somewhere in the political/environmental midground - all of these factors point towards the same outcome; system shifts that value effective use of resources.
+Winners and Losers
+This is why the big action for 2025 and beyond isn't trapped in carbon removal startups or offset markets—it's in the companies building the infrastructure for resource independence through advanced materials, automated recovery systems, and AI-enabled supply chain optimization.
+The winners won't be those chasing subsidies but those creating fundamental technological advantages in material flows and resource recovery.
+Conclusion
+In this fourth wave of environmental capitalism, the circular economy isn't a moral crusade—it's a superior model for industrial organization. As William Gibson noted, the future is already here, it's just unevenly distributed. The same will be true of the circular economy's emergence: it will appear not where it's most subsidized, but where it's most needed. The next four years don’t have to be a detour from this transition—they can be its catalyst.
+The winners in this space won't be wearing green capes, they'll be the companies that create the operating systems for a new material economy—ones that happen to be environmentally regenerative not because they're trying to be, but because that's what superior system design looks like. They'll win not by appealing to environmental consciousness, but by delivering better unit economics through superior coordination of material flows.
+So can the rise of economic nationalism be good for the planet? Well, yes, it can - if we choose to see it the right way and take a logical rather than an ideological approach, recognizing that driving the change and seeking positive outcomes is more critical than arguing over the reasons behind it.
+To find out more about Pentatonic or SOSV, contact…
+Johann Boedecker
+is the Founder and CEO of Pentatonic, the leading AI enabled platform for takeback, buyback and recycling programs for consumer brands. Johann is also a published author on biosynthetic and recycled materials and circular economy.
+Katie Hoffman
+is a General Partner at
+SOSV
+, a global venture capital firm advancing deep technology innovations that promote human and planetary health.

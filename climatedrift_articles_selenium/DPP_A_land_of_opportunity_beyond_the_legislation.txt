@@ -1,0 +1,208 @@
+Title: DPP: A land of opportunity beyond the legislation
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/dpp-a-land-of-opportunity-beyond
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there!
+Skander here.
+It has been a while. Truth be told, we have been busy.
+A new accelerator cohort
+has started
+, with awesome people, from
+Marketing
+to
+Product
+, from
+Sales
+to
+Oceanography
+and many more.
+For the last few weeks
+we had a blast
+- not only sharing our own perspectives on different climate solutions, but also learning from a host of great speakers in small fireside settings.
+A quick thanks goes out to the ones that joined so far - from
+Daniel
+from Opendoor on how to break into climate, to
+Hege
+from IKEA and
+Johann
+from Pentatonic sharing on how to bring the Circular Economy from concept to our living rooms, to
+Gabriel
+from Elemental Excelerator telling us about his favorite climate solutions currently scaling.
+We have also been working on some great deep dives and challenges
+- over the next weeks we will dive deep into everything from AI & its climate impact (and solutions) to perspectives on CDR & geostorage, batteries and successful Circular campaigns.
+Let’s dive in 🌊
+Today, a topic on every manufacturing company's agenda: The Digital Product Passport. Guiding us through this is Climate Drifter Matt, who will share how companies can turn it into an opportunity, case studies included.
+But why is Matt the perfect person to guide us through it?
+Matt Granger is a Product Design Engineer with 12 years of experience working with brands across consumer electronics, medical devices, automotive, and the cycling industry. For the past 7+ years in the cycling industry, he has navigated complex regulations and standards in these fields.
+For 4 years, Matt led product development at Islabikes, where he focused on integrating insights from their circular economy incubator into the core linear business. He also wrote their first impact report and developed user centred products for marginalised groups - picking up a RedDot design award along the way.
+Currently, Matt leads the e-bike engineering team at the international brand and design agency, KISKA. He is passionate about reducing unnecessary production and exploring how the EU Green Deal can create new opportunities for stronger product connections and diversified revenue streams for brands.
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and early admissions are happening right now.
+Apply Now
+Our author (orange helmet) on a bike, with his kid (black helmet) on a smaller bike.
+For the past 12 years I have been working with brands to introduce new physical products to the market. Aside from the specific product type ISO standards and more broad overarching regulations (like the GPSR, REACH and RoHS), how that product is brought to market has been relatively straightforward with little scrutiny. That was until the introduction of the EU’s Green Deal. The game has now changed! Quite rightfully, brands now have a duty to take care of all aspects associated with bringing a new physical artifact into existence.
+For those that are willing to take the time to understand the scope of the new rules, I believe there is a wealth of opportunity for alternative revenue generation; not just a downpour of data capture mandated by Brussels. These are the brands that will continue to thrive as we transition into the next generation of our economy. Naturally, these are also the brands that I am excited to work with!
+AGENDA:
+What is the Digital Product Passport (DPP)?
+Singing in the Rain: Finding Financial Opportunities in a Deluge of Regulation
+Maximising ROI on CAP-EX
+Building emotional connection with physical products
+Repair, engagement and repeated revenue
+Offboarding, handovers and indirect custom
+The Need for Digitisation
+Summary
+1. WHAT IS THE DIGITAL PRODUCT PASSPORT (DPP)?
+In 2020, the European Commission introduced a suite of new initiatives, the EU Green Deal, aimed at developing the EU market into a modern, efficient and competitive entity achieving carbon neutrality by 2050. This is an extensive package of regulations that essentially redefine the baseline rules of engagement for any products onto the European single market in the future.
+Within this package is the Circular Economy Action Plan (CEAP) and the soon-to-be-published Ecodesign for Sustainable Products Regulation (ESPR). The DPP is a tool used in both of these regulations to make information on the product and its supply chain transparent and easily accessible to all stakeholders within the product’s value chain.
+Fig 1. Key stakeholders and their requirements from the DPP
+In practice, this will consist of products carrying a physically present ‘Data Carrier Identifier’ (QR Code, bar code or NFC tag) that links to an interface displaying all of the information mandated by the regulation.
+The DPP will be deployed into the market via a ratchet mechanism, where ambition/scope is gradually increased over time, with highly negative impact product types affected first. This will start with batteries in 2026 with clothes and consumer electronics to follow shortly after. By 2030, the ambition is for the DPP to 30 different product types with the rollout timeline yet to be published.
+The contents of the product’s DPP vary depending on the product type but the illustration below gives you an example of how this looks for batteries.
+Fig 2. EU DPP Contents List
+The complexity of each attribute varies significantly from simply detailing the rated capacity in Ah through to calculating the entire carbon footprint of the product. It is therefore a significant undertaking for any business that falls within the scope.
+2
+.
+SINGING IN THE RAIN: FINDING FINANCIAL OPPORTUNITIES  IN A DELUGE OF REGULATION
+Up until now, topics surrounding sustainability have been confined to the relatively tightly resourced ESG teams as either a “a nice to have” or a bolt-on to the annual shareholder report within businesses. For those approaching the EU Green Deal with this mentality, the following years are going to feel like a downpour of rules, regulations and laborious data collection.
+But is this an inevitability for every business? Certainly not! Businesses that integrate these new hygiene factors across the organisation in a smart manner, perhaps with tools like Blockchain, will find a bounty of new opportunities to leverage. They will learn to sing in the rain!
+Fig 3. „Singing in the Rain“
+Developing a deep understanding of the rules allows you to also know how to leverage them; often side-stepping the competition. How do we know? This has happened for decades in multiple other industries. It also entirely underpins the practice of competitive sport - including Formula 1.
+Cars like the infamous Brabham BT46B (AKA the “Fan Car” -  named after the fan that sucked the car down onto the track like a vacuum cleaner) came into being by the development team having a detailed understanding of the FIA’s rules & regulations and how to use them for their own competitive advantage.
+Fig 4. Brabham BT46B Formula 1 „Fan Car“
+This knowledge allowed Brabham to side-step Lotus, their competition, and become the only F1 car in history to hold a 100% win record. Unfortunately this only ended up being 1 race before the FIA changed the rules under pressure from the other teams on the grid…but that’s another story.
+Whilst the DPP currently only applies to a limited number of product groups, it is clear that this will not be the case for long. Businesses that don’t keep track of the evolving regulatory landscape will miss this limited window of opportunity to deeply understand and integrate the EU Green Deal’s package of regulations across their teams and the rewards from the competitive side steps that follow.
+3.
+MAXIMISING ROI ON CAP-EX
+The DPP is one approach to helping businesses engage with the circular economy and frameworks like the 9R (+1) framework shown below:
+Fig 5.
+The 9 R‘s (+1) of the Circular Economy
+Of course, from an environmental standpoint, R0 (Refuse) represents a form of utopia where we declutter and consumption goes no further than the products that we really need. But there are also very strong arguments for businesses to want to engage with the circular economy models.
+The reality of bringing new products to market is that it is an expensive, complex and risky process that is often only embarked upon with a strong business case behind it. A business case proposal is usually based on forecast approximations over a product lifecycle (how many years its in production for).
+This traditional model front loads all activity for the business departments in preparing for the launch with the crescendo being the go-to-market launch. From this point on, interest, excitement, engagement and resource allocation from businesses typically dwindle. But why? This is the equivalent of developing a rocket from scratch; testing it; building it, and launching it only to then abandon it once it passes the Karman Line…
+In his book, Endineering, Joe Macleod explains the concept of a ‘Legacy Number’ where the objective is to maximise consumer experience and minimise decay time. In this context, businesses could consider a direct relationship between the legacy number and the amount of revenue left untapped within the physical product. The higher the legacy number, the more economic value that the business has extracted from their initial investment…
+Fig 6. Joe Macloed‘s Legacy Number Principle
+Joe has provided multiple examples of how this theory can be applied across multiple products groups, types and services ranging from baked beans, flights and web cookies. You can find these examples here:
+https://www.andend.co/tools-and-examples/2022/8/30/legacy-number
+.
+With the help of this tool, I will show a number of examples of how the mandated presence of a DPP; the presence of a call to action on the product, and some lateral thinking on how to use that customer interaction point could help businesses to realise these opportunities and leverage the maximum possible number of opportunities for generating revenue.
+4. BUILDING EMOTIONAL CONNECTION WITH PHYSICAL PRODUCTS
+One clear solution towards addressing climate change is to reduce our dependence on the relentless consumption of more and more physical products.
+Fortunately, this tendency is a relatively recent construct. Before the advent of the pursuit of luxury, display and decadence during the 18th Century in Britain (sorry) objects carried much more importance at the individual level. That may seem like a long time ago but considering that early tools existed 2,6 million years ago then it gives you some perspective…
+Of course, I’m not suggesting that we go back to the caves. Instead, we have to rediscover a way of adding value to our physical goods beyond simply the sum of its parts; the manufacturing overheads and a percentage for margin. We need to rediscover the principles of sentimental value, heirlooms and, most importantly, story telling.
+As a species, we’ve largely forgotten this behaviour but all hope is not lost! Indeed, there are some fantastic examples of companies already leveraging this opportunity,
+4.1
+SHAPESHIFTERS
+Freitag is a great example of a company that has upcycled a product that was otherwise considered waste, in this case truck tarps, and built premium products that celebrate the origins and repurposing of the upcycled ingredients:
+Fig 7. Freitag‘s laptop sleeve, production workflow and rucksack promotion image
+These products are important because their purchase is likely driven by a sense of purpose and alignment with the owner's intrinsic belief system and values. This is a strong emotional bond that is likely to be very difficult to break in the face of repeated marketing efforts.
+Freitag even invited ‘Truckspotters’ (AKA engaged members of the public) to help them spot and identify tarps from interesting hauliers for future product lines. This shows the depth of connection that the brand is able to form with the item’s user…
+Fig 8. Freitag‘s request for Truck Spotters & Tarp Suppliers
+4.2 TELEPORTERS
+These are products that live a life with you and therefore posses the capability to transport you back to core memories in your past.
+A great example of these types of products are the stickered up Rimowa suitcases that can often be seen doing laps of an airport conveyor belt (or, even better, stacked on your Inter-City Express train):
+Fig 9. Rimowa with souvenir travel stickers
+These pieces of luggage proudly act as a prompt to their owner on the journey’s they’ve taken, the places they’ve seen and the memories they’ve made. It goes without saying that this is again an example of a strong emotional bond. How many people do you know that keep their old passports with the country stamps in?
+4.3 EXPERIENCE BADGE
+These are the products that visibly change as a result of the experiences that they’ve lived through…much like us! Good examples are Brookes leather saddles or Lived & Loved repaired Finisterre gilets:
+Fig 10. Finisterre gilet repaired under the Lived & Loved scheme
+These products are an outward statement to the rest of our community around the things we’ve achieved, the depth of experience we have and, perhaps, our intrinsic values around preservation and longevity.
+These are existing examples that can already be found in the world today. However, there are many more, and one of the most powerful could be product diaries.
+4.4
+PRODUCT DIARIES
+This is a concept best placed in the context of a circular economy and focuses around the idea of a user being able to access a history of who used the product before them. A great application of this could be in the ever increasing field of Children’s bicycle leasing models.
+Children’s bikes are notoriously used for a short period of time due to the rate at which the child develops and grows. There are also a plethora of very usable benefits that come with the more premium options in this space. As a result, a leasing model is a strong fit.
+Imagine a child just getting started with cycling and finding out that their bicycle was previously ridden by Olympic champion, Tom Pidcock.
+Fig 11. A young Tom Pidcock on his road bike
+Having a call to action permanently located on the product creates the perfect access point for a team to develop a supporting service to capture and make accessible exactly this type of rich experience.
+A crucial feature of all of these examples is that they neither degrade with time nor are subject to being outpaced by changes in trends, fashions or technological advancements. Some are in fact made more valuable by the passing of time (and all that comes with it)…
+This is all lovely, but where is the financial incentive behind this? We live in a capitalist society! Don’t people buy less when they use a product for longer? Well, yes and no.
+A prolonged period of use gives your brand longer to interact and form a relationship with that user. Each interaction is an opportunity for you to build trust and loyalty which in turn will likely be rewarded with engagement in other services that you offer. This is not only additional revenue for the same initial CAP EX investment into the physical product but a loyal follower that will continue to engage with you as part of their trusted network.
+Secondly, the longer someone uses a product, the more they create experiences (and of course content), ultimately, doing a lot of your marketing for you. Liquid Death’s explosion as a $1,4 Billion canned water business is a perfect example of this.
+Fig 12. Liquid Death advertisement
+In other words, increasing your Consumer Experience duration with an equivalent Decay Time not only increases your Legacy Number but also increases your scope for brand loyalty and repeated engagement.
+Through this lens, commercial success in a capitalist world starts to decouple from the merry-go-round of brand new physical product consumption.
+So, what could these additional revenue streams look like? And how does this relate to the DPP?
+5. REPAIR, ENGAGEMENT & REPEATED REVENUE
+In order to explore this topic, we first need to know what the barriers are. One thought process behind this comes from psychologist Helen Rose Ebaugh in the form of ‘The Crack of Doubt’ - also explained in Joe Macloed’s Endineering book.
+The crack starts when an intangible culmination of pains/niggles/annoyances/other factors finally accumulate into being one too many. At this point, the following steps play out:
+The steps that then play out are as follows:
+Fig 13. The 6 steps behind ‚The Crack of Doubt‘
+The crack of doubt begins to form.
+This doubt is reflected to the user’s peers as a cuing behaviour.
+If the peers pick up on the cues and reflect them then the doubts are reinforced. This further opens up the crack.
+Now that the user has confirmation that their concerns are valid, they now place greater attention on the aggravating factors.
+Events that follow are then viewed negatively further widening the crack.
+As this crack widens, the user looks for the exit door. Without intervention, their attachment to the product is over.
+In 2024 there are a myriad of factors that lead to the initial formation of this crack! Planned obsolescence, changing trends, technology acceleration, product failure etc etc etc. For the sake of this article, we will focus on just one example:
+Scenario:
+The product doesn‘t last for the anticipated duration.
+Cause:
+The user doesn‘t have access to the correct care instructions and tools.
+Commercial Opportunity via DPP:
+Current methods of communicating care instructions, particularly in garments, are sub-optimal at best…often resembling hieroglyphics more than a useful explanation.
+The image below is taken from a page on Beko‘s website entitled „What do washing symbols on clothes mean?“
+Fig 14. Beko‘s „What to do washing symbols on clothes mean?“ guide
+Brands could use the DPP Data Carrier as a hyperlink that takes the user to an enriched digital experience showing how to care for their item - perhaps supported with videos and other rich media.
+This is then a leverage opportunity in which they could cross-sell a diversified product range which includes product care accessories.
+Examples:
+Waterproof coats and tech-wash (a liquid that restores the DWR coating)
+iFixIt, toolkits and hardware (including RAM for the infamous last non-soldered 2013 MacBook Pro)
+The key takeaway here is that the DPP‘s Data Carrier, and some of the information already mandated to be included, has given the brand a new opportunity to engage with the user. There are a myriad of opportunities on how this can be leveraged for a brand‘s commercial advantage.
+Furthermore, this extends beyond the original purchaser. Because the Data Carrier stays in the product, it serves the same purpose for each subsequent user of the product. This is repeated new engagement with the brand despite only investing in the creation and manufacture of the original physical project once.
+6. OFFBOARDING, HANDOVERS & INDIRECT CUSTOM
+Inevitably, there will come a time where the product (or at least part of it) leaves service; either through choice or because parts have reached their true end of life. But there are also rich opportunities here!
+The first thing that springs to mind when it’s a matter of choice is the opportunity for resale. Here brands can get very excited about „harnessing their second hand market“. This is of course one route to go but it shouldn‘t be underestimated how cost-efficient and effective second-hand services and communities are in this space. Brands looking to participate in this game also need to add additional value in order to stand a chance of succeeding!
+The automotive industry already has a very established mechanism for doing this:
+Fig 15. The automotive „approved used“ resale model
+This type of model only works if the economics stack up in the context of a corporate business case. For an awful lot of product types they don‘t. But no need to despair! There are other ways of participating in this field and building further rich experiences without having to resell the original product. Here‘s how a few are doing it:
+Native Instruments:
+Berlin based Native Instruments have created an ecosystem of modern audio sampling tools centered around a range of hardware - made famous by the likes of artists like Fred Again.
+Fig 16. Native Instruments‘ Maschine Mk3 controller
+Electronic music production is notoriously a kit-orientated topic where equipment rarely changes hands. Artists in this space buy kit, use it, find its limitations, discover new kit and frequently move on. For a company like NI, this product exchange could even be within their own range as the artist develops and requires more of the features found on premium products.
+Fig 17. Native Instruments‘ advanced equipment setup
+To ease this exchange in equipment, Native Instruments have created a ‚license transfer‘ facility on their website that allows users to re-assign their software licenses to the next owner of the hardware. Making this interaction as seamless as possible for both the buyer and seller whilst allowing the transfer of a core part of the original product‘s value leaves both parties with the best possible impression of the brand. The old owner is likely to feel like NI have helped them on their journey whilst the new owner has access to a complete product experience…and the attached store of additionally purchasable software plug-ins.
+Fig 18. A selection of Native Instruments‘ plug-in offerings
+Currently the user needs to navigate a complex website structure to access this service. With the DPP, this facility could be accessed by simply scanning the Data Carrier on the product itself.
+Brickit’s Lego Scanner:
+Brickit is not part of the Lego business but, to be honest, I wonder why it's not… This independent app allows Lego builders to take a picture of a pile of bricks before then serving them a list of builds they can make - complete with full colour step-by-step instructions.
+Fig 19. Summary of Brickit‘s offering
+Fig 20. Examples of Brickit‘s suggested models
+The app can even show you where in the photograph of your pile of bricks the next part that you will need is located
+This would be a perfect opportunity for Lego to engage with future inheritents of hand-me-down boxes of bricks. An additional feature of the list shown above could be a separate section showing users what they are close to being able to build if they were able to find a few more missing parts. There could then be a retail space dedicated to the supply of these smaller components - perhaps a good use of an area within a high street Lego store?
+If Lego were able to create a small enough Data Carrier on the bricks, or even only apply it to parts over a certain size, then this app (if they were at all associated) could be instantly accessible to users without having access to any of the documentation or packaging that came with the original set which, let‘s face it, has probably been lost.
+Rapanui & TeeMill‘s ReMill Program:
+Rapanui is a small clothing manufacturer situated on the Isle of Wight in the UK. They have a partner business called the TeeMill which focuses on manufacturing  just-in-time sustainable custom printed t-shirts.
+Fig 21. TeeMill’s Logo
+Rapanui have already been using a QR code label on their t-shirts for a very long but not for the purposes of accessing a DPP. Instead, this code takes users to a website that allows them to return their worn out t-shirts in exchange for a discount code.
+Fig 22. Rapanui‘s product return instructions
+This setup allows these brands to engage their customers in facilitating the recovery of the material in their garments, which they know very well, and other equivalent pieces. These are then used produce replacement products for their already engaged customer base.
+For Rapanui, the integration of the DPP should be a relatively painless exercise and they are already reaping the benefits that others might hope to enjoy in the future.
+7. THE NEED FOR DIGITISATION
+One thing is for certain, all of these regulations require everyone within the supply chain to generate, store and maintain a significantly increased volume of data. To have the desired effect, the data sources will need to be proven to be trustworthy, accurate and traceable.
+A likely intention of the DPP is for it to also act as the ‘trojan horse’ that mandates conversations around the necessity of the availability of this data-rich information all the way across the value chain. It’s no longer a nice to have from an ESG team - it’s a legal requirement for an increasing number of product groups and carries significant financial opportunity for those that successful grapple with it!
+One method of approaching this could be to utilise a Blockchain database, made famous in crypto currency. A simple analogy for how this works is to think of the Blockchain peer-to-peer network as a ‘peer review committee’. Before new data can be added to the database, it first has to be validated for authenticity by other sources; much like a PhD papers before publication. Only when the addition has been proven to be authentic will the new data enter into the database.
+Fig 23. Blockchain Theory
+This is how the Billion Group envisage the interaction between DPP and Blockchain in their solution offering:
+Fig 24. BillionGroup‘s Approach to integrating Blockchain in the DPP
+From a business perspective, the major advantage here is that it allows you to decentralise data collection and storage with confidence and trust to other actors within the supply chain; essentially sharing the burden.
+Of course, there’s no such thing as a silver bullet and this is no exception! One important balancing factor to consider would also be the environmental footprint associated with the use of Blockchain. There are an increasing quantity of articles covering the environmental impact of the technology owing to it’s energy-intensive-process and water consumption.
+Summary
+To recap, here are the main points:
+Regulations are coming by 2030, at the latest, that mandate the inclusion of a Digital Product Passport for 30 different product types.
+Technologies like Blockchain may enable brands to distribute the burden of responsibility for collecting the required content across different actors in the supply chain.
+Brands that are able to efficiently manage compliance with the regulations will have the opportunity to maximise the opportunities that they present.
+Minimising the legacy number of a physical product will allow companies to maximise the possible ROI on their initial CAP-EX.
+Brands will need to rediscover how to build an emotional connection between the physical products that they produce and their users. Those that are successful will be rewarded with a loyal and engaged community.
+There are many untapped opportunities for diversified revenue streams or repeat engagement within the second hand market without having to buy back and resell the original product.
+The DPP gives brands places a mandatory call to action right in front of the brand‘s users.
+This is a golden opportunity for brands!
+Are you a brand currently getting to grips with the package of regulations falling under the EU’s Green Deal? Are you exploring how you might use tools like the DPP to generate additional value for your brand?
+If so, I’d love to talk!  You can find me on LinkedIn here:
+https://www.linkedin.com/in/matt-granger/

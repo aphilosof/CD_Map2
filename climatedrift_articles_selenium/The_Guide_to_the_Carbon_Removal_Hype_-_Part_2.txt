@@ -1,0 +1,98 @@
+Title: The Guide to the Carbon Removal Hype - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-guide-to-the-carbon-removal-hype-b6f
+==============================
+
+Dive into
+Climate Drif
+t, your portal to climate solutions and realizing your role in reaching net zero.
+New around here? Immerse yourself in our trailblazing community. Join us now:
+Subscribe
+Already a member? Boost our cause by spreading the word to peers, loved ones, and your entire network. Every time you share, we promise a new deep dive!
+Share Climate Drift by Marco and Skander
+Hey 👋
+Skander here.
+In this series, we'll delve deep into the world of carbon removal. We'll journey through both nature and engineered methods for capturing CO2, and explore its transportation, storage, utilization. Last but not least: Carbon Offsets.
+Here's what to expect:
+A
+quick overview
+for each solution
+One
+lighthouse company
+per solution
+If you haven’t read it yet, start with
+Part 1 of our
+Guide to the Carbon Removal Hype: Covering the Basics
+The Guide to the Carbon Removal Hype
+Skander Garroum
+·
+August 21, 2023
+Read full story
+Starting from the left, today we'll explore two solutions: "Why can't we just plant more trees?" which leads us to
+Tree Engineering
+, followed by
+Ocean Alkalinity Enhancement
+.
+Let’s dive in 🌊
+The Guide to the Carbon Removal Hype - Part 2
+These are the 16 solutions we will look at in this series.
+Want to explore the hype curve of transportation solutions instead?
+Start with our
+Hype Curve explainer
+Transportation Part 1:
+Five scalable solutions, from EVs to Rail.
+Transportation Part 2:
+Follow us through the trough of disillusionment from Battery Recycling to Alternative Airplane Fuels.
+Transportation Part 3:
+Early innovation and peak hype solutions from electric ships, trucks, and planes to alternative shipping fuels.
+Tree Engineering
+Overview:
+Tree planting is widely championed as a climate solution, uniting scientists, politicians, and billionaires. However, its effectiveness is debated. Some studies suggest without proper care, these forests can die, releasing stored carbon. Moreover, seedling shortages can hinder projects. While trees are vital, they aren't the sole climate answer. A pressing question arises: can we enhance trees' carbon storage capacity?
+🌳 The Tree-Planting Conundrum
+While the idea of simply planting more trees and preserving existing forests sounds straightforward, the reality is more complex.
+Scale of the Problem:
+The sheer volume of CO2 we emit annually is staggering. To offset even a fraction of current emissions, we'd need to plant trees on a scale that's logistically challenging.
+How many new trees would we need to offset our carbon emissions?
+One answer is 640 Trees per person, so around 200 billion new trees - but
+dive into the math here
+.
+Land Use Competition:
+Land is a finite resource. As the global population grows, so does the demand for land for agriculture, housing, and infrastructure. Dedicating vast tracts of land solely for tree planting can lead to conflicts over land use priorities.
+Biomass for Energy and Sequestration:
+Many net-zero strategies lean heavily on biomass, both as an energy source and for carbon capture (processes like BECCS and BiCRS). However, the practicality of these solutions is questionable. Using large amounts of biomass for energy can divert it from other essential uses, like food production.
+Tree Growth Rate:
+Trees take time to mature and reach their full carbon sequestration potential. We're racing against time to mitigate climate change, and waiting decades for trees to grow might not be the most efficient strategy.
+Sustainability and Measurement Concerns:
+Forestry-based carbon removal is facing increasing scrutiny due to concerns about its sustainability, longevity, and even the accuracy of its measurement. A recent analysis by the non-profit CarbonPlan revealed that California's forest offset program, the largest of its kind, overestimated the actual carbon removed from forestry by nearly 30%.
+Solution:
+Not all trees we plant survive. But we can use engineering and other plants to make them survive longer.
+Rhizocore Technologies
+taps into the potential of locally-sourced mycorrhizal fungi to optimize tree planting results. Rhizocore's focus on soil integration by introducing fungi to young trees, significantly reducing sapling mortality rates often attributed to inadequate soil connectivity. Their method not only accelerates woodland recovery but also boosts forest productivity, offering a viable pathway for reforestation and enhancing the trees' capacity for long-term carbon storage. Their fungi-infused pellets catalyze a 20% growth acceleration in young trees.
+As climate change threatens more frequent droughts over the next 30-40 years, Rhizocore's method ensures enhanced drought resistance.
+Ocean alkalinity
+Overview:
+The ocean, earth's largest carbon sink, holds around 40 trillion tonnes of dissolved carbon. This carbon exists primarily as bicarbonate ions, balanced with dissolved cations. Natural weathering processes release these cations, reacting with CO2 in the atmosphere.
+Leveraging the ocean for CDR offers multiple benefits:
+The ocean possesses an immense capacity for CO2 sequestration.
+Ocean-based CDR doesn't vie for land space, unlike other methods.
+It enhances and fast-tracks inherent carbon sequestration processes.
+The ocean's role in the carbon cycle is pivotal. While it's destined to store most of our carbon emissions, natural processes are too slow to impact our immediate climate trajectory. Enhancing the ocean's carbon uptake rate is crucial, especially if emissions cease.
+The great news: Ocean Alkalization employs simple technology yet promises substantial impact.
+Alkalinity enhancement has high potential with few limitations. It involves the natural weathering of alkaline minerals, increasing seawater pH and shifting carbonate chemistry equilibrium. This process draws more atmospheric CO2 into the ocean.
+The good thing is: we are doing it already. Currently, ocean alkalinity enhancement is used to counteract ocean acidification's effects on shell-forming organisms. If applied globally, ocean alkalinity could store trillions of tonnes of CO2 without surpassing historical carbonate saturation levels. However, the storage potential is influenced by atmospheric CO2 levels and technological constraints.
+The environmental impacts, dependent on distribution methods, might not be evenly spread across the ocean. Elevated alkalinity can impact ecosystems and promote biological carbonate formation, potentially releasing CO2. The implications of this method, including potential ecosystem shifts and impacts on marine biota, require further research and understanding.
+For more:
+Read this great primer
+by Antonius Gagern and Lydia Kapsenberg of the Climateworks foundation
+Lighthouse:
+Ocean alkalinization is currently positioned at TRL 1-2. Rather than spotlighting a company, let’s look at a R&D initiative:
+Carbon to Sea
+.
+This 5-year research and development program is grounded on the belief that Carbon Dioxide Removal is essential for achieving global climate targets, that ocean alkalinity enhancement is a standout strategy within CDR, though it comes with its set of challenges, and that a coordinated non-profit R&D effort is the optimal approach to transparently and safely advance the associated science and technology.
+This year, they allocated $23M in grants to research institutions and startups to push the boundaries of science and to develop preliminary prototypes for secure deployment. They are establishing dedicated research sites to facilitate controlled field experiments, essential for Measurement, Reporting, and Verification (MRV).
+Rhizocore's fungi-infused pellets and ocean alkalinization present promising avenues to enhance carbon sequestration of natural processes. However we are at the very beginning of this experiment, and these solutions come with their own sets of challenges and implications that need thorough research and understanding. The "Carbon to Sea" initiative exemplifies the kind of coordinated, forward-thinking organisation required to advance and test these solutions.
+Next time we will continue along the hype curve and look at Enhanced Weathering and CO2 Storage.
+Dive deep, stay curious, and remember that every individual and collective effort counts in our race to net zero.
+Skander
+As always, sharing our work brings a smile on our faces and is greatly appreciated.
+Share

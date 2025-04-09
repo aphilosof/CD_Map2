@@ -1,0 +1,100 @@
+Title: Climate Tech Has a Marketing Problem. Good Storytelling Can Fix It.
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/climate-tech-storytelling
+==============================
+
+Hi there! 👋
+Marco here.
+Today we feature the second guest post by
+Alex Goodwin
+- a climate-focused marketing leader - on why storytelling matters and how it elevates your climate tech company.
+If you want to get good at storytelling, this post is for you.
+Let’s dive in 🌊
+Subscribe
+Storytelling gets a lot of hype these days. After decades of line graphs and bar charts, the climate tech industry is beginning to realize that data alone won’t outperform the millions of dollars being spent by the fossil fuel industry on advertising and PR.
+Lots of people are talking about the importance of storytelling around green initiatives and climate change.
+Here’s the problem: The majority of discussions never move beyond, “storytelling is important!”
+Very few people are actually teaching climate companies how to do it well.
+So founders, oftentimes brilliant scientists and engineers, fumble through presentations focused on product
+features
+, missing the opportunity to tell their audience about product
+benefits
+.
+Startup websites use lots of space to explain how their company is
+innovative
+and neglect to talk about why it’s
+important
+.
+They mistakenly believe that storytelling means telling their brand story, when in reality they need to be talking about themselves less.
+In Part 1 of this series, we explored the ways in which many climate tech startups struggle to explain what they do.
+Confusing Messaging is Costing Your Climate Company
+Alex Goodwin
+·
+September 14, 2023
+Read full story
+Today we’re going to introduce a tool climate leaders can use to organize their work into a story that communicates their value.
+A Framework for Telling Your Story
+Luke and Obi-Wan.
+Harry and Dumbledore.
+Katniss and Haymitch.
+Daniel and Mr. Miyagi.
+It turns out that many of our favorite books and movies can model how to tell your company’s story well. They all follow a common narrative arc called the Hero’s Journey: a basic structure humans have used for centuries to craft stories that entertain, inform, and inspire. The outline provides a way to organize information that clearly conveys the characters, the stakes, the challenges, and the vision of success at the end of a journey.
+An organization called Storybrand has adapted the Hero’s Journey into a framework businesses can use to tell their story.
+Here’s the plot of Star Wars as an example:
+A Character (or Hero):
+Luke Skywalker
+Has a Problem:
+Needs to defeat the evil Galactic Empire
+And Meets a Guide:
+Obi-Wan Kenobi
+Who Gives Them a Plan:
+Become a Jedi; Trust the Force
+And Calls Them to Action:
+Join the Rebellion, defeat the Empire
+That Ends in Success:
+The Rebellion wins
+And Avoids Failure:
+The Rebellion gets crushed
+Climate tech companies often struggle to tell their story well because they have lots of information and no way to organize it. They aren’t sure what to include, what to leave out, and what order to say things in.
+Climate tech companies often struggle to tell their story well because they have lots of information and no way to organize it.
+By spreading the information out through a narrative structure people are accustomed to, they will be able to clearly articulate their value in ways that make their audience lean in and listen.
+Implementing Storytelling Techniques into Your Climate Tech Startup
+Now that you have the basic storytelling framework, you can get started plotting your company’s story. Here are a few important things to keep in mind as you map it out:
+If there’s one thing you take away from this article, it should be this: when you tell your company’s story,
+your company is not the Hero
+. Your customer is the Hero and your company is the Guide. You exist to help them solve their problem.
+Climate tech founders are, understandably, proud of their companies and the solutions they are creating. But this can cause them to spend too much time talking about themselves.
+Your customers view themselves as the Hero characters in their own stories. If you tell a story where you’re positioned as the Hero, it won’t fit into their narrative and you’ll be ignored.
+Hone your language around the Problem as much as possible. The better you articulate a customer’s problem, the more attention they’ll give you. Show that you understand and empathize with the surface-level issues they’re facing AND the emotional implications (frustration, inconvenience, etc.) of that problem.
+Give a clear call to action. If the first button on your website is, “Learn More,” kill it with fire. Learn More is vague and doesn’t move visitors closer to implementing your solution in their lives.
+People will go where you invite them to go. Make your calls to action specific: Schedule a Demo, Get a Free Quote, Order Now, Join the Waitlist, etc.
+Cast a compelling vision of success. After you articulate the customer’s problem, paint them a picture of what life looks like after you’ve solved their problem. If your company works in the home electrification business, don’t simply talk about switching out furnaces for heat pumps. Talk about giving people comfortable, efficient homes that they will feel proud to live in.
+Finally, it’s worth mentioning that this exercise might be difficult for a founder or an executive team. You’re not only honing how you tell your story to outsiders; you may be clarifying your top-level leadership’s own understanding of the work you do. But gaining clarity internally is one of the most important things you can do to help your climate company grow.
+Distilling Your Brand Story into a One-Liner
+Once you feel good about how you’ve mapped out your company’s story (and you’ve tested it out on a few people who aren’t familiar with what you do) you can condense it further into a one-liner.
+One-liners are a quick sentence or two that explain what you do and who you do it for.
+The basic structure is: Problem ➡️ Solution ➡️ Result
+Most [hero] are dealing with [problem]. At [company], we [function] so that [successful outcome].
+It’s pretty rare for companies to have one-liners, so here are a few I came up with for organizations whose work I appreciate:
+“Lots of homeowners hesitate to start home electrification projects because the process is confusing and managing multiple contractors is a huge headache. At Zero Homes, we simplify the process from start to finish so that homeowners can enjoy a comfortable, energy-efficient home without the stress.”
+“Most solar installers are dealing with a patchwork of assorted design and sales software, which is clunky, inefficient, and frustrating. At Aurora Solar, we provide cloud-based software that helps solar installers streamline their sales process and close more deals.”
+“More and more corporate sustainability teams are feeling the pressure to create effective carbon reduction strategies. At Watershed, we provide software to help them gather reliable emissions data so they can measure, report, and reduce carbon output across their operations.”
+Use the structure above as a guideline, and feel free to adapt it a little bit so that your one-liner sounds natural and interesting. You won’t be able to capture all of the nuance of what you do in the one-liner, but that isn’t the point. The point is to concisely convey the value you create in order to open the door to a conversation where you can dive deeper.
+Why This All Matters
+Once you achieve clarity on your customer’s story and your company’s role in that story, that clarity will spread into all of your communications channels. Founders will have an easier time talking to investors about the work you do. Your sales team will have consistent language they can use when talking to customers that will close more deals.
+Your website’s home page (your company’s only 24/7 salesperson) will be able to clearly articulate your customer’s pain points and how your company steps in to provide solutions that lead them to success. Now that you have a one-liner, you can modify it to be the first thing a visitor sees when they visit your site, along with a clear call to action inviting them to take the next step.
+Agricultural software company Propagate does a good job with this in the hero section of their website:
+(although I’d get rid of the Learn More button)
+Beyond external communications, clarifying your story can do wonders for staff and board cohesion. Imagine getting all of your internal stakeholders on the same page with a one-liner and asking them to memorize it. Now they have a clear North Star for why they show up to work every day.
+As an added benefit, you also now have dozens or hundreds of people with a good answer to the question they’ll get at happy hours and backyard barbecues: “So, what do you do?” It’s free marketing for your company, and the staff won’t have to improvise answers on the spot.
+The biggest threat to your company’s growth isn’t the economy or staff turnover or access to funding.
+It’s noise.
+It’s getting lost in the sea of information and messaging because you don’t clearly articulate what you do.
+The biggest threat to your company’s growth is
+noise
+By telling a story where the customer is the Hero, you are the Guide, and your solution is the Plan, you’ll align your staff around a clear mission and stand above your competitors in the battle for attention in the marketplace.
+If climate and sustainability initiatives are going to scale at the rate we need them to, we need to learn how to tell our stories. They are better stories than the tired, old, usually flat-out untrue stories the fossil fuel companies are telling.
+They’re stories that point toward the future, when our societies are built on technology that harnesses the clean, renewable energy all around us. When people adopt sustainable lifestyles that work in tune with the earth rather than exploiting it.
+By telling clear and compelling stories, we have the opportunity to invite people to join that future today.
+If you enjoyed this post, share it with your network!
+Share

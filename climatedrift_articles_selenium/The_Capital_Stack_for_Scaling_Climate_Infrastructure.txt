@@ -1,0 +1,325 @@
+Title: The Capital Stack for Scaling Climate Infrastructure
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-capital-stack-for-scaling-climate
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Scaling climate infrastructure is a whole different ballgame compared to tech scaleups. With billions in capital required post-prototype, the traditional venture capital model simply doesn’t cut it. Enter the capital stack.
+From R&D grants to catalytic finance and corporate demand, Jarek maps out the landscape of funding options that will shape the future of climate solutions.
+With a global climate finance pool now reaching $1.3 trillion annually, the opportunities are massive—but scaling companies need to structure their capital stack right to seize them.
+In this guide, Jarek walks us through the strategic financing options that climate infrastructure scaleups need to know about, including case studies with companies who successfully executed them.
+🌊 Let’s dive in
+Join the Climate Drift Accelerator and turn your passion into action.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+But first: Who is Jarek?
+Jarek Dmowski
+is a global transformation leader dedicated to scaling climate infrastructure and mobilizing climate finance. With over 20 years of experience in energy transition, infrastructure, finance, and strategic development, he brings diverse expertise from ABN AMRO, BCG, and PE/VC-backed scaleups.
+He led a $2B worldwide capital reallocation toward new energy and new mobility for a global financial institution, developed a climate plan that translated Paris Agreement commitments toward specific targets and initiatives across multiple sectors, established a $250M efficiency improvement and GHG emission reduction program for an energy utility, and scaled a data-driven technology company ~2.5x to reach ~$25M revenues.
+He leverages hands-on profit and loss (P&L) and transaction experience alongside a deep understanding of global climate finance ecosystems. Jarek is passionate about how the climate transition reshapes economies, strategies, and operations, unlocking new opportunities.
+The Capital Stack for
+Scaling Climate Infrastructure
+(Click the title 👆 to read the full guide online, it’s a long one)
+Executive summary
+Climate infrastructure scaleups require a different funding approach
+than software-based scaleups, which usually rely on a few rounds of venture capital (VC) funding and an Initial Public Offering (IPO).
+High capital investments are required after the prototype phase, and a different approach is necessary to leverage opportunities created by a growing pool of climate finance increasingly available globally.
+Climate infrastructure scaleups are companies that have moved beyond the startup phase and are now experiencing rapid growth. With proven technologies that meet market demands, they focus on expanding operations and entering new markets. These companies need substantial investment to scale and promote the adoption of their technologies. Their primary goal is to develop systems, facilities, or infrastructure designed to address climate change—whether by reducing its causes (mitigation) or helping communities adapt to its impacts (adaptation).
+The global climate finance pool reached
+~$1.3T
+annually, with
+~50/50
+split between public and private finance. The growth is fueled by
+the continuous evolution of the international climate finance landscape and the emergence of new solutions for climate infrastructure
+. Within public finance, development finance, grants and blended finance are gaining increasing importance, while corporate demand, banks, infrastructure funds, pension plans, and catalytic investors are increasingly engaging in scaling climate infrastructure within private finance. To meet global net-zero targets across energy, industry, transportation, buildings, and agriculture, the climate finance pool must grow by
+5 to 8 times
+by 2030.
+From research and development (R&D) to early deployment and broad adoption ("innovation to adoption challenge"), climate infrastructure scaleups have a
+unique opportunity to shape their strategy, business model, partnerships, and roadmaps differently
+from traditionally VC-funded companies. They will make the most significant impact by successful early deployment of their technologies with an ongoing preparation for the global scaling plan implementation.
+New financing options are increasingly available to climate infrastructure scaleups, allowing them to
+optimize their capital stack and maximize the potential of their target market, product differentiators, and team
+. “The Capital Stack for Scaling Climate Infrastructure” guide provides a set of solutions for prospective companies and their investors to maximize climate impact.
+A summary of the “The Capital Stack for Scaling Climate Infrastructure” is included below, with solutions and case studies explored in the main document.
+Growing and evolving global climate finance: New opportunities
+Global climate finance has reached ~$1.3T annually (as shown in Exhibit 1 below). The Paris Agreement, net-zero commitments from countries and companies, and the growing interest of financial institutions and investors drive the flow of financing. Developing climate finance is essential for achieving global climate goals, building new infrastructure for low-carbon economies, enhancing resilience against climate impacts, and promoting sustainable development. Effective and growing climate finance also spurs technological innovation, boosts economic growth, creates jobs, and improves social well-being.
+Exhibit 1: Climate finance landscape
+Climate finance comes from various sources and intermediaries, with ~50% provided by public finance and ~50% by private finance. Development finance, grants, and blended finance are becoming increasingly important in public finance and are also aiming to mobilize additional private capital through various mechanisms designed to reduce risks, enhance returns, and make climate-related projects more attractive to investors. In the private sector, corporate demand, banks, infrastructure investors, pension plans, and catalytic investors play a growing role in scaling climate infrastructure.
+Global climate finance is growing rapidly, with a recent annual growth of
+~65%
+. The continuous evolution of international climate finance sources and the emergence of new financing solutions for climate infrastructure is driving this surge across the energy, industrial, transportation, building, and agriculture sectors. To meet global net-zero targets, global climate finance needs to scale up 5 to 8 times by 2030, reaching
+$6-12T
+annually, providing a strong foundation for building new climate infrastructure. To close the gap, climate infrastructure companies have opportunities to increasingly demonstrate broad adoption potential across several markets, large-scale positive climate impact, and competitive economics while highlighting the potential for economic development in local communities.
+Scaling climate solutions globally to achieve net-zero targets will require significant infrastructure investment across multiple sectors, as outlined in Exhibit 2 below.
+Exhibit 2: High potential climate technologies across sectors (not exhaustive list) - Source: Various reports, interviews and press releases
+Climate infrastructure: Innovation to adoption challenge
+While wind and solar energy have gained the most attention recently, to a large extent fuelled by growth in Asia, a similar push is needed across a broader range of technologies and sectors. We must develop new climate infrastructure in all sectors to effectively reduce global GreenHouse Gases (GHGs) emissions.
+Exhibit 3. Large scale solar farm in Asia: Broad adoption of climate infrastructure Source: VCC/Getty images
+Climate infrastructure scaleups face specific innovation to adaptation challenges, especially during the demonstration project or First-of-a-Kind (FOAK) stage. Successfully navigating these critical milestones is essential for closing the funding gap and achieving the climate goals set by the Paris Agreement.
+Exhibit 4: Innovation to adoption challenge for climate infrastructure scaleups  Source: Prime Coalition, various studies and reports
+Demonstration projects and FOAK stages require significant upfront investment to cover new technologies' development, construction, testing, and deployment. Demonstration projects aim to showcase the viability, effectiveness, and scalability of new technologies or approaches in a real-world setting. At this stage, projects go beyond the initial R&D phase, providing practical evidence that a particular climate solution can work at scale, under actual operating conditions. A FOAK project is the first time a new technology or approach is deployed at a commercial scale. Unlike demonstration projects, which may still be experimental, FOAK projects are fully operational and intended to be profitable and commercially viable.
+Investments in demonstration projects or FOAKs often exceed the appetite of early investors. The development process is typically lengthy and costly, involving detailed design work and the need to secure regulatory approvals. Due to the high perceived risks—across technology, regulations, and market dynamics—securing commercial funding through bank loans at this stage is not yet available. However, successfully moving these technologies and projects into the operational phase allows for technology validation, reduces uncertainty about performance and reliability, and lays the groundwork for scaling up the infrastructure, also in other regions.
+The good news is that several climate infrastructure ventures are successfully navigating the innovation to adoption challenges, including, but not limited to, Svante, Fervo, Eavor, Northvolt, Rondo, H2 Green Steel or Aira. These success stories are not only encouraging but also provide valuable insights.
+From lab-scale prototypes, climate infrastructure scaleups have the opportunity to shape their strategy, business model, strategic partnerships and roadmaps differently
+vs traditionally VC-funded companies. Climate infrastructure scaleups will make the most significant impact by the successful early deployment of their technologies with an ongoing preparation for the rapid implementation of a global scaling plan.
+Climate scaleups and their investors: Capital Stack Solutions guide
+A growing range of financing options is available for climate infrastructure scaleups, allowing them to optimize their capital stack and maximize the potential of their target market, product features, and team.
+“
+The Capital Stack for Scaling Climate Infrastructure”
+guide provides a set of solutions for climate infrastructure scaleups and their investors to drive growth and maximize climate impact. Solutions and case studies are explored below.
+1. Maximize the potential of R&D grant funding
+R&D grants play a crucial role in financing the development of climate infrastructure. They provide a non-dilutive source of capital, reduce the financial risk for companies and researchers pursuing innovative climate solutions, and enable expeditions of the development and deployment of new technologies and help bridge the gap between basic research and commercial viability.  Many R&D grants encourage or require collaboration between academia, industry, and government, which can lead to more comprehensive and effective solutions, leveraging the strengths of each sector to tackle complex climate challenges. Finally, successfully obtaining an R&D grant signals credibility and potential to private investors, making it easier to attract the next financing rounds.
+Exhibit 4: Innovation fund example - Source: Innovation Fund EU
+Svante, founded in 2007 in Canada, specializes in developing industrial-scale solutions for capturing and managing carbon dioxide (CO₂) emissions. Their business model focuses on becoming an original equipment manufacturing (OEM) and technology provider, leveraging patented solid sorbent materials, a rotary absorption machine of its own design and production, and a modular, scalable approach that prioritizes energy and cost efficiency. Svante collaborates with engineering firms to provide turnkey solutions for their customers.
+Of the over $500M in Svante's capital stack, ~$50M came from various R&D grants in Canada and the US (incl. Sustainable Development Technology Canada, Emissions Reduction Alberta, Natural Resources Canada, U.S. Department of Energy) between 2014 and 2020.
+Source: Svante, industry reports, interviews and press releases
+Global R&D grants for climate initiatives are estimated at
+~$70B
+annually, with expectations for further growth. Government programs are among the most recognized sources, including those in the United States (e.g., Department of Energy, Advanced Research Projects Agency-Energy), the European Union (e.g., Horizon Europe, European Innovation Council, European Institute of Innovation and Technology), Canada (e.g., Environment and Climate Change Canada), and Japan (e.g., New Energy and Industrial Technology Development Organization). In addition to government-driven programs, grants are also available from multilateral development banks, international finance organizations (e.g., Global Climate Fund), private foundations, NGOs, public-private partnerships, and corporate engagement.
+Successfully securing R&D grants for climate infrastructure scaleups requires a strategic approach and well-crafted plan that
+maximizes the potential of grant programs across jurisdictions
+by focusing on:
+Alignment with priorities (and specific grant requirements)
+Alignment with funding priorities and particular requirements, as well as understanding and adhering to the specific eligibility criteria
+Crafting clear and compelling proposals with a coherent narrative while meeting all formal requirements (e.g. budget details, timelines, team, and supporting documentation)
+Demonstrating impact
+Effectively communicating the project’s impact, e.g. through quantifying the potential reduction in greenhouse gas emissions, improvements in energy efficiency, as well as contributions to job creation and community well-being
+Technology potential
+Demonstrating innovation and scalability by articulating the novelty of technology or approach, and providing an outline of how this project will be scaled up
+Reporting and project management
+Ensuring strong project planning to convince funders/donors that the project is viable and likely to succeed, incl. a detailed project plan and contingency measures for potential challenges
+Thorough preparation in advance to meet reporting requirements, enabling compliance with formal aspects and effectively reporting on progress and impact (including project progress, data collection, and reports on milestones and outcomes)
+2. Bring on CVC early on to strengthen ties with strategic partners
+CVC (Corporate Venture Capital) provides a powerful mix of financial, strategic, and operational advantages vital for developing and scaling climate infrastructure. Unlike traditional VCs, CVCs can take on a longer investment horizon, which is essential for climate projects that require time to yield returns. Additionally, corporations bring valuable industry in-depth knowledge and technical expertise, crucial for complex infrastructure development. They also offer access to established networks, including supply chains, regulatory bodies, and market channels, which can speed up project development and deployment.  An added advantage of CVC is the potential to secure a first offtake agreement, which is key to financing infrastructure development during the future growth phases.
+Exhibit 5: Corporate Venture Capital  landscape for climate solutions Source: CTVC
+Northvolt, founded in Sweden in 2016 by former Tesla executives as the second venture of the Vargas Group, is dedicated to producing the world’s greenest batteries. Positioned as a key player in the European battery market, Northvolt aims to challenge Asian dominance in battery production. The company’s business model focuses on green manufacturing, with a goal to reduce the carbon footprint by 70-90%. Northvolt plans to scale through giga-factories (one currently operational, three under construction) and produce high-performance batteries tailored for specific car manufacturers, distinguishing itself from the commodity products typically sourced from Asia.
+As part of its over $5B capital stack, corporate investors—including Vattenfall, BMW*, and Mercedes—participated in funding Rounds A and B in 2017 and 2019.
+Source: Northvolt, industry reports, interviews and press releases
+* Note: BMW also signed a long-term €2B offtake agreement with Northvolt in 2020. This contract was canceled in 2024 (due to allegedly delays in delivery of the battery production), triggering a strategic review of a planned factory in Borlänge, Sweden
+Global CVC capital pool is estimated at
+~$7B
+annually, with some fluctuations year-to-year fluctuations influenced by corporate sentiment. There are several CVCs operating globally in climate space with notable examples in energy (e.g. BP, Total, Shell), transportation (e.g. Maersk, Amazon,), mining (e.g. AngloAmerican), as well as big-tech companies (e.g. Google Venture or Microsoft Climate Innovation Fund). A notable player in this space is Breakthrough Energy Ventures (BEV), backed by a coalition including Bill Gates, Jeff Bezos and several industry partners. BEV is one of the largest and most influential CVCs in climate finance, investing in a wide range of climate technologies, from energy storage to renewable energy and agriculture.
+Securing CVC funding for climate infrastructure scaleups
+requires a strategic partnership approach
+with a focus on:
+Alignment with priorities
+Aligning with CVC’s parent company’s long-term decarbonization strategy, making the partnership a natural extension of the corporation's strategic vision
+Demonstrating impact
+Demonstrating strong market demand and potential growth while crafting a narrative that aligns with the corporation's strategic agenda, building a compelling case internally
+Legal considerations
+Protecting intellectual property (IP) and maintaining a competitive edge through unique technology developments or patents
+Multiple stakeholder management
+Bringing a mix of investors alongside the CVC to provide additional resources, networks, and expertise while balancing influence and stakeholder interests
+3. Attract catalytic finance to accelerate (late) demonstration projects
+Catalytic finance is an emerging financial solution, primarily from public or philanthropic sources, aimed at mobilizing private sector investment in climate infrastructure. It de-risks projects by absorbing early-stage risks and enhancing project bankability. By funding initial deployments, catalytic finance helps scale innovative climate technologies that might otherwise struggle to attract investment due to high perceived risks or uncertain returns.
+Exhibit 6: Impact of catalytic finance
+Source: Catalytic Finance
+Exhibit 7: Dimension Energy pilot plant in Tucson, Arizona
+Dimensional Energy, founded in 2016, uses innovative technology to convert waste CO2 into renewable fuels and chemicals, primarily focusing on sustainable aviation fuel (SAF), which is essential for decarbonizing the aviation industry. Their business model centers on developing and licensing technology to convert CO2 into hydrocarbons, with future plans to scale production facilities globally.
+To qualify for $10M in financing from Seneca Holdings, Dimensional Energy needed to complete key pre-development activities, including a feasibility study to determine the project’s actual costs, as well as design and engineering work. These costs, covered by Elemental’s $500k D-SAFE funding, unlocked the Seneca Holdings investment, allowing Dimensional to begin construction in 2024 with a goal of producing 200 barrels of SAF daily by 2026. D-SAFE, modeled after Y Combinator’s SAFE, is an innovative mechanism designed to streamline development funding.
+Source: Dimensional Energy, industry reports, interviews and press releases
+The catalytic finance pool for climate is estimated at ~$2-3+B* annually
+and is expected to grow as the need to scale climate infrastructure at critical stages of the "innovation to adoption" journey becomes more evident. Both private and public finance sectors increasingly provide catalytic finance to address these challenges.
+* Note: Estimate based on fund sizes of key investors. The pool is expected to grow in coming years with increasing involvement of development finance and funds like Alterra.
+In the private sector, impact investors like Breakthrough Energy Catalyst and Elemental Accelerator actively support scaling projects globally. On the public finance side, multilateral and bilateral banks (e.g., World Bank, IFC, European Investment Bank, Climate Impact Fund) and Development Finance Institutions (DFIs) such as CDC Group (UK), Proparco (France), DEG (Germany), and OPIC (USA) are playing a significant role in this space in developed and developing markets.
+The range of catalytic funding solutions is broad, including first-loss capital, guarantees, concessional loans, blended finance*, and technical assistance grants. Securing the right catalytic instruments for climate infrastructure scaleups requires, in particular:
+Demonstrating impact
+Demonstrating the effectiveness and scalability of the technology, showing how pilot or demonstration projects enable validation and wider adoption
+Feasibility validation
+Being prepared to present comprehensive documentation during the due diligence process, including business plans, financial statements, impact assessments, legal agreements, and a detailed risk management plan outlining potential challenges and mitigation strategies
+Ensure access to all capabilities and skills, including engineering, construction, and project finance, required to deliver demonstration project and for future scaling
+Reporting and project management
+Providing a detailed breakdown of how the catalytic funds will be used, including a clear timeline and key milestones
+Risk management
+Clearly articulating specific risks (e.g., financial, technical, market) that catalytic funding will help mitigate, making the project more attractive to private investors
+Private capital mobilization effect
+Highlighting how catalytic funding will attract additional private sector investment, e.g. supported by expressions of interest or commitments from potential investors
+* Note: Blended finance refers to the strategic use of public (or philanthropic) capital to mobilize additional private sector investment in projects that deliver social, environmental, and financial returns. It is a financing approach designed to address funding gaps in sectors such as climate infrastructure by combining different sources of capital with varying risk-return profiles.
+4. Leverage corporate demand to increase bankability
+Corporate demand is a powerful force in driving the development of climate infrastructure. It provides the financial stability and market signals necessary to scale climate solution financing. Instruments like Power Purchase Agreements (PPAs), offtake agreements, or supply chain or advance market commitments offer stable revenue streams, enhancing the bankability of projects and securing financing. Corporations, in turn, benefit by locking in volumes and prices while advancing their sustainability goals.
+Exhibit 8: H2 Green Steel planned factory in Boden (visualization) Source: Bodenxt, H2 Green Steel
+H2 Green Steel, a third company in Vargas Group, is a pioneer in the steel industry focused on decarbonizing steel production through the use of green hydrogen. It aims to significantly reduce carbon emissions associated with steel production, which traditionally relies on coal-based processes (~95% lower carbon intensity). The company's flagship project is a state-of-the-art steel plant in Boden, northern Sweden, which integrates renewable energy sources (hydropower), to produce the green hydrogen required for the steel-making process. The Boden plant is expected to start production in 2025 and aims to produce 5 million tons of steel annually by 2030, with a carbon footprint that is substantially lower than traditional steel production methods
+.
+H2 Green Steel leverages strategic partnerships in automotive, construction and heavy industrial production to address the growing demand for sustainable industrial materials. The company secured long-term offtake agreements (5 to 7 years) for over 50% of its volumes in initial years, including contracts with Mercedes, Scania, BMW, Miele or Kingspan. These contracts enabled H2 Green Steel to build a capital stock of over €6B, including equity from multiple investors, debt and grant funding, to construct  the Boden plant
+.
+Source: H2 Green Steel, industry reports, interviews and press releases
+Exhibit 9: H2 Green Steel operating model
+Source: H2 Green Steel
+The corporate-driven finance pool for climate initiatives has reached
+~$200B
+annually and is expected to grow further, fueled by corporate commitments and net-zero pledges. The most notable impact of corporate demand is in the renewable energy sector, where companies across various industries are securing Power Purchase Agreements (PPAs) for clean energy delivery. Major players like Google, Amazon, Meta, Microsoft, Ikea, and Walmart, along with many regional and local companies, are using these agreements to reduce their Scope 1 and 2 emissions.
+Global investors and financiers, such as Brookfield Renewable, are increasingly active in this space, mobilizing additional private capital for renewable projects. In the realm of offtake agreements, several car manufacturers, including Mercedes, BMW, and Scania, have signed contracts to deliver green steel. Other examples include Apple’s procurement of low-carbon aluminum and Mercedes’ contracts for batteries.
+Structuring contracts driven by corporate demand (e.g. PPAs or off-take agreements) requires a thorough preparation with a focus on:
+Alignment with priorities (and specific requirements)
+Identifying long-term partners with with mutual interests, strong financial standing, and experience in handling up to 10-20 year agreement
+Risk management
+Developing clear delivery and logistics plans by specifying delivery schedules, locations, and logistics costs and addressing potential risks like transportation delays, supply chain disruptions, or changes in grid availability for energy projects
+Legal considerations
+Ensuring legal protection through a comprehensive contract that includes protection provisions for both parties, force majeure clauses, termination rights, and dispute resolution mechanisms
+Multiple stakeholder management
+Crafting bankable contract terms —such as pricing, duration, delivery schedules, and penalties for non-compliance — in a way that meets the requirements of lenders and investors
+5. De-risk and accelerate FOAK/NOAK with development finance in Global North
+Development finance, provided by public institutions, multilateral organizations, or development banks, foster economic development and address global challenges, including climate change. While it has traditionally focused on the Global South, development finance is increasingly recognized as essential for scaling climate infrastructure also in the Global North.
+Development finance can take various forms, including concessional loans, grants, blended finance, guarantees, equity investments, and technical assistance. It helps de-risk investments, attract additional private capital, and ensure alignment with national and regional climate policies, thereby supporting governments in meeting their climate commitments.
+Exhibit 10: Svante’s URSA 1000: expected to capture ~500 tonnes of CO
+2
+per day Source: Svante
+Svante, founded in 2007 in Canada, focuses on developing industrial-scale solutions for capturing and managing carbon dioxide (CO₂) emissions. Their business model centers on OEM and proprietary technology, utilizing solid sorbent materials (designed and patented by the company), a rotary absorption machine (produced in-house), and a modular, scalable design that prioritizes energy and cost efficiency. Svante partners with engineering companies to provide turnkey solutions for end customers.
+Out of Svante’s over $500M capital stack, ~$100M in growth financing was provided by the Canada Growth Fund (CGF) in 2024. This funding aims to accelerate and de-risk first-of-a-kind (FOAK) projects, with CGF acting as a co-investor. The Canada Growth Fund Inc. (CGF) is a C$15B independent public fund that supports Canada in speeding up the deployment of technologies to reduce emissions, transform the economy, and ensure long-term prosperity.
+CGF will fund its investment in two tranches. An initial tranche of $50M will be used to accelerate and de-risk FOAK commercial projects currently underway. A potential second tranche, expected to be tied to project-specific requirements, will match Svante’s capital needs for developing and constructing projects alongside the company’s co-development partners.
+Source: Svante, industry reports, interviews and press releases
+The development finance pool is estimated at
+~$360B
+annually
+and is expected to grow. Major Development Finance Institutions (DFIs) in the Global North include:
+EU: European Investment Bank, KfW Development Bank, Nordic Investment Bank, European Bank for Reconstruction and Development, Dutch Development Bank
+Canada: Canadian Infrastructure Bank, Canada Growth Fund
+US*: International Development Finance Corporation, Export-Import Bank of the United States (EXIM), Green Banks (local or state level)
+Asia: Asian Development Bank, China Development Bank, Japan Bank for International Cooperation, Korea Development Bank.
+* Note: In the United States, several development finance institutions and similar entities play a significant role in financing infrastructure, including climate-related projects. While the U.S. does not have traditional DFIs like those found in Europe or developing countries, it does have a variety of public and quasi-public institutions that serve similar purposes.
+Securing funding from Development Finance Institutions (DFIs) for scaling climate infrastructure requires a
+strategic approach
+with a particular focus on:
+Alignment with priorities (and specific requirements)
+Ensuring alignment with the DFI’s mission and priorities (e.g. promoting sustainable development, reducing carbon emissions, or enhancing climate resilience)
+Demonstrating impact
+Clearly articulating the social, economic, and environmental benefits of the project, including its contribution to job creation, poverty reduction, and sustainable growth (incl. a positive impact on local communities)
+Technology potential
+Emphasizing the scalability of the project, as DFIs are often interested in projects that have the potential to be scaled up or replicated in other regions or markets.
+Feasibility validation
+Conducting thorough feasibility studies to demonstrate the project’s potential for success, including market analysis, resource assessments, and environmental impact assessments, while ensuring a clear and sustainable business model
+Risk management
+Identifying and assessing all potential risks associated with the project, including technical, financial, regulatory, and environmental risks and providing detailed mitigation strategies for each risk
+6. Explore guarantees from MDBs, DIFs, ECAs* or specialized institutions
+* Note: MDBs: Multilateral development banks, DFIs: Development finance institutions, ECAs: Export credit agencies
+Guarantees are financial instruments designed to mitigate risks by ensuring that investors or lenders are compensated in the event of default or other financial losses. These guarantees—such as credit, political risk, partial risk, loan, export, and performance—help bridge the gap between public climate goals and private sector risk tolerance. By reducing perceived risks, guarantees make climate infrastructure projects more attractive and financially viable, enabling them to secure financing that might otherwise be unattainable.
+Guarantees play a crucial role in mobilizing private, long-term capital and are often essential components of public-private partnerships. They help align the interests of public and private stakeholders by mitigating risks associated with government obligations or regulatory environments, thus facilitating the successful implementation of climate projects.
+Exhibit 11: Eavor’s next-generation geothermal project in Munich, Germany Source: Eavor
+Eavor, founded in 2017, is a Canadian next-generation geothermal energy company pioneering an innovative approach called Eavor-Loop™. Their first demonstration project in Alberta, Canada, was successfully completed in 2019, after which Eavor expanded into the European market with projects in Germany.
+Out of Eavor's over $300M capital stack, ~$90M was provided as a grant from the EU Innovation Fund to develop a project in Munich, and about $45 million was secured as a loan from the European Investment Bank (EIB). The EIB recently granted €45M in financial support for Eavor’s commercial project in Geretsried, marking a significant milestone towards establishing a breakthrough geothermal energy source in Europe.
+This new investment, backed by the InvestEU program, comes in addition to a ~€92M grant awarded to Eavor by the EU Innovation Fund. Alongside the EIB, key entities financing this venture include the Japan Bank for International Cooperation, ING Bank N.V., and Mizuho Bank, Ltd. , with loan insurance provided by the Japanese export credit agency Nippon Export and Investment Insurance. The total funding package, amounting to €130M, complies with the green loan principles of the Loan Market Association.
+Source: Eavor, InvestEU, industry reports, interviews and press releases
+Exhibit 12: Geothermal technology overview: Conventional and Next-generation designs Source: Pathways to Commercial Liftoff: Next-Generation Geothermal Power report, DoE, March 2024
+Multilateral development banks, development finance institutions, export credit agencies, and other specialized institutions provide climate finance guarantees. The most recognized among them include the World Bank (and its subsidiaries/agencies), African Development Bank (AfDB), Asian Development Bank (ADB), European Bank for Reconstruction and Development (EBRD), Inter-American Development Bank (IDB), Export-Import Bank of the United States (EXIM), European Investment Bank (EIB), Nippon Export and Investment Insurance, or U.S. International Development Finance Corporation (DFC).
+To leverage climate guarantees for scaling climate infrastructure, a similar approach to securing funding from development finance institutions is needed. This includes a specific focus on thorough risk assessment to identify all potential risks—technical, financial, regulatory, and environmental. The assessment should demonstrate a deep understanding of the project’s challenges and outline effective mitigation strategies. It's crucial to clearly articulate why a guarantee is necessary for the project to proceed, show that the project would not be viable without it, and explain how it will attract additional private sector investment or financing.
+7. Support adoption of climate technologies in Global South with GCF or GEF
+The Green Climate Fund (GCF) and the Global Environment Facility (GEF) are fundamental international financial mechanisms supporting climate action. Working with multiple partners, these institutions provide essential funding and technical support to help developing countries scale climate infrastructure.
+GCF and GEF fund innovative approaches and early-stage technologies with the potential to scale and transform markets. They are crucial in de-risking projects, mobilizing private capital, and investing in capacity building and technical assistance to ensure local institutions can manage and sustain climate infrastructure projects.
+Exhibit 13: Financial mechanisms supporting global climate actions
+Macquarie, in partnership with the Green Climate Fund (GCF), launched a new blended finance platform called 'Vertelo' to speed up the adoption of electric vehicles (EVs) in India. The platform, which officially started in April 2024, aims to invest $1.5B* over its term to support India's transition to electric vehicles, aiming at 60% of electric buses by 2030. Over ten years, Vertelo is expected to help reduce greenhouse gas emissions by ~9.5 million metric tons of CO
+2
+equivalent.
+Chalo, an Indian transportation platform known for its innovative approach to public transport through electric buses, works closely with local governments and transit authorities. They primarily operate under a business-to-government (B2G) model, selling or leasing buses to public transportation agencies, often including maintenance and operational support contracts.
+In 2024, Vertelo signed a long-term lease agreement with Chalo to provide 44 electric buses manufactured by JBM Auto, part of the JPM Group. These buses, which are part of JBM's ECOLIFE series—fully electric, zero-emission buses—will be used in Mumbai's public transportation system. The ECOLIFE buses are equipped with advanced lithium-ion batteries and come in different variants, including 9-meter and 12-meter models, tailored to the needs of different cities.
+Source: GCF, Macquarie, Chalo, JBM Group, industry reports, interviews and press releases
+* Note: GCF has approved a commitment for up to $200M of junior equity to establish a first-of-its-kind EV-focused leasing and financing company in India. The blended finance structure is designed to crowd-in private sector capital, leveraging GCF’s commitment to provide a risk-mitigating buffer to commercial investors. Macquarie aims to raise a further $205M from institutional investors to capitalize the platform, and over time, the platform hopes to mobilize a total of ~$1.5B of capital (including debt finance)
+The Green Climate Fund (GCF) and the Global Environment Facility (GEF) support the global climate goal of ~$100B annually, with expectations for an increase following COP29.
+As of 2023, the GCF has mobilized and allocated around $10B in funding, while the GEF has provided over $22B in grants, supplemented by more than $120B in co-financing from other sources. Both organizations collaborate with partners such as multilateral development banks, national institutions, NGOs, and private sector entities to implement climate infrastructure projects.
+Securing funding from the GCF and GEF for climate infrastructure requires a thorough process that aligns with the specific requirements of the chosen partners with a focus on:
+Alignment with priorities (and specific requirements)
+Ensuring alignment with the overarching goals and processes of the GCF or GEF, and respective partners
+Demonstrating impact
+Articulating the potential to reduce greenhouse gas emissions or enhance community resilience through climate adaptation, including quantified outcomes and sustainable development co-benefits
+Technology potential
+Highlighting the project's future scalability, as this is particularly attractive to both the GCF and GEF
+Feasibility validation
+Demonstrating technical viability, with a clear implementation plan, realistic timelines, and a well-defined scope
+Risk management
+Identifying, assessing, and outlining mitigation strategies for all potential risks, including technical, financial, regulatory, and environmental risks
+8. Securitise your products to accelerate scaling and reduce financing costs
+Securitization is a powerful tool for bridging the financing gap in climate infrastructure, enabling the rapid scaling needed to progress with global climate targets. By pooling various financial assets (such as loans, leases, or receivables) and converting them into securities sold to investors, securitization opens access to new capital markets, enhances liquidity, lowers the cost of capital, and distributes risks. This process frees up capital, allowing climate infrastructure to scale more quickly while investors, who are increasingly considering ESG and sustainability factors, gain access to green assets.
+Exhibit 14: AIRA’s product suite Source: Aira
+AIRA, founded in 2022 as part of the Vargas Group, aims to install and serve five million homes in Europe with heat pumps based on a carefully designed direct-to-consumer (DTC) model. The business model focuses on producing low-cost heat pumps, offering an end-to-end (E2E) service, providing a customer-centric digital interface, and utilizing a subscription-based approach.
+As part of its over €400M capital stack, AIRA secured a €200M debt facility from BNP Paribas, backed by heat pump securitization. BNP Paribas is providing a warehouse financing facility that aims to bridge this financial gap, allowing AIRA to draw funds as needed for heat pump installations. The bank is providing the most senior tranche in the vehicle, and a mezzanine, or lower-rated tranche, may be added in the coming months. The securitization will package installment purchase agreements for up to 20,000 AIRA customers in Germany.
+Source: AIRA, industry reports, interviews and press releases
+Banks provide
+~$230B
+in climate financing annually
+, with some of this amount eligible for securitization. Many banks, having committed to net-zero goals across several brown sectors (including signing the Net Zero Banking Alliance), actively seek to contribute to climate solutions. They set up GHG emission measuring methodologies and sector-by-sector specific targets and increasingly consider climate aspects in their financing decisions (as shown in Exhibit 15 below). In the US, banks like Goldman Sachs, JPMorganChase, or Citi, and in Europe, banks such as BNP Paribas, ABN AMRO, ING, or Deutsche Bank, are building capabilities and driving innovation in areas like the securitization of solar installations, energy-efficient homes, heat pumps, electric vehicles, and renewable projects.
+Exhibit 15: Climate targets of banks (examples of ABN AMRO and JPMorganChase) Source: ABN AMRO Annual Report 2023, JPMorganChase Annual Report 2023
+The ability to securitize products or assets to accelerate scaling and reduce financing costs depends on several factors:
+Asset quality and cash flows
+Proving quality and stability of underlying assets demonstrated through predictable cash flows and consistent performance over time
+Demonstrating impact
+Defining clear impact metrics, such as measurable reductions in carbon emissions, not only demonstrates the environmental benefits but also aligns with the growing demand for sustainability-focused investments
+Reporting and project management
+Ensuring transparency and data management to build investor confidence through maintaining detailed, accurate data about the underlying assets, including historical performance records, financial metrics, and ongoing updates
+Legal considerations
+Selecting and aligning with the legal framework to ensure the enforceability of contracts, protection of property rights, and adherence to legal requirements in the relevant jurisdiction
+Investor demand and structuring
+Verifying the level of investor demand and assessing market liquidity for specific green assets, incl. active secondary markets
+Structuring the securitization to cater to different investor risk-return profiles, enlarging the group of potential investors
+9. Tap into pension plans to support acceleration
+Pension plans, as large institutional investors managing trillions of dollars globally, have the potential to significantly finance climate infrastructure due to their long-term focus and commitment to ESG principles. They invest through various instruments, including direct and indirect equity investments, green or transition bonds, infrastructure financing, public-private partnerships (PPPs), real estate financing, and impact investing. Their long-term investment horizon aligns well with the needs of climate infrastructure projects.
+Exhibit 16: Top 20 pension funds Source: WTW
+Northvolt, founded in Sweden in 2016 by former Tesla executives as the second venture of the Vargas Group, aims to produce the world’s greenest batteries. The company has positioned itself as a key player in the European battery market, aiming to challenge Asian dominance in battery production. Northvolt’s business model focuses on green manufacturing, aiming to reduce its carbon footprint by 70-90%. The company is scaling through giga-factories—one currently operational and three under construction—producing high-performance batteries optimized for specific car manufacturers rather than the commodity products typically produced in Asia.
+As part of its over $5B capital stack, more than $4B was raised in funding rounds C, D, and E (2020-2022), with significant contributions from Swedish and Canadian pension plans.
+Source: Northvolt, industry reports, interviews and press releases
+Pension plans globally manage a vast pool of assets exceeding
+$50T
+. While not all of this capital will be invested in climate solutions, there is a trend toward sustainable and climate-related investments. This shift is driven by recognizing climate risks and opportunities, along with pressure from beneficiaries and regulators to align with Environmental, Social, and Governance (ESG) principles (although ongoing debates take place in some jurisdictions or states to what extent ESG factors should be taken into account by pension plans). Some of the largest pension plans include the Norway Government Pension Fund Global (GPFG), Dutch Pension Fund APG, California Public Employees' Retirement System (CalPERS), Canada Pension Plan Investment Board (CPPIB), Ontario Teachers' Pension Plan (OTPP), AustralianSuper, New York State Common Retirement Fund, and PensionDanmark.
+Securing funding from pension funds requires a significant scale of operations and - depending on the type of financing - liaising with respective teams at pension plans. It is crucial to align with fiduciary duty, demonstrating how the project will contribute to long-term financial returns while responsibly managing risks. Additionally, any legal or compliance issues must be addressed, ensuring the project is structured in full compliance with fiduciary and regulatory obligations.
+10. Secure project finance to scale commercially viable climate infrastructure
+Project finance is particularly well-suited for financing large-scale, capital-intensive climate infrastructure projects. It relies on the projected cash flows of the project (secured by e.g. long-term offtake contracts) rather than the balance sheets of its sponsors. The non-recourse or limited-recourse nature of project finance makes it a favorable option for large-scale climate infrastructure, where risks are allocated among various stakeholders, including sponsors, lenders, and contractors. This approach reduces the financial burden on any single entity and enables securing financing for large-scale climate projects.
+Exhibit 17: Gemini Offshore Wind Park (The Netherlands) Source: Renewable Technology (credit: Van Oord)
+The Gemini Offshore Wind Park is one of the world's largest offshore wind farms, located in the North Sea, about 85 kilometers off the coast of Groningen in the Netherlands. Built between 2015 and 2017, it has an installed capacity of 600 megawatts (MW) and consists of 150 Siemens SWT-4.0-130 wind turbines, each generating 4 MW. Beyond reducing greenhouse gas emissions from electricity generation, the Gemini project has positively impacted the economy by creating jobs during both the construction and operational phases. It has also played a significant role in advancing the Dutch offshore wind industry, now considered one of the most developed in the world.
+The total investment for the Gemini project was ~€2.8B. The financing was secured through a mix of equity from consortium partners and debt financing from 25 international banks and financial institutions. The equity was provided by a consortium of investors, including Northland Power Inc. (Canada), Siemens Financial Services (Germany), Van Oord (Netherlands), and HVC (Netherlands).
+The project secured ~€2B in debt financing, structured as non-recourse project finance, which included both senior and subordinated loans. The senior debt was provided by a diverse group of European and international banks. The European Investment Bank (EIB) contributed a significant loan of €587 million, recognizing the project's alignment with the EU's climate and energy goals. Denmark’s export credit agency, Eksport Kredit Fonden (EKF), supported the project with guarantees, particularly for Danish-manufactured components like Siemens wind turbines. EKF’s involvement lowered the risk for lenders and made it easier to raise debt capital. Additionally, the project benefited from the Dutch government’s SDE+ subsidy scheme, which provided financial incentives for producing renewable electricity.
+Source: Gemini, industry reports, interviews and press releases
+The global pool for climate project financing exceeds
+$500B
+annually
+, with various financing structures, sources, and institutions supporting large-scale climate infrastructure. Key players include Multilateral Development Banks (MDBs), Export Credit Agencies (ECAs), Development Finance Institutions (DFIs), Green Banks, specialized institutions, commercial banks, and private equity/infrastructure funds.
+Securing project financing for scaling climate infrastructure requires developers to navigate a complex set of critical success factors to attract investment and manage the risks of large-scale projects with a particular focus on:
+Asset quality and cash flows
+Establishing stable and predictable revenue streams, often through long-term power purchase agreements (PPAs) or offtake contracts with creditworthy entities
+Operating within a well-defined legal and regulatory environment that supports the enforceability of contracts, property rights, and environmental compliance with a legal framework mitigating risks associated with regulatory changes
+Feasibility validation
+Delivering a comprehensive feasibility study that demonstrates the technical, financial, and operational viability of the project, including detailed assessments of technology, market demand, financial projections, and environmental impact
+Risk management
+Effective risk management with proactively identifying and developing strategies to mitigate risks (e.g. technical failures, market fluctuations, or regulatory changes), reducing the likelihood of project disruptions
+Investor demand and structuring
+Balancing a mix of equity and debt financing to enhance the project’s financial structure viability and reduce the overall cost of capital
+Leveraging guarantees and credit enhancements (e.g. multilateral development banks, development finance institutions, or export credit agencies) to secure financing on favorable terms and attract a broader range of investors
+Multiple stakeholder management
+Building strong relationships with all stakeholders—including local communities, government authorities, and potential investors and financing institutions through early engagement, open and transparent communication, securing their support, mitigating opposition, and disciplined execution of the timelines
+Vargas Group:
+A playbook for climate infrastructure deployment acceleration?
+Exhibit 18: Vargas Group logo Source: Vargas Group
+Vargas Group was founded in 2014 with the ambitious goal of reducing 1% of global emissions. As a long-term, hands-on investor, Vargas specializes in identifying, validating, financing, launching, and scaling climate impact companies. To date, they have successfully established five companies—Polarium, Northvolt, H2 Green Steel, Aira, and Syre—collectively raising over €20B through various financial instruments.
+The Vargas Group’s greenfield model builds companies from scratch, leveraging scale, innovation, and technology to disrupt and decarbonize high-emitting sectors:
+Focus on transformational macro trends, and large markets, where manufacturing “giga” scale drives efficiency (often with already proven technologies) and cost reduction and decarbonization can have the most significant (economic) impact
+Assembling teams of executives, generalists, and industry experts to foster innovative thinking, recognizing that true industry transformation often requires fresh perspectives. The purpose-driven mission and potential for large-scale impact help attract top talent
+Through vertical integration (end-to-end approach), maintaining control over key aspects of the manufacturing and delivery process, ensuring cost efficiency and reduced carbon footprints.
+Strategic collaboration with major corporations (e.g. Volkswagen and IKEA), securing offtake agreements that provide financial stability and market access, and technology suppliers, aligning incentives across the entire value chain
+Aligning with regulatory frameworks and position themselves as enablers of transformative industry change to facilitate industry-wide shifts
+Thorough validation of business case, before proceeding with development, through detailed feasibility studies and confirmation of strong market demand (demand first approach)
+Employing a wide range of financing instruments for climate infrastructure projects (with partners experienced in industrial sectors), supported by robust business/financial models and clear implementation roadmaps
+Continued emphasis on high-paced and a disciplined approach to implementation.
+Source: Vargas, industry reports, interviews and press releases
+Summary
+A range of new financing options is increasingly available for climate infrastructure scaleups — the combination of the target market potential, product features/differentiators, and team impact available financing solutions. Depending on the technology readiness level (e.g. R&D stage vs proven technology), various paths to optimize the capital stack exist, enabling flexibility, reducing the funding costs, and accelerating the deployment. By continuously shaping their strategy, business model, strategic partnerships, and roadmaps, climate infrastructure scaleups, and their investors can leverage new financing solutions, optimize their capital stack, and accelerate the deployment of new technologies.
+Exhibit 19: Key elements impact opportunities to optimize capital stack for climate infrastructure scaleups by
+Jarek Dmowski
+Are you a
+climate infrastructure scaleup or startup
+that looks at how to apply “The Capital Stack for Scaling Climate Infrastructure”?
+Are you a
+climate/impact investor
+looking to support your portfolio in accelerating the scaling of climate solutions?
+Are you
+an infrastructure investor
+looking to discuss new opportunities?
+Do you manage
+an investment portfolio (incl. brown sectors)
+with increased focus on meeting climate goals or looking for more effective engagement?
+Do you have comments, questions or want to discuss the findings?
+Connect with Jarek directly on LinkedIn:
+https://www.linkedin.com/in/jarek-dmowski/

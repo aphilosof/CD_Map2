@@ -1,0 +1,136 @@
+Title: A Look at Building Companies
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-look-at-building-companies
+==============================
+
+Welcome to
+Climate Drift
+, where we explain climate solutions and guide you to find your role in our race to net zero.
+If you haven’t subscribed yet, sign up here:
+Subscribe
+Hey there 👋
+Skander, here!
+We are continuing our deep dive into companies attending
+The Drop conference
+in Sweden next week.
+Buildings significantly contribute to global carbon emissions through various phases of their lifecycle. The production and transportation of building materials, especially concrete and steel, emit substantial CO2. Insulation plays a pivotal role in energy conservation, with inadequate insulation leading to increased energy use for heating and cooling. Energy control, through smart systems and designs, can optimize power consumption, mitigating emissions from electricity sources. Traditional heating methods, often reliant on fossil fuels, further amplify emissions.
+Till next week we aim to explore startups across nine sectors: from
+Transportation yesterday
+, to Buildings today, to Power, Circular Economy, Food & Agriculture, Industry, Finance, Software and Carbon Removal.
+In Part 1 we shine a light on Transportation
+🚄
+A Look at Transportation Companies
+Skander Garroum
+·
+August 29, 2023
+Read full story
+In Part 2 we explore the Built Environment.
+🏗️
+A Look at Building Companies
+Skander Garroum
+·
+August 30, 2023
+Read full story
+In Part 3 it is time for the Circular Economy
+♻️
+A Look at the Circular Economy
+Skander Garroum
+·
+August 31, 2023
+Read full story
+In Part 4 we look at Industry 🏗️
+A Look at Industry
+Skander Garroum
+·
+September 1, 2023
+Read full story
+In Part 5 we try to decarbonize Food & Agriculture 🍃
+A Look at Food & Agriculture
+Skander Garroum
+·
+September 4, 2023
+Read full story
+Let’s dive in 🌊
+Let’s first dive into the emissions connected to buildings
+From the great
+State of Climate Action
+Buildings and their associated systems are responsible for nearly 40% of global carbon dioxide  emissions when both operational and embodied emissions are considered:
+Building Materials:
+Concrete and steel are particularly carbon-intensive. For instance, cement (a key component of concrete) production accounts for approximately 8% of global CO2 emissions.
+Insulation:
+Proper insulation can significantly reduce a building's energy demand. In the U.S., for instance, heating and cooling account for about 48% of the energy use in a typical home, making it the largest energy expense. Improving insulation can thus have a notable impact on this figure.
+Energy Control:
+Buildings with smart systems and better design can use up to 50% less energy than buildings designed without energy efficiency in mind.
+Heating:
+In the EU, heating and hot water alone account for around 79% of total final energy use in households. This is significant, especially when fossil fuels are the primary energy source.
+Let's explore the solutions these startups have introduced.
+BlueHeart Energy
+Blue Heart Energy is currently developing the first heat pump for residential use based on a Thermo Acoustic (TA) heat engine, a toxic-free, flexible and highly efficient solution. Its technology has been designed to be easily integrated by OEMs and system integrators in existing heating/cooling heat pumps, enabling a smooth market adoption.
+http://www.blueheartenergy.com
+http://www.linkedin.com/company/blue-heart-energy
+Free Heat
+FreeHeat steers energy assets according to the power markets to reduce costs and CO2-emissions.
+https://www.getfreeheat.com/
+Legacy: Carbon Accounting for Real Estate
+Legacy, based in Copenhagen, is dedicated to simplifying sustainability for real estate owners by streamlining their data organization and collection. With commercial real estate owners confronting evolving compliance and sustainability demands, Legacy offers a fully auditable CO2 accounting platform. This ensures transparent and reliable data exportation in line with regulatory changes. Legacy enables real estate owners to confidently monitor and report carbon emissions across your real estate assets.
+http://www.legacyco2.com
+http://www.linkedin.com/company/wearelegacy
+Findable
+Their AI-powered platform offers an automated workflow for building documentation. The system aims to streamline the process of organizing building documentation, potentially reducing manual sorting hours.
+http://www.findable.no
+http://www.linkedin.com/company/findable-ai
+Hyperion
+Founded in Helsinki in 2019, Hyperion Robotics specializes in 3D printing reinforced concrete using recycled materials. Their robotic system aims to produce concrete structures more efficiently, affordably, safely, and sustainably than traditional methods by upcycling industrial waste. Hyperion seeks collaborations to further their goal of enhancing the concrete industry's sustainability. Interested partners are encouraged to connect. Concrete 3D Printing: Pioneering sustainable and automated construction.
+http://www.hyperionrobotics.com
+http://www.linkedin.com/company/hyperionrobotics
+Modulize
+Modulize, based in Oslo, Norway, creates web-based software solutions to promote sustainable building in the construction industry. Championing offsite construction, Modulize sees it as a pivotal solution to global sustainability challenges. Offsite methods can potentially reduce waste, emissions, costs, and build times, address labor shortages, and facilitate material reuse at a building's lifecycle end. Through their software, Modulize aims to scale offsite construction without compromising architectural integrity or uniqueness.
+http://www.modulize.com
+http://www.linkedin.com/company/mdlz
+PropTech Denmark
+PropTech Denmark is a non-profit organization dedicated to fostering innovation and technological advancements in Real Estate. Positioned at the crossroads of traditional industry and tech-driven pioneers, they champion collaboration across the value chain, believing that united efforts yield transformative results. They offer education, support, and a platform for co-creation, aiming to shape the future of Real Estate through digital transformation and innovative business models.
+http://www.proptechdk.dk
+http://www.linkedin.com/company/proptech-denmark
+A:gain
+A:gain, Copenhague based, offers upcycled building materials, addressing the construction industry's significant waste and carbon footprint. By converting waste, byproducts, and unused resources into innovative products, a:gain provides an environmentally-conscious alternative for the construction sector. Their solutions come with assured quality, certifications, and timely deliveries, making it easier for professionals to choose sustainable options.
+http://www.again.dk
+http://www.linkedin.com/company/a-gain
+Revalu
+Revalu, Hamburg Germany based, offers a material data platform aimed at enhancing the green transition in the built environment. Their platform assists stakeholders in gauging the environmental impact during the design phase. The beta version is currently accessible, and they invite architects and manufacturers to sign up for beta testing.
+http://www.revalu.io
+http://www.linkedin.com/company/revalu-impact-ag
+Finch
+Finch, based in Malmö, Sweden, enhances building design using AI and graph technology. Their platform provides real-time performance feedback, error detection, and solution optimization. Register to be among the early adopters.
+http://www.finch3d.com
+http://www.linkedin.com/company/finch3d
+Lumoview
+Lumoview, Cologne, Germany based, offers a swift and user-friendly system to digitize buildings, providing 3D CAD models, floor plans, and room books in just 2 seconds per room. Aimed at enhancing sustainability, Lumoview aids in reducing energy consumption and CO2 emissions through deep renovations.
+http://www.lumoview.com
+http://www.linkedin.com/company/lumoview
+Preoptima
+Preoptima, London based, transforms sustainable building design with real-time carbon analysis. Acting as a "Carbon Twin," it instantly assesses the whole life carbon (WLC) impact of design choices. Their Web App and API offer access to carbon data, material impact, and accurate bill of quantities. Utilizing geolocation and real-time analytics, Preoptima provides insights into the WLC footprint from a project's inception, aiding in minimizing embodied carbon and emissions.
+http://www.preoptima.com
+http://www.linkedin.com/company/preoptima
+Thermulon
+Thermulon, based in the UK, introduces a pioneering building insulation material that balances fire-safety, performance, and affordability. Utilizing advanced chemical and processing technologies, it's crafted from the molecular level to address the construction industry's evolving regulatory standards. Specializing in aerogel insulation, Thermulon ensures structures achieve energy efficiency without sacrificing fire safety.
+http://www.thermulon.com
+http://www.linkedin.com/company/thermulon
+Kapacity.io
+Kapacity.io, in Helsinki, Finland, works on the next generation of smart energy grids, emphasizing electricity Load Balancing in buildings. By aligning electricity consumption with times of lower costs and higher renewable production, we help customers save on electricity and reduce CO2 emissions. By integrating these buildings into a Virtual Power Plant, Kapacity.io aids in power grid stabilization during peak demand. Catering to building owners, asset managers, and energy companies, their goal is to address the 30% global CO2 emissions from buildings and drive it to zero.
+Kapacity.io
+http://www.linkedin.com/company/kapacity-io
+Carno
+Carno, London based, streamlines the decarbonization process for installation businesses. They replace complex spreadsheets and swiftly complete MIS3005 heat loss calculations, choose necessary components, and automate MCS documentation. For heat pump installers & surveyors, their software can cut admin tasks by up to 80%. With digital surveys, automated MCS compliance, and system design, Carno can save up to 6 hours per project.
+http://www.carno.io
+http://www.linkedin.com/company/carno-heat-ltd
+Klara Byggsystem
+Klaragrunden in Sweden offers a patent-protected foundation solution suitable for various construction projects, from villas to large-scale properties. By replacing concrete with solid wood and integrating proven moisture, radon protection, and insulation methods, it ensures reduced construction costs, shorter build times, higher precision, and a smaller environmental footprint. Through an industrialized process, layers are meticulously assembled, allowing for precise duct insertion and wall mounting. These prefabricated foundations are versatile, designed to fit any blueprint, minimizing on-site adjustments and streamlining the construction process.
+http://www.klarabyggsystem.se
+http://www.linkedin.com/company/klara-byggsystem
+And this is our review of proptech companies at The Drop. As always: If there are any companies you'd like us to delve deeper into, please let us know.
+For those attending The Drop, I'd love to connect. Reach out to me at
+[email protected]
+.
+Skander
+PS: If you want to share this list, you can simply click on the following button
+Share

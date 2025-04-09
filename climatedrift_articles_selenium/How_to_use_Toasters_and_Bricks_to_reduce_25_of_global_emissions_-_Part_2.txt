@@ -1,0 +1,127 @@
+Title: How to use Toasters and Bricks to reduce 25% of global emissions - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-to-use-toasters-and-bricks-to-aaa
+==============================
+
+Explore
+Climate Drift
+, explaining climate solutions and understanding your part in achieving net zero.
+Haven't joined yet? Dive in and sign up here:
+Subscribe
+Amplify our message by sharing with colleagues, family, friends, and everyone you know. For each share, we commit to delivering another post!
+Share Climate Drift
+Hey 👋
+Skander here.
+In Part 1 of our 2 Parter on Industrial Heat we looked at the problem: 25% of global energy and emissions is coming from different uses of heat in industrial processes.
+How to use Toasters and Bricks to reduce 25% of global emissions - Part 1
+Skander Garroum
+·
+September 25, 2023
+Read full story
+Today we are looking at a company solving the problem, by combining the technology of bricks and toasters: Rondo.
+Let’s dive in 🌊
+TLDR:
+The Rondo Heat Battery delivers 24/7 zero-carbon, economical industrial heat, fueled by affordable renewable electricity. It supplies on-demand high-temperature heat as hot air, steam, or hot water, enabling customers to reduce operating costs while utilizing zero-carbon energy continuously.
+It takes a village to build a company - and a village leader
+Let’s first take a look at Rondos leadership - and it’s founder and CEO John O’Donnell. Currently Rondo is a fairly small company: it scaled to 90 people this year.
+Originally a computer scientist working on fusion research, John O’Donnell ventured into various tech sectors with 6 startups, from Semiconductors to supercomputers. In 2005 energy technologies was the next disruptive frontier, triggering his shift to climate tech.
+In exploring solutions, he realized the significance of the solar thermal space and the potential it held for generating industrial heat - leading him to cofound 2 companies in the space: GlassPoint Solar and Ausra. However, scaling solar thermal posed significant challenges, culminating in the company's acquisition by French giant Areva.
+John shifted for a few months to look at
+Carbon Removal
+, but he found his Moby Dick: How to solve the Industrial Heat problem?
+Want to dive into Carbon Removal? Check out our guide here:
+The Guide to the Carbon Removal Hype
+Skander Garroum
+·
+August 21, 2023
+Read full story
+Research led him and his team to a 1828 patent used by the steel industry—a blast stove storing high-temperature heat in bricks. After 78 design iterations, they succeeded in leveraging this high heat capacity, durable, and economical material, overcoming its brittleness and low heat conductivity, paving the way for sustainable, large-scale solutions and Rondo in its current form.
+The Unlock - what changed now?
+The landscape of renewable energy has undergone a transformative evolution, primarily driven by advancements in wind and solar photovoltaic (PV) technologies over the last 15 years. A staggering 95% reduction in costs has elevated intermittent electricity to a new paradigm, positioning it as the most affordable form of energy ever known to humanity.
+Want to learn more about How Solar got cheap? Dive into our primer.
+How Solar got cheap
+Skander Garroum
+·
+August 8, 2023
+Read full story
+To recap our
+dive into industrial heat
+so far, historically, utilizing fossil fuels for generating heat was the most cost-effective method due to the high costs of alternative energy sources. However, the emergence of cheaper renewable energy, particularly wind and solar power, has begun to alter this dynamic.
+The hurdle we face now is converting the intermittent energy supplied by wind and solar into constant heat, a requirement for many industrial applications, including smelters, factories, and various production plants. These applications operate continuously, often for months or years, and any interruption can cause significant damages and delays, making reliability crucial.
+Unlike fossil fuels, which can generate energy continuously as long as fuel is available, renewable energy sources are dependent on environmental conditions. Wind power relies on wind speeds, and solar power depends on sunlight, both of which are not constant and can vary significantly  - they are intermittent.
+Some industrial processes however are so sensitive that a mere half-second interruption in energy supply could lead to a week-long restart process. Thus, the conversion of plentiful intermittent electricity into a constant supply, at prices below those of fossil fuels, is the challenge to solve.
+Other tailwinds: Regulatory and social
+On the regulatory side we are seeing a wave of varied public policies, such as the European ETS, influencing carbon prices globally due to the newly implemented carbon border adjustment mechanism -
+Check out this explainer by Gabriel Rozenberg here.
+Policies in countries like Canada, establishing nationwide carbon prices, and numerous other jurisdictions are creating markets where investing in carbon prices is becoming a reality - forcing industry to rethink and rework their processes.
+Additionally, corporations are taking steps themselves by opting for low-carbon commodities, exemplified by the trading of low-carbon aluminum at a premium over its conventional counterpart on global exchanges. Multiple factors, including the base economics of power access and the relative costs and availability of fuels and renewable energy, are driving these shifts.
+How it works: Thermal storage
+Consider the common coffee thermos on your desk; it's a real-time energy storage device. Imagine filling your thermos with hot coffee and wrapping it in multiple blankets; when opened three days later, you'll find the coffee still retains its heat. Unlike chemical systems subject to self-discharge, the stored energy in such a setup can only dissipate through insulation to the surroundings or be transferred to a target object.
+In fact, the energy retained in your thermos can surpass that in your laptop battery, and it does so more economically. Presently, storing heat, as in a thermos, is a relatively inexpensive process. What components are involved? There's hot water, capable of retaining significant energy per degree of heat, encased within an insulating barrier. The efficacy of the insulation determines the duration for which energy can be stored.
+A short history of industrial heat storage
+So, if this is such a clear and proven technology - why are we not using it? Well surprise: As of now, approximately 30 gigawatts of heat storage are active globally. This is 10x the storage of lithium ion batteries in the world (around 3 gigawatts).
+The concept of heat storage is
+not novel
+; the first patent for a heat storage device, named the Cowper stove, was issued in 1828. This invention features a tower filled with a thousand tons of brick, structured with air passages, operating on a 1-hour cycle.
+The device utilizes the residual heat from blast furnace exhaust to heat the bricks to approximately 1500°C. For around 20 minutes, fresh air is circulated through the tower, delivering 115 megawatts of heat to the furnace before the cycle repeats. This cyclical heating and cooling process occurs 24 times a day, and these structures have a lifespan of about 30 years. Currently, there are a million tons of such bricks in service in blast furnaces worldwide, demonstrating the longstanding and extensive application of heat storage in industrial processes.
+Rondo’s breakthrough: Combining this with a toaster
+Brick is renowned for being a poor conductor of heat, hence its frequent use in constructing fireplaces. For efficient heating, the brick must be heated uniformly; an imbalance, like one side in water and the other in fire, can lead to fracturing. However, when placed centrally within a fire, it can quickly attain the fire's temperature. It's a seemingly evident concept but one that required 80 iterations to perfect.
+If you look inside a Rondo unit, you'll notice a structure composed of bricks arranged to create open chambers, forming a checkerboard pattern of bricks and open boxes. Integrated within this structure are electric heaters - based on the same technologies found in toasters - which generate radiant heat within these chambers.
+And as you might recall (I didn’t) - the thermal radiation of any object in the universe is proportional to the fourth power of its temperature. Objects in proximity exchange heat until equilibrium is reached, resulting in uniform temperature.
+This is the discovery that enabled Rondo to efficiently heat the bricks with toaster technology in between each brick and achieve 98% efficiency.
+Let’s see how this compares to the other industrial decarbonisation paths we looked at in Part 1:
+Business Model: How Rondo is making money
+As it stands, businesses, whether they are producing baby food or steel, typically don't source their fuel; they procure energy as a service, allocating their capital primarily to their core processes.
+Industrial heat could be one of the most lucrative business opportunities of our era:
+Global TAM (total addressable market) for Industrial Heat could be $1 trillion ($107 billion in US).
+Of course there are a lot of possibilities how heat can be provided and financed, one just needs to look at the diverse solutions in the realm of conventional gas and steam turbines:
+Some entities operate their own cogeneration plants, while others might contract external services for their electricity or heat needs.
+jI expect that the 'renewable heat as a service' sector will evolve similarly.
+If one zooms out at the potential stakeholder influencing this market: In the U.S. there's already a thriving community of developers adept at optimizing costs for solar and wind energy projects, though many haven't explored industrial facilities. In Europe, there are already developers initiating renewable industrial heat projects.
+Rondo is currently providing 2 ways to work with them:
+Buy your own heat battery:
+They offer commissioned, guaranteed installed heat batteries across four continents, allowing customers to reap the complete economic advantages of generating their own heat and power at a cost below that of fossil fuels.
+Heat as a Service:
+They are pioneering and financing 'heat as a service,' with a primary focus on North America. This service is currently tailor-made to ensure low and predictable power costs without the necessity for upfront capital. They collaborate with each customer to determine the best financing structure and terms to suit their individual needs.
+Another market dynamic that influences this is that the deployment of wind and solar is experiencing a slowdown — not due to a decline in demand — but due to congestion issues.
+This is touching upon another problem that Rondo might solve: The interconnection queue time, the time for new renewable projects to connect to the grid, is currently staggering, standing at 13 years in England and 4 years in the US.
+Solving the interconnection queue: Creating Islands of renewable Industrial Heat
+Rondo’s first model, the RHB 300, requires 70 megawatts of electricity. Typically, installations at a single site may house between two to ten of these units. This quickly scales up to utility-scale energy demand - however this can also be constructed without any grid connection.
+The concept is to construct a solar or wind farm that exclusively connects to these batteries. The produced heat from the batteries is then sold, eliminating any dependence on the electricity grid. This means there is no waiting for interconnection or any other grid-related delays. Given the low cost of wind and solar energy, the potential implications and applications are vast.
+However the obstacles are clear: Compare purchasing heat from a traditional boiler to purchasing heat from an entity that constructed an entire utility-scale renewable energy installation and multiple heat batteries - this might intuitively seem more expensive. The affordability of wind and solar energy in the current market makes this option competitively priced - and Islands of renewable Industrial Heat a possibility.
+How much electricity would we need for Industrial Heat?
+The International Energy Agency (IEA) conducted an evaluation of industrial heat, concluding that approximately 9000 gigawatts of new generation will be essential to supplant the current usage of oil, coal, and natural gas. In the context of the United States, the effect on electric demand is anticipated to surpass the combined total of ground transport and building heat, presenting a load comparable to current electricity consumption levels.
+How far along is Rondo?
+One of Rondo’s first deployments
+Whether the production involves converting soybeans or animal fats into renewable diesel, or corn into ethanol, nearly half of the carbon footprint of alternative fuels is attributed to the burning of fossil fuels during production. However, Rondo has the capability to reduce this carbon intensity to zero, enabling the production of biofuels with approximately half the current carbon intensity. Integrating carbon capture eradicates the remaining half, achieving, in essence, a fuel with zero carbon intensity.
+In 2023, Rondo began operations of its first commercial unit, lowering the carbon intensity of biofuel produced by Calgren Renewable Fuels. This project was the first commercially operating electric thermal energy storage system in the US, and the highest efficiency, highest temperature energy storage of any kind worldwide.
+Also in 2023 Rondo, in partnership with
+Siam Cement Group
+(largest cement company in SEA), announced current Heat Battery storage production capacity of 2.4GWh/year, with plans to reach 90GWh/year.
+A quick technoeconomics study
+Emissions:
+A single 20MW renewable steam generator developed by Rondo is responsible for zero CO2 emissions annually, presenting a stark contrast to a 20MW gas-fired steam generator which emits approximately 44,000 tons of CO2 per year.
+Electricity price
+: The primary cost driver for Rondo is the price of electricity required for charging (aka heating up the bricks), necessitating low prices for approximately 6-8 hours daily. If Rondo scales this will be the highest variable for Levelized Cost of Hydrogen (LCOH).
+CapEx (Capital Expenditure)
+is currently significant, as Rondo is just starting out with their learning curve.
+Heater replacement frequency
+: Rondo primarily employs non-moving and standardized components, like the bricks. The current lifetime of a Rondo system should be comparable to the proven steel systems described above - so around 30 yea
+Efficiency & core technology
+: Already solved for Rondo with 98% efficiency.
+The competition
+There are many other ways to store heat thermally apart from bricks: from Liquids like Molten Salt and Molten Metal, to other Solids like Graphite.
+In the end I think this will not be a winner takes all market, there will be many other entrants to the race to decarbonize industrial heat.
+I wanted to highlight one:
+Antora
+Antora is using Carbon blocks, made out of Graphite, again heated with electricity from renewable sources with a toaster principle.
+Additionally to selling the heat, they also focus on thermophotovoltaic cells to convert this stored heat back into electricity. Solar Photovoltaic Cells convert sun rays into electricity, thermophotovoltaic cells convert heat into electricity.
+Antora’s future projects will be with companies in the chemicals, mining, food and beverage, and oil and gas industries. Some of those projects are expected to come online as early as 2025.
+Antora recently raised $50m in a Series A from Breakthrough Energy, Lowercarbon Capital and D3.
+Check out this video to learn more about them
+.
+What created my interest in Rondo and the issue they aim to address are primarily two aspects: Firstly, the magnitude—targeting 25% of all emissions represents a significant and impactful endeavor. Secondly, it’s their approach—marrying age-old principles with contemporary innovations to create new solutions.
+We have many more challenges waiting in decarbonisation that might be tackled with reinvented solutions. I look forward to exploring them
+Skander
+PS: If you liked this deep dive, share it here:
+Share

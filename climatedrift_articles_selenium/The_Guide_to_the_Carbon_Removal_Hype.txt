@@ -1,0 +1,100 @@
+Title: The Guide to the Carbon Removal Hype
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-guide-to-the-carbon-removal-hype
+==============================
+
+Explore
+Climate Drift
+, your gateway to climate solutions and understanding your part in achieving net zero.
+Haven't joined yet? Dive in and become a part of our pioneering community. Sign up here:
+Subscribe
+Already with us? Amplify our message by sharing with colleagues, family, friends, and everyone you know. For each share, we commit to delivering another insightful post!
+Share Climate Drift by Marco and Skander
+Hey 👋
+Skander here.
+Last week, we covered Oxy's massive $1 Billion acquisition of the carbon removal startup, Carbon Engineering. Now, let's zoom out and get a panoramic view of the entire Carbon Removal Landscape.
+Dive deeper into the acquisition here:
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Skander Garroum
+·
+August 17, 2023
+Read full story
+A quick emissions recap: Since 1850, CO2 levels have skyrocketed by 50%, moving from 280 ppm to 420 ppm, with the majority of this increase occurring in recent times. Our penchant for burning resources has not only released greenhouse gases like CO2 and CH4 but also introduced other detrimental pollutants.
+To keep global temperatures under 1.5°C, proactive carbon removal is non-negotiable. The IPCC emphasizes that mere emission reductions won't cut it; we need to actively pull CO2 out of the atmosphere. By mid-century, the goal is to strike a balance between minimizing emissions and ramping up carbon removal.
+In this series, we'll navigate the vast expanse of the carbon removal domain, from nature-based and technological CO2 capture methods to CO2 transportation, storage, utilization, and Carbon Offsets.
+Let’s dive in 🌊
+Join the Climate Drift Accelerator and accelerate your climate journey.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+Core Idea:
+Carbon capture's premise is straightforward: extract greenhouse gases from the atmosphere and securely store them, mitigating global warming effects. Among greenhouse gases, carbon dioxide (CO2) is the primary target due to its prevalence compared to methane, nitrous oxide, and others. Hence, most viable greenhouse gas capture initiatives prioritize CO2.
+We need a lot of Carbon Removal to hit our goals.
+Carbon Dioxide Removal (CDR) serves three pivotal roles alongside emission cutbacks:
+In the short term, CDR helps decrease net emissions.
+In the medium term, it offsets lingering emissions, aiming for net-zero CO2 or overall greenhouse gas emissions.
+Over an extended period, when removal surpasses emissions, CDR can lead to net-negative emissions.
+But why hasn't this urgent need birthed a booming market? The answer lies in the lack of viable products. While CO2 extraction in submarines and spacecraft is a technology seven decades old, direct atmospheric CO2 removal was sidelined for years. Serious endeavors in CO2 removal began only recently, and it's a challenging task. Given CO2's sparse concentration (0.04% of air), its capture demands significant energy and cost. With no clientele ready to invest, pioneering solutions struggled to find backers.
+Enter the Carbon Removal boom
+This changed over the last years and now Carbon Removal is very in:
+Research is trending:
+CDR-related studies constitute just under 4% of climate change scientific literature. However, this segment is expanding rapidly, with an annual growth rate of 19% from 1990 to 2021. The number of yearly publications is set to double every 3-4 years.
+Market Demand:
+From a demand perspective, Frontier stands out prominently. It functions as an advanced market commitment (AMC) designed to fast-track the evolution of carbon removal technologies by assuring future demand. By sending a robust demand signal, Frontier aims to motivate researchers, entrepreneurs, and investors. Supported by industry titans such as Stripe, Alphabet, Shopify, Meta, McKinsey, and many businesses through Stripe Climate, Frontier has pledged to buy over $1B worth of permanent carbon removal between 2022 and 2030.
+Government Support:
+Between 2010 and 2022, global public investment in CDR Research, Development, and Demonstration (RD&D) reached around $4.1 billion.
+Most of this funding is region-specific. For instance, the U.S.'s proposed Direct Air Capture (DAC) demonstration hubs account for a significant chunk ($3.5 billion). However, many nations are now initiating their own CDR programs.
+Investment:
+From 2020 to 2022, investments in new CDR capabilities amounted to roughly $200 million. The majority of these investments are directed towards DACCS, followed by biochar.
+The Carbon Removal sector now boasts numerous dedicated VC funds and accelerators, such as
+Lowercarbon's $350 million carbon removal fund
+.
+The Elon Musk-sponsored XPRIZE Carbon Removal attracted 1132 teams. Out of these, 60 were shortlisted, and 15 secured a million-dollar milestone prize.
+Public Awareness:
+Public discourse on CDR, as evidenced by Twitter activity, has surged in the past decade. Daily tweets on CDR jumped from 15 in 2010 to 350 in 2021. While this is significantly less than the 10,000 daily tweets on general climate change, the growth rate for CDR discussions is notably higher.
+But what how do we define Carbon Removal?
+3 Principles for Carbon Removal
+Principle 1: Atmospheric Origin of CO2
+The CO2 captured should be sourced directly from the atmosphere and not from fossil origins. This capture can be direct or indirect, such as through biomass or seawater.
+Principle 2: Durable Storage
+Once captured, the CO2 storage should be long-lasting, ensuring that the carbon doesn't quickly re-enter the atmosphere.
+Principle 3: Human-Driven Intervention
+The carbon removal process should be a direct result of deliberate human actions, going beyond what Earth's natural processes would achieve on their own.
+And thus, Oxy's Net Zero Oil doesn't qualify as Carbon Removal, as it contradicts Principle 2.
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech - Part 2
+Skander Garroum
+·
+August 18, 2023
+Read full story
+One more thing: Durability
+It's crucial for storage to have an extended lifespan, ideally aiming for permanence. Why is this so vital? Consider this: a single CO2 emission lingers in the atmosphere for hundreds of thousands of years. It might not be eternal, but it's an incredibly long time. To effectively counteract this emission with removal, the removal must be equally enduring.
+Average duration per storage
+The underlying rationale for emphasizing durability in net zero efforts is simple: emissions are essentially permanent. This also underscores the significance of avoided emissions, which can be viewed as permanent removals. This is a testament to the importance of decarbonization and why it should remain a top priority.
+On a practical note, it's worth mentioning that, with current technology, we can achieve emission removals that are less durable at a much lower cost.
+On second thought: 7 more things
+Durability isn't the sole criterion that matters.
+Let’s take the 7 criteria directly from Frontier:
+Zooming out: Solutions
+28 solution pathways in Carbon Removal from our Solutions Map
+In this series, we'll journey through the world of carbon removal, exploring everything from nature-driven to engineering-based CO2 capture techniques, as well as CO2 transportation, storage, utilization, and Carbon Offsets.
+Carbon removal strategies come with their unique strengths, costs, longevity, and storage mechanisms, tailoring them to specific roles. For example, DACCS directly extracts CO2 from the atmosphere and, paired with geological storage, provides an almost everlasting solution by securely burying carbon deep below the earth's surface for millennia. Conversely, forests act as natural CO2 sponges, storing it in their biomass. However, they face threats like decomposition, fires, and other environmental factors over time. This positions afforestation and reforestation as solutions with moderate longevity. While they're often more budget-friendly, their potential is bound by available land.
+To sum it up, each approach is a comprehensive system, segmented into distinct parts, together forming a rich tapestry of carbon removal solutions. This core comprehension of each potential approach paves the way for the discussions ahead.
+Numerous questions remain unanswered in this field. So much so that Frontier and RMI have taken the initiative to maintain a database dedicated to the
+Carbon Removal Knowledge gap
+Hype Curve of Carbon Removal
+Over the coming days, we'll delve into 16 carbon removal technologies spanning the breadth of the Carbon Removal landscape.
+This served as a small introduction to set the stage for our deep dive into solutions. For a more comprehensive deepdives, please read to:
+-
+The great CDR Primer
+-
+The CDR Substack Terraform Now
+-
+The scientific review State of Carbon Dioxide Removal
+In conclusion, the urgency and complexity of carbon removal cannot be overstated. Carbon Removal has just now emerged as a promising avenue. The recent surge in research, market demand, government support, and public awareness indicates a  acknowledgment of its potential, as did last week’s
+$1 billion acquisition
+.
+However, it's crucial to understand that CDR isn't a silver bullet. As we delve deeper, it becomes clear that each technology needs to be reviewed carefully.
+Till next time 🌊
+Skander
+PS: Brighten our day by sharing this post!
+Share

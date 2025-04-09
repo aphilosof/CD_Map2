@@ -1,0 +1,116 @@
+Title: Closing the Loop
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/closing-the-loop
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Time to dive into recycling, with Climate Drift Fellow
+Sinéad Moodie
+.
+Sinéad is a design research consultant with over 20 years of experience, from different UK government branches to corporations like Microsoft, Cisco and the OECD. She helped manage the digital transformation of several large UK charities and is now diving into climate.
+In this deep dive she is looking into how technology is supporting recycling, and highlights different solutions and companies.
+Want to switch careers and join the fight against climate change?
+Apply directly to our 2nd cohort of the Climate Drift Career Accelerator here.
+Apply Now
+Let’s dive in 🌊
+Introduction
+In an era marked by an ever-increasing global population and consumerism, the spectre of waste generation looms large, presenting a formidable challenge to the sustainability of our planet. The world annually produces upwards of two billion metric tons of municipal solid waste—a figure that ominously forecasts an escalation to
+3.4 billion by the mid-21st century
+.
+Yet, amidst this burgeoning crisis, the global response appears lacklustre, with less than a fifth of this waste being recycled, casting a long shadow over the efficacy of current waste management strategies. Notably, the United Kingdom stands at a crossroads, with its recycling endeavours showing signs of stagnation; a trend underscored by a 1.6% dip in household recycling rates in 2020, culminating in a modest 44.4% overall rate.
+Management of all local authority collected waste and recycling rates, England, 2001/01-2022/23 (source:
+DEFRA
+)
+At the heart of the UK's strategy to reverse this decline lies the Department for Food and Rural Affairs (DERA)
+standardisation of the rules for waste management
+for local authorities together with the
+proposed Extended Producer Responsibility (EPR)
+scheme, which seeks to hold packaging producers accountable for the lifecycle of their products, aims to increase recycling rates and improve the productivity of waste recycling facilities.
+In the EU, the
+Single Use Plastics (SUP) Directive
+aims to achieve recycling rates of 90% by 2029.
+These initiatives seek to untangle the current convoluted waste collection system, which often results in the contamination of recyclable streams, thereby lowering the financial status of waste and increasing its environmental impact.
+The
+economic loss associated with plastic waste
+alone is staggering, ranging between $80 and $120 billion annually due to its relegation to incineration and landfills. Additionally, the open burning of waste contributes significantly to global greenhouse gas emissions, underscoring the urgent need for innovative solutions.
+Technology is helping to close the loop
+Advancements in artificial intelligence (AI) and sensor integration are paving the way for a more efficient, data-driven approach to waste management. Advanced collection and sorting facilities, equipped with AI and image recognition technologies, are revolutionising the waste management process by enabling precise categorisation of waste materials. This not only enhances recycling rates but also plays a pivotal role in reducing landfill dependency.
+Waste Collection
+Waste management companies, local authorities and private businesses are harnessing Internal-Of-Things (IOT) solutions to manage waste collections.
+Sensoneo
+uses ultrasonic sensors to monitor waste in real-time providing cities with data-driven decisions for optimisation of waste collection routes, frequencies, and vehicle load.
+Senseo waste monitoring solution (Image: Senseo)
+Recytrust
+is using a decentralised model that allows businesses and independent collectors to work together.  At the point of collection, the sorted material is weighed, using an IOT digital scale, after which the direct monetary equivalence is disbursed into the collector’s digital wallet.
+The introduction of Deposit Return Schemes (DRS) in Europe and their planned
+roll-out in the UK in 2025
+, exemplifies how technology fosters consumer engagement in the recycling process to improve collection rates.
+Ireland's recent implementation of a DRS has already yielded remarkable results, demonstrating the potential of such initiatives to catalyse behavioural change. In February 2024,
+Ireland launched a DRS scheme
+incentivising people to return single-use beverage packaging. When someone buys a drink in a plastic bottle or aluminium can with the Re-turn logo, they will pay a small deposit in addition to the price of the drink. When it’s returned empty to the reverse vending machine (RVM), (or over the counter), the returner will be issued with a redeemable voucher. The scheme has collected over 2 million drinks containers in its first month.
+RVM vending machine (image: re-turn.ie)
+But DRS schemes provide a challenge for retailers. Being classed a collection point is a potential burden for retailers, both financially and spatially. It is also inconvenient for customers. Digital deposit returns schemes offer the customer a choice to recycle at home and still get rewarded.
+The
+first full-scale Digital DRS scheme
+in the UK was created by
+Polytag
+in partnership with retailer Ocado (as a pilot scheme in 2023). The pilot allowed the supermarket to trace plastic milk containers using a ‘unique every time’
+GS1 Digital Link QR code
+on the product label. Using the
+Bower recycling smartphone app
+, customers registered their home recycling bins with their geolocation and a photo of the bins. Then customers could scan the QR code on the Ocado product once and the app issued the reward securely to a digital wallet. This solution leverages existing kerbside recycling infrastructure and widespread availability of mobile phones to help increase recycling rates. It also provides the retailer with data on recycling rates, helping them understand the effectiveness of their DRS campaigns.
+Digital Deposit Returns Scheme app (image: Polytag)
+Waste Management Facilities
+Once waste arrives at waste management facilities, bespoke sensors on the waste stream and software create a wealth of data that informs better decision-making among waste managers, brand producers, and policy makers, each group driven by distinct motivations and challenges.
+Waste managers need to provide reporting in order to comply with legislation. For example, it’s a requirement of the
+UK Materials Recycling Facility (MRF) Code of Practice
+to do spot sampling, conducting analysis on one per cent of the material that passes through a plant, and reporting the regulator quarterly. This is a highly manual process and waste loads vary in composition.
+Brand producers will soon be required (by ERP) to be responsible for the entire lifecycle of the product and need to understand where their products end up.
+Policy makers want to report on whether legislation is achieving its goals.
+Scanning of Waste Streams
+Polytag
+has also developed technology to tag, track and trace individual plastic items at waste facilities. The technology consists of UV 2D printing capabilities which can be invisibly applied to the labels of goods and a UV tag reader unit installed in recycling centres.
+Polytag labelled goods viewed in normal and UV light (image: Polytag)
+The
+hardware element can easily be fitted above waste flows in waste management facilities.
+Polytag hardware mounted in situ (image: Polytag)
+Data Sharing
+Data captured in the waste management facility is uploaded to Polytag’s cloud-based analytics dashboard to provide the retailer with real-time insights on whether packaging is recycled and in what volumes.
+Similarly,
+Greyparrot
+uses a hardware unit consisting of RGB camera units. These units use AI to monitor, identify and analyse the individual waste items. Items are categorised into 67+ classes across 13 categories of municipal waste data.
+This information is fed into a dashboard for the waste facility to use. The data can also be used via APls with third party software. Greyparrot reveals 7 layers of detail about each object
+Material (Clear PET, film bubble wrap, fabric, etc.)
+Weight
+Financial value
+Food grade status
+Potential emissions
+Brand and SKU
+Size / volume of the item
+Identification of items in the waste stream (image: GreyParrot)
+Scanning technology and the resulting data provides a number of benefits to waste managers
+Assessment of value: The waste managers are using this technology to track landfill (as well as the recycling waste) streams at their facilities. This allows them to identify the value of items lost to landfill as well those recycled.
+Aiding sorting:  AI models to instruct robotic technology and air jets to pick and separate out the desired items for recycling, or remove contaminants and sort waste items appropriately.
+Certifying quality: Today, a sorting plant may sell bales of clear PET bottles as a 95/5 grade (i.e. consisting of 95% clear PET). Scanning technology allows waste managers to certify how much PET is contained in the bale, without the need for manual sampling. Buyers of plastic, metal and paper are willing to pay a premium for data showing the actual quality of the material they are buying.
+Safi
+is another start-up working in this space providing a B2B marketplace for verified recyclables.
+Overall, these innovations increase plant up time and speed up processing times, reducing costs for waste facility managers.
+Data from these systems also can be shared with brand and sustainability managers to help them make better choices about the design of packing. For example, data provided to the
+producers of Lucozade led to the removal of its polymer sleeve
+that had meant the bottle was not being recycled by most facilities in the UK.
+Conclusion
+In conclusion, while the challenges of global waste management are daunting, the integration of technology and policy innovations offers hope. By embracing a holistic approach that addresses the entire lifecycle of waste—from production to disposal—we can chart a course towards a more sustainable future.
+Helping waste companies and local authorities optimise their operations.
+Motivating brands to find better packing solutions.
+Facilitating sustainability audit and reporting by providing metrics on waste reduction.
+Ensuring compliance with local and international environmental regulations.
+This synergy of technology, policy, and corporate responsibility heralds a new era in waste management, one where the loop is not just closed but intelligently managed.
+Yet, the journey is far from over. Continuous innovation, coupled with a collective commitment to reducing waste at its source, remains imperative if we are to avert the environmental crisis looming on the horizon.
+Extended Producer Responsibility and other regulatory mechanisms in the UK and Europe will drive change in both B2B and B2C environments. Challenges on the road ahead will bring opportunities, but further innovation will require a deep understanding of the needs of stakeholders and consumers.
+By employing observational research, systems thinking, and behavioural science techniques, we stand on the cusp of designing services and products that effectively dismantle the barriers to recycling. This approach not only champions the cause of sustainability but also helps align the interests of consumers, businesses, and waste management entities towards a common goal. By deeply understanding and addressing the diverse needs and challenges faced by each participant in the waste ecosystem, each is empowered to make informed, responsible decisions. Thereby paving the way for a more sustainable and environmentally conscious society.

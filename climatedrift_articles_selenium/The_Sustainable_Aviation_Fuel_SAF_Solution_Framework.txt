@@ -1,0 +1,344 @@
+Title: The Sustainable Aviation Fuel (SAF) Solution Framework
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-sustainable-aviation-fuel-saf
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Today, air travel contributes approximately 2.5% of global CO2 emissions, with significant growth expected in the future. The main strategy for decarbonizing aviation is to replace fossil-based jet fuel with sustainable aviation fuel (SAF) - and one of our most requested topics for a deep dive.
+Today Climate Drifter
+Jonathan Castrodale
+dives deep into SAF - through a framework he is building: The SAF Solution Framework.
+Jonathan Castrodale
+is an operations executive; he is an aerospace engineer by training, passing through software, data analytics, management consulting, communications, and finance along the way.  Jonathan has 15+ years of experience solving complex technical and business problems, beginning his career at
+Boeing
+and their partners. His last 15+ years have been in mission-driven work at the
+Bill & Melinda Gates Foundation
+, addressing complex global problems and scaling solutions. Jonathan is passionate about decarbonization, especially for air travel, and a proud member of cohort #1 of the Climate Drift Career Accelerator.
+The SAF framework covers:
+Business Case
+Science
+Supply & Demand
+Carrots & Sticks
+Let’s dive in 🌊
+If you want to make a difference and bring your talent into climate:
+Apply to our next cohort
+. Interviews and early admissions are starting now.
+Apply Now
+Want to learn more? Dive into our learnings so far:
+Climate Drift 2.0: How to land a job in climate
+Skander Garroum
+and
+Marco Morawec
+·
+May 15, 2024
+Read full story
+I recently took a business trip from Seattle to Delhi and was shocked when my itinerary said the carbon footprint of my trip was nearly 10 metric tons of CO
+2
+. Adding insult to injury, most of my trip was on a
+Boeing
+777, a plane I helped design in my early career that was one of the most efficient commercial jets at the time. Needless to say, this got me thinking about decarbonizing air travel, especially long-haul flights like my recent trip.
+The
+Climate Solutions Map
+from
+Climate Drift
+is an excellent framework for navigating tools we have to address climate change across critical sectors. However, it leaves me wanting for more solutions to decarbonize air travel, and also for the complete suite of tools or interventions that are necessary to drive the change that will be required in the aviation sector. Decarbonizing the aviation industry presents unique challenges compared to other sectors; it requires new technologies, new infrastructure, new policies, and favorable economics.
+Dive deeper into the
+Climate Solutions Map
+While there are a number of interventions that will contribute to decarbonizing air travel, fuel is the single largest expense for airlines and burning it creates the vast majority of CO
+2
+emissions from air travel. The timeline for alternative aircraft power sources like electricity or hydrogen is long, and will remain extremely challenging for longer flights. Consequently
+Sustainable Aviation Fuel (SAF)
+will play an outsized and pivotal role in decarbonizing air travel. Furthermore, it is likely a change journey through 2050 for air transportation to reach net-zero as new technologies are developed and deployed to fully transform aviation. Given its important role, I wanted to better understand the complexity of how SAF will contribute to this transformation.
+Merging Climate Drift’s Climate Solutions Map approach and a classic change management model, I developed a
+SAF Solutions Framework
+to navigate all the necessary ingredients to move the net carbon emissions of air travel from numbers like 10 tons for my recent trip, down to zero.
+Whether you are looking for your comparative advantage in the SAF ecosystem, or you are just curious to learn more about SAF, hopefully you find this helpful and insightful.
+SAF Solution Framework
+The
+ADKAR
+change management methodology outlines the conditions necessary to overcome resistance and achieve lasting change in a system.
+(Image:
+Resonance
+)
+I applied those conditions to the adoption of SAF to create the first branches of the solutions framework:
+Awareness
+of the impact of air travel on climate change and the timeframe for deployment of low and zero-carbon technologies, coupled with a Desire by the sector and consumers to accelerate a path to sustainable air travel sets the initial conditions for SAF → let’s call this the
+Business Case
+.
+Knowledge
+of the science, pathways, and processes to produce and certify SAF → let’s just call this the
+Science.
+Ability and capacity to scale production and meet demand for SAF → there’s a lot here, we’ll call this
+Supply & Demand.
+Reinforcement through metrics, regulation, measurement, and the political economy of SAF → let’s call this
+Carrots & Sticks.
+The resulting SAF Solution Framework, with added nodes to double click on each branch, looks like this:
+This is a complex set of solution ingredients. In spite of the simplified tree-like view, many of these branches interact and depend on one another. In the following sections I navigate each branch of this tree to explain how this all fits together, and how SAF will ultimately enable decarbonization of air travel.
+Business Case
+TLDR:
+Air travel accounts for about 2.5% of global CO
+2
+emissions plus a proportion of global warming due to secondary effects like aircraft contrails. SAF can reduce or eliminate net CO
+2
+emissions and other warming effects. SAF can be used today in existing aircraft and will play a majority role in decarbonization at least through 2050 until other new technologies are developed. There is a near universal global goal of net-zero carbon emissions for aviation by 2050. The U.S. SAF Grand Challenge has a goal to meet 100% of jet fuel demand with SAF by 2050.
+The case for SAF is relatively straightforward: air travel is a significant contributor to global climate change, while the pace of change of aircraft technology and infrastructure is relatively slow and there are fewer options to cut emissions compared to other modes of transport. SAF offers an immediate solution that can work with existing systems today and offer net-zero or near net-zero carbon emissions while other transformative and possibly zero-carbon technologies mature and potentially displace SAF in some applications. Roadmaps to sustainability for air travel vary greatly, but the common ingredient is SAF as the most impactful solution through 2050. But, by some estimates, SAF production has to increase 1000X over today’s volumes to meet total demand by 2050.
+Emissions & Impact
+Air travel accounts for about 2.5% of global CO
+2
+emissions today. By most projections, air travel will continue to increase in the coming years, increasing net emissions. At the same time, other sectors such as energy and industry may decarbonize faster than aviation, leaving air travel with an increasingly larger share of the contributions to climate change.
+(Image:
+Our World in Data
+)
+Emissions from burning fossil fuels in aircraft engines releases not only CO
+2
+, but also water vapor, nitrogen oxides, particulates, and other pollutants that contribute to global warming and climate impacts. Contrails, the lines in the sky you sometimes see behind airplanes, are water vapor condensing on particulates in aircraft exhaust. In some cases, contrails linger and form larger clouds, increasing the heat-trapping effect of the atmosphere and contributing to warming. It is estimated that with secondary warming effects of contrails and other non-CO
+2
+emissions included, aviation may have contributed around 4% to global warming to date.
+SAF, as an alternative to fossil jet fuels, uses sustainable sources to produce a hydrocarbon fuel essentially equivalent to today's jet fuel, and which serves as a “drop-in” substitute in aircraft fuel tanks today. Make no mistake,
+burning SAF still releases CO
+2
+into the atmosphere
+, but the fundamental difference is that the original source of the carbon in the SAF came from a “feedstock” that pulled that carbon out of the atmosphere, thus the potential to achieve net-zero carbon emissions. For instance, if the SAF is derived from biomass or some waste resource that absorbs CO
+2
+earlier in its lifecycle, this recycles carbon through the atmosphere in a relatively short time, thus net-zero carbon. Fossil fuels, on the other hand, release carbon that has been stored underground for millions of years into the atmosphere and adds new carbon to the atmospheric cycle.
+Another benefit of SAF over fossil jet fuel is that SAF has been shown to have lower emission of non-CO
+2
+pollutants, and can considerably reduce particulates that lead to contrail formation. In this respect, SAF is superior to fossil jet fuel and SAF can also contribute to reducing the secondary effects of emissions, in addition to the benefits of net-zero carbon emissions.
+Technology Timeframe
+SAF as a drop-in replacement for fossil jet fuel can be used in existing aircraft today. While the current SAF production forecast is only about 0.5% of total jet fuel demand in 2024, scaling SAF is primarily a matter of economics and deployment of existing technology. Granted, those are still significant barriers to be overcome, but they do not fully depend on development of new technologies. In terms of Technology Readiness Level (TRL), there are multiple pathways to develop SAF today that are TRL of 6 or higher and demonstrated or proven in an operational environment. SAF technology is advancing rapidly and significant scale-up is expected by 2030.
+Unlike other modes of transportation, aircraft require a relatively high energy density power source that can sustain high output, and for a longer period for longer flights. Conversion to alternative and potentially zero carbon energy sources like electricity, hydrogen fuel cells, or hydrogen combustion will require a longer timeframe, especially for larger aircraft. The development cycle for new technology aircraft and aircraft engines tends to be much longer than that for land or water vehicles, and includes significant weight constraints that challenge the current state of other power sources, such as the weight of today's batteries. Aircraft have a significant service life and replacement cost; many conventionally fueled aircraft in the existing global fleet will still be in operation in 2050, thus even as new technologies enter the fleet, there will be a continued need for a drop-in fuel source like SAF to power aircraft until they reach the end of their service life.
+Forecasting the commercial availability of zero or net-zero carbon energy options for aircraft over time, along with the size and relative CO
+2
+emissions of each segment using fossil fuels today, illustrates the importance of SAF as a solution at least to 2050 and likely well beyond. Notably, the medium and long-haul segments together are responsible for nearly three-quarters of emissions and have the most enduring need for SAF as a solution.
+SAF will play an outsized and lasting role in the decarbonization of air travel
+, even as new technology is developed. And, while electric flight may get a lot of attention, especially as it’s likely the first potentially zero-carbon solution to come online, its contribution to overall air travel decarbonization is quite small, as shown.
+Source data:
+Waypoint 2050 Report
+Commercial availability of new technologies as forecast above does not equal widespread deployment. Significant supply, distribution, and infrastructure changes will also be required for broader adoption of anything other than a drop-in jet fuel equivalent like SAF. Government actions may also influence time to adoption or uneven adoption; for instance, if a hydrogen economy is fostered in certain jurisdictions, airline routes within or between those jurisdictions may be quicker to adopt hydrogen fueled aircraft.
+Not included above are hybrid electric systems for aircraft. Like hybrid cars, a hybrid aircraft combines a fuel engine (that could burn SAF, or hydrogen in some cases) with an electric propulsion system. Also like hybrid cars, this can allow the engine to switch between power sources depending on power needed, allowing for optimization of power consumption between very different flight conditions such as takeoff vs. cruise. Companies like
+Ampaire
+,
+Heart Aerospace
+, and
+ZeroAvia
+are already developing and testing this in smaller aircraft to serve the commuter and regional routes, and offer another solution for reduced fuel consumption and emissions in those segments. As battery and electric motor technologies improve, hybrid systems could accelerate adoption to larger or longer-range aircraft.
+Looking across all interventions and technology improvements in fuels, propulsion, operations and other areas that all contribute to decarbonizing aviation by 2050,
+a recent comparative review
+of 14 leading transition roadmaps concluded “all roadmaps assume that SAF will be responsible for the highest amount of CO
+2
+reductions by 2050, contributing to 24%-70% (with a median value of 53%) of the CO
+2
+emissions reductions compared to the corresponding baseline emissions levels.”
+Goals
+The business case for SAF is supported by various international, country, and industry and individual airline goals with a summary of the major ones here.
+There is nearly universal alignment around a goal of net-zero carbon emissions for air travel by 2050
+, with numerous targets for the role of SAF in the roadmaps to achieve that goal.
+The
+International Civil Aviation Organization
+(ICAO) is a United Nations agency that has adopted a long-term global aspirational goal (LTAG) for international aviation of net-zero carbon emissions by 2050.
+The Fly Net Zero resolution of the
+International Air Transport Association
+(IATA) is a commitment of the global air transport industry to achieve net-zero carbon emissions by 2050. IATA represents some 320 airlines comprising 83% of global air traffic. IATA’s strategy for net-zero CO
+2
+emissions will require a combination of solutions, with 65% of the carbon reduction attributed to SAF. IATA has a milestone of the production of 23 billion liters (5.2% of total fuel requirement) of SAF by 2030 as an interim target.
+The
+Air Transport Action Group
+(ATAG) brings together global actors and experts from all parts of the air transport value chain including airframe and engine manufacturers, airline associations (including IATA), and many other players, including fuel producers. ATAG’s mission is to help drive the industry towards net-zero carbon emissions for air transport by 2050 and has developed the Waypoint 2050 Report which outlines scenarios to achieve net-zero emissions that target 90% of jet fuel to be SAF by 2050.
+In support of its Aviation Climate Action Plan goal of net-zero emissions from U.S. aviation by 2050, the U.S. government launched the
+SAF Grand Challenge
+with the goal of producing 3 billion gallons per year of domestic SAF production by 2030, and 100% of projected aviation jet fuel use, or 35 billion gallons of annual production, by 2050.
+The UK
+Jet Zero Council
+is a partnership between government, academia, and industry which aims to achieve net-zero carbon emissions from aviation by 2050, with an interim target of 10% SAF usage in the UK aviation fuel mix by 2030.
+Airlines for America
+(A4A), made up of major U.S. airlines, has committed to net-zero carbon emissions by 2050. A4A has also pledged to work across the aviation industry and with government leaders to make 3 billion gallons of cost-competitive SAF available for use in 2030, consistent with the U.S. SAF Grand Challenge.
+International Airlines Group
+(IAG), made up of European aviation industry members, has committed to net-zero emissions by 2050. IAG has a target to power 10% of flights with SAF by 2030 and expects to use SAF for 70% of total fuel in 2050.
+United Airlines
+is the industry leader in investing in SAF. United shares the goal of net-zero emissions by 2050 and has secured 3.8 billion gallons (14.3 billion liters) of SAF through offtake agreements and investments, putting it far ahead of any other airline. This volume is to be delivered over varying timelines, while today only 0.1% of United’s overall fuel is SAF.
+The
+Air France-KLM
+group’s airlines were the largest users of SAF in the world in 2022 and 2023. Unlike most others, their goal is a reduction of carbon emissions by 30% per passenger/km by 2030 against a 2019 baseline. They have a target of powering 10% of flights with SAF by 2030, by signing offtake agreements and Memoranda of Understanding with SAF producers around the world, and by investing directly in SAF production capabilities.
+Science
+TLDR:
+SAF is a hydrocarbon, molecularly very similar to fossil jet fuel. ASTM international fuel specifications are the basis by which SAF is approved as jet fuel. There are several approved pathways to produce SAF from carbon and hydrogen derived from different feedstocks, including from oils, wastes, and crops, or an E-fuel pathway that uses captured carbon and clean hydrogen as feedstocks. New SAF pathways are under development and production from all sources will likely be needed to meet global demand for SAF.
+Standards
+SAF is a hydrocarbon that is molecularly very similar to fossil jet fuel, which is primarily composed of kerosene. Fossil jet fuel also contains other hydrocarbon aromatics and additives that are critical for its performance properties. Fossil jet is derived from fossil fuels, while SAF is derived from other sources, or feedstocks, through various pathways.
+ASTM International develops and publishes globally-accepted technical standards for a wide range of materials, products, systems, and services, including aviation fuels. ASTM 1655 is the “Standard Specification for Aviation Turbine Fuels” and ultimately defines what is certified as conventional jet fuel, commonly known as Jet A and Jet A-1, which is what can go into the fuel tanks of planes all over the world to power their engines. Certification as ASTM 1655 compliant ensures interoperability of the fuel with the vast existing aviation infrastructure without compromising safety or performance.
+ASTM 7566  is the “Standard Specification for Aviation Turbine Fuel Containing Synthesized Hydrocarbons” and this is the standard to determine if a new fuel derived from a non-fossil source is a candidate jet fuel. This is the first test for certifying a new SAF pathway. Today there are seven approved pathways for SAF.
+Once certified under ASTM 7566, a fuel is blended with conventional fossil jet fuel and further tested to the ASTM 1655 performance standard. If the blended fuel meets that standard, it is then certified as compliant and is considered jet fuel. That fuel can be distributed through the existing fuel supply infrastructure, including storage, pipelines, and refueling systems at airports, and aircraft can use it without any modifications to engines or fuel systems, as the blended fuel performs like conventional jet fuel. This result is called a “drop-in” fuel, as it can be dropped into any fuel tank that requires jet fuel.
+Most approved SAF pathways currently allow for blending up to 50% with conventional jet fuel, though research and testing are ongoing to potentially increase these limits and to certify 100% drop-in SAF options. Obviously, the net-zero carbon emissions and other secondary benefits of SAF are only fully realized for the proportion of the fuel that is SAF, thus 100% drop-in SAF is the goal.
+SAF Pathways
+There are several pathways to produce SAF from carbon and hydrogen derived from different feedstocks. Feedstocks are either biomass that has pulled CO
+2
+out of the atmosphere during its life cycle–generally categorized into oils, wastes, or crops–or feedstocks can be elemental, such as hydrogen from electrolysis of water, plus captured carbon or CO
+2
+. Each production pathway from input feedstock to SAF goes through a sequence of conversions and processes unique to the characteristics of the feedstock. I won’t go into the deeper chemistry here, but outline the different common processes in use today. It is generally agreed upon that production from all pathways will be needed to meet global demand for SAF, and there are over 100 companies today working on SAF. Here are some of the players for the key production pathways (noting that some producers operate with multiple feedstocks and pathways):
+Oils
+This pathway uses plant or animal fats that usually have previously been used for cooking, or are wastes from food production. The chemical process used here is Hydroprocessed Esters and Fatty Acids, or HEFA. This is the most common SAF production pathway today because fats have long been similarly used to produce biodiesel. HEFA SAF represents about 90% of all the SAF in production today and is estimated to remain at 85% of all SAF for the next 5 years as other pathways are still being deployed. Producers of HEFA SAF include
+Neste
+,
+World Energy
+, and
+BE8
+.
+Wastes
+Waste biomass as a SAF input can come from many sources, including inputs like lumber waste, forestry or agricultural residues, or even municipal solid waste (MSW). These inputs typically go through the Fischer-Tropsch (FT) process which involves gasifying the feedstock to produce a mixture of carbon monoxide and hydrogen, or “syngas”, which is then converted into liquid hydrocarbons. Like HEFA, FT is also a mature production process, although newer in application to products like SAF.
+A few of the larger players include
+Fulcrum BioEnergy
+(MSW),
+Alder Renewables
+(wood and agriculture residues), and
+Aemetis
+(waste orchard wood and nutshells).
+Crops
+Also referred to as “alcohol-to-jet” (ATJ), this pathway uses a crop such as corn, sugarcane, or a non-food crop to produce ethanol or alcohol, then converts that into SAF through a chemical process. Ethanol production from crops is already well commercialized, especially in the U.S. where it is used as an additive to gasoline.
+Producers using crop feedstocks include
+Gevo
+(residual starch from inedible field corn) and
+Nuseed
+(Carinata cover crop).
+LanzaJet
+is also a big player here, with their Freedom Pines facility in Georgia coming online this year reportedly using corn, sugarcane, and other crop feedstocks.
+E-Fuels
+Also referred to as “power-to-liquid” or “air to fuel”, some consider this the silver bullet for SAF, assuming we can produce enough clean electricity to enable it (which is a big assumption). E-fuels use captured CO
+2
+and hydrogen to make intermediate syngas, then use the FT process to get from there to SAF. CO
+2
+can be captured from a variety of processes, including through direct air capture with electricity as the input. This is the shortest path to “recycling” carbon through the atmosphere compared to the other pathways. Hydrogen can similarly be produced using electricity and water as the inputs to electrolysis. Tying this to a source of renewable electricity like wind or solar makes this an attractive solution, and it can easily tolerate the variable generation of electricity those sources produce, without the need for batteries. All that said, this is still one of the most expensive pathways to produce SAF today, requiring large capital investment.
+Air Company
+,
+Twelve
+, and
+SkyNRG
+(at their Amsterdam facility) are all in the E-fuel market.
+Emergent
+Many new SAF pathways are under development and working towards ASTM 7566 and ultimately ASTM 1655 certification. Novel feedstocks and new processes are demonstrating other ways to synthesize hydrocarbons that can ultimately become jet fuel. There is even a “direct conversion” pathway that does not rely on biomass or huge amounts of electricity, but uses concentrated solar energy to power reactions that can ultimately convert water and CO
+2
+into liquid fuel.
+Each new pathway opens up new opportunities for producers to combine their various comparative advantages of location, feedstock sources, capital, infrastructure, and local incentives for a potential new SAF product.
+Supply & Demand
+TLDR:
+Current feedstocks have different limits or potential to scale. The location of available feedstocks is a consideration for production, as is the proximity to distribution, and the availability of testing and certification capacity. Overcoming the green premium to scale SAF production will require a mix of traditional investment, first-of-a-kind funding, offtake agreements with purchasers, and tax incentives. SAF requires a trusted standard methodology to determine its net CO
+2
+emissions reduction compared to fossil jet fuel. Each SAF product that is a unique combination of feedstock and production pathway can yield a very different net emissions reduction–not all SAF is created equal.
+The science and standards above are necessary to enable production of SAF, but scaling up supply to meet our goals and the demand will require sources for feedstocks, financing to build production facilities, testing and certification capacity to support the growing industry, and the ability for SAF to enter the supply chain for jet fuel. And ultimately to drive demand, it is critical that we have standards for measuring the carbon benefit of SAF.
+Feedstocks
+The different SAF production pathways are discussed above, but it is also important to compare the relative supply and pros/cons of scaling the feedstocks that are inputs to those pathways.
+Oils
+While the most popular feedstock today due in part to existing infrastructure to process it, the natural oils from used cooking oil, vegetable oils, and animal fat such as tallow are ultimately a limited resource which will not be able to supply SAF production at the scale needed to meet total future demand. However, oils are very likely to continue to play a role in meeting SAF demand even as their proportion of the overall SAF produced will decrease as a percentage of the total as other pathways come online at scale. Oils also require upstream land and water in their lifecycle that ultimately diminishes their total environmental benefit, aside from their recycling of atmospheric carbon.
+Wastes
+Waste, by its nature, tends to be lower cost as an input, whether it is from the timber industry or from a landfill. And, there is a diversity of waste streams both pre- and post-consumer, that potentially can be tapped as feedstocks. The waste biomass SAF pathway does require a much larger physical volume of inputs than oils, although that is consistent with the larger volume potentially available, especially when you include the potential diversion of municipal solid waste from landfills. On the other hand, larger volumes can translate to higher cost (and carbon production) to transport unless processing can happen near a source. Waste feedstocks generally use gasification as an intermediate step to SAF, which can also require a separate source of hydrogen as input. Depending on the type of waste, there is always some upstream water and land use in the life cycle to consider as well. All that said, waste is generally an appealing feedstock simply due to the optics of deriving value and energy from something we otherwise may consider “garbage”, along with the recycling of atmospheric carbon that it can deliver.
+Crops
+Growing crops for fuel tends to spark the "food vs. fuel" debate, depending on the case for alternative land use if the crop was not used for fuel. And, the water use for crop production can be significant, as well as the carbon production from farming activity. Corn in particular is criticized, yet has long been used (and subsidized) for fuel ethanol production in the U.S. and other countries. Crops are a scalable source of feedstock for SAF, and coupled with the already commercialized process for ethanol, crops as input to the alcohol-to-jet pathway will play a role as we scale SAF production.
+E-fuels
+Electricity plays a role in every pathway for SAF production, and in the case of E-fuels it plays the starring role. The total forecast electricity demand for SAF production at scale is estimated to be an outsized demand on the grid overall, for instance replacing 10% of global aviation fuel with E-fuel SAF could demand upwards of 3-5% of the world's electricity supply, assuming current technologies. SAF production located near sources of cheap renewable electricity will have a distinct advantage.
+Hydrogen is another critical input to E-fuels. “Green” hydrogen produced from clean renewable electricity and an electrolyzer is ideal and the most commonly desired source, although still relatively expensive to produce. Other clean sources, like “white”, or naturally occurring hydrogen are appealing but not yet viable. “Blue, gray, black, and brown” hydrogen are candidates, but are dependent on fossil sources upstream, diminishing the carbon benefit of any resulting SAF.
+Carbon (or CO
+2
+) is the other input to E-fuels, and obviously the source of the carbon determines the net carbon benefit of the resulting SAF. Carbon from direct air capture powered by electricity is clearly appealing, yet still very expensive. Today, CO
+2
+feedstocks are generally waste gases from other industrial sources.
+Finance
+No SAF production will ever reach commercial scale without significant financing to support the necessary technology development and capital investment. Compared to fossil jet fuel, SAF will have a “green premium” for some time, and that must be offset through a mix of financing vehicles and incentives across different actors. This topic alone is worth a lengthy piece, but I will try to do justice to the complexity with a summary here.
+Investment
+New SAF players may go the traditional route of raising capital, from seed and venture capital during innovation, through growth with private equity, to deployment and infrastructure investment. SAF also faces many of the first-of-a-kind funding challenges that other new technologies face, which may include debt financing. Given the current costs of developing SAF, these investment vehicles are likely not enough by themselves to overcome the green premium.
+Offtake Agreements
+To help scale and fund production facilities, most SAF producers enter into Offtake Agreements. These are contractual agreements between a SAF producer and a buyer where the buyer agrees to purchase a specified amount of the future SAF production, typically a number of gallons of SAF over a number of years. The buyers in this case generally fall into two categories: airlines and air transport companies, or purchasers of airfare and air freight.
+Airlines and air transport companies are motivated to secure future SAF supply that may be needed to meet government mandates, or to meet decarbonization goals they have set under the eyes of investors and customers. 70% of all the global carriers have invested in SAF today, with
+United Airlines
+leading the way, having purchased more than a quarter of the volume of all SAF offtake agreements to date:
+(Source data:
+ICAO Offtake Tracker
+as of 18 May 2024)
+At the same time, large corporate purchasers of airfare and air freight are also looking for ways to offset their scope 3 emissions. This includes major players like
+Microsoft
+,
+Google
+,
+Amazon
+, and consulting firms like
+Boston Consulting Group
+. They are motivated to enter into offset agreements to help meet their carbon emissions targets, also under the eyes of investors and customers. They are basically investing in future SAF credits which they can use to offset their carbon emissions due to travel and air freight they procure in the course of their business.
+While not all offtake agreements may be created equally in terms of cost per unit, timeframe, or degree of enforceability, they still play a critical role in funding and de-risking SAF scaleup and production, which in turn can attract other investment.
+Tax Incentives
+There are numerous tax incentives that offset the cost and green premium of SAF. In the U.S. at the federal level the Inflation Reduction Act (IRA) introduced a Clean Fuel Production credit ranging from $1.25 to $1.75 per gallon of SAF based on a sliding scale of the level of greenhouse gas emissions reduction. In other words, E-fuels may be eligible at the high end of that range, while corn-based alcohol-to-jet, which has other environmental impacts in production of the feedstock, is eligible at the lower end of the scale as long as the producer demonstrates a bundle of “Climate Smart Agriculture” practices like no-till, cover crop, and enhanced efficiency fertilizer.
+At the state level in the U.S., several states are leading the way with additional incentives. Washington, Oregon, and California all have legislation in place that incentivizes SAF production. In Washington state, legislation provides up to $2 per gallon tax incentive for SAF production in the state. Washington also boasts the cheapest electricity in the U.S., a major international airport, and a large aerospace industry. Washington has already attracted two companies who have announced plans for new SAF facilities in Washington:
+SkyNRG
+is planning a plant using a feedstock of biogenic methane collected from landfills, wastewater treatment facilities and manure from animal farms; and
+Twelve
+has broken ground on a plant to produce their E-Jet power-to-liquid SAF. It is also reported that
+BP
+is exploring SAF production and green hydrogen facilities at its existing refinery in Washington state.
+There are countless other tax and financial incentives in other countries and jurisdictions globally that are playing an important part in the financing equation for SAF.
+Testing & Certification
+Today there are commercial, university, and government laboratories around the world that can perform the rigorous testing and ASTM certification necessary to ensure SAF is safe and effective for use as a drop-in fuel. As SAF production grows, however, and new pathways and producers enter the market, the testing and certification capacity will need to scale and evolve as well. To meet even a portion of the possible 1000X increase in SAF demand by 2050, there needs to be additional capacity to test and certify new pathways.
+Advancement in innovative testing methods allow for extremely small scale (1ml) testing of novel and new SAF pathways to validate early small-scale development in the lab. To enter the SAF ASTM certification process requires ~100 gallons of fuel; it can be incredibly cost-prohibitive to produce that volume from a novel pathway unless small scale testing has de-risked that investment. At the same time, capacity for large scale testing (~1000 gallons) is necessary to ensure safety and bring new fuels to market. Another missing piece is repositories or reference libraries that can procure, hold, and distribute analytic quality SAF materials. Repositories serve the academic community with reference samples, can be used for things like contrail testing, and by OEMs such as engine manufacturers for hardware testing. As aircraft technology advances along with fuels, this demand is likely to increase. An excellent example of this sort of new capacity is the
+planned SAF R&D facility
+in Washington state.
+Distribution
+As a certified drop-in fuel, SAF needs to end up in the tanks of fuel trucks at airports, and is compatible with existing storage, pipelines and distribution systems. However, the upstream journey of SAF to the airplane is different from that of fossil jet fuel.
+A critical factor is the blending of SAF with fossil jet fuel that has to be managed to specific ratios per the particular SAF pathway certification. SAF could be blended at an existing fossil fuel refinery, or at a SAF production plant, but in either case this could entail costly transport of one of the ingredients if the plants were not located in close proximity. The most common point for blending is at a centralized fuel terminal where fuels are received, stored, and distributed, and which have blending infrastructure that allows for the precise mixing of SAF with conventional jet fuel. It is also possible that some larger airports that have made a significant commitment to using SAF may be equipped with fuel management systems with the capability to blend SAF on-site. Once at the airport, blended fuel can enter common storage systems and then to aircraft via the airport’s fueling facilities, using the same systems and processes as conventional jet fuel.
+The strategic placement of blending operations in the supply chain is essential to maximizing the cost effectiveness and utilization of SAF. Just like the location of feedstocks and other inputs to producing SAF, the proximity to infrastructure for blending and distribution to the ultimate consumer at the airport is an important part of the calculus for any SAF producer.
+Carbon Accounting
+In terms of meeting global goals for decarbonization of air travel, the currency of SAF is its “carbon intensity”. To support demand for SAF, there must be a globally accepted standard to quantify carbon intensity so purchasers and consumers can fairly and consistently account for their contribution to decarbonization.
+SAF carbon intensity is generally measured relative to fossil jet fuel as a percentage reduction in the amount of carbon released into the atmosphere, taking into consideration the total CO
+2
+emissions from production through to combustion. This Life Cycle Assessment (LCA) is a whole system or supply chain view that considers all stages from the cultivation of the biomass or extraction of feedstocks, through processing and transportation, to the final combustion in aircraft engines.
+The ICAO Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) LCA standard is one of the more robust and is also used to measure compliance with CORSIA mandates for carbon emissions for international flights which become mandatory 2027. The system boundary of the CORSIA LCA methodology consists of the full supply chain of SAF production and use, as illustrated here.
+(Image:
+ICAO CORSIA Eligible Fuels LCA Methodology
+)
+Another LCA standard, the Greenhouse gases, Regulated Emissions, and Energy use in Technologies (GREET) model, is a comprehensive tool developed by the Argonne National Laboratory for the U.S. Department of Energy. GREET covers a number of fuel types, including SAF. GREET differs from CORSIA in how it addresses land use for feedstock production, and GREET gives credit for soil carbon management practices, which is key for crop-based SAF pathways like corn, thus returning lower carbon intensity than CORSIA in that case. GREET is recognized for its flexibility and sophistication, it allows users to manipulate and explore various scenarios and parameters, and is regularly updated to include new data and methodologies, as well as to expand its scope to cover new technologies and fuels as they develop.
+Regardless of methodology used, it is critical to have a meter stick that allows comparison of SAF carbon intensity to fossil jet fuel, and to compare one SAF to another, as we know they are not all created equally. A truly net-zero SAF would have zero carbon intensity, or 100% reduction in CO
+2
+emissions compared to fossil jet fuel. This is attainable with power-to-liquid, or E-fuels, where captured CO
+2
+and hydrogen from water electrolysis has the potential for zero carbon intensity if powered entirely by renewable energy. At the other end of the spectrum, corn-based alcohol-to-jet SAF could have as little as 30% reduction in CO
+2
+compared to fossil jet after taking into consideration the impact of producing the inputs.
+While different carbon accounting methodologies and different SAF feedstocks for each pathway introduce variation in the estimates, the following illustrates the general range of CO
+2
+reduction of SAF compared to fossil jet fuel for the main pathways.
+Note that with blending requirements, the CO
+2
+reduction shown here is reduced. At best, the certified 50% blend rate of SAF and fossil jet, only half the benefit shown here will be realized in service. This further drives the desire to develop SAF that can be used without blending, or 100% SAF. However, a new specification is needed to certify 100% SAF.
+Carrots & Sticks
+TLDR:
+The common goal of net-zero carbon by 2050 helps governments align their incentives and mandates. In supporting the scaleup of SAF, the U.S. has generally taken an incentive approach while Europe more commonly uses mandates. To qualify for incentives, comply with mandates, or demonstrate meeting goals requires a trusted system of “book and claim” to account for the carbon reduction of the SAF in the global supply chain and to support transacting on those credits, regardless of purchaser.
+The decarbonization goals outlined in the business case, and the financing incentives and the carbon accounting methodology discussed above are all key to powering the adoption of SAF. But, additional incentives and mechanisms, both positive and negative, are also in play globally. Incentives take multiple forms, and different governments and jurisdictions approach goal setting, regulation, incentives, and the political economy around SAF differently.
+Goals & Incentives
+Specific carbon emissions reductions and SAF adoption goals for air travel were outlined and addressed in the business case above. Those support the business case for SAF but they also help align governments and entities in setting their own similar goals (or mandates), and in developing coordinated roadmaps that work to a common set of objectives.
+For instance, the
+Commercial Aviation Alternative Fuels Initiative
+(CAAFI) has a specific goal of “Supporting the Implementation of the SAF Grand Challenge Roadmap”. As noted above, the Grand Challenge in the U.S. is to produce 3 billion gallons of SAF per year by 2030 and 35 billion gallons annually by 2050. CAAFI is a coalition of airlines, aircraft and engine manufacturers, energy producers, researchers, international participants and U.S. government agencies. CAAFI enables its membership to build relationships, share and collect data, identify resources, and direct research, development, and deployment of alternative jet fuels in coordinated fashion towards a common goal, thus aligning the incentives of the many players in the ecosystem.
+While individual airports have generally not created their own incentives, the situation is changing. According to The Roundtable on Sustainable Biomaterials (
+RSB
+), “a growing number of airports globally are leading several initiatives to support the SAF economy, such as supporting research and development, regional studies, and providing financial incentives.”
+The United States has generally taken a positive incentive approach to SAF through tax credits and subsidies as outlined in the finance section above. This differs from Europe, which has generally taken a regulatory approach to mandate SAF. In both cases, however, incentives and mandates are shaped to help meet common top-line decarbonization goals.
+Mandates
+The European Union's “ReFuelEU aviation initiative” aims to put air transport on the trajectory of the EU’s climate targets for 2030 and 2050. The initiative aims to boost the supply and demand for SAF by setting out binding obligations for fuel suppliers to blend increasing levels of SAF into jet fuel supplied at EU airports, starting with a 2% mandate in 2025 and escalating to 63% by 2050.
+In the UK, under their “Jet Zero” strategy, a SAF mandate has been introduced requiring SAF make up 2% of total UK jet fuel demand (for fuels used in flights taking off in the UK) in 2025, and then increase to 10% in 2030 and then to 22% in 2040. From 2040, the obligation will remain at 22% until there is greater certainty regarding SAF supply.
+While there is no global mandate, the ICAO Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) is a phased framework for monitoring, reporting, verification, and offsets that strives to stabilize CO
+2
+emissions from international aviation at 85% of 2019 levels. Airlines operating international flights are the primary entities required to comply with CORSIA. This includes both passenger and cargo flights that cross international borders. Member state participation is voluntary through 2026, after which participation becomes mandatory for most states with an individual share of international aviation activities above a specific threshold. This mandate is directly in service to ICAOs goal for international aviation to achieve net-zero carbon emissions by 2050.
+In Asia, Japan has proposed replacing 10% of its 2030 jet fuel demand with SAF, with plans to introduce regulations by mid-2024. This strategic shift, in line with Japan’s Green Growth Strategy toward carbon neutrality by 2050, holds significant potential for improving carbon emissions in the aviation industry.
+This is not a comprehensive list, many of these and other mandates are brand new or changing rapidly as countries and jurisdictions determine their desired posture towards achieving decarbonization of air travel by 2050.
+Book & Claim
+Not exactly a carrot or a stick, a “book and claim” system for SAF can be a key component of qualifying for incentives or demonstrating compliance with mandates.
+Book and claim allows for the certification and exchange of carbon reduction benefits of a unit of SAF, regardless of where in the world that SAF is consumed. In other words, if you buy SAF “credits” through a book and claim system, you and only you can record that carbon reduction benefit on your carbon balance sheet, even if the actual units of SAF that produce that benefit are in the fuel tank of some airplane flying half way around the world from where you are.
+Since certified SAF is a commodity identical to all other jet fuel, it can be in the fuel supply chain anywhere on the planet. A book and claim system ensures legitimacy of the connection between the specific molecules of SAF burned and their contribution to carbon reduction. As discussed above, not all SAF is created equally, but with a standard carbon accounting methodology each molecule of SAF has an accepted carbon credit (and a price) that can be tracked and accounted for through a book and claim system.
+Book and claim is critical for the SAF ecosystem because it allows the market for SAF to be global (even when 90% of SAF in the world today is in California!), it lets all airlines tap into the market even when they may not have a direct source of SAF, and most importantly it lets all airlines claim their credit to comply with mandates or qualify for incentives.
+To maintain the integrity of a book and claim system, it's crucial to have robust certification and tracking to ensure that carbon reduction claims are accurate and not double-counted. This requires reliable registries and third-party verification processes. Blockchain has emerged as one approach to ensure this integrity, and platforms like
+Avelia
+are being deployed using blockchain.
+SkyNRG
+, a major SAF producer, uses a book and claim system to track corporate partnerships or offtake agreements.
+In Conclusion
+Personally, this deep dive into SAF makes me optimistic that future travel like my recent trip to Delhi can eventually achieve a net-zero carbon footprint. That change won’t happen quickly, for all the reasons I spell out in this solution framework, but all the obstacles have solutions or a roadmap to solutions. Frankly, I find those challenges exciting and they create opportunities for innovation. Where’s your comparative advantage in this solution framework?

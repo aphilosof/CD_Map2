@@ -1,0 +1,124 @@
+Title: Breaking Barriers: Solutions for EV Anxiety
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/breaking-barriers-solutions-for-ev
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+One of the biggest barriers to EV adoption is the perceived range—or rather, the perceived lack of it. But this is not the only anxiety that can come with an EV switch.
+In this challenge,
+Brenda Tsang
+tackles EV Anxiety by defining it and highlighting four effective solutions.
+Brenda Tsang has channeled her 15 years of product management expertise into the realms of electronics, portable battery storage, and mobile tech accessories. Her career has been marked by collaborations with global brands like Land Rover, Caterpillar and Disney. Oh, and did I mention that she has successfully patented two new materials?
+Now Brenda is tackling Climate Solutions and is a member of our first cohort.
+If you want to make a difference and bring your talent into climate:
+Apply to our May ’24 cohort and join the Climate Drift community.
+Apply Now
+Let’s dive in 🌊
+Throughout my youth, the notion of personal vehicle ownership seemed superfluous, given the advanced and convenient public transportation infrastructure that defined my upbringing. However, this perspective shifted dramatically upon relocating abroad, where I encountered the stark reality of insufficient public transportation in rural locales, thereby rendering daily commutes exceedingly challenging.
+Initially, when the time came to purchase my first vehicle, the financial constraints I faced precluded the option of an electric vehicle (EV). Nonetheless, as EVs surged in popularity, became more financially accessible, and my environmental consciousness deepened, the allure of owning a fully electric battery-powered vehicle intensified, ultimately establishing it as my preferred choice.
+Despite this inclination, a pervasive myth known as "Range Anxiety" remains a significant barrier deterring many potential EV purchasers. This phenomenon encapsulates the apprehension that an EV may not possess adequate battery capacity to reach its intended destination. As an enthusiastic proponent of EVs, I am compelled to explore this topic in depth.
+This article is trying to examine the multifaceted issue of EV anxiety by addressing the following critical aspects:
+What is EV Anxiety? Why does it happen?
+Solutions to mitigate EV Anxiety.
+Evaluation of existing solutions
+The imperative to resolve the Anxiety among EV
+By undertaking a thorough examination of EV anxiety and its impact on potential EV buyers, this article aims to contribute meaningfully to the discourse surrounding electric vehicles, with the ultimate goal of advancing the transition towards more sustainable modes of transportation.
+Overview of  EV sales globally
+Electric vehicles (EVs) are increasingly popular globally, serving as pivotal to the mission of reducing carbon emissions and achieving net zero emissions targets.
+By 2050, new petrol and diesel vehicle sales will be prohibited, aligning with the global push towards sustainability. The United States has set an ambitious goal for EVs to make up half of all new car sales by 2030, highlighting the significant momentum toward embracing electric mobility
+The available data illustrates a noteworthy trend: approximately 1-in-7 cars sold worldwide were electric cars. The adoption rate in Norway was exceptionally high, with over four out of five new cars being electric, and in China, the rate was approximately 1-in-3.
+[Image Source:
+Open EV Charts
+]
+The chart below provides a detailed comparison of sales between fully battery electric vehicles (BEV) and plug-in hybrids (PHEV). BEVs have twice the sales as PHEVs.
+According to
+Rho Motion
+, a market research firm, global sales of both fully battery-electric vehicles (BEV) and plug-in hybrid vehicles (PHEV) increased by 31% in 2023. Although it was down from 60% growth in 2022, it is expected a slow down after years of accelerating growth.
+As electric vehicles increasingly become a part of the mainstream transportation sector, potential buyers are weighing several concerns before making a purchase. The main concerns are around EV anxiety.
+What is EV Anxiety?
+EV Anxiety has a few different types. The most common one is Range Anxiety. Another concern is Charging anxiety. Extend further there is Skill Shortage Anxiety.
+Range Anxiety
+is primarily the fear that an electric vehicle’s battery will deplete before reaching the intended destination or a charging station, potentially leaving the driver stranded. This worry is prevalent among current and prospective EV owners, mainly due to electric vehicles' relatively limited range compared to traditional gasoline vehicles.
+The charging frequency of an EV is double the amount of times that of an ICE vehicle to be fueled.
+[Image Source:
+Conservative Environment Network
+]
+Data indicates that 45% of UK drivers are concerned about exhausting their EV's charge while on the move. The Nordic EV Barometer 2020 survey, involving 5,000 participants from Scandinavian countries, found that 13% cited range anxiety as a significant hurdle to purchasing an EV. This figure rises to 19% in Norway, a country leading in EV adoption, underscoring range anxiety as a critical barrier to the broader acceptance of electric cars.
+[1]
+Charge Anxiety
+emerges as another concern, stemming from uncertainties about the availability and reliability of charging stations. Factors contributing to this anxiety include the scarcity of fast-charging services leading to long wait times, especially during peak travel periods, and the inconsistent infrastructure across charging networks, which complicates the charging process due to variations in plug types, payment methods, and charging protocols.
+In California, Thanksgiving and Black Friday are two of the busiest days on the roads, creating long queues at fast chargers. In February 2019, Tesla drivers queued for hours at Supercharger stations in Germany, on their way to Austria from Holland.
+Besides, EV users must deal with vast differences in plug types, payment options, communication protocols between chargers and even charging speeds. For example, BMW i3 uses a CCS charger, Citroen Berlingo Electric Mk1 uses a ChaDeMo charger. Tesla uses CCS or NACS charger. It turns what should be the simple task of plugging in your EV and charging into a complicated and confused experience, which revolves around drivers’ fears of unavailable or faulty EV charging points. An EV Product Manager, Drew Meehan at Tom Tom has raised this issue.
+Range Anxiety and Charge anxiety are listed as barriers towards EV and potential EV owners. They are separate but interlinked issues with regard to EVs.
+Moreover,
+Skill Shortage Anxiety
+is identified, highlighting the deficiency of qualified EV mechanics.
+A report by
+Deloitte and the Motor Trades Association of Australia
+(MTAA) reveals a substantial gap in the recruitment of EV technicians, across 2,000 jobs advertised by businesses consulted by Deloitte, fewer than 800 were filled — translating to a sector-wide vacancy fill rate of 39%, well below the government's 67% threshold to declare a job in shortage.
+MTAA's chief executive Matt Hobbs explained that there were simply not enough workers for the work available.
+"
+We just don't have enough people fixing cars right now, and this has been an issue for quite a few years," Mr Hobbs said.
+[2]
+These anxieties collectively influence driving behaviors and vehicle purchase decisions, swaying some consumers toward maintaining their preference for gasoline vehicles over electric alternatives.
+What solutions do we have to overcome range anxiety?
+Solution 1: Expanding charging infrastructure
+Expanding the charging infrastructure
+is one crucial solution for reducing range anxiety. More accessible and faster charging stations would reassure drivers about the feasibility of EVs for both short and long trips​. Let’s review the strategies of different countries.
+The US government
+announced a fast track of the EV charging action plan. This most transformative investment in U.S. history includes $5 billion in formula funding for states intending to build national charging networks. A convenient and equitable network of 500,000 chargers and make EVs accessible to all Americas for both local and long-distance trips.
+[3]
+The UK government
+’s £450 million
+Local electric Vehicle Infrasture (LEVI) fund
+is targeting EV hubs and on-street charging solutions to ease up regional disparities in charge points availability. The scheme helps residents without private driveways to have better access to EV chargers and also growing the charging network acros the country.
+The European
+Parliament adopted new legislation that aims to make charging stations easy to use included in the
+Fit for 55 in 2030 package
+. The rules will expand the charging infrastructure along
+Europe’s main roads and highways
+, allow payments to be made without an app or subscription, and require communication pricing and charger availability.
+Norway
+is one of the pioneer countries in terms of massively increasing its charging infrastructure. In 2015, the state enterprise
+Enova SF
+introduced a support scheme which aimed to cover the main roads in Norway with fast charging stations at every 50km ( around 31 miles). Plus, the Government mandated that all charging stations must have at least four chargers. The Public EV charger density increased from 0.6 per 1000 inhabitants to 2.8 per 1000 inhabitants in 10 years' time.
+Apart from the public sector, private companies are installing many charging stations. Traditional oil and gas company Shell Energy has built a double the number of public charge points, up to 54,000 at Shell forecourts, on streets, and at locations by the end of 2023. They expect to have around 70,000 public charging points by 2050
+[4]
+.
+The pioneer automaker,
+Tesla
+, is building a nationwide network of EV charging stations with the support of the U.S. Department of Energy. He owns and operates the largest fast-charging network in the world with 50,000+ supercharges. However, the network Tesla is building is for longer-range batteries, as Tesla is focusing on DC fast chargers. If you drive a non-Tesla vehicle, you have to use an adaptor for charging.
+Solution 2: Enhance Electric Vehicle Technology
+EV manufacturers are in the competition of increasing the driving range. The chart below from
+BloombergNEF [5]
+showed that EV driving range has been increasing roughly 10% per year since 2018 and the average lithium-ion battery pack size increased from 40kWh to 60kWh.
+Source:
+BloombergNEF
+EV makers are trying hard to remove range limitations. Here’s what they do:
+Tesla is a pioneering EV manufacturer, leading the industry along the way. For 10 years, the Model S was the longest-range EV, with 647km (402 miles).
+Mercedes-EQS surpassed Tesla with a potential range of 784km (453 miles) and 31 minutes of charging time to get 10% to 80% charged.
+BYD, the Chinese automaker, has become a significant player in the automotive industry. Partnered with Shell EV Charging Solutions B.V. (Shell) to provide a minimum of 100,000 BYD EV customers in Europe with reliable EV fast and ultra-fast charging points from Shell Recharge.
+Volkswagen, leads the pack worldwide by far with its investment plans for EVs and batteries through 2030 and it is planning to spend 35 billion euros on battery EVs. Meanwhile invested €400 million to build 18,000 ultra-fast chargers in Europe; 10,000 ultra-fast chargers with Electrify America in the US, and 17,000 in China by 2025.
+Volvo launched a new model of EV, EX30 in the first quarter of 2024. The charging time at a DC fast charging station can be as low as 26.5 minutes when charging from 10% to 80%.  Range capability can be continued for up to 275 miles on a single charge.
+Honda, In Jan 2024, Honda released the new electric car concept, Saloon, at CES in Las Vegas. It showed the company’s ambitious move forward to the EV.  It is targeting its high-density battery packs a 15% to 80% charging time within 10-15 mins.
+[Image Source:
+Honda 0 Series - Saloon
+]
+Solution 3: Educational Initiatives
+EV Manufacturers encourage EV drivers be prepared for their journey before driving. Checking the availability of charging stations along the route is necessary. The advanced in-car technology help EV drivers through planning their long journeys.
+For example, Google confirmed at CES 2024 that
+new features of Android Auto
+will now be abled to share their real-time battery level with the system. EV drivers understand how much charge will be left in the battery when the vehicle arrives at its destination via Google Maps.
+[6]
+Misconceptions about EV capabilities are a significant barrier to adoption​​. Therefore, educating EV drivers on the real functionality of EVs can help mitigate fears. This includes the EV’s actual ranges and the availability of charging options.
+Solution 4: Practical Tips for Drivers
+Understanding what impacts the EV’s range can help EV drivers manage and optimise battery usage. Cold or bad weather can affect battery usage by 30%. EV Driving habits can affect range efficiency too. EV drivers should avoid aggressive acceleration and utilise regenerative braking which can help increase range efficiency and reduce anxiety.
+Conclusion
+In conclusion, overcoming EV anxiety barriers for potential electric vehicle (EV) customers is a multifaceted challenge. Governments and EV manufacturers are continuous expand and improve the charging networks and its facilities are curial in reassuring potential EV owners. Furthermore, EV manufacturers are  increasing the EV driving range and optismise the EV battery are benefits for the EV drivers too.
+On the other hand, EV drivers also need to understand the fact of using the EV. The average American household covers 50miles a day. Only 15% of households do more than 100 miles in a day. UK government data shows 99% of car journeys are less than 100 miles. The utility company Octopus says the average EV range in the UK is 211 miles, and some expensive models can reach 300 miles. If you charge overnight, then there is no need to worry about typical usage. The concern over EV anxiety diminishes significantly.

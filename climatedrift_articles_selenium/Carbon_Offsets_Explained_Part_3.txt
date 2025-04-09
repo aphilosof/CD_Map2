@@ -1,0 +1,108 @@
+Title: Carbon Offsets Explained: Part 3
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/carbon-offsets-explained-part-3
+==============================
+
+Discover
+Climate Drift
+, your portal to climate solutions and realizing your role in reaching net zero.
+Not a member? Join our community by signing up here:
+Subscribe
+Hey there and welcome to Climate Drift!
+Skander here, and today we're diving into the final part (at least for now) on Carbon Offsets.
+Having explored the
+origin of Carbon Offsets in Part 1
+and the
+problems plaguing the Voluntary Offset market
+, we'll now delve into its ongoing evolution.
+We'll walk you through the offset purchasing process—starting with the traditional Voluntary Carbon market and then to the emerging new market.
+True to Climate Drift's style, I'll spotlight a company at each phase.
+Let’s dive in 🌊
+Today's article is greatly informed by the insights from this exceptional CTVC post:
+Giving Carbon Credit Where It's Due
+.
+I think their observations are a spot on glimpse into the future of offsets, I'll be referencing their post while spotlighting companies and incorporating our own perspectives.
+We often say we stand on the shoulders of giants, and in this instance, those giants are Sophie Purdom and Kim Zhou.
+Let’s start with the Legacy Journey:
+Legacy offset purchasing journey
+In the traditional market, companies with net zero goals would establish a carbon offset budget, collaborate with brokers to source the most affordable offsets, and then conveniently continue their usual operations, emitting as before.
+Step 1: Commit to Net Zero
+It's straightforward: announce publicly, through a press release, your intention to achieve Net Zero emissions by a defined or open-ended date.
+Step 2: Conduct emissions accounting
+Following the optimistic announcement of corporate net zero intentions, the next crucial step is to evaluate the company's carbon footprint. This task is intricate and varies widely, especially when using standard emission factors, which can drastically alter a company's carbon footprint assessment.
+This complexity is why numerous companies seek external consultants. Meanwhile, larger corporations are beginning to form dedicated in-house teams, often spearheaded by passionate existing employees eager to steer their company towards carbon neutrality.
+Time for an anecdote:
+I'm aware of a prominent fossil fuel company where the CEO made a bold public declaration about their Net Zero ambitions. However, they then found themselves scrambling to hire over 100 individuals just to gauge the extent of their emissions throughout their value chain. Two years post-announcement, they're still in the process of assembling the team.
+Spotlight
+: Established in 2006, South Pole ranks among the top emissions consultancies worldwide. With a team of over 1,200 experts, they've spearheaded projects and built product & tools spanning finance, climate action APIs, and emission reduction & compensation strategies. Their clientele includes banking giants like HSBC and Deutsche Bank, as well as renowned consumer brands such as L’Oreal, Hilton, Danone, and Chanel. Through their network of 30+ global offices, South Pole has directed financing to more than 850 projects.
+However, recent scrutiny has emerged following a Bloomberg investigation:
+Bloomberg's Research on South Pole
+. For a balanced perspective, consider reading both the investigation and the response from South Pole’s CEO:
+South Pole CEO's Response to Bloomberg
+.
+Step 3: Purchase carbon offsets.
+Traditionally, carbon offsets were procured through middlemen called brokers. Acting much like carbon asset managers, these brokers advised companies on curating their carbon offset portfolios and aided in direct carbon credit transactions. Companies would specify their required volume and budget, allowing brokers to secure credits from project creators. However, given these financial limitations, brokers sometimes favored cost-effectiveness over the true quality of the offsets.
+Now to the Supply Side
+Registries
+Registries serve as custodians for certified credits. These often non-profit entities supervise the enlistment and validation of carbon offset initiatives. To attain certification, projects must adhere to the registry's stringent criteria, which includes hands-on validation processes, such as field personnel physically measuring trees. Only after meeting these standards can the credits be listed and exchanged on the registry's platform.
+Spotlight:
+Verra deserves an in-depth examination on its own, given its significance. In brief, Verra, established in 2007, operates the world's largest voluntary carbon market program, the Verified Carbon Standard (VCS) Program. However, it's currently grappling with
+numerous reports
+alleging an exaggeration of the effects of their verified offsets.
+Due to overwhelming reader demand there will be a Verra deep dive (soon-ish).
+Project developers & owners
+Project developers play a pivotal role where credits and projects converge. They collaborate with landowners to evaluate projects, attract investors, and manage the sale of generated credits. Carbon offsets primarily fall into two categories: renewable energy initiatives and land use projects, such as enhanced forest management. Given their insider knowledge in an otherwise murky market, developers often claim a substantial 20-40% share. Drawing parallels with the renewable energy sector, these developers use intricate 20-tab Excel models to forecast cash flows. However, instead of focusing on electrons, they estimate carbon. The complexity of these calculations provides leeway, allowing developers to potentially overstate assumptions to maximize carbon credit generation. For instance, inflating the growth rate can significantly amplify the projected avoided emissions.
+Now let’s look at which new players are joining along the value chain.
+The Evolving Carbon Market
+Considering the problems that emerged in the traditional market,
+summarized in Part 2
+, there's a growing demand for quality.
+Many startups have stepped up, introducing advanced tools for carbon management, removal, marketplace, and verification.
+Step 1: Pledge net zero
+While not much has shifted, the surge in public awareness and recent lawsuits have made companies realize that their net zero commitments are under scrutiny, comparison, and watchful eyes.
+Step 2: Software eats emissions accounting
+An emerging ecosystem of carbon accounting software has rapidly evolved, automating tasks previously handled by consultants using spreadsheets.
+Spotlight:
+Emissions-focused companies tailored to specific industries are on the rise, with Measurabl standing out in the ESG data management realm for commercial real estate. With a clientele of over 1,000, Measurabl asserts its use by 40% of global real estate asset managers, overseeing 60,000 commercial properties across 93 countries. The platform streamlines data collection, computes carbon emissions from utilities and transportation, and benchmarks against 55,000 buildings in its database, aiding real estate professionals in identifying efficient versus high-emission properties.
+Measurabl taps into three pivotal markets: the $1bn ESG data space, the $723bn green debt arena, and the $3.9 trillion building decarbonization sector, as of 2021 figures.
+In a recent milestone, Measurabl raised $93 million in its Series D funding, bringing its total capital to $170 million.
+Step 3: Purchase carbon removals - Direct Procurement
+In the classic direct-to-consumer (D2C) SaaS model, new tech players are allowing companies to purchase carbon credits without the need for brokers or intermediaries.
+Contrary to the traditional carbon offset market, where credits were issued in the same year the emissions reductions took place, carbon removals are now often marketed as "future vintages." For instance, many of Stripe and Microsoft's acquisitions are pledges to back projects that will remove carbon in upcoming years.
+Spotlight 1: Microsoft
+Microsoft has set forth one of the boldest corporate climate goals, aiming to be "carbon negative" by 2030. However, after a period of decline, their greenhouse gas emissions saw an uptick in the fiscal year 2021 (and a slight fall in 2022), as revealed in their recent sustainability report.
+The tech giant accounted for approximately 13 million metric tons of CO2 emissions that year, equivalent to the output of around 35 gas-fired power plants.
+Microsoft has offset 1.4 million metric tons of carbon last year through more than 25 projects
+.
+Msft has been very open with their pledge and their progress towards it.
+I especially want to highlight their comprehensive yearly reviews of the Carbon Removal program; find the latest one here:
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW16V26
+Spotlight 2: Shopify
+You are a company that wants to set up their own Carbon Removal plan? Check out this great guide by Shopify on how they set it up:
+https://cdn.shopify.com/static/sustainability/Shopify-Carbon-Removal-Buying-Guide.pdf
+Supply Side
+Direct to Purchaser
+DAC frontrunners like Climeworks and Charm Industrial are beginning to offer direct carbon removal purchasing options. However, due to the limited availability and substantial cost, only affluent individuals and corporations can partake. For instance, to offset the emissions of a single person, Charm charges around $1175/month, while Climeworks demands a heftier $2176/month.
+Purchase carbon removals - Marketplace and Integrated Verifiers
+Robert Hoglund described the carbon removal market dynamics as “
+upside down
+”, noting an abundance of marketplaces but a scarcity of buyers or sellers. Currently, the market is experiencing rapid growth, with numerous entities emerging to cater to niche requirements.
+I consider this a mushroomy market: a lot of these new marketplaces (mushrooms) pop up and will disappear over time.
+Spotlight:
+With offices in London and New York, the startup Isometric has made headlines by securing a whopping $25 million seed funding from venture capital giants like Lowercarbon Capital and Plural. This investment ranks among the most substantial seed rounds for a climate-focused startup this year.
+Founder Eamon Jubbawy encapsulated the company's mission, stating, “The carbon registries that existed missed the mark so badly that the only real option was to build another platform to fix all that, focused on removal,”
+Isometric's vision is clear: to be a one-stop registry that streamlines the carbon credit purchasing journey. They select partners for data gathering and modeling, ensuring a seamless transition to the final credit issuance. A core part of their mission is to counteract market fragmentation, which they identify as a looming threat to effective carbon removal.
+Their strategy is anchored in four key pillars:
+Scientific Rigor: They prioritize in-depth scientific metrics, outpacing conventional carbon markets. This is achieved through an in-house science team and collaborations with a broad spectrum of scientists.
+Incentive Alignment: By levying a fee on carbon removal buyers for credit verification, they ensure unbiased CDR quality assessments.
+Transparency: Isometric is committed to making carbon removal data accessible to all, from laypersons to industry specialists.
+Collaboration: They foster partnerships with scientists, academic bodies, startups, and tech firms, aiming to unify measurement, verification, and credit purchase processes.
+Isometric's first product is a "science platform." This platform will serve as a platform for carbon removal entities to display and disseminate their data. Additionally, it will enable Isometric's team to undertake first hands-on evaluations.
+Thanks for reading our 3 part primer on Carbon Offsets, their problems, and a potential future of the market. The feedback we received so far has highlighted several questions, assuring us that we'll revisit this topic in the near future.
+But for now we can let it rest (though as always we are open for reader questions), we can now return to the
+Carbon Removal Hype Curve
+.
+But first, stay tuned for an exciting special series on the horizon. More details coming tomorrow!
+Skander
+PS: A share is always as appreciated as better transparency into offsets.
+Share

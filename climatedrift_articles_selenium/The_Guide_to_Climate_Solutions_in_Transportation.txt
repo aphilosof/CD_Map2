@@ -1,0 +1,106 @@
+Title: The Guide to Climate Solutions in Transportation
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/climate-hype-curve-transportation
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there! 👋
+Skander here.
+Today is the first part of us going to dive into the current hype curve of transportation solutions.
+Transportation isn't just about moving from point A to B; it's the backbone of our society, connecting us to education, jobs, goods, and services.
+Each transportation solution we touch upon truly merits a thorough deep dive (or its own dedicated team researching it). However, today we'll begin with a bird's-eye view, spotlighting some of the most intriguing solutions on the hype curve.
+We will explore:
+A
+quick overview
+for each solution
+One
+lighthouse company
+per solution
+This is the first installment in our trilogy exploring the hype curve of transportation solutions.
+Want to have the full overview?
+Start with our
+Hype Curve explainer
+Part 1:
+Five scalable solutions, from EVs to Rail.
+Part 2:
+Follow us through the trough of disillusionment from Battery Recycling to Alternative Airplane Fuels.
+Part 3:
+Early innovation and peak hype solutions from electric ships, trucks, and planes to alternative shipping fuels.
+Beginning on the right, today we are looking at five solutions, from EVs to Rail, spanning the plateau of productivity (primed and aggressively scaling) and the Slope of Enlightenment (those initiating their scaling journey).
+Let’s dive in 🌊
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+Climate Solutions Hype - Transportation Part 1
+Let’s start by quantifying the emissions coming from transportation.
+Road vehicles were the leading culprits, accounting for an estimated 72% of transportation emissions. Maritime shipping trailed at 12%, while aviation contributed 9%. Rail and other sources combined made up the remaining 7%.
+3 transportation shifts that will need to happen
+Our carbon trajectory is largely tethered to our transportation choices, and to change our course, three monumental shifts must take root.
+1. Reimagining Movement
+At the heart of sustainable transportation lies a return to basics: human-powered movement. It's essential that our core methods of moving – walking and cycling – not only remain pivotal, but become central once more. This, coupled with a greater reliance on communal transport systems, will be crucial.
+2. The End of the Internal Combustion Age
+Here government intervention is pivotal. The age of the internal combustion engine – with its carbon footprint – is set to pass into history. The mandate is clear: a full migration to zero-emission vehicles. And here's a silver lining: approximately 50% of cars sold globally were under jurisdictions that had either set an electric vehicle goal or prohibited the sale of ICE vehicles.
+3. Moving stuff towards Net Zero
+Our global conveyance systems, both over oceans and in the skies, cannot be left behind in this metamorphosis. The dual strategy is to simultaneously dampen demand where possible and to usher in state-of-the-art zero-carbon tech. Every ship that sails and every plane that soars needs to be a part of this green transition.
+Transportation Solutions Overview
+Let's look into the solutions:
+For a comprehensive view of all solution areas, download the full map for free here.
+Download the full map here
+Now, let's plot our top picks on a hype curve and dive in.
+2 Wheelers:
+Electric two/three-wheeler sales share by region, 2015-2021 by IEA
+Overview:
+Two and three-wheelers are at the forefront of electrification, especially in developing countries where they often outnumber cars. Notably, in many Asian regions, they're the primary mode of transportation. In 2022, India saw over half of its three-wheeler registrations go electric, driven by government incentives and their cost-effectiveness against the backdrop of surging fuel prices. Plus, half of China's two/three-wheeler sales are now electric. The takeaway?
+We're on the right track
+, and the next step is increasing production to replace all traditional ICE two-wheelers on the road.
+Lighthouse Company:
+Gogoro, hailing from Taiwan, has pioneered a groundbreaking battery-swapping infrastructure tailored for urban electric two-wheelers, encompassing scooters, mopeds, and motorcycles. Beyond crafting its signature line of electric scooters, Gogoro collaborates with leading vehicle manufacturers such as Hero (the global leader in two-wheeled vehicles), Yamaha, Aeonmotor, PGO, eReady, and eMOVING. It also operates and partners with ridesharing services.
+EVs:
+IEA Electric car sales - guess which countries are which color. Resolution here: https://www.iea.org/data-and-statistics/charts/electric-car-sales-2016-2023
+Overview:
+2022 was a landmark year for the electric car industry, with global sales skyrocketing past 10 million. This means that 14% of all new cars sold in 2022 were electric, a significant increase from 9% in 2021 and a mere 5% in 2020. China continued to dominate, accounting for a whopping 60% of worldwide sales. In fact, over half of all electric cars globally are now cruising China's roads, and the nation has surpassed its 2025 new energy vehicle sales target. Europe, the second-largest market, witnessed a 15% surge in electric car sales, signifying that one in every five cars sold was electric. Meanwhile, the U.S., ranking third, saw its electric car sales grow by an impressive 55%, achieving an 8% share of total sales. On the financial front, a massive $425 billion was invested in electric cars globally in 2022, marking a 50% increase from 2021. Interestingly, only 10% of this expenditure was backed by government support, with the lion's share coming directly from consumers.
+Hannah Ritchie provides a compelling analysis on why the growth trajectory of EVs is tracking the success case of solar.
+Dive deeper into her insights here
+.
+Lighthouse Company
+: BYD Co. Ltd., based in Shenzhen, China, is a leading conglomerate specializing in electric and hybrid vehicles, battery-powered bicycles, solar panels, and rechargeable batteries. In June 2022, BYD Auto outpaced Tesla, becoming the world's top electric vehicle manufacturer with sales of 641,000 EVs in the first half. By year-end, it was the first to sell over a million NEVs globally. In 2021, BYD held 9.1% and 7% global market shares for plug-in electric vehicles and BEVs, respectively. Primarily selling in China, BYD is rapidly expanding globally, targeting 1.5 to 2 million plug-in EV sales in 2022.
+Fleet Electrification:
+Overview:
+The worldwide automotive industry is primarily driven by the demand for passenger vehicles, which significantly overshadow other categories. Heavy- and medium-duty vehicles, for instance, make up a mere 5% of the overall vehicle inventory. Interestingly, while the majority of vehicles on the road are privately owned passenger cars, light commercial vehicles stand out as they are chiefly owned by businesses and enterprises.
+Lighthouse Companies:
+Since the major players control two-thirds of the commercial vehicle market, let's delve into their goals:
+- Amazon:
+Last goal: 10,000 electrified trucks from Rivian by 2022, reached 5,000, next goal: 100,000 by 2030
+- Fedex:
+50% of fleet electric by 2022, 100,000 100% by 2040
+- DHL:
+70% of fleet clean by 2025, 50% of fleet electric by 2022, zero-emissions by 2050
+Electric Buses
+Overview:
+The electric bus revolution is sweeping across the globe, with urban public transport fleets leading the charge. By 2019, Mainland China was home to 99% of the world's electric buses, a staggering 421,000 vehicles, or 17% of its total bus fleet. For context, the U.S. had only 300 out of its 75,000 municipal buses, and Europe, 2,250.
+By 2021, Europe's numbers grew to 8,500, yet China's 98% global share remained unchallenged. In contrast, the U.S. saw a rise from 450 e-buses in 2019 to a promising 3,533 by 2021, marking a 27% increase.
+Forecasts suggest that by 2040, electric buses will make up an impressive 67% of the worldwide bus fleet.
+Lighthouse Company:
+Electric school buses are gaining traction in the U.S., bolstered by billions in federal and state grants. Highland is at the forefront of this shift, aiming to make electric fleets both accessible and affordable. They provide electric school buses, charging infrastructure, cover electricity and maintenance costs, and manage the intricacies of electrification. Clients pay a subscription fee, designed to be more economical than current diesel fleet expenses.
+Rail
+Overview:
+Trains are 4x more energy-efficient than trucks, but rail freight is declining while trucking grows, influenced by the e-commerce surge and reduced coal demand. Despite rail's efficiency, its primary use in the U.S. is for bulk resources like coal and lumber, with only a small portion dedicated to intermodal transport, which shifts containers between ships, trucks, and trains. As rail's potential for electrification is evident, Europe is also exploring hydrogen as an alternative.
+Lighthouse Company:
+The genuine solution lies in recognizing that rail is already a carbon-efficient option. Our primary focus should be transitioning freight from trucks to trains.
+If you are still looking for an innovative company: Parallel Systems is innovating in the rail transport sector by crafting a modular, autonomous, electric railcar tailored for agile fleet deployments. Their primary focus is "intermodal" rail transport, essentially emphasizing container-based cargo freight. This new rail vehicle design addresses several challenges: reducing carbon emissions in freight, alleviating supply chain bottlenecks of trucking, and overcoming the limitations of traditional railway freight.
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+The transportation sector is undergoing a monumental shift towards sustainability. From electric two-wheelers in Asia to the rise of electric buses globally, the momentum is undeniable.
+As we continue to explore and innovate, it's crucial to remember the bigger picture: a world where transportation not only connects us but does so in harmony with the environment. With pioneers like Gogoro and BYD leading the charge, the future of transportation looks promising.
+Join us on this journey, share the knowledge, and let's drive the change together.
+Share Climate Drift
+Stay tuned for more insights in our upcoming editions!
+See you next time,
+Skander

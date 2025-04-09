@@ -1,0 +1,109 @@
+Title: Transitioning into Climate: Big Company or Startup?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/transitioning-into-climate-big-company
+==============================
+
+Discover
+Climate Drift
+: Your Guide to Climate Solutions and Finding Your Role in Achieving Net Zero.
+Not a subscriber yet? Sign up now!
+Subscribe
+Hi there! 👋
+Skander here. Kicking off 2024 with a guest post we were looking to for a while: Allan tells his climate transition story from NASA to Facebook to climate tech.
+He shares his biggest learnings and frameworks, including how to chose between joining a big company or a climate startup.
+Connect with Allan on
+Linkedin
+.
+Let’s dive in 🌊
+Skander
+Join the Climate Drift Accelerator and turn your passion into action.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution.
+Apply Now
+The Choice
+At the end of 2022, I was facing a huge opportunity.  I was exiting Meta, having built their hardware R&D org.  This on the back of a run at NASA where I helped create the commercial space market.  For the first time in my career, I had the opportunity to stop working and consider my work and what impact I wanted to leave behind.  The question of What next? evolved into a more nuanced exploration: Startup or Established company?
+My name is Allan Smith, and in 2023 I transitioned to Climate Tech.  I now lead a climate IT company that not only supports one of the world’s top agriculture producers but also consults with leading Climate investors and startups in Climate.
+In this essay I will share a bit of my journey to this moment and a framework for how I approached my next step.
+The Rocketship
+Most of my career feels to me like a series of lucky turns and twists.  I went to the US Air Force Academy because they recruited me to play soccer.  I joined the US Air Force Research Lab because that’s where the Air Force assigned me after graduation.  I bummed around as a playwrite after separating from the Air Force to decompress and figure out who I wanted to become.  I joined NASA because I met my wife in a bar one day and needed more stable income to support her move down from Canada.
+I had the opportunity to join NASA because a former customer of mine from my Air Force days had mentioned to give him a call if I ever needed anything, and I took him up on it. (Maybe more importantly, he lived up to his word and helped me when I reached out.)  His name was Pete Worden, and when I rang him, he was serving as Center Director for NASA Ames Research Center, and had just kicked off a program looking to build the commercial space market. This was particularly lucky, as commercial space launch (the key enabler to ease access to space) was just coming online.
+Some of my career choices were not luck: Facebook was the first place I actively pursued and landed.  Once we had built the basic ecosystem of commercial space at NASA, I had started to notice tech was one of the sectors heavily investigating space communications.  Google had
+Loon
+, Apple had hired a bunch of folks from Skybox, and I
+read this article
+about Facebook’s ambitions for high altitude and space-based comms.
+As I investigated how Tech would leverage all of the advancements we had been pursuing at NASA (modular spacecraft design, secondary rideshare on commercial launch vehicles, miniaturization of space-hardened electronics), I soon became hooked on the idea that my skills could translate to this industry I’d admired from afar.  I went on the various companies’ job boards and searched for a job opening that fit my skill sets.
+I didn’t find anything.  Turns out no one in Tech was looking for a generalist Systems Engineer focused on rapid delivery of small satellites under 450kg.  This didn’t deter me - I was seeing a consistent theme with Connectivity-focused work, mostly in signal manipulation.
+Again, this was a moment where I was pretty determined to figure out if I had a place in Tech.  I knew I could create something meaningful in government - the industry had kicked off a series of conferences around small satellites and commercialized space by this point.  I had proof I could affect an industry.  With Tech, I saw ambition to affect humanity, and I was determined to find out if I could be a part of it.  I didn’t know if it would work, but at the end of the day, I wanted to be able to look in the mirror knowing I’d turned every available knob and pulled every available lever to try.
+The first step was to go back to NASA and request a transfer to support a signal manipulation program in Colorado Springs, CO.  I saw an opportunity to build my skills and resume to more closely align with what Tech was hiring for in the Connectivity domain.
+Next, I wanted to build my network and knowledge.  I started on LinkedIn - anyone who was remotely associated with Connectivity programs in the Bay Area, I’d reach out and see if they were willing to engage with me.  I was specific about what I was solving for - in the beginning, I wanted to understand more about the overall efforts and where they were headed.  As I built that knowledge base, I wanted to know specifically how these organizations were pursuing their vision, and who were the key decision makers.  It took three years of flying out to Menlo Park to take quick coffee meetings with anyone willing to meet.  I think I took 30 trips in total during this time.
+In all of these companies, I saw ambition and opportunity to affect our current societies.  Facebook, in particular, was still embodying its famously empowered culture.  I was welcomed by friends who connected me with other friends, all because I joined in their belief we could change the world by democratizing access to information, which is what universal access to the internet was all about.
+From October 3rd, 2016 - January 23rd, 2023, I built the Hardware R&D org in Facebook’s Infrastructure group.
+My time there meant the world to me
+; working there changed my life.
+I was also exhausted after an intense 6.5 years, so in 2023 I didn’t want to go work for anybody.  Part of me was ready for a change; part of me was simply curious about how markets are shaped by venture funding.  I knew how to build something; I wanted to learn how allocation of funds to even enable things to be built in the first place happened.
+I had a bunch of VC friends in my social network, so I started reaching out to them to learn more about what they do and why they do it.  These initial meetings resulted in some specific opportunities to engage with these funds and their portfolio companies.  Climate Tech instantly stood out as the segment needing the most help, and offering the biggest impact returns.
+Understanding the Field
+I lucked into my fascination with Climate.  It turns out a bunch of my social circle in the Bay Area had migrated towards Climate, particularly Climate investing.  My friends at Breakthrough Energy helped orient me to the Climate space.  Once I started to meet with the major players, and orient my feeds to the smartest people in Climate (hello
+Marco & Skander
+), I started to notice how disorienting the space was for a job seeker.
+Bill Gates outlines
+the big levers that would move our Climate back to sustaining but it also doesn’t tell the full story to someone looking to impact Climate.  Clearly, scale is an issue to tackle, but there exist several nuances to meaningfully reduce global warming due to carbon in our environment.
+As I researched, I discovered a massive optimization problem was really difficult for us to wrap our arms around. Let’s dive into a few examples:
+We can capture carbon, but this creates a downstream problem of what to do with captured carbon.  We can sequester it, but sequestration needs to be sped up or allowed enough time to process carbon naturally.  Time is not on our side in this instance.  Even *if* we can speed up sequestration, the naturally-occurring minerals best proven to store carbon don’t tend to be near the most carbon dioxide-dense geographies.  (*Speeding up sequestration isn’t a given.  Accelerated sequestration is still science exploration more than engineered solution; it’s an incredibly exciting time where carbon mineralization could be accelerated more than we think today.)  Our best idea beyond sequestration is trapping captured carbon in abandoned oil wells and natural gas cavities.  This is great because carbon capture can be positioned closer to these sites, but it requires us to pretend we don’t remember the countless leaks and spills we endure continually while pulling carbon out of the ground.
+Then we have to factor in consumption, one way to drive down our carbon production.  Sustainable materials, circular economies (check out our friends at
+Pentatonic
+), reduced consumption, reduce-reuse-recycle.  The carbon credit economy pulling powerful monetary levers, government policy evolving every year.
+The Opportunity
+There’s so much incredible work to be done, and the inspirational optimists, realists, and dreamers drawn to the space are a joy to be around.  The vibe feels early web 2.0, when Facebook and Google were building a world most of us believed in.
+As I examined the problem space more deeply, and built relationships with some incredible talent building amazing things, I started to see a choice shaping up in front of me: do I join forces with the scale and opportunity provided by an established player, or do I jump in with a startup and try to accelerate them as best I could?
+Decision Time
+This is where my journey converges with many.  Everyone I know in tech faces this decision point at multiple times in their career: join a startup or go with a FAANG.   Personally, I noticed an extra layer of urgency beyond an upside vs. stability decision.  If I had to describe it, there’s an opportunity cost I was considering.
+I had built things I was proud of at Facebook, and before that, NASA.  I’d produced plays, I’d made films - I didn’t feel like I had anything left I needed to prove to anyone. I’d never had a plan to begin with, so taking a moment to reflect back on my career freed me to consider primarily what was best for me and my family at this juncture. My next step was a choice, a personal one at that.
+I benefit from having an environmental scientist wife who works on land conservation.  Through her, I learned about the basic science of our human effect on the environment, and the disaster of the current path we were on.  But it wasn’t until we had children where this started to feel imperative.
+So the stakes felt raised.  Beyond what I’d built, I understood how much I’d learned and gotten better.  At NASA, I learned how to lead a large team and more about how money drove any business.  At Facebook, I learned that everything happens through influence, and the more tools I developed to work with broader sets of people, the more powerful I became as a community builder.  I understood I was bringing real value from these cumulative experiences and learnings - any org I chose to join would benefit from who’d I’d become on this journey.
+All of those tools and learnings hadn’t prepared me to figure out the right type of company to join.  NASA and Facebook were brand names long before I’d joined either.  I’d been lucky to join two startup communities inside these brands, but both benefited from the infrastructure and reputation already established around us.  I’d done the big org thing and was a little worn down by all the overhead it takes to keep a big machine like those running.
+For some of the bigger companies I considered - established energy companies, top five consulting firms building Sustainability verticals, and tech companies with in-house NetZero teams - I sensed a consistent theme.  These were big, established machines struggling to adapt to how much to centralize ERG efforts to what they were doing.  This was very similar to what I navigated at Facebook, a software company at heart with big hardware ambitions.
+I wasn’t deterred by this, specifically.  If anything, I had a playbook to start with.  At Facebook, I’d built a network of other hardware R&D leaders at other software-first companies and we compared notes, approaches, and talent pools as we worked to influence from our positions.  I assumed a similar opportunity to build community with other Sustainability leaders was a good place to start, if I chose to join a big company.
+I ultimately felt pulled to an earlier-stage company, having just come from a big one.  But the more I thought about joining a startup, the more I felt like creating my own thing.  This ambition is rooted in being laid off from Meta.  This was a place I’d poured so much of myself into, had repeatedly done the right things when they didn’t benefit me personally.  I had convinced others to join; for four years I’d been a keynote speaker for global onboarding.  If I was going to pour myself out again, I wanted it to be on my own terms.  I was feeling ready to take a big swing at something, and Climate was clearly the right space.
+The problem was, I didn’t know what that thing was.
+IT and Agriculture
+I’d read Will Guidara’s
+Unreasonable Hospitality
+and become obsessed with the idea I could create something beautiful and impactful with my superpowers.  Adopting a Brian Chesky philosophy, I could create
+an 11 star experience
+of something.
+This is where my journey settles back into a familiar pattern for me that appears baffling to others.  I just kind of worked on what was in front of me.  I had the opportunity this year to design a tech demonstration for a cognitive city concept based on the human-machine experience and building trust in that experience.  It was fascinating and wild and risky.
+This is the heart of most startup opportunities: high risk / high reward.  A cognitive city could transform not only the way we interact with technology, but also tilt the balance of history to the geographic region pursuing this vision.  I saw an opportunity to use technology to evolve us as a human species; at the same time, I was not naive to the risk that the project wouldn’t ever see the light of day or be broadly adopted to realize the impact at the scale I dreamed of.
+On seemingly the other end of any spectrum, I also had the opportunity to consult with the IT group of a major agriculture producer.  The more time I spent with this group, the more potential I saw.
+They were well on their way to building a highly modern IT Infra, and the business was poised to take advantage of data leverage across their entire business.  They were seeing pieces of this, but hadn’t yet pulled all the threads into a combined roadmap.
+I helped them define the steps to land the updated network - device infra, to build a stable data infra across the business, then to build apps focused on optimization of centralized data.  The potential is huge at their scale - 1% more accurate crop yield prediction paired with supply chain optimization, leading to improved positioning of product across their three distribution points - a 1% optimization results in hundreds of millions of dollars of return.   With more accurate shelf life prediction, prices can be drastically reduced (or product could be more systematically donated).
+And as with anything I’d built in my career, realizing this impact would come down to the humans running these divisions, not the technology brought to bear.  Supporting a scaled company offered a massive opportunity to impact food and supply chains already in use - particularly in the Western US, 60% of our leafy greens come from this one company.  Now I could see how all the experiences I’d learned navigating the human dynamics of technology adoption and human interaction with tech could result in massive gains for humanity if I was successful.
+I’d found a space where I could apply my skills and experience to a mission that matters to me.  As my old boss’s mentor had apparently said, ‘Everyone wants to play a meaningful role on a winning team pursuing a mission they’re inspired by.’ (I’ve been told Graham Weston, founder of Rackspace, deserves credit for this beauty).
+What’s Actionable Here?
+One of the coolest parts of my past year has been colleagues from all previous walks of life - NASA, Tech, Hollywood - reaching out and wanting to learn about my exploration into Climate.  From hundreds of conversations this year, I’m motivated by the wide-scale understanding and imperative across a large talent pool.  Everyone I talk with seems to get the opportunity and immediacy of solving these Climate challenges.   All of them come back to a similar question:
+How do I start?
+Here are the behaviors that work for me as I’ve navigated the past year of career transition into tech.
+Show up
+.  Much of my luck and opportunity comes through availability.  My friend encouraged me to join the
+My Climate Journey Collective
+, I noticed climate meet-ups happening in the city; I do a decent job staying in touch with friends from past lives.  Every one of these opportunities faces a decision point - do I pay the $99 to join a Slack community?  Do I really feel like fighting traffic to go to a networking event?  I’m an extreme activator - I’d always rather be taking a step than waiting and analyzing, so I tend to jump at these opportunities.  I can 100% point to the ‘luck’ I create by simply showing up to these opportunities.
+Work with intention
+. This requires first doing the work to understand what I’m working towards.  As my friend
+Jeff MacGregor
+tells me, it’s time to get really honest with myself about what I’m solving for.  If it's a financial opportunity, I work to understand that and fit it into my moral framework.  This allows me to pursue it relentlessly.  If it’s to save the planet, I still do the same self-work: is this about feeling good about myself or making up for something?  When I discovered my intention lies in the world I’m creating for my kids to inherit, I tapped into a clear motivation to keep me going through inevitable disappointments, dead ends, and obstacles.
+Remember: I can always learn
+.  If you’re mapping out a career change to Climate, you’ll have the opportunity to make money, meet amazing people, and work on something inspiring and daunting.  At some point, some of the smaller details like what type of org to join, where to apply your talent are just iterations and opportunities to learn.  You can’t fail if you keep improving with each decision.
+If you’re facing a similar decision point in your career, I’d love to hear from you!
+Please reach out
+.  And if you’re evaluating a career transition to Climate, I’d love to help.
+Join the Climate Drift Accelerator and turn your passion into action.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution.
+Apply Now
+I hope you enjoyed this post from Allan as much as I enjoy every conversation we have.
+We are also looking forward to welcoming Allan as a speaker and mentor for
+our Climate Drift Career Accelerator
+.
+This post is just the beginning of many climate transition stories we'll share this year - consider it a thrilling kickoff to a journey.
+Skander

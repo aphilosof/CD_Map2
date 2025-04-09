@@ -1,0 +1,122 @@
+Title: Scaling Up for the Carbon Challenge: Going from Micro to Massive
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/scaling-up-for-the-carbon-challenge
+==============================
+
+Welcome back to
+Climate Drift -
+a place where you can explore climate solutions and your part to play in the push toward net zero.
+We’re so glad you’re here! If you are not a regular yet, consider subscribing down below:
+Subscribe
+Hi there! 👋
+Skander here. This post will continue to explore Carbon Removal. After deep diving into the
+Carbon Removal Hype
+, digging into
+Carbon Offsets
+, Climate Drift will now look at the carbon removal challenge ahead of us. We hear about carbon dioxide emissions, carbon tons, and huge efforts ahead. But where are we now, and where do we need to go?
+Cheers to another guest post! Isabelle Le Guay is an operations management consultant who dipped her toes into the Circular Economy and loved seeing how people came together for something bigger than themselves. Find her on
+LinkedIn
+!
+Recap on scopes 1, 2 and 3 emissions
+Scopes 1, 2 and 3 emissions encapsulate the totality of a company’s Greenhouse Gas Emissions (GHG) as a result of its operations. Measuring those emissions enables companies to calculate their climate footprint and can support the development of a decarbonization roadmap. Here is a reminder of what each scope relates to:
+Scope 1 emissions: these emissions directly result of operations undertaken by an organization. Think manufacturing operations (process), leaks (fugitive), heating of fuels at facility (stationary combustion), gas emitted from car fleets (mobile combustion). However, as companies switch to EVs, the latter category will switch to scope 2.
+Scope 2 emissions: these correspond to indirect emissions as a result of using third-party utility providers (e.g. to support heating and cooling).
+Scope 3 emissions: these include all other emissions and are typically part of an organization’s upstream and downstream value chains. Third parties generate and control scope 3 emissions, which makes them comparatively more complex to measure. The Greenhouse Gas Protocol (GHG Protocol) established
+15 categories
+.
+Below is a view from 2021 for the European Union (
+Allianz
+):
+Putting the order of magnitude into perspective
+How much carbon is in a ton?
+Emissions are commonly measured in metric ton carbon dioxide equivalent (tCO2e). But what exactly does a metric ton mean on an individual level? Climate Drift created a visual with various orders of magnitude. Here’s an extracted view:
+The
+graph
+below highlights net flows of industry emissions along with CO2 storage potentials.
+Net zero = Carbon reduction + carbon removal
+The world emitted
+54.59 GtCO2e
+, including
+37.12 GtCO2
+, in 2021. The strategy to reach net zero will require a combination of energy efficiency, electrification, and decarbonization. But that will not be enough, and the market is still working on solutions for hard-to-decarbonize industries, including the steel or cement industries. The bottom line is that the world cannot reach net zero without Carbon Dioxide Removal (CDR). In fact, we are on a trajectory to reach 2 degrees. It is currently estimated that
+CDR will need to remove 10 GtGHG annually by 2050
+in support of net zero efforts. This represents approximately 25% of annual global carbon emissions.
+The CDR industry: a nascent industry with a lot on its shoulders
+Current supply - 110 ktCO2 was delivered
+Current demand - The marketplace committed to purchasing 4.8 MtCO2
+Sources:
+BCG
+,
+CDR.fyi
+Technologies are slowly maturing
+There are a multitude of promising CDR technologies at various Technology Readiness Levels (TRL), with wide-ranging cost per ton and learning rates. The most advanced technologies are Bionergy with Carbon Removal and Storage (BiCRS) and Direct Air Carbon Capture and Storage (DACCS). To date,
+18
+DACCS plants have been built globally, and
+27
+have been commissioned. Combined, these technologies have delivered 2.3% of the committed purchases (see updated values
+here
+). The work is not over yet!
+CDR faces a funding challenge
+- CDR needs capital to scale quickly
+- The CDR industry is in a bit of a Catch-22 scenario because it requires funding to advance its R&D efforts at pace but can't attract investors until it shows definite progress. The more projects CDR companies have under their belt, the faster they will be able to drive their technologies to a commercially viable stage.
+- The market remains voluntary
+- The market is driven by a host of platforms and players, including buyers clubs (e.g., Frontier), MRV and marketplaces (e.g., Carbonfuture), brokers, and registries (e.g., Puro). This Voluntary Carbon Market (VCM) represents 0.05% of the annual 10 GtCO2 we need to remove. Clearly, we are nowhere near where we need to be. Given the current price per ton, which stands at
+$615
+as of July 2023, only a handful of sectors, including tech, banking, and airline companies, decided to participate in this somewhat philanthropic market.
+- Government support is coming through
+- Governments have started to take action in various ways. In the US, the Infrastructure Investment and Jobs Act (IIJA) and the Inflation Reduction Act (IRA) demonstrate the country's commitment to advancing the CDR industry, starting with Direct Air Capture (DAC):
+IIJA
+allocated $3.7bn
+towards CDR and unlocked a
+combined funding of $1.2bn
+to fund the development of two large DAC demonstration plants in Louisiana and Texas. These two projects will deliver 2 MtCO2, the equivalent emissions of 445,000 gas-powered Citroen C1s.
+The IRA created the 45Q tax instrument, which offers $180/tCO2 and will help narrow the gap between actual costs and market expectations.
+Private and public investment will help the US CDR sector reach commercial viability. The US clearly stands out as the most active supporter of CDR; however, countries such as the UK, the EU, Canada, and Japan are also developing a range of solutions, from tax credits to regulation and funding.
+The sector has a golden opportunity to reflect and build an equitable sector
+The inherent novelty of this sector gives it a special opportunity to ensure a fair and equitable transition. In particular, the government funding for the Louisiana DAC plant is focused on engaging with local communities that have historically suffered from marginalization and discrimination. This signals a clear intention to build better and could serve as a model for engaging with future communities and ensuring that
+equity is built into DAC from the outset and by design
+.
+CDR has a long path ahead
+There is no clear consensus within the scientific community
+The Intergovernmental Panel on Climate Change (IPCC) estimated the carbon removal requirements to sit between 100 and 1,000 GtCO2, while the IEA’s Net Zero Emissions by 2050 (NZE2050) had a lower estimate of 50-100 GtCO2 by 2050. In any case, the effort required to meet the lowest 2050 target is colossal and has never been achieved at such a pace.
+As a side note, the CDR industry seems to be laser-focused on removing carbon dioxide emissions, sidelining non-CO2 GHGs. Following this line of thinking, this assumes that all such GHGs will be removed through decarbonization.  It is unclear whether and what pathways have been mapped for those GHGs.
+What targets are we working towards?
+The market seems to be working towards the NZE scenario, which operates under the assumption that both the energy and industrial processes sectors will achieve net zero by 2050.
+Global carbon removal potential by 2030 and 2050 under a net zero emissions scenario
+NZE 2030 target: 75 MtCO2
+-Estimated supply - ~33 MtCO2 based on project announcements to date
+Estimated demand - 40-200 MtCO2
+- The 2030 target
+- The current decade will be pivotal for the CDR industry. Both the infrastructure and the market will need to scale significantly to meet the requirements set under NZE2050. The IEA estimates that the
+2030 target could be achieved
+in theory if all 130 plants currently in the planning stage went online.
+- The 2050 target
+- The CDR industry’s mission will be to remove 10 GtCO2 from the atmosphere by 2050. Let’s look at the scale of what we need to build. CarbonCapture is deploying the world's largest direct air capture (DAC) project, Project Bison in Wyoming, with the potential to remove up to 5 million metric tons of CO2 per year. This deeply modular solution is expected to take roughly 7 years to build and will be fully operational by 2030. To reach net zero by 2050 using DAC alone, we would need to build 2,000 plants, and demand would need to increase by a factor of 130 from 2030 levels.
+Some high-level roadblocks remain
+-
+The cost per ton remains prohibitive
+- Each technology has a different price point. However, all estimates are based on the assumption that the cost will come down to $100/tCO2 or less. BiCRS ranges between $50 and $500/tCO2 based on the CO2 source; DAC remains costly due to energy inefficiencies; and other technologies such as Enhanced Rock Weathering (ERW) and marine CDR (mCDR) are currently in an early stage of development (
+TRL between 3-5
+).
+-
+Trust
+- How do companies know whether they got what they paid for? By solving this, Monitoring, Reporting, and Verification (MRV) solutions will build trust and facilitate the trade of high-quality carbon credits. No standard is surfacing at this date.
+-
+Voluntary vs. Compliance market
+- The BCG confirmed it recently: a compliance market will markedly improve the uptake of carbon removal across high, mid, low scenarii. The sooner and more countries mandate carbon removal, the better our chances of success of achieving the 130-fold increase in demand that is required.
+-
+Walk the talk
+- The government needs to start procuring carbon removal for its own emissions. In doing so, it will create a larger market, providing opportunities for CDR companies to iterate on their technologies.
+-
+The government needs to play a bigger role
+- Building an infrastructure-heavy sector from scratch quickly requires robust and coordinated policy planning. A holistic approach that engages all stakeholders is essential to optimize policy action and achieve this ambitious goal. Tough choices will need to be made.
+-
+Will fossil fuel companies be a help or a hindrance?
+- Oil and gas (O&G) companies are acquiring carbon capture and removal (CDR) startups, of which Carbon Engineering's recent acquisition by Oxy is the latest example. While O&G companies have a unique opportunity to advance CDR, it is important to consider their motivations. Given that large players can drive change more effectively, the O&G industry could play an important role in this transition. However, this will only happen if their intentions are sincere and not simply to maintain their social license to operate.
+In summary, we are currently looking at a market that will grow exponentially to remove a quarter of our emissions production and help meet the 2050 net zero objective. What will happen after that? Well, we haven’t even talked about legacy emissions. These emissions that we have continuously added to the atmosphere since the industrial revolution add up to
+2.3 trillion tons of CO2
+and have
+increased by 150% since 1750
+. But this may be a discussion for another time!
+Thanks for reading Climate Drift!
+Subscribe

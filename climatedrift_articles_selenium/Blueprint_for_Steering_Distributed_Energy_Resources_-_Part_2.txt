@@ -1,0 +1,186 @@
+Title: Blueprint for Steering Distributed Energy Resources - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/blueprint-for-steering-distributed-f2c
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there! 👋
+Skander here.
+Welcome back to our deep dive into the world of Distributed Energy Resources (DERs)! In Part 1, we laid the groundwork by exploring the essentials: the rise of renewables, the infamous "duck curve," and the fundamentals of DERs:
+Blueprint for Steering Distributed Energy Resources - Part 1
+Chris Bernkopf
+and
+Maura White
+·
+September 13, 2024
+Read full story
+Now, it's time to roll up our sleeves and shift gears from theory to practice. We'll explore:
+The Flexibility Revolution
+: How consumption is becoming as flexible as generation once was inflexible.
+The Dual Flywheel Effect
+: Understanding the self-reinforcing relationship between DERs and renewable energy.
+Grid Stability in the DER Era
+: How to maintain balance in an increasingly complex system.
+Monetizing the Distributed Grid
+: Strategies for utilities to create new revenue streams while benefiting consumers.
+Real-World Applications
+: How companies are already leveraging these concepts.
+By the end of this guide, you'll have the tools to:
+Identify opportunities for DER
+Understand the economic incentives driving DER adoption
+Master strategies for maintaining grid stability as DER penetration increases
+🌊Let’s dive in
+Join the Climate Drift Accelerator and accelerate your climate journey.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+Meet our guides for today: Maura White, a Climate Drifter and marketing pro bringing fresh perspectives on climate solutions, and Chris Bernkopf, a DER expert and climate tech founder revolutionizing utility management with Podero:
+Chris Bernkopf
+is the Co-Founder and CEO of Podero, an EU-based SaaS platform that enables utilities to synchronize their consumer devices, electricity markets, and software systems to offer highly competitive electricity contracts.  He is a serial founder and engineer who previously built a YCombinator backed software company that helps companies like BASF, ABB, and SBB source mechanical parts faster and cheaper. His background is in physics and data science (CERN), as well as in sales and software engineering for the educational AI and electric mobility spaces.
+Maura White
+is a marketing and communications pro with over 15 years of experience across diverse sectors, including technology, media, health, and wellness. She began her career at Edelman working on Fortune 500 companies, including Samsung, Motorola, and Microsoft, and later on for rising startups, like Polyvore and IndieGoGo. She launched Starbucks' first mobile applications with media, and was the first communications lead at Turtle Beach, the leader in gaming audio. Most recently, she has led branding, growth, and awareness campaigns for health equity nonprofits with a strong community impact pillar. Maura's current focus: Exploring climate solutions at the nexus of technology, policy, and equity, driven by her diverse experience and insatiable curiosity.
+III. Synchronizing Electricity
+Generation is Inflexible, But Consumption
+IS
+Flexible
+Though the duck curve, explained in
+part 1 of this series
+, is caused by DER technologies, they can be a big part of the solution. Smoothing the extremes of the duck curve depends on the number and size of DER solutions connected to the grid and regulations surrounding energy trading. Compensating for generation intermittency requires increased access to already installed and emerging DERs, such as batteries, electric vehicles, and heat pumps.
+DERs enable flexible loads in the system, causing less extreme peaks and valleys of energy supply/demand, resulting in a flatter or “sleeping” duck curve. Creating this new version of the duck curve requires electricity to be traded on the market, leveraging emerging, integrated DER devices that can offset costs and increase grid resilience.
+The EU has a set of
+rules on wholesale energy trading
+as part of the
+Green Deal Industrial Plan
+to foster competition in the energy market. Consumers are placed at the center of the EU’s transition to clean energy so that they can engage in the act of generating and supplying power. Dynamic tariffs, meaning those that charge variable rates based on electricity market prices, are being made mandatory in many European countries (
+Directive 2019/994
+). All utilities must offer dynamic electricity tariffs in Germany from 2025 onwards (EnWG § 41a). These are instruments to incentivize users to change their behavior since prices for these contracts are based on market supply and demand. The problem is that it's very difficult for a consumer to do this manually. A system is needed to enable users to use electricity at the best prices.
+The Dual Flywheel of Distributed Energy Markets
+Electricity markets are governed by supply and demand, and they operate across three levels: long-term power-purchase agreements, which operate months to years ahead; wholesale electricity markets, or spot markets, which operate up to one day ahead at 15- —to 60-minute intervals; and real-time balancing markets, which respond within seconds to minutes to stabilize the grid. For instance, while the day-ahead market closes 12 to 36 hours before power delivery (consumption or production), an intraday spot market can adjust just five minutes before delivery.
+In periods of high renewable energy generation, electricity is usually cheaper than at times of low renewable energy generation. We can use these market forces for good to drive decarbonization. Electricity flows almost instantaneously through the grid, so utilities must precisely forecast and price how much energy production (supply) and consumption (demand) they’ll need based on load profiles. A load profile indicates how much electricity will be needed in certain time intervals. The profile can exist in 1-hour, 30-minute, or 15-minute intervals or for more extended periods, e.g., the next 12 months. Accurate forecasting ensures the stability of the grid. This keeps the grid balanced and trades electricity at the lowest possible price.
+Electricity producers (utilities or individuals who generate their own renewable energy and sell into the grid) bid into the market based on production costs. Renewable energy sources are produced at near-zero operating costs – because they don’t burn any raw materials – making them often the cheapest, encouraging the system to prioritize clean energy. Bids in the wholesale spot market are accepted from the cheapest to the most expensive electricity bidder. The market operates on a merit order, with the cheapest electricity bid accepted first and offers in line following suit. Once the demand is satisfied, everybody receives the price of the last electricity purchase.
+Market participants can significantly reduce their costs by adjusting the timing of electricity consumption and production. Shifting electricity usage from high-demand periods to times of abundant renewable energy can lower costs for all parties.
+The Left Side of the Flywheel: Electricity Consumption by DERs
+Shifting consumption to mid-day – when renewable energy is abundant and cheap – enables households and DER operators to save money. This reduces the total cost of ownership of DER solutions compared to their fossil fuel counterparts, fueling more deployments of DERs. With more DERs in operation, there is an increase in the amount of power used in the morning and the evening, creating spikes in electricity prices at those times. But by shifting DER power usage to mid-day, operators and owners can reduce their operating costs and help reduce reliance on fossil fuels.
+The dual flywheel of distributed energy demonstrates the self-reinforcing relationship between DERs and renewable energy. As DERs shift electricity consumption to low-cost, low-carbon periods (mid-day), they boost the deployment of renewables. This dynamic feedback loop drives its own energy prices, decarbonizes the grid, and improves its resilience.
+The Right Side of the Flywheel: Electricity production by renewables
+Shifting demand to mid-day simultaneously boosts the price of electricity at that time, which boosts the profitability of renewable energy sources. This helps to flatten the “duck curve” and improves the attractiveness of renewable electricity investments, like solar and wind. This leads to an increase in the deployment of renewable energy sources, which in turn leads to more DERs being able to shift their consumption to times of cheap green energy production.
+The grid becomes more flexible, stable, and cost-efficient as we synchronize, or load shift, when DERs successfully adapt to the production patterns of renewable energy sources. In the process, we create lower market prices and lower costs for everyone except fossil fuel plants. Market volatility can be predicted and mitigated by leveraging DER storage devices that enable load shifting and balancing, pulling cheap electricity off of the grid for use at a later time. This dual flywheel of increasing renewable energy production and optimized DER consumption creates a cleaner, cheaper energy market.
+Ensuring Grid Stability Using DER
+Grid stability hinges on a delicate balance of power to keep the
+grid frequency
+within a specific range. Grid frequency, measured in Hertz (Hz), reflects how often the alternating current (AC) changes direction in a power grid. It indicates whether there is an imbalance between electricity generation and consumption. All devices participating in the power markets, whether power plants, industrial machinery, iPhones, or DERs, can only operate within a specific frequency range—outside of it, they shut down. Blackouts happen when many devices, either generating or consuming energy, go on or offline in short succession. Managing grid frequency is crucial for preventing cascading failures and ensuring the continuous flow of energy within the grid.
+The standard grid frequency varies between regions. The nominal value is 50 Hertz (Hz) in Europe and 60 Hz in the United States. Power system operators restore the frequency to its desired level using restoration reserves that can increase or reduce power use or production quickly on demand. Restoration reserves can be power plants, industrial machinery, or DERs.
+Source:
+Nano Energies
+FCR
+, or
+frequency containment reserve
+, is known as primary reserve and is used to stabilize the grid within 30-seconds or less.
+aFRR
+stands for
+automatic Frequency Restoration Reserve
+. It is known as a secondary reserve and must be activated within either 7.5 or 5 minutes, depending on the country.
+Devices operating on
+manual Frequency Restoration Reserve
+or
+mFRR
+must be activated within 15-12.5 minutes, depending on the location. It is designed to address longer energy frequency deviations.
+Electricity markets, like the spot market and balancing energy markets, offer utilities and other market participants opportunities for arbitrage. They can profit by intelligently adjusting their consumption and production patterns to take advantage of favorable pricing in day-ahead and intraday spot markets. They can also get paid to help balance the grid by providing FCR, aFRR, and mFRR during times of deviation from the optional grid stability.
+IV. Monetizing the Distributed Grid
+VPPs: Connecting and Controlling Flexible, Smart Devices
+Most organizations and individuals make decisions based on financial incentives rather than environmental impact. In the EU, most customers pay the same electricity price regardless of when they use it. The electricity markets offer significant savings while reducing greenhouse gas emissions, but most consumers can’t access these savings due to fixed electricity contracts and underutilized DERs.
+Electricity prices vary across regions, influenced by infrastructure, geography, and government-imposed taxes. For example, taxes comprise a large portion of
+residential electricity prices
+in Denmark, Belgium, and Sweden. However, dynamic electricity contracts, where prices fluctuate daily, are becoming more popular. Spot electricity contracts offer hourly rates, but consumers can’t fully capitalize on available market savings even with these.
+To unlock maximum savings, utilities must actively trade energy and pass those savings to customers. This is achieved through a
+Virtual Power Plant
+(VPP), an aggregation of power sources, whether power plants or DERs, that are connected and integrated into the grid. A VPP can consist of hundreds or thousands of DERs to help balance grid frequency. In the future, millions of devices could be part of VPPs with the right software.
+VPPs allow utilities to trade (buy and sell) the consumption and production of power plants, consumer demand, and DERs on spot electricity markets. It also allows them to shift flexible electricity consumption and production capacity from peak hours to off-peak hours. This is called load shifting and has long been used by industrial and commercial sites to reduce costs, flattening the duck curve in the process.
+Connecting, Steering, and Optimizing Consumer Power
+Currently, load shifting is mostly done using power plants or large DERs, such as grid-scale batteries, wind turbines, large solar farms, and hydroelectric power plants. However, utilities are increasingly beginning to explore ways to add consumer-grade DER devices to VPPs so that they can benefit financially from the same methods and pass saving rewards on to consumers.
+One promising approach is creating a “virtual battery,” an aggregation of household scale DERs, such as home battery storage, electric vehicles, or heat pumps. The virtual battery provides the utility with a singular instrument that it can connect to a VPP. The VPP uses existing trading methods to buy and sell power for the virtual battery. The same methodology can be applied to aggregations of consumer solar inverters to maximize profits from solar power production. It can also be simultaneously orchestrate and address a mix of electricity-producing and consuming DERs.
+Reaping the rewards of trading power from DERs on the electricity markets requires utilities to adopt a software stack to connect to consumer DERs en masse, read their data and control, or steer them according to trading signals. The utility must also forecast the power consumption of each device, aggregate the entire DER device fleet, and calculate possible trade scenarios. It’s important that any attempt at device optimization is easily communicated with consumers in clear terms and avoids disrupting a consumer’s comfort beyond a user-defined level.
+If completed successfully, each DER device uses the full potential of its energy flexibility to consume power at the cheapest possible times, earns the maximum profit by participating in spot market price trading, and supports stabilizing the grid. By doing so, utilities can offer significantly cheaper electricity prices to consumers, help increase access to affordable electricity, and avoid significant GHG emissions by prioritizing electricity use from cheap, renewable sources.
+Case Study: Podero Orchestrates DERs for E.ON, oekostrom, and KELAG
+Podero
+is one of the software providers at the forefront of this industry shift. The company works with large utilities, including
+E.ON
+,
+oekostrom
+, and
+KELAG
+, among others, to create new revenue streams by trading DERs flexibility while offering 25+% cheaper electricity contracts to consumers. A win-win for consumers and utilities!
+Podero provides utilities with a platform to create virtual batteries and integrate them into their VPPs. Consumers who have DERs can link their devices to the platform through Podero’s white-label app or the utilities’ own apps, provided they are integrated with Podero’s API. Once connected, Podero manages the DER devices according to user preferences, operational requirements, and trading signals.
+After the software aggregates the devices into virtual batteries, it forecasts their load curves and proposes trades to the utility's VPP via the API. The utility can make those trades on the wholesale spot and balancing energy markets, passing along some of its earnings to customers.
+Podero’s white-label app (pictured) offers a seamless way for utilities to launch consumer device optimization without any technical hassle. Consumers can connect devices from 51 manufacturers, or roughly one thousand different device models, which Podero steers according to its spot optimization algorithms and HEMS (Home Energy Management System) features. The result? The devices use power at cheaper times and maximize the use of self-produced solar energy, leading to cost savings for the consumer.
+Podero quickly integrates into utility apps so that consumers have a unified experience without leaving the utility's software sphere. The integration is designed to work out-of-the-box and in the background without disrupting the customer experience. Utilities also integrate Podero’s trading APIs into their VPP to receive and transmit the data of their virtual batteries on Podero’s platform. The utility can then use Podero’s AI-generated trading forecasts to trade on the day-ahead and intraday spot and balancing energy markets. Through this system, the utilities can harness new revenue streams that enhance customer satisfaction and engagement with lower electricity costs.
+Conclusion
+As our energy demand continues to grow and climate change progresses, decarbonizing energy production and consumption is vital. The shift to renewable energy sources means electricity is increasingly intermittent. The energy flexibility found in DERs offers a promising approach to our shared challenge, and a vast number of flexible DERs are just waiting to be used to transform the energy system.
+By aggregating DERs into virtual batteries that can be used to trade on the electricity markets using Virtual Power Plants, we can solve the intermittency issues associated with renewable energy, generate new revenue streams for utilities, reduce energy costs for consumers, and reduce greenhouse gas emissions.
+Incorporating DER steering and flexibility trading into utility strategies is key to transitioning to a greener, more sustainable energy system. Utilities that do so will play a pivotal role in creating a world of abundant green energy.
+Interested in learning how utilities can use DERs to create customer savings, earn new revenue streams, and make the energy grid more flexible, resilient, and sustainable?
+Chris
+, the CEO of Podero, is more than happy to walk you through Podero’s solution. Click here to
+book a meeting
+.
+Are you looking for a growth-oriented marketing person who can help you create a mythology for your brand, deepen your customer relationships, and drive narratives that transform your business?
+Connect with Maura on
+LinkedIn
+or
+book time with her
+. She’s currently diving into different climate topics – including energy, circularity, decarbonization, and greenwashing – to deepen her expertise and share new avenues of storytelling for climate solutions.
+References
+Executive Summary – The Future of Heat Pumps – Analysis - IEA
+, https://www.iea.org/reports/the-future-of-heat-pumps/executive-summary.
+Brehm, Kevin, et al. “Virtual Power Plants, Real Benefits.”
+RMI
+, https://rmi.org/insight/virtual-power-plants-real-benefits/.
+“Energy use (kg of oil equivalent per capita) - European Union | Data.”
+World Bank Open Data
+, https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE?locations=EU.
+“Executive summary – Global EV Outlook 2024 – Analysis - IEA.”
+International Energy Agency
+, https://www.iea.org/reports/global-ev-outlook-2024/executive-summary.
+“Executive summary – Unlocking the Potential of Distributed Energy Resources – Analysis - IEA.”
+International Energy Agency
+, https://www.iea.org/reports/unlocking-the-potential-of-distributed-energy-resources/executive-summary.
+“Factcheck: How electric vehicles help to tackle climate change.”
+Carbon Brief
+, 13 May 2019, https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change/.
+“FAST FACTS.”
+California ISO
+, https://www.caiso.com/documents/flexibleresourceshelprenewables_fastfacts.pdf.
+Gledhill, Sarah. “Understanding the Value of Distributed Energy Resources | Yale Environment Review.”
+Yale Environment Review
+, 20 March 2023, https://environment-review.yale.edu/understanding-value-distributed-energy-resources.
+“A GLOBAL COMPARISON OF THE LIFE-CYCLE GREENHOUSE GAS EMISSIONS OF COMBUSTION ENGINE AND ELECTRIC PASSENGER CARS.”
+International Council on Clean Transportation
+, 1 July 2021, https://theicct.org/wp-content/uploads/2021/07/Global-Vehicle-LCA-White-Paper-A4-revised-v2.pdf.
+“Global Energy Perspective 2023: Power outlook.”
+McKinsey
+, 16 January 2024, https://www.mckinsey.com/industries/oil-and-gas/our-insights/global-energy-perspective-2023-power-outlook.
+“Grid Integration of Electric Vehicles – Analysis - IEA.”
+International Energy Agency
+, 14 December 2022, https://www.iea.org/reports/grid-integration-of-electric-vehicles.
+Jaganmohan, Madhumitha. “Global energy consumption - statistics & facts.”
+Statista
+, 25 January 2024, https://www.statista.com/topics/4042/global-energy-consumption/.
+Ritchie, Hannah. “The price of batteries has declined by 97% in the last three decades.”
+Our World in Data
+, 4 June 2021, https://ourworldindata.org/battery-price-decline.
+Ritchie, Hannah, et al. “Energy Production and Consumption.”
+Our World in Data
+, https://ourworldindata.org/energy-production-consumption.
+Ritchie, Hannah, et al. “Solar power generation.”
+Our World in Data
+, 20 June 2024, https://ourworldindata.org/grapher/solar-energy-consumption?tab=chart.
+Wallach, Omri, and Bruno Venditti. “The Solar Power Duck Curve Explained.”
+Elements by Visual Capitalist
+, 4 April 2022, https://elements.visualcapitalist.com/the-solar-power-duck-curve-explained/. Accessed 11 September 2024.
+Wehrmann, Benjamin. “German onshore wind power – output, business and perspectives.”
+Clean Energy Wire
+, 13 February 2024, https://www.cleanenergywire.org/factsheets/german-onshore-wind-power-output-business-and-perspectives.

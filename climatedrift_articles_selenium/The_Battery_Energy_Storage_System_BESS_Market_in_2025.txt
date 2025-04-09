@@ -1,0 +1,241 @@
+Title: The Battery Energy Storage System (BESS) Market in 2025
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-battery-energy-storage-system
+==============================
+
+Michael Applebaum
+is a 5-time product marketing leader who has helped climate tech pioneers like Opower and Indigo Ag create new markets and build scalable go-to-market engines. Through executive roles in marketing, sales operations, and pre-sales, he's driven revenue to 8 and 9 figure milestones and contributed to 2 IPOs.
+Michael is now pursuing decarbonization in the energy sector – working with clean energy innovators to hone their strategy, sharpen their story, and achieve sustainable growth on the journey to net zero.
+The Battery Energy Storage System (BESS) Market in 2025
+This is another long one. Click on the headline to read the full deepdive 👆
+Energy storage systems sit at the heart of the energy transition – supporting profitable adoption of renewables, enhancing grid flexibility and reliability, and creating exciting opportunities for innovators and investors. At the same time, an enormous set of challenges and risks exist, from trade wars and commodity price swings to safety concerns and market structure uncertainties.
+In this article, I dive deep into the electrochemical (battery-based) energy storage market, the technologies in play, market trends, and some big questions around how the industry will evolve.
+Key takeaways:
+The BESS market is projected to grow from $50+ billion in 2024 to as much as $150 billion in 2030.
+Energy shifting has grown to dominate energy storage projects, fueled by the continued expansion of renewables, retirement of thermal generation, and overall load growth.
+BESS prices have fallen dramatically over the last several years, although prices might start rising this year in the US due to trade policies.
+While lithium-ion dominates the BESS market today, experts believe sodium-ion could gain the cost advantage long term, and Chinese battery heavyweights are already investing heavily in its production.
+BESS can be a powerful tool for grid decarbonization, but only if used in the right way.
+Critical challenges and questions revolve around production scalability, safety risks, bankability of new technologies, supply chain risks, and trade & regulatory policy.
+Why the BESS Market Matters
+Whether you care about decarbonizing the electric system, increasing the reliability of the grid, reducing the cost of electricity, or building the next generation of successful energy ventures, the BESS market is critical.
+Battery energy storage is essential for the continued mass deployment of renewables in pursuit of a net zero future. In the IEA’s Net Zero Emissions by 2050 Scenario, global installed energy storage capacity needs to reach 1,500 GW by 2030 to facilitate the adoption of solar PV and wind, with battery storage delivering 90% of that growth,
+rising from 85 GW in 2023 to 1,200 GW in 2030
+.
+BESS can also help avoid or defer huge capital investments in transmission and distribution grid upgrades, by time-shifting energy flows, increasing overall system reliability, and providing other grid services. MISO found that storage as a transmission asset could meet a recent project’s requirements at
+28% lower capital cost
+than a traditional transmission line. Those savings flow through to electric ratepayers.
+And BESS are key to a host of other grid and behind-the-meter applications, as described below.
+“Storage changes the whole paradigm of producing electricity, delivering it and consuming it. Storage gives us a time machine to deliver it when we need it.”
+–
+John Moura, director of reliability assessment and performance analysis at NERC
+Image credit: Fluence
+Macro Trends Driving BESS Adoption
+The multi-decade transition away from fossil fuels involves massive deployment of solar and wind power. These intermittent generation sources increasingly rely on storage to capture excess energy produced and prevent curtailment. The ability of batteries to time-shift energy makes solar and wind much more viable. And despite renewables’ exponential growth over the last 20 years, they still only account for 34% of total power generation (based on
+IEA data
+, Oct. 2023 through Sept. 2024), leaving an enormous opportunity ahead.
+In addition, the electric industry as a whole is experiencing significant load growth for the first time in decades, driven by AI-hungry data centers, the electrification of heating, transportation, and industry, and other factors. In the US, for example, electric demand is
+projected to grow 15.8%
+from 2024 to 2029. This rising tide will lift the market for energy storage even higher.
+Further, climate change-induced extreme weather events, electric load growth, retirements of coal and gas power plants, and other factors are creating reliability challenges for the grid in many places. This is leading communities, critical infrastructure facilities, military installations, and other institutions to invest more in backup and microgrid solutions, driving demand for stationary battery storage.
+“Despite the heat wave, ERCOT has yet to ask people to conserve electricity. That’s a big change from 2023 when 11 requests for conservation were issued. [Without the big increase in energy storage] we almost certainly would have been rolling outages,’ tweeted Doug Lewin, author of The Texas Energy and Power Newsletter.”
+–
+Houston Public Media, August 22, 2024
+Market Overview
+Annual global added BESS deployments
+reached 42 GW
+in 2023, or in energy terms an estimated 110-140 GWh, with a
+market size of $44-55 billion
+. Global annual deployments are forecasted to reach 520-700 GWh in 2030, worth $120-150 billion – representing annual growth of 25% in energy terms and 15% in dollar terms. On average, about
+65% of the capacity additions
+are projected to be utility-scale systems.
+Geographically, China is
+expected
+to continue leading the market in deployments for years, followed by the US and Europe. (Note that BloombergNEF’s (BNEF) projection here includes the energy storage market as a whole, which includes non-battery energy storage.)
+Applications / Use Cases
+BESS plays many roles in providing flexibility, efficiency, reliability, and emissions reduction for the grid and behind-the-meter needs:
+Renewable energy integration and energy price arbitrage. Just as transmission moves energy through space, batteries move energy through time. This temporal flexibility is exceptionally valuable in an electricity system that features timing mismatches between low-cost supply and high demand, unpredictable supply, and increasing incidence of extreme weather. The ability to store excess solar and wind energy and deliver it at times of high demand maximizes the value (and deployment) of renewable generators, reduces emissions from fossil fuel generators, and provides profitable opportunities for energy arbitrage. Even 1-hour batteries added to solar & wind generators
+increase their energy value
+in transmission-constrained regions by 49-81%. Energy arbitrage can also be pursued without complementing renewables, although this can increase net emissions (more on this below).
+Ancillary services (grid stability and frequency regulation). Grid frequency and voltage can fluctuate due to outages or increases in demand. Batteries play in the ancillary services market by responding extremely quickly in these situations to provide or absorb power from the grid to stabilize frequency and voltage.
+Capacity and peak load shaving. During times of high grid demand, batteries can provide power to avoid the highest-cost generators (typically gas peakers), which are also highly emitting.
+Transmission & distribution deferral. Batteries can provide a dramatically more cost-effective approach to grid capacity challenges by deferring massive capital investments in new/upgraded transmission and distribution infrastructure.
+Backup power. Batteries also provide backup power for residential, commercial, and industrial markets. For critical infrastructure like hospitals and data centers, BESS may be deployed in a microgrid system or a simpler configuration.
+The intended application determines the required performance and financial factors. For example:
+Renewables integration and energy arbitrage demands high cycle life and round-trip efficiency, competitive capex cost, and reasonable depth of discharge flexibility.
+Ancillary services requires high ramp rate, discharge rate, cycle life, and round-trip efficiency.
+Capacity and peak load shaving needs a competitive capex cost and high cycle life and round-trip efficiency.
+Energy shifting (which includes the 1st and 3rd applications above)
+accounts
+for an increasingly large share of the global energy storage market:
+Michael’s take: While ancillary services revenue streams can change quickly in any market, renewables integration should be a long-term opportunity creator for storage given the massive solar and wind deployments projected for years to come.
+Costs and Pricing
+BESS system prices have been falling for most of the past decade. They’ve benefited from the massive build-out of battery production capacity for the EV market and the experience curve cost reductions that come from it.
+The recent fall in BESS pricing has been even more dramatic. Lithium-ion (Li-ion) battery cell and pack prices
+fell by 30% and 20%,
+respectively, in 2024 – contributing to energy storage system prices
+dropping an incredible 40%
+last year.
+With raw materials driving most of the battery cost, and lithium comprising most of the material cost in Li-ion batteries, the biggest driver of battery price reductions has been the huge drop in lithium prices following the spike in 2022-2023. Continuing advances in manufacturing process automation and efficiency, as well as battery pack and module design, have also driven down battery production OpEx. The huge build-out of Li-ion cell manufacturing in China has further flooded the market with capacity, creating a brutally competitive playing field.
+A key factor driving cost differences between cell manufacturers is yield. The higher the share of finished product that meets quality standards, and the less raw material that’s wasted in manufacturing, the lower the effective cost per MWh of sellable product. The speed of ramping to high-yield production varies widely, and in the worst case can threaten the company’s survival if it’s too slow. Northvolt, for example, has
+struggled
+due to “overwhelming variability in cell quality and high scrap rate”, contributing to its bankruptcy.
+Key factors impacting yield
+include the experience of the company’s manufacturing workforce, its willingness to trade quality for speed, and the proximity and availability of support from equipment manufacturers.
+Although IEA projects battery prices to continue falling over time due to improvements in the performance of Li-ion batteries, as well as the maturing and adoption of sodium-ion and solid-state batteries, the downward march of prices may hit a wall in 2025, at least in the US. At the time of publishing this article, CEA was forecasting a
+35% price increase in the US
+for China-assembled DC blocks in 2025, due to a variety of tariffs likely to be implemented by the new administration.
+“[In Texas] gas peakers are struggling to compete against batteries. ‘They basically serve the same market, and batteries are better,’ said Doug Lewin, who writes the Texas Energy and Power newsletter.”
+–
+Latitude Media, February 25, 2025
+Battery Chemistries: the Battlefield for the Next Decade
+Many battery chemistries and technologies exist, with varying stages of maturity and suitability for different BESS applications. The technical capabilities and financial characteristics required for a project will usually determine the technology selected.
+Lithium-ion batteries tend to meet the needs of most BESS applications well, which is why the BESS market is dominated by them today, as
+shown
+in the following chart. Nothing else comes close, but there are many up-and-comers looking to win a piece of the market.
+Lithium-ion batteries
+(LIB) have dominated BESS for years and are expected to continue doing so for at least the near to mid term. They offer very high volumetric and gravimetric energy density and reasonably long cycle life. Thanks to the industry’s enormous investment in manufacturing capacity and the development of a mature supply chain, LIB cells are plentiful and have fallen dramatically in price. With tens of gigawatts of LIB already deployed, they’re familiar to industry players, highly bankable, and benefit from a global ecosystem.
+Within the realm of lithium-ion, stationary batteries have shifted from cobalt and nickel based chemistries (NCA and NMC) toward lithium iron phosphate (LFP) – due to cost, supply chain, geopolitical, human rights, fire risk, and cycle life considerations. In 2023, LFP reached
+80% share of new BESS deployments
+.
+Interestingly though, many of the factors that fueled LFP’s rise could open the door for non-lithium chemistries to take share. The question is – will any other chemistry or battery type gain enough traction to hit an inflection point and begin scaling?
+Sodium-ion (Na-ion) batteries
+are the leading contender, although the first large-scale sodium-ion BESS was only launched in 2024. However, key advantages give it a chance to take share from lithium-ion, just as LFP took share from NCA and NMC. Analysts are projecting as much as
+335 GWh of sodium-ion cell production capacity
+by 2030.
+The case for sodium-ion:
+While they have lower volumetric energy density than LIB, Na-ion batteries (especially NFPP) boast greater safety, better performance at low temperatures, potentially longer cycle life (
+10,000+ cycles
+), and they generally avoid the
+supply chain and human rights issues of LIB
+, making them a strong fit for stationary storage.
+Experts hold mixed opinions on how costs compare for Na-ion vs. Li-ion. While
+one source
+gives sodium-ion cells roughly a 25-30% cost advantage over lithium-ion,
+another
+suggests sodium-ion systems will be comparable to LFP at the site level within the next 1-2 years, in part because they can be stacked higher vertically. However,
+a different source
+claims it’s unlikely Na-ion will reach pricing parity with LFP at the system level in the near term. In any case, the relative abundance of the materials used in Na-ion cells gives them an inherent long-term cost advantage, especially as Na-ion manufacturing processes and supply chains scale. Na-ion technology is also a
+drop-in for current LIB manufacturing processes
+, making the path to scaling easier.
+The fact that Chinese battery heavyweights CATL and BYD are investing heavily in Na-ion technology suggests it has a real chance to scale. BYD, which has started construction of a
+30 GWh (annual capacity) sodium-ion battery factory
+, noted the cost of its Na-ion batteries will be
+on par with LFP cost in 2025 and 70% lower in the long run
+. Natron Energy recently announced plans to build the
+first Na-ion battery gigafactory in the US
+, producing 24 GW annually at full capacity.
+Natron Energy gigafactory site in North Carolina. Image credit: Natron Energy.
+Along with cost, safety is the biggest factor that could drive Na-ion BESS adoption. The risk of thermal runaway for Li-ion systems, while very slight, is growing in public consciousness and creating opportunity for a safer chemistry like Na-ion. Communities are pushing back on having Li-ion systems sited near residential and commercial areas, following battery fires like the one in
+Escondido, California
+and most recently
+Moss Landing (Monterey County), California
+.
+Community concern may reach a tipping point. In
+Solana County, California
+, the board of supervisors banned new BESS projects, ultimately extending the ban to 2 years, noting “no actual opposition to the facilities themselves, but that they should be sited away from hospitals, residences or schools.” Other Li-ion BESS projects proposed near residential and commercial areas have been rejected by local authorities in
+Katy, Texas
+,
+San Benito, Texas
+, and
+Kokomo, Indiana
+.
+Orange County, California
+also issued a temporary moratorium on new BESS facilities in unincorporated areas (presumably the incorporated areas are covered by individual city regulations).
+The Kokomo community’s response to the developer’s safety presentation was instructive. “If they got to talk that much about safety, fire suppression, those types of things, this is a volatile operation. It’s a volatile operation that they’re suggesting to you that they’re going to make safe.” As the saying goes, if you’re explaining, you’re losing.
+Is resistance growing to Li-ion deployments within communities, or are these just a few outliers? Many BESS will be sited in residential and commercial areas in the years ahead, but will Li-ion’s risk profile be acceptable? With enough rejections of Li-ion systems in preferred locations, more integrators and developers might start exploring Na-ion.
+The case against sodium-ion:
+Ironically, one of the biggest variables affecting Na-ion’s adoption has nothing to do with the technology itself. It’s the price of lithium, which drives the relative cost advantage of Na-ion. When
+lithium prices spike
+, as they did in 2022 through early 2023, so does the interest in sodium-ion batteries.
+With prices having returned to earth, where does the market go?
+In December 2024, S&P Global was
+projecting
+an average lithium carbonate price (CIF North America) of $10.54/kg in 2025, down from $12.37 in 2024 and a peak of over $80 in late 2022. CEA was also projecting
+relatively flat lithium carbonate pricing
+through 2028. That said, some experts predict an
+“unavoidable” price spike
+again this decade.
+Raw lithium prices aren’t the only factor at play, but they have a major effect on Na-ion’s competitiveness. One could imagine this slowing sodium-ion deployment somewhat in the near term and focusing it more on the
+use cases where it’s the best fit
+, like cold-climate locations and deployments where safety is paramount (e.g., residential/commercial areas).
+Alternatively, even if lithium prices don’t rise again soon, could the price shock of 2022 cause integrators, developers, and utilities to start diversifying away from Li-ion? There’s something to be said for relying on the 5th most abundant element (sodium), which is 1000 times more abundant than lithium.
+Michael’s take: Sodium-ion’s potential long-term cost advantage, scaling supply chains & manufacturing processes, and ongoing improvements in energy density and system-level density give it a fighting chance to achieve breakout growth – although this may take several years.
+Redox flow batteries
+are another piece of the BESS ecosystem, albeit a small one today. Vanadium is the most common type; iron is another. Unlike most other batteries, they store energy via electrolytes in liquid tanks, charging and discharging when the electrolytes are pumped into an electrochemical cell (reactor). This enables energy storage capacity to be scaled separately from power, making flow batteries well suited for long-duration energy storage (LDES) applications. They boast long cycle life (
+20,000+ cycles
+) with only minor degradation over time, greater depth-of-discharge, and minimal risk of fire or explosion. In addition, any degradation can be resolved by just adding more electrolyte, unlike Li-ion batteries where degradation requires replacing and disposing of battery cells or modules.
+Flow battery diagram. Image credit: Journal of Vacuum Science & Technology B.
+Despite these advantages, they’ve not yet achieved major adoption. They require high upfront investment and offer lower round-trip efficiency and energy density, which their advantages in lifetime and safety haven’t yet overcome. Systems using vanadium must also contend with its limited and geographically concentrated supply.
+Michael’s take: With increasing market support for LDES deployments in the UK, US, Italy, Australia, and other countries, flow batteries may finally catch a tailwind. Increased grid penetration of renewables can further drive demand for shifting energy over longer periods of time, where flow batteries excel.
+Metal-air batteries
+are an emerging category geared primarily toward long duration energy storage (LDES). They aren’t yet in widespread deployment but have received significant investment in recent years, led by Form Energy ($1.2 billion raised), whose iron-air batteries have a 100-hour duration.
+Solid-state batteries
+and
+lithium-sulfur batteries
+are also promising categories, but likely more applicable to EVs and other markets than stationary storage during the near term.
+Sodium-sulfur batteries
+have also seen several GWh of grid deployments, but concerns about safety and cycle life have prevented their broader use.
+Lead-acid batteries
+and
+nickel-cadmium batteries
+are mature, well established technologies that have been used for grid and backup power applications. They have much lower energy density and cost competitiveness than lithium-ion chemistries, limiting their opportunities.
+Impact on Emissions Reduction
+Grid-scale BESS can be a powerful enabler of decarbonization – but this doesn’t happen automatically. By storing surplus renewable energy and discharging it when demand is high, batteries help minimize reliance on high-emission fossil-fuel peaker plants.
+However, whether batteries actually lower emissions depends on how and where they’re used. In locations where renewables deployment is low, energy storage can charge with fossil-generated power and actually increase net emissions. Even in places with significant renewables, batteries might increase net emissions because market mechanisms don’t incentivize emission reduction. Remarkably, Tierra Climate found that of 65 batteries operating in Texas, the state with the highest wind and solar capacity,
+92% of BESS caused emissions to rise
+. Similarly, when BESS are used primarily for ancillary services, emissions can increase because the batteries aren’t supporting the integration of renewables and their round-trip efficiency losses (~10-15%) come with an emissions price.
+On the bright side, emission-focused changes to market mechanisms can work! When California
+implemented
+changes to its Self-Generation Incentive Program rules, it turned a dispiriting emission
+increase
+of 6.9 kg CO2 per kWh of battery capacity into a sparkling emission
+reduction
+of 9.8 kg CO2 per kWh.
+Regulatory and market enhancements, like carbon-aware pricing and renewables pairing, as well as carbon accounting standards that recognize the emissions impact of battery operation and enable new revenue streams that monetize this value, can help realize the full climate benefits of energy storage.
+Michael’s take: BESS are a crucial element of the grid’s path to net zero – but they have to be motivated (by regulators) and managed (by owners/operators) to pursue emission reductions. If you care about decarbonization, make sure your business model and market structure are aligned with it!
+One of the world’s largest solar and battery projects in South Africa. Image credit: Scatec.
+Industry Challenges and Strategic Questions
+Scaling production
+For new manufacturers and those developing new technologies, making the leap from pilot to scaled up production can be immensely challenging, especially outside of Asia. Northvolt is a $10+ billion example, although its bankruptcy resulted from many factors.
+While the challenge is greatest for cell manufacturers, it’s present to some extent for any Western manufacturer or integrator. Talent with expertise in gigawatt-scale production, proximity to equipment suppliers, and established supply chains are major advantages of the Chinese battery industry (and Asia more broadly). Can Western firms develop the expertise, relationships, and supply chains they need to achieve high yields while scaling production – whether in components, cells, or systems?
+Or is the winning play a best-of-both-worlds strategy that melds Western innovation and Chinese production expertise via partnering, as James Frith of Volta Energy Technologies
+suggests
+?
+Safety risks and second-order effects
+BESS failure incidents are incredibly rare, with
+just 0.2 occurring per 1 GW of deployed capacity in 2023
+. But when they occur they grab the headlines, resulting in growing public awareness and concern. In the most extreme scenario, could Li-ion systems be relegated to remote locations only, creating opportunity for safer systems in developed areas? Will some communities “throw the baby out with the bath water” and resist BESS deployments of any type in developed areas?
+Significant progress has been made to reduce the very slight risk of BESS incidents, and the industry is sharing more information about safety features, practices, and tests than in the past. Will it be too little too late for Li-ion in residential & commercial areas – or will the battery industry succeed in its education and advocacy efforts?
+On a related note, could Li-ion safety concerns drive some of the EV market to Na-ion? If so, that could accelerate Na-ion cell cost reductions and spur faster uptake in the BESS market.
+Bankability of new technologies
+Even when a new technology delivers breakthrough value or solves a major industry challenge, its adoption doesn’t soar overnight. It needs to demonstrate performance, manageability, cycle life / degradation, and safety at increasing scale over years – to gain the support of insurance companies, banks & investment firms, and the developers they back for 8 to 9 figure projects.
+Will new solutions perform predictably in the field as deployments get larger? How many proof points, at what scale, and over what time period will the industry want to see that proof, and how long will it take a company to achieve those milestones?
+Changing markets and demand
+Electricity markets can change rapidly, altering how energy storage systems are used and even changing the demand for different technologies. For example, battery revenue in ERCOT saw a huge shift from ancillary services toward energy arbitrage in 2024. Energy revenues in the day-ahead and real-time markets grew from 15% of total battery revenues in the first 8 months of 2023 to
+33% in the first 8 months of 2024
+.
+While every market has unique dynamics, will the unquenchable global thirst for renewables continue driving battery opportunities toward energy arbitrage?
+Could the unpredictability of markets and revenue streams reduce the financial attractiveness of BESS projects and impede their growth in any markets?
+Supply chain risks and price volatility
+The lithium price shock of 2022-23 has passed but its memory burns brightly. Global lithium demand will soar for years, driven more by the EV market than BESS, but the inherent volatility of demand and trade policy, and the second-order effects of demand, supply, and trade policy, mean there’s always the potential for another supply crunch and price shock.
+Unlikely as it seems today with US EV demand weakening and excess global manufacturing capacity for Li-ion cells, competition for lithium could also grow between EVs and stationary storage in the mid/long term.
+Will the price and supply risks inherent in lithium and other less abundant elements drive BESS demand toward non-Li chemistries?
+Will competition with EVs for lithium amplify a BESS shift toward Na-ion and other chemistries?
+Or will the low price of lithium today keep the Li-ion party dancing for as long as the music plays, crowding Na-ion and others out of the picture?
+Geopolitics and trade & regulatory policy
+Geopolitics is the jetstream of the global battery industry. With China vying to maintain and extend its leadership and Western countries pursuing domestic supply chains and manufacturing both for security and economic reasons, it’s an unpredictable playing field. Even when Western and Chinese companies want to partner, they may be prevented from doing so – for example, by technology export restrictions like what China recently
+proposed
+.
+With additional trade restrictions and tariffs likely to be implemented by China and the West, how will they impact technology development and system deployment around the world?
+If BESS investment tax credits or domestic content incentives in the US are reduced or eliminated, how much will demand and domestic manufacturing be affected?
+Could these developments shift long-term Western demand among different types of batteries – for example, from lithium-based toward those using abundant elements?
+Conclusion
+At $50 billion, battery energy storage is a major market that’s still just getting started. It will play a central role in evolving our grids to provide abundant and affordable clean energy, flexibility, and reliability. But it also faces swirling cross-currents.
+To succeed, entrepreneurs, corporate leaders, and investors should follow these keys to success:
+Those who survive and thrive will not only play an outsized role in a future $150B+ industry, but also make epic strides in decarbonizing the electric sector.
+Given all the headwinds and tailwinds, where do
+you
+see the biggest opportunities in the BESS market over the next five years?
+Reach out
+to me and let’s discuss.

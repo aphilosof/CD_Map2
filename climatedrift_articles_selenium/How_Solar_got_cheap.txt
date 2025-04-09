@@ -1,0 +1,86 @@
+Title: How Solar got cheap
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-solar-got-cheap
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there 👋
+Skander, here!
+In a world where the sun sets every day, one energy source has managed to shine brighter than ever before: solar energy. Just a few decades ago, solar panels were a rare sight. Fast forward to today, and they're starting to be everywhere, powering cities, and offering a glimmer of hope in the fight against climate change.
+How did a technology once confined to calculators and satellites become the beacon of our renewable energy future? This isn't just a story of photons and panels; it's a tale of global collaboration, strategic innovation, and the relentless pursuit of a brighter tomorrow.
+Today - with the help of the great book
+How Solar Energy became Cheap
+- I will explain the steps that went into the process, and if we can replicate it with other technologies.
+And to make this journey digestible, we'll use parallels to something we all love: cooking.
+Let’s dive in 🌊
+Skander
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+Over the past 45 years, there's been a consistent trend in the solar industry: photovoltaic costs have plummeted by 12% annually. Crunch the numbers, and since 1976, solar costs have nosedived by nearly 100%. Now, solar isn't just affordable; it's outcompeting fossil fuels.
+While this decline is one of the go to success stories in our battle against climate change, it merely scratches the surface.
+The widely known TLDR: We deployed so much more solar, we got really good at it, it is cheap now.
+More solar means cheaper solar
+But this is not the full story: It took 9 different Innovation Accelerators to turn solar cheap.
+But before diving into that, let's journey through the annals of solar history, visualized as a cookbook.
+The Global Solar Cookbook:
+Imagine a solar cookbook, where each chapter represents a nation's unique recipe and ingredients.
+The U.S.:
+Setting the appetizer course, the United States introduced the world to the flavor of modern solar potential with the Bell Labs breakthrough in 1954. Seasoned with government R&D programs in the mid-70s, the U.S. emphasized the importance of continuous research and innovation, laying the foundation for the courses to follow.
+Japan:
+As the menu progressed, Japan added its signature dish with its "million roof program." By incentivizing homeowners through subsidies, Japan not only fostered domestic adoption but also showcased how niche markets can enrich the culinary landscape of technological growth.
+Germany:
+Germany's signature dish is flavored by the success of the "feed-in tariff" program, a policy that guaranteed renewable energy producers a fixed rate for the electricity they supplied to the grid. This strategy sped up market growth and drew in new manufacturers.
+Australia:
+With a more subtle yet essential side dish, Australia trained a generation of solar entrepreneurs and engineers. Many later established manufacturing bases in China, highlighting the importance of knowledge transfer and global collaboration in this solar culinary journey.
+China
+: Culminating in a grand dessert, China's contribution is sweetened by its rapid manufacturing scale-up and entrepreneurial spirit. Driving costs down to unprecedented lows, China's recipe underscores the significance of disruptive production and the global supply chain in perfecting the solar feast.
+The 9 Innovation Accelerators:
+Let's condense these decades of insights into a versatile framework tailored for diverse climate technologies:
+1. Continuous R&D:
+Just like a chef tirelessly perfects a signature dish, solar's evolution has been shaped by relentless R&D. Both public and private sectors have been in the kitchen, ensuring the flame under the solar pot never goes out.
+2. Public Procurement:
+Imagine governments as gourmet food critics. When they endorse solar, it's like getting a Michelin star. The
+US Block Buy program
+from 1975 to 1985, for instance, was like a massive order that pushed chefs to refine their cooking techniques.
+3. Trained Workforce:
+A restaurant's success isn't just about the head chef; it's the entire kitchen brigade. As of 2023, approximately 4,000,000 people are employed in the solar industry worldwide. In the United States alone, there are 250,000 individuals employed in the solar sector.
+4. Codify Knowledge:
+Every chef has a secret recipe book. For solar, it's the codified knowledge, ensuring that every innovation and insight is documented and shared publicly.
+5. Disruptive Production:
+Think of this as the avant-garde cuisine of the solar world. It's not just about traditional cooking; it's about reimagining dishes in ways that surprise and delight.
+6. Robust Markets:
+A packed restaurant with a waiting list. That's the kind of demand solar needs, pushing chefs to constantly innovate and serve up delectable dishes.
+7. Knowledge Spillovers:
+Fusion cuisine at its best. Solar borrows techniques and ingredients from other industries, creating dishes that are both familiar and refreshingly new.
+8. Global Mobility:
+Chefs travel, learn from global cuisines, and bring back exotic flavors. Similarly, solar experts attending global conferences ensure that the best practices are shared and adopted worldwide.
+9. Political Economy:
+Navigating the culinary world isn't just about the food; it's about understanding the diners, the critics, and the market trends. Similarly, solar has to understand and navigate the intricate interplay of politics, society, and economics.
+Lessons Beyond Solar: Can We Replicate Solar's Trajectory in Other Verticals?
+Which technologies fit this model? It's applicable to some, but certainly not all.
+Type-1 Technologies:
+Advanced, iterative, and always evolving, they're the technologies that have the potential to revolutionize sectors.
+Other members of this category include offshore wind turbines, high altitude wind turbines, fuel cells, desalination, and end-use technologies. The trajectory of PV's offers a roadmap for how these technologies can be accelerated.
+Type-2 Technologies:
+Picture these as the grassroots movements of the tech landscape. They're small-scale, low-tech, but with massive potential for impact. Instead of groundbreaking technological advancements, their power lies in behavioral change and widespread adoption. Planting forests for carbon storage or tweaking agricultural practices to enhance soil carbon are prime examples. The challenge? Convincing millions to adopt these practices. It's less about inventing and more about implementing. The Green Revolution serves as an inspiration here.
+Type-3 Technologies:
+These are the skyscrapers of the tech world: massive, complex, and hard to iterate. They include behemoths like nuclear power, carbon capture at power plants, and low-carbon steel making. The primary challenge is in system integration, managing the intricate dance of numerous components, and ensuring cost-effectiveness. While the scale is vast, the opportunities for iterative learning are limited. For instance, the nuclear industry, despite its vast capacity, has built significantly fewer reactors than the number of solar panels produced.
+Type-4 Technologies:
+These are the game-changers, the technologies that have the potential to redefine sectors and even economies. They're termed General Purpose Technologies (GPTs) and have historically included innovations like the steam engine and the internet. Looking ahead, we might see artificial intelligence, nanotechnology, or synthetic biology taking up this mantle. The rapid diffusion and transformative impact of the internet serve as a beacon for how future GPTs might be integrated into our world.
+In Summary:
+Each technology type presents its own set of challenges and opportunities. While Type-1 technologies can directly benefit from the solar PV model, the others require tailored approaches. Type-2 hinges on mass adoption, Type-3 on managing complexity and scale, and Type-4 on both innovation and rapid diffusion.
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+Thanks for diving in with us!
+If you enjoyed this exploration of "
+How Solar Got Cheap
+" and its implications for other climate solutions, please share it with anyone who might benefit - be it a friend, partner, or even your grandmother.
+Share

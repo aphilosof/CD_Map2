@@ -1,0 +1,158 @@
+Title: How to make your home a climate champion
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-to-make-your-home-a-climate-champion
+==============================
+
+Jennie Montano
+is a Supply Chain leader with +10 years of experience in biotech. Her focus on optimization of processes enhances operational efficiency, reduces environmental impact and drives cost savings. She has saved more than $92M through global optimization initiatives.
+Jennie currently resides in Austin, Texas.
+Austin is listed the fifth largest metro areas in the United States among highest wildfire risk.
+Given the increasing cycle of major climate events, she decided to take a personal sabbatical from work to learn more about climate change impacts and the ways being explored to adapt or mitigate the problems.
+Her journey of discovery was inspired by the
+HI-SEAS
+, Hawai’i Space Exploration Analog and Simulation. Jennie was intrigued to learn that a self-contained biosphere has been placed on Mauna Loa, a volcano on Big Island, Hawai’i, and that experiments were being conducted with astronauts to simulate the landscape, isolation, and conditions of a habitat on the Moon or Mars. She wondered if we could do this for experimentation, what would it take to actually change our own homes to be self-contained biospheres? Or, to step to more of a middle ground, what options and technology could we apply to existing homes to have less impact on the environment overall?
+How to make your home a climate champion
+This is another long one. Click on the headline to read the full guide 👆
+Summary
+You may be like me, and the increasing occurrence and impact of climate disasters have you thinking of ways to reduce your contribution to our overheating planet. It is not a call to save the Earth but to save ourselves. As the Earth gets hotter, human life will have a harder time maintaining its existence. If that latest climate disaster in the news scared you, do not lose hope. There are things we can do we just have to be curious and willing. It is not about sacrifice or scarcity. It is about ways to adjust our current existence to be more of a partner to the planet.
+In this article, I will take you on a journey as I identify ways to reduce the carbon impact of my house and I will share my plan to make those changes in the future. If you electrify all the systems in your home, you can reduce your carbon footprint by 80% which for a 3,000 sq ft. house is equivalent to taking two to three combustion engine vehicles off the road. I aim to inspire others to craft a plan to update systems in their home - when the time comes. Having a plan to change energy use will save energy costs and reduce the carbon impact of your home.
+The $8.8 Billion Program Helping Americans Save Money on Energy
+As we push toward the Paris Agreement of 2015 goals to keep warming at or under 2 degrees Celsius, governments worldwide have implemented programs allowing residential building owners to electrify systems and upgrade energy efficiency. In the United States, this program is called the Inflation Reduction Act. “The Inflation Reduction Act includes $8.8 billion in rebates for home energy efficiency and electrification projects, which is expected to save American households up to $1 billion annually.“
+Looking at some data from the University of Michigan, Center for Sustainable Systems, I pulled some data, and the image below, from their
+Residential Fact Sheet
+In 2022, miscellaneous loads used more electricity than any other residential end use (lighting, HVAC, water heating, and refrigeration), accounting for
+36% of primary energy
+and
+50% of electricity use
+.
+Wasteful energy uses include heating and cooling unoccupied buildings and rooms, inefficient appliances, thermostat oversetting, and standby power loss.
+Heating and cooling account for
+45% of the total energy use
+in the residential sector.
+Energy management systems display energy use via a monitor or mobile app and enable remote control of devices. Home energy management systems can
+reduce a house’s energy use by an estimated 4-7%
+.
+U.S. Residential Energy Use, 2022
+12
+Based on the above, the majority of energy use is down to the decisions we make in our homes. As such, we each have an opportunity to positively impact our climate emissions one step at a time. But what should be our priority list for making residential more energy efficient? Since combined heating and cooling make up almost 45% of energy use in homes, should you prioritize reduced leakage of heat or cool air? Most experts indicate that electrifying your home systems is a higher priority due to reduced carbon emissions and the cost savings you can apply to other updates.
+With this in mind, each homeowner should look at their house and create a Carbon Reduction Plan. Electrifying systems can be expensive and is not typically done until the current system fails, so replacing it becomes urgent. If you do the research in advance, you can have a plan in place for which vendors can solve your urgent need and make a change that will save you money and reduce your home's carbon emissions. If all residential building owners gradually updated their systems to electric, we would be making a significant impact on reducing climate change.
+Making a plan for carbon neutrality
+The Department of Energy has a guideline for a
+Zero Energy Ready Home
+(ZERH). “ZERH homes are composed of components and building systems that are carefully designed, constructed, and installed to allow the house to work together as one system, delivering superior performance, comfort, efficiency, and durability.” In this case, your home is already built so what can you do to get it closer to carbon neutrality?
+In August 2024, the International Energy Conservation Code (IECC) was published. It contained Appendix RH “
+Operational Carbon Rating and Energy Reporting
+” which is the first appearance of the carbon rating of the built environment in the code. This has yet to be
+adopted by any state
+, however it will be something to look forward to.
+Their website states “Rewiring America is the leading electrification nonprofit working to electrify our homes, businesses, and communities.” Their website allows you to create a plan and gives you information about general cost savings from making changes, rebates and incentives. It is a good initial step for research but you still have to call vendors, get quotes, and manage the project. I did not find their contractor recommendations very helpful - in most cases they referred you to networks rather than actual businesses.
+I have been in my current home since 2018, and during that time, I have upgraded major systems, replaced windows, and renovated the whole house, including an electrical panel upgrade. As an exercise, I decided to look into what Rewiring America suggested I do if I wanted to “Lower My Climate Impact” and “Future Proof My Home.” See a screenshot of my plan below:
+My Plan From Rewiring America
+Over the rest of this paper, I will walk you through each step of this plan and provide an overview of my research. At the start of each section, I provide a table highlighting 1) One Time Cost, 2) Action Taken, and 3) Annualized Cost Savings expected. In a couple of the steps, I highlight some initial set-up costs and other options.
+Pre-work: Home Energy Audit
+Once I saw the prework of getting a home energy audit, I submitted a request to my local utility, Pedernales Electric Cooperative (“PEC”). Eventually, I had a very nice chat with a representative there who told me I would have to hire a third party to perform that audit. PEC used to perform the service but it was eliminated during the pandemic. The representative pointed me to another local utility, Austin Energy, as having a list of local contractors that the entity recommended for the energy audit service.
+During my research, I discovered that in 2009, Austin passed an ordinance requiring all home sellers to get an Energy Audit or ECAD (Energy Conservation Audit and Disclosure) before selling. Nothing that is discovered in the audit is anything that the seller needs to address; it just informs the buyer of opportunities to make the house more energy-efficient. I looked up the inspection done by the seller of my house but found nothing new to me that I have not already or am considering addressing. In looking at a few local vendors, getting such an audit would cost $225.
+Step 1: Electric Vehicle
+The first point on the Rewiring America plan is to add an electric vehicle to the household. The plan indicates we could reduce our costs by approximately $1,700 annually. That is a big expense and commitment right out of the gate and does not directly impact your home, except for increased electricity usage. Note the pricing above does NOT include rebates that could potentially be applied. Austin Energy, a local utility, provides up to $1,200 USD rebate on the installation of a Level 2 EV charger. Federal Tax Credits for EVs have been as much as $7,500 USD (this will be impacted by the new Administration) and there is usually a rebate offered by the state or even city you reside in.
+Fortunately, we work from home, so our cars are used sparingly. To be blunt, the two cars we have indulge our desire for flexibility and comfort when we go out. We typically only drive 2-10 miles at a time a few times a week. Occasionally, we take road trips to other cities and towns.
+We leased a new vehicle this year but stayed with a combustion engine because we were not quite ready to commit. However, we plan to transition to an electric vehicle in 2027 and I am excited to see the future options. We also have one vehicle that is fully paid off. I like that vehicle a lot and hope to keep it for a long time. I hope technology to convert a combustion engine to electric will become more common and affordable in the next few years. Current estimates for converting are $45,000-85,000 USD, including parts and labor. I would consider going through that expense versus selling it for a new electric vehicle.
+At the time of writing, the State of Texas has more than 3,500 EV charging stations and has recently received $440 million in federal funding to expand that network. The Texas Department of Transportation (
+FY2025 - Texas Electric Vehicle Infrastructure Plan
+) plans to add fast charging stations every 50 miles along interstate highways and every 70 miles outside of those corridors. That means owning an EV will be more flexible and convenient.
+However, more accessible and timely public transportation and safer pedestrian and bicycling infrastructure would be a better priority. There is no reliable and consistent public transportation in the City of Austin or any city in Texas. Newer developments have some mix of housing and retail with walking access but older developments were created with a mindset that you must drive to go shopping or dining.
+There has been some push within Texas to connect the major cities - Dallas, Houston, Austin and San Antonio - by high-speed train. Unfortunately, despite high public protests, the Texas Department of Transportation is focused on lane expansions on the major highways. The expansion in the center of Austin, will see businesses and homes be demolished. Many protests were about the impact of this expansion on health and safety. Unfortunately, Texas is a State that became rich due to the oil and gas industry so the governing bodies have fully embraced the highway and car infrastructure.
+Adoption rates for EVs in the US and by state are represented by this chart from the
+Visual Capitalist
+Step 2: Install Solar
+The second point of the plan is to install solar. Rewiring America estimates that we can reduce our costs by $1,100 annually.
+I have installed solar on two previous homes. The first system was installed on the roof of a two-unit condominium in California. As a condo association, we decided to lease the system because the technology seemed too new and we wanted the company SunSolar to own the equipment and upgrade as needed. Our monthly bill did not change because we were paying for the lease of the panels and electricity, so technically, we were paying less for electricity. The lease was transferred to the new owners when we sold the unit. However, if they had not agreed to take that on, the panels would have been removed at a penalty because it was only five years in on a 10-year lease.
+At my second home, in Hawaii, we decided to purchase the panels because the combined rebates offered by the United States government and the State of Hawaii would reimburse us over 50%. Due to the high level of sun exposure, the estimated return on investment (ROI) was five years at the time of purchase. We sold that house before the five-year window, but having them on the house raised the valuation for sale, so we got our money back. In Hawaii, we saw the impact on our energy costs change within the first month it was turned on. Before panels, we paid $170 per month in electricity costs; after, our bill was reduced to $22 per month.
+This third home is in Texas, and despite being an oil and gas state, the government is participating in the Inflation Reduction Act. In speaking with a couple of local vendors, I could install a system that would provide the house with 70-80% of its electricity needs for less than $20,000 (once the Federal Tax Credits are applied. I discussed adding a battery backup system and decided to hold off for a second phase. Both vendors only had Tesla Power Walls and I think there will be better options in the next few years. Additionally, there is more in the works on using your EV to power your home. This bidirectional charging capability is interesting and worth waiting for it to develop.
+As of February 2024,
+Texas ranks 3rd in the US for residential solar power generation
+. This is despite the lack of incentives from the state government. Texas is the only state with an independent electric grid and it experiences blackouts when our weather hits extreme temperatures. I surmise that this adoption is primarily for grid independence.
+Step 3: Upgrade to Heat Pump and Weatherize
+The third point of the plan is to upgrade to a heat pump and weatherize. Rewiring America estimates this will save us $550 on annual costs. As of March 2023, the
+adoption of heat pumps in Texas is 21%
+greater than the average deployment of 14% in the US.
+We replaced our HVAC system (heating and cooling) in April 2020. The size of our house requires two systems, so the cost to replace both would be almost $25,000. Since the typical life of an HVAC is 15-25 years, this point will not be high on the To-do list for change unless incentives for heat pumps justify the expense.
+I called the vendor who installed our system in 2020, and they stated that since I currently have a gas furnace, they would recommend a hybrid system, leaving gas as a backup. For cooling, I would have to replace the two existing units outside. In the attic, it may be possible to retrofit versus a full replacement. Some models allow you to just replace the coils. I would need to have this verified when we are ready to make the system update.
+So for now, this is on the system upgrade list for when it approaches the end of life and is not a priority. Our existing system uses the refrigerant R-410A which operates at a higher pressure allowing for more efficient heating and cooling. The system we replaced in 2020 still used R-22, also known as Freon, which was more damaging to the ozone layer. It was such an old system, it was also not heating or cooling efficiently so it made sense in many ways to replace it.
+When our system needs to be replaced, the newer standard of refrigerant R-454B will be available. So we would gain more efficiency with a heat pump hybrid system and the latest standard for refrigerant would lower the climate impact even more.
+Part of the third point is weatherization, Rewiring America only refers to insulation but I think it should be more extensive than that. Converting to solar would help you save money to do other projects, such as more extensive weatherization.
+Weatherization should include windows, exterior doors, air sealing, and insulation. For my home, new double-paned windows were installed in 2020 and exterior doors were installed in 2021. Since the original windows were single-paned with metal frames, the change of windows made an immediate impact on keeping the home better insulated. We also installed cellular shades for an extra barrier as needed.
+The attic's cellulose insulation (blown in) has been added twice since 2018, but some spots still seem like energy leaks. In general, cellulose is a great option because it is made from recycled materials - shredded recycled paper, recycled clothing, and recycled cardboard boxes. It has lower health risks than fiberglass and is fire-resistant. The one issue with cellulose is that its R-rating reduces over time and can absorb moisture easily.
+The attic space is not airtight or sealed so extreme temperature changes can be felt. Air sealing is a way to 1) gain thermal control to avoid heat loss or gain, 2) airflow control to prevent air passing between interior and exterior walls and 3) vapor control to avoid condensation that can lead to mold and failure of internal materials. Just sealing the gaps that facilitate air movement - in the attic, at electrical outlets and light boxes and at the bottom plate of the building - can save 20-40% of air leakage from the home. To me this would be a priority on the To-do list.
+Step 4: Install Heat Pump Water Heater
+The fourth point of the plan is to install a heat pump water heater. Rewiring America estimates that this will save approximately $70 annually. In 2023,
+heat pump water sales in the United States
+increased by 35% from the year before. Overall, the adoption of electric water heaters in the US is 53%.
+The Rinnai tankless water heater we installed in July 2018 has been problematic within a year of installing it, and recently needed a new gas valve. This repair should keep the water heater going for another year, so I have time to research options. Preliminary research suggests that a heat pump for an attic space might not be an option. My plumber stated that a hybrid heat pump system would not have enough ambient airflow to heat the water. If I went electric or solar, for flow rate, it is suggested to go back to a tank heater. However, the location of the water heater in my attic deters me. I am not comfortable with a 50-gallon tank of water above my bedrooms.
+A tankless electric might be an option. The biggest complaint for electric, tankless water heaters is that their flow rate is only 2 to 5 gallons per minute, which is half that of a gas water heater. Supply Chain is the biggest impact here for adoption. When your water heater fails, you need it replaced immediately. Most plumbers in my area can source a gas tankless or traditional water heater that same day. Therefore, current suppliers for more energy-efficient options should be researched.
+According to
+The Carbon Footprint of Everything
+, by Mike Berners-Lee, a “3 min shower using an efficient gas water heater, and aerated showerhead has the lowest carbon footprint at 55 g co
+2
+e.” Using an electric water heater can range from 270g (5 min shower) to 1.8kg (15 min shower) because gas is the more carbon-efficient way of heating water - “provided you have a reasonably efficient hot water tank,..The time you spend showering…makes a big difference. An aerated showerhead helps by making less water feel like more.”
+That makes me feel better about my current situation since I do take a 3-minute shower. I have a tankless water heater for instant hot water and an aerated showerhead. Still, it is something I will look to change in the future to reduce emissions.
+Step 5: Install Heat Pump Clothes Dryer
+The fifth point, installing a heat pump clothes dryer, shows negligible cost savings per Rewiring America estimates.
+Heat pump dryers are rare in the US
+, per the United States Environmental Protection Agency (EPA), the sales of heat pump dryers were only 1% of residential sales in 2022.
+Again, I have a newer dryer, and the life expectancy is 10 to 13 years. Its, CEF (Combined Energy Factor) is 3.93 which is considered to be moderately efficient. Given that I may need a new dryer in 4 to 7 years, I will keep an eye on this technology. It does not seem to need more space than my existing dryer so that is ideal. The one downside, is it just might take longer to dry clothes than a gas dryer. However, I tend to hang dry about 50% of the laundry so I do not see this as a big issue.
+Step 6: Install Electric / Induction Stove
+The sixth point is to install an electric/induction stove. Rewiring America estimates that this change will not save me anything and may cost me $5 more annually. As of 2020,
+adoption of cooking using electricity
+in Single Family Homes was at 54%. The emissions are the larger issue here and electric cooktops and ovens will improve the indoor air quality.
+My ovens are older, and both are electric. I also have a smaller countertop oven that I use for most things - it has an air fryer and multiple settings to heat or bake small items. The gas cooktop range was installed in 2018. Installing an induction cooktop would be fairly simple and would be healthier for us in terms of emissions.
+I have had an induction range before, and the largest expense was replacing many of my pots and pans. If your existing pots and pans are not magnetic, they will not work on an induction range -
+Best Cookware for Induction Cooktops
+. Aluminum or aluminum clad, copper or copper clad, aluminum foil, glass/ceramic, and some stainless steel products do not work because they do not attract and hold a magnet. That was an expensive lesson initially but the transition to induction otherwise was easy. Transitioning back to the gas range made me realize I wish I had not. With induction, it is nice how quickly and evenly pans heat, and it boils water within a minute.
+Beyond Electrification
+Electrification is a good starting point for making your existing home more energy-efficient because it saves the homeowner money. Replacing gas appliances with electrical ones has the added benefit of improved health by reducing nitrogen dioxide and carbon monoxide emissions. When you start a gas burner or appliance, these gases are part of the combustion process. However, with older appliances, the risk of constant leakage is greater. These gases can severely impact anyone in the family with asthma and by electrifying you are making the indoor air healthier.
+I already addressed that taking action to weatherize a home can create energy efficiency because you are preventing heat from coming in or escaping. If you are in a house that you are renovating down to the studs, you have more opportunities to expand your home energy savings as well as address ways to water usage.
+I took an opportunity to reach out to John Meyer at
+Innova
+. John is an EEBA Certified Zero Energy & Zero Carbon Building Professional. He and I originally connected about my interest in a water reuse system, which I describe more below. Innova is doing some cool things as a built environment consultancy. So, I chatted with him about my Rewiring America Plan and other cool products or opportunities he saw that could be done to an existing home. He gave me an overview of some products and systems that Innova has explored for their projects, see below;
+Low voltage electrical
+ATX LED
+offers a “complete solution to allow homeowners to install high-quality, full-featured LED lighting using low-voltage DC power.” This system, which you can install next to your electrical panel, allows the homeowner flexibility in wiring light fixtures, fans, and light switches. It is an option to convert all your lighting to LED, it reduces the usage of copper in wiring and maximizes the lifespan of your system. This option can provide a 40% savings in electricity costs and it allows any light you install to be dimmable and color hue changing.
+Phase Change Material
+This product
+QE2 Platinum
+is a layer you can apply over existing insulation and provides a 20% energy reduction. The natural material delays the need for heating or cooling your home “by actively absorbing, storing, and downgrading thermal energy to its phase change temperature.”
+Water re-use
+Access to water is becoming an increasing problem due to drought and wastage. There are ways you can ensure you create less impact by capturing and re-using.
+Rainwater capture either with above-ground or below-ground tanks, allows for reuse to water plants in your garden or in your home. For landscape use and above-ground barrels, it is a relatively low-cost and easy fix. Lawn irrigation alone can represent 30-60% of the total water your household uses. Installing rainwater capture can represent water savings of up to 27-38%. And many municipalities in Texas give you rebates on the installation for rainwater harvesting. Austin, the city I live in, offers up to $1,500 -
+Austin Water Residential Rebates
+. Additionally, if your home does not have access to municipal water, rain catchment can be used for your home needs. Using catchment, water becomes a limited resource since you have to depend on adequate, consistent rain. You also have to install filtration and a safety monitor.
+Grey water capture systems can be installed when doing a renovation that will impact your plumbing. I looked into installing one when I was getting quotes for a renovation but was told that having our house on a concrete slab prevented this. Only after my renovation was complete did I learn about
+Hydraloop
+and this is how I met John. The Hydraloop system allows you to reuse water from showering or bathing, flush toilets, wash laundry, use in your garden, or even top off your pool. It would not have taken much space and I could have connected to showers and sinks, then redirected to laundry and toilets.
+Water generation
+In Fall 2024, the City of Austin approved revisions to the city’s 100-year water resource plan and the city’s drought and water conservation plan. Texas is growing drier with every passing year and access to alternative sources of drinking water will be crucial.
+John introduced me to
+Aquaria
+during our discussion. This company can install a system that can create water from the air. This could be independent of municipal water and not be limited to rainwater catchment. They have standalone water coolers, whole house systems, and even larger solutions for communities or remote infrastructure that may not have access to municipal water or would like to be independent of that municipal water infrastructure.
+Composting
+In Winter 2021, the City of Austin started a
+composting service
+. Going forward, households could put all their food and yard waste into the green-colored bins for weekly pickup. The message was “Place food scraps, food-soiled paper, yard trimmings and natural fibers into your green
+composting
+cart. If it grows, it goes!”
+Organic food waste in our landfills generates methane which is a potent greenhouse gas and 34 times more effective at trapping heat than CO2. For example, Recology’s composting program in San Francisco, California reduced their emissions by about 90,000 metric tons annually.
+The adoption in my neighborhood is sporadic, most use it for yard trimmings and there is always a lot of chatter on social media groups about how gross it is for food scraps, especially during hot weather. It is gross but there are ways around it (filling the bin with cut grass or leaves, disposing in paper bags, etc.). Regardless, I would rather have it outside decomposing in a bin than in my kitchen trash. I have a countertop food collection bin that I empty every day or so. I also have a dehydrator -
+Foodcycler
+. When I use it to dehydrate food scraps, I just spread the result in my garden beds.
+Is there an easier way to get to carbon neutrality in the home?
+My research has taken approximately 80 hours over 6 weeks, and I have made numerous exploratory calls to vendors. I have gotten a few quotes on solar only. Otherwise, I am assessing the best options for future changes, and estimating the end of life of my systems or future needs. My next question was, are there any full-service providers I could reach out to that would do this for me - an assessment, create a plan, and coordinate contractors? Below are some options I found online;
+Rewiring America
+has plans to expand its services due to a $2 billion grant from the Inflation Reduction Act - something that will probably be impacted by the current Administration. But it will take some time to build the infrastructure to roll this out. For now, their plans are to support four communities to electrify next year. You can listen to more of this from the Volts Podcast from 01 November 2024,
+How is Electrification Going?
+My Final Plan for a Carbon-Neutral Home
+Finding ways to save on energy costs and make carbon reduction changes to your home or property, should not be this hard and take so much research. I hope my plan helps on you on your own path to carbon neutrality. For me, this is my To Do list below:
+Looking at the Estimated Annual Emissions Avoided, with all these changes I could avoid 9.5 to 11 metric tons with the projects I have scheduled for 2025. If I assume that I will have all the projects implemented by 2035, in total, I could avoid 22.3 to 25.3 metric tons of carbon emissions.
+The biggest immediate annualized savings will be the installation of solar to level our energy needs to about 70% of what we currently get from our local utility. Assuming a 5% inflation rate on energy costs, the ROI of that system could be realized in about 13 years.
+Now I have a plan for the changes I want to make and an estimated timeline for each, I feel more confident and knowledgeable about the ways I can save money and reduce the carbon emissions of my house. Would love to hear - did this inspire you to start your own list? What would you add?
+Know somebody who wants to decarbonize their home? Share this with them
+Share

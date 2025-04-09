@@ -1,0 +1,226 @@
+Title: How can circular principles be applied to reduce food waste?
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/how-can-circular-principles-be-applied
+==============================
+
+Welcome to
+Climate Drift
+- the place where we dive into climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hey there! 👋
+Skander here!
+Cohort 3 of the
+Climate Drift Career Accelerator
+has kicked off. Again we are joined for 8 weeks by 50 brilliant professionals diving deep into climate solutions from A like Agrivoltaics to Z like Zinc-air batteries.
+Today Maureen is tackling a topic that's been on many of your minds (and plates) - food waste. It's a critical issue that's often overlooked but has massive implications for our climate and resources. Did you know that about 1/3 of all food produced globally goes to waste? That's not just a waste of food, but also of water, energy, and land used to produce it. Plus, it's a major contributor to greenhouse gas emissions.
+In her deep dive, she'll be diving into the challenges in this space through the lens of circularity, mapping out market-ready solutions that have the potential for significant impact.
+🌊 Let's dive in
+Join the Climate Drift Accelerator and accelerate your climate journey.
+We are selecting people for our next cohort now, and we're looking for talented individuals like you to make a real difference.
+🚀 Apply today: Be part of the solution
+Apply Now
+But first: Who is Maureen?
+Maureen Traynor
+is a seasoned strategy, operations, and partnerships professional with a proven track record in high-growth environments. Her expertise lies in scaling teams and processes during periods of rapid expansion, particularly in the media and consumer tech sectors.
+Maureen's career spans various roles and industries: As COO of Fresh Produce Media, she built systems from scratch and managed a crucial Audible partnership, securing a 3-year renewal amid industry challenges. Her entrepreneurial spirit shone in leading an audio startup to $24M in revenues within three years and winning a pioneering YouTube Partner Grant. At Spotify, Maureen demonstrated her global perspective, collaborating across 80 markets and directly managing a team of 25 across 8 countries
+How can circular principles be applied to reduce food waste?
+(Click the title 👆 to read the full deep dive online, it’s a long one)
+Hi! I’m Maureen, a strategy and operations leader hailing from media and consumer tech. The throughline in my career has been about emerging digital models and monetization. Curiosity about this space led me to join Spotify back in 2012 to start the first brand partnerships group for North America, to lead an audio startup to $24M in cumulative revenues within three years, and to successfully win an inaugural YouTube Partner Grant.
+Conviction that circular systems are our necessary future led me to Climate Drift. A common refrain in the accelerator is “For things to stay the same, everything has to change,” and this applies to the food system perhaps more so than any other. A recent read of George Monbiot’s
+Regenesis
+floored me, and kicked off a burgeoning understanding of the far-reaching impact of food waste. My interest in this area is compounded by the many market-ready solutions, poised to drive meaningful commercial benefit in the form of cost savings, that we already have at our disposal.
+Plus, I’ve always been an avid home cook and get joy from sharing meals with family and friends. I want to be able to keep cooking, learning about and sharing food, and to work to build a future where that’s possible.
+I. Introduction and Scope
+An estimated 30-40% of total food produced worldwide is never eaten, and goes to waste. This figure is shocking on its own, and its implications serve to frame the problem: If we are wasting a third or more of all the food we produce, that means we are also wasting a third of the energy used to produce that food, a third of carbon emissions related to food production were ultimately unnecessary, a third of the land and water used to produce food is wasted, and a third of emissions and waste downstream of the food system were unnecessary.
+Source:
+OWD
+The total volume of wasted food is about
+1.05 billion tons annually
+. In the US alone, this equates to about
+145 billion uneaten meals yearly
+, or about 38% of all food produced in or imported into the country.
+Breakage occurs across all parts of the supply chain, from production to processing to distribution to consumption. In production, we can overestimate demand and produce surpluses, or environmental factors can wipe out a harvest, or edible food may never make it to market if aesthetic qualities mean that it’s unlikely to sell when it gets there. During processing, errors with equipment or in managing stock result in excess scraps and spoilage, and issues encountered during transport for processing cause waste.
+When food makes it to the distribution phase, we mismanage stock, including for products that don’t sell before expiry dates (and these expiry dates aren’t always well-grounded in science).
+Finally, and most significantly, when food does make it to the consumer phase, it’s wasted both at home and in commercial settings. We purchase and prepare too much, and are unable or unwilling to repurpose leftovers. We greatly undervalue our food and the negative impacts caused by wasting it.
+The breakdown of food waste by sector may seem surprising at first blush:
+61% comes from households, 26% from food service and 13% from retail
+. This perhaps underscores the above point about undervaluing food, given that businesses deriving direct commercial value from selling food manage to waste less of it, while handling much higher volumes than an individual household.
+Source:
+UNEP Food Waste Index Report 2024
+Many of us readily understand food waste as a social and ethical problem,
+given that 9.1% of the world’s population (approximately 733M people), are affected by hunger
+. Much of the messaging we tend to hear frames the issue as such.
+We more rarely examine food waste as a climate problem.
+26% of global GHG emissions
+are attributed to the food system, and
+6% of emissions are connected to unconsumed food
+. This is three times the amount of emissions related to
+aviation
+.
+Source:
+OWD
+Downstream emissions impacts (i.e. packaging discarded along with food product, emissions associated with decomposing or landfilled food, emissions associated with transporting food that is never eaten) are a bit more tricky to size. We can somewhat extrapolate these from
+overall environmental impacts of food & ag
+, but that doesn’t fully encompass all downstream impacts.
+Economic impact is the final element to measure, perhaps the most significant of all from an impact perspective, and likely the most persuasive argument to make to stakeholders. Food waste carries a massive economic burden for producers and consumers, amounting to a
+global cost of over $1 trillion annually
+. This is approximately
+equal to the value that Apple built
+as defined by market capitalization from its founding in 1976 through 2018. It’s 18% more than the US’s famously staggering annual defense budget (
+$860B in 2023
+).
+To further set this in perspective, in the US, the estimated value of wasted food is
+$444 billion, or roughly 2% of GDP
+. Our food systems cost society
+$12 trillion in health, economic and environmental costs – which is 20% more than the market value of food.
+II. Circular Economy Principles
+Circularity, in theory and in practice, touches all facets of the climate landscape. Definitions of the concept of a circular economy vary, and these definitions are overlapping but not identical. For our purposes of connecting circularity principles to food waste solutions, we’ll use the
+Ellen MacArthur Foundation’s definition
+:
+The circular economy is a system where materials never become waste and nature is regenerated. In a circular economy, products and materials are kept in circulation through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting. The circular economy tackles climate change and other global challenges, like biodiversity loss, waste, and pollution, by decoupling economic activity from the consumption of finite resources.
+At a systems level, this means renewables and finite materials follow different paths and go through differing processes along their way to flowing back into the system:
+Source:
+Ellen MacArthur Foundation
+Food is one of the four global systems that account for the majority of planetary boundary overshoots (along with the built environment, manufactured goods and transport & mobility). The
+Circularity Gap Report 2024
+proposes four key solutions for the food system, one of which directly addresses food waste:
+End Avoidable Food Waste: Minimize food loss and valorize waste following the food waste hierarchy along the supply chain and at the consumer level through better management of transport and storage, more refrigeration and smart planning, and technology at the consumer and food service levels.
+Source:
+CGR 2024
+Circular economy principles also acknowledge the role of policy in setting the incentives and disincentives that not only act as levers to influence behavior, but that ultimately need to result in economic outcomes that make environmental progress be seen as an overarching good.
+As we get into solutions toward reducing food waste, we’ll use a simplified framework familiar to most — Rethink, Reduce, Reuse, Recycle — and add in policy for good measure. To better contextualize the solutions, though, let’s first take a look at the challenges we face.
+III. Challenges
+As with any complex system, challenges are varied and interrelated.
+Measurement
+: There is significant variance in measurement and measurement capabilities across geographies, and there are gaps in connection and communication amongst these systems. While we can break down measurement methodologies across sectors, as the
+UNEP Food Waste Report 2021
+has done, such a clean breakdown may actually serve to highlight where measurement is broken. Food-only waste streams are rare. Analysis of the composition of mixed waste streams is costly in terms of money, time and resource, and generally is available only in wealthier countries. Technologies to measure via mass balance or scanning are similarly unevenly applied. Rollup of reporting for these methodologies is siloed.
+Source:
+UNEP Food Waste Report 2021
+Silos amongst stakeholders
+: We lack sufficient incentives for stakeholders across the supply chain to collaborate to improve measurement, identify and implement interdependent solutions, and share in the upside of cost savings.
+Undereducation
+: Particularly given that 61% of food waste occurs at the household level, it’s clear that we are behind on educating individuals about the size and scope of this problem, including the financial costs at a household level. In the US,
+households spend $1300 on average on wasted food; this is more than average annual expenditures on gas ($1250) and household heating and electricity ($1150)
+.
+Lagging policy and legislation:
+Insufficient measurement, and lack of capacity to analyze and standardize the data we do have, is a major roadblock to designing policy. When stakeholders are siloed, and the public is undereducated on the potential benefits of addressing the problem,
+policymakers’ challenges are further compounded
+.
+IV. Solutions
+Using the simplified circular economy framework of Rethink, Reduce, Reuse, Recycle, we can consider some current and emerging solutions working to address food waste, and also consider the impact of policy on these efforts.
+Rethink:
+A full reimagination of the food system is ultimately necessary to continue to feed the world, and this includes waste reduction.
+New technologies directly map to this principle. This category includes nature-based solutions like
+Apeel
+, a plant-based, edible coating applied to fresh fruit and vegetables to slow down water loss and oxidation. Delaying the spoiling process can result in less wasted produce, with the added bonus of eliminating the single-use plastics often used to wrap it.
+De Clique
+uses couriers to pick up inedible food waste (coffee grounds, citrus peel) and deliver to third  parties at a discount for use in other food products (coffee as a medium for growing mushrooms, cleaning products from citrus peel). While De Clique’s approach is necessarily local, it’s also complex and requires multilayered sourcing and repurposing, necessitating a responsive technology layer. The hope is that the tech can be platformed to support other locales.
+Reduce:
+We saw from
+WEF’s research
+that a combined 39% of food waste occurs on the sell side (food service and retail) and 61% comes from households.
+Measurement solutions can help to address the sell side, given that commercial businesses are incentivized to maximize sales. B2B measurement technologies like those developed by
+Choco
+,
+Delicious Data
+,
+Kitro
+,
+Orbisk
+,
+Tenzo
+,
+TotalCtrl
+and
+Winnow
+, and support the food service industry in tracking inventory and waste. Some incorporate hardware innovation to sharpen measurement, in the form of waste bins that can weigh and/or scan discarded food for a more granular understanding of its ingredients. Reports are analyzed to optimize ordering. These solutions can come with a swift and significant reduction to food costs, as with
+Winnow’s reports
+on a positive ROI in their technologies within the first year for 95% of their customers. IKEA is one such customer; with Winnow’s systems installed in 23 locations in the UK and Ireland, they’ve achieved a 50% reduction in waste at a savings of £1.4M.
+Similar platforms have launched to support inventory and expiry date management on the retail level, like
+Flashfood
+,
+Smartway
+,
+Wasteless
+and
+Whywaste
+(now part of
+Upshop
+). The retail environment is uniquely suited for innovation around dynamic pricing, as in Wasteless’ real-time markdowns to sell through items with nearer-term expiry dates, with an adjustment back to list price once those items are sold. Retail comes with B2B2C opportunities as well, like Flashfood’s app that presents expiry-based discount offers to shoppers who can then order in-app and pickup in-store.
+On the consumer side, education-based solutions like
+ReLondon’s Eat Like a Londoner
+, and
+Too Good for the Bin in Germany
+communicate the impact of food waste (including and most saliently sizing cost the savings on a household level), and suggest specific actions and approaches to avoid food waste at home. While such programs often produce excellent and award-winning content, quantitative results can be difficult to pin down. ReLondon was able to articulate
+clear goals
+for Eat Like a Londoner, with an
+evaluation scheduled for April 2024
+, the results of which are yet to be published.
+Reuse:
+There are opportunities to reuse food and food byproduct at the processing point of the supply chain, as well as to redirect unwanted or unsold food at the point of consumption.
+CPG brands are upcycling “ugly produce” and byproducts of food processing into shelf-stable products like
+Matriark Foods
+’ line of tomato sauces,
+Green Bowl Foods
+’ offering of plant-based bowls that include dehydrated kale, spinach and carrot pulps,
+Barnana
+’s use of overripe fruit to make dried plantain and banana snacks covered in peanut butter or chocolate, and
+Root.ly
+’s reuse of the vegetable pulp that is a byproduct of cold-pressed juice into falafel and beetroot steaks.
+Marketplaces like
+Karma
+,
+Olio
+,
+Phenix
+,
+ResQ Club
+and
+Too Good to Go
+and match surplus food inventory to consumers at a price reduced from retail. Too Good to Go published its first comprehensive
+Environmental Impact Report
+alongside its
+2023 Impact Report
+; the main result of which was to calculate that for every kilogram of surplus food saved via its marketplace, 2.65 kilograms of CO2 emissions are saved.
+Recycle:
+Composting food scraps and waste keeps those nutrients in the system, serving to improve soil while avoiding the methane emissions that are a byproduct of landfilled food.
+Project Drawdown’s forecast indicates that based on current trajectories of compost adoption, by 2050 we could avoid up to
+1.4 gigatons of total emissions
+. While this figure doesn’t contemplate the additional carbon reduction benefits of returning compost to soil, it does indicate that as with all aspects of consumption, we achieve greater impact by reducing what we use versus recycling what we don’t.
+That said, given that
+58% of methane emissions in municipal landfills are caused by wasted food
+, there is value in keeping these waste streams separate. South Korea’s waste management program is best-in-class, and recycles nearly 100% of food waste into fertilizer, animal feed and biogas. One of the levers the government uses in this system is a
+“pay-as-you-throw” scheme
+, wherein consumers must purchase specific bags for food waste, creating an incentive to reduce what’s wasted in the first place, and subsidizing composting costs through revenue generated from sales of the bags.
+New consumer technologies are developing to support home composting, in particular for city dwellers with higher household incomes. Products like
+FoodCycler
+,
+Lomi
+and
+Mill
+dehydrate and grind food scraps, producing an output that can be added to backyard compost or sent back to include in animal feed.
+Reencle
+takes this a step further by introducing microbes into the process of breaking down the food, resulting in an output that is closer to traditional compost.
+Policy Impact:
+Policies aimed at reducing food waste contribute to
+UN Sustainable Development Goal 12.3
+(SDG 12.3):
+By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses.
+Source:
+UNEP Food Waste Index Report 2024
+While SDGs don’t equate to regulations, national and local governments and private companies are making commitments toward these goals. The current state is a patchwork of policies and efforts, with disincentives largely missing from the landscape.
+V. Impact and Predictions
+Project Drawdown ranks reducing food waste the
+number 1 solution by potential impact
+, with between 88-102 gigatons potentially sequestered 2020-2050. Our path to realizing this impact starts with the solutions that are closest to hand, and the frameworks established by current reporting.
+Revisiting the direction set by the CGR’s on food waste, we can begin to map existing solutions to each element:
+This is a starter map and by no means exhaustive, but can help toward developing a comprehensive view of the existing food waste mitigation landscape, and where there are opportunities still to be tapped.
+Finally, looking ahead to predict where we can derive most impact, there are clear takeaways for the consumer and commercial sides.
+We know that 61% of waste occurs at the household level. With inflation driving up food prices at a head-spinning rate (in the US alone,
+9.9% in 2022 and 5.8% in 2023, rates not seen since the late 1970s
+), we must educate consumers on practical approaches to buying less and using as much of what we do buy as possible.
+Commercial solutions are already having real bottom-line impact, and the push here needs to be toward broader adoption of technologies that have already been shown to yield significant cost savings, with minimal to no additional operational burden. This is the true win-win-win scenario, the grail for all climate solutions.
+Reach out to talk with Maureen about solutions in this space, and for spirited chat about how to plan for scale by setting up teams, systems and processes to evolve with your company’s solution. Connect on Linkedin at
+https://www.linkedin.com/in/maureentraynor/

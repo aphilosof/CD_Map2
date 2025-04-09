@@ -1,0 +1,594 @@
+Title: The Decade of Microgrids Commercialization - Part 2
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/the-decade-of-microgrids-commercialization-0c7
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and help you find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Welcome to Part 2 of the deep dive into Microgrid Commercialization by
+Tanner
+.
+Did you miss Part 1? Dive in here:
+The Decade of Microgrids Commercialization
+Tanner Scholtes
+·
+April 4, 2024
+Read full story
+Today we are in for another treat: an overview of the Microgrid landscape in the US and a review of different go to market strategies.
+Tanner
+is a fellow in the first Climate Drift Accelerator cohort, diving into different solution areas with us and transitioning into climate.
+You can
+apply directly to our 2nd cohort here.
+Apply Here
+Let’s dive in 🌊
+The Decade of Microgrids Commercialization -
+Part 2: Valuing Grid Resiliency and Go-To-Market Strategies
+In this 2-part series, I aim to provide an overview of the microgrid solutions landscape and insights around the commercial opportunity for microgrid developers, potential customers, and anyone interested in the distributed energy resources sector.
+In
+Part 1
+,
+we looked at the U.S energy transition landscape, how the impacts of a changing climate are increasing the need for energy resilience, and provided an overview of Microgrids as a solution to both of these challenges.
+In
+Part 2,
+we will unpack the changing market dynamics that are shaping the commercialization of Microgrids, evaluate some of the microgrid ecosystem players, and offer go-to-market considerations for microgrid developers.
+Let’s dive in. 🌊
+The next decade is a pivotal period for microgrid commercialization, with successful deployment and growth hinging on microgrid developers' ability to introduce new business models and demonstrate the effectiveness of their microgrid solutions integrations.
+As distributed energy costs continue to come down and natural disasters become more frequent and severe – leading to grid outages – businesses across all industries should be considering microgrids as a solution to achieve economic, sustainability, and resilience objectives.
+Ultimately, resilience is not just necessary for grid transformation; it is a societal imperative that protects communities and businesses from the escalating costs and consequences of energy instability. Microgrids offer a solution to both, providing resilience and enabling a transition towards a more sustainable future.
+In the following sections we will cover::
+Market-shaping policies and technology advancements
+Energy-as-a-Service business model
+Projected microgrid market growth
+Go-to-market insights & considerations for successfully commercializing microgrids
+Overview of key microgrid solutions providers
+Remaining questions, challenges and opportunities for microgrids
+Changing Market Dynamics
+The microgrid and distributed energy market in the U.S. is experiencing rapid changes, driven by both demand and supply-side dynamics.
+On the demand side:
+Factors such as increased weather events, grid interconnectivity issues, and localized power demand from facilities like data centers are pushing for more resilient and adaptable energy solutions.
+Trends towards the decentralization of energy, coupled with growing corporate commitments to sustainability and Net Zero targets, are amplifying the demand for clean, reliable energy sources.
+On the supply side:
+Recent legislative changes and technological advancements, particularly in energy storage, have catalyzed the commercialization of microgrids.
+These developments have made microgrids increasingly economically viable, positioning them as a key solution to the challenges faced by the energy sector and customers seeking resilient energy solutions.
+As we delve deeper into the changing market dynamics, it becomes evident that
+microgrids are at the cusp of a significant commercialization opportunity in the U.S.
+, poised to play a pivotal role in the evolving energy landscape
+Market-shaping Policy
+Recent policies like CA Senate Bill 1339 and FERC Order 2222 have effectively shaped the path for microgrid commercialization by streamlining interconnection processes, ensuring fair compensation, and allowing diverse aggregations of distributed energy resources to participate in energy markets.
+CA Senate Bill 1339 (SB 1339)
+: Signed into law in 2018, SB 1339 directs the California Public Utilities Commission to
+develop rules and regulations to support the commercialization of microgrids
+, focusing on streamlining interconnection processes and ensuring fair compensation for services provided by microgrids [
+11]
+.
+Impact:
+California’s passage of SB 1339 was a huge step towards creating a market for the commercialization of microgrids, as it helps address interconnection issues and facilitates the integration of microgrids into the California energy market.
+FERC Order 2222
+: Issued by the Federal Energy Regulatory Commision in 2020, this
+watershed order
+requires wholesale energy markets to allow aggregations of distributed energy resources (DERs) to participate
+, defining DERs as a class of resource with the right to market participation [
+12
+].
+Impact:
+One of the key implications was that it allowed for “heterogeneous aggregations” of energy resources to participate (i.e. not just one group of resources like batteries – you could now have solar + batteries, etc.). This means that microgrid operators could transmit (sell) energy back into the grid, unlocking commercial potential.
+Inflation Reduction Act (IRA):
+Enacted in 2022, the IRA is the largest federal investment ($369 billion) in decarbonizing and modernizing the power sector in history. The IRA supports the adoption of various DERs through direct financial incentives and rebates, aligning with FERC Order 2222 to accelerate the adoption of clean energy technologies [
+13
+].
+Impact:
+If the investments of the IRA are fully realized, it could catalyze a paradigm shift in the U.S. energy landscape, propelling demand response programs and distributed energy resources like microgrids, from niche to mainstream.
+These policies collectively create a conducive environment for the integration of microgrids into the energy market. They address key barriers to commercialization, such as interconnection challenges and economic viability, paving the way for adoption and growth.
+Technological Advancements
+Continuous advancements in microgrid technologies, energy storage, and smart grid solutions present opportunities for microgrid providers to offer more efficient and cost-effective systems. Because microgrids are essentially a modular system of interconnected component parts, technological advancements can quickly drive unit economics down the curve, creating a clear path to increased value as you commercialize and scale.
+Development in four key components is really contributing to the commercial viability and growth of Microgrids:
+Behind-the-Meter Solar:
+Accessible and economical PV solar arrays (rooftop, ground mount, carport, etc.)
+Storage:
+Advancements in battery storage, coupled with falling battery costs, are currently the most significant technological drivers in the microgrid and distributed energy sector
+. The economic viability of battery storage has unlocked new possibilities for microgrids, enhancing their feasibility and encouraging greater participation in the grid.
+Battery storage becoming economically viable has really unlocked the economic value and feasibility for Microgrids
+[Image Source:
+PV Magazine
+]
+Switchgears:
+One of the important components of a microgrid, a
+switchgear
+is the “nerve center” of a microgrid or distributed energy system. It’s the component that allows your system to produce, store, dispatch, and utilize energy in the optimal way when you have multiple inputs.
+Advancements in switchgear technology have enhanced the efficiency and reliability of microgrids, enabling more precise control and management of energy flows.
+Additionally, modern switchgears are increasingly incorporating data analytics capabilities, allowing microgrid operators to monitor and optimize performance in real-time. This not only improves the operational efficiency of microgrids, but it also opens up potential revenue streams for microgrid operators through the integration of p
+roprietary
+software layers that offer advanced energy management solutions
+.
+Switchgear
+[Image sources: Advanced Power Technologies, Schneider Electric]
+Dispatchable Generation Assets:
+Usually a generator that can be run on fuels (diesel, natural gas, propane). Newer “cleaner” fuel sources like Hydrogen or biofuels offer more renewable alternatives to fossil fuel generation.
+Innovative Financing Models (EAAS
+)
+One of the main drivers of microgrid commercialization is the innovation of the financing mechanisms: Energy-as-a-Service (EaaS) or Microgrids-as-a-Service (MaaS) models
+.
+Microgrids are multi-million dollar projects and the capital expenditures required to develop a microgrid can be prohibitive to customer adoption and deployment. The
+Energy-as-a-Service (EaaS)
+model removes this cost barrier and allows organizations to deploy microgrids without any upfront capital investment
+.
+In a MaaS arrangement, a third-party provider typically covers the upfront capital for the design, installation, and operation of a microgrid. Customers then pay for the energy they consume, similar to a traditional utility bill, but with the added advantages of enhanced reliability, improved power quality, and potentially lower energy costs.
+These agreements are often structured like modified
+Power Purchase Agreements
+(PPAs), where the MaaS provider not only supplies the hardware and software, but also arranges the financing and operation & maintenance agreements.
+This turnkey solution addresses several critical concerns for customer facilities, including:
+24/7 resilient power for critical services
+Infrastructure modernization costs
+Predictable and hedged energy costs over long periods
+Reduced energy costs by monetizing equity tax incentives for governmental and non-profit organizations.
+Additionally, for interconnected microgrids that are selling energy back into the main utility grid,
+this model can even result in cost savings for the customer​​ over the lifespan of a 20-year contract term.
+To put this into context, let’s look at a cost comparison between a Microgrid-as-a-Service agreement vs. a typical diesel backup generator for a large footprint grocery store in California:
+Microgrid vs. Cost comparison for a large footprint grocery store in Southern California
+[Source:
+Scale Microgrids Quote Calculator
+]
+Clearly, a Microgrid-as-a-Service (MaaS) agreement offers significant financial advantages over a typical diesel backup generator. With a MaaS agreement, there is no capital cost or ongoing maintenance cost for the customer, and the microgrid services fee is offset by substantial utility bill savings.
+By removing the complexity and financial risk, while also providing operational savings, EaaS and MaaS models have significantly accelerated the commercialization and accessibility of microgrids.
+Improved Economics
+As a result of these legislative and technological advancements, combined with the Energy-as-a-Service models, the economic viability of “islanding” microgrids has dramatically improved over the past few years. Microgrids are now a much more cost-effective and viable solution for energy resilience.
+Recent figures suggest that commercial-scale microgrids are now available in the range of a 25% - 30% price premium to a non-islandable storage system like solar + storage. When considering the value of islanding capabilities and resilience, microgrids offer a much more cost-competitive solution.
+Trends toward Standardization
+As a combination of assets, the inherent modularity of microgrids makes it easier to expand or adjust the system based on changing energy needs, making them a versatile option for future-proofing energy systems.
+Microgrids tend to be highly customizable, which contributes to longer time to market. Microgrids can also introduce complexity into the power distribution equation.
+Standardizing microgrid design and implementation can
+mitigate these challenges and
+accelerate much needed adoption.
+Projected Market Growth and Commercialization Opportunity
+The microgrid market has experienced substantial growth and evolution in recent years, driven by a convergence of technological advancements, energy resilience concerns, improved economics and a shifting energy landscape.
+These changing market dynamics have shaped a promising trajectory for microgrids commercialization over the next decade.
+Annual additions of new microgrid capacity are forecasted to increase from nearly 5.5 GW in 2023 to over 24.1 GW by 2032 (+17.9% CAGR) [
+16
+]
+This expansion is mirrored in implementation spending, which is anticipated to rise from more than $14.4 billion in 2023 to over $60.0 billion in 2032 (+17.1% CAGR) [
+16
+]
+Chart 2-1
+(above) shows projected new annual installations of microgrid capacity and associated spending  [Source:
+Guidehouse Insights
+]
+Forecasts for microgrid market growth vary amongst different sources, but
+estimates project the global microgrid to grow between 14% - 19% by 2030, reaching a market size valued between $38 - $88 Billion
+[
+17
+]
+29% of the growth in the microgrids will come from North America, with the U.S. being the largest market
+[Source:
+Mordor Intelligence
+]
+(For the scope of this report, we will be focusing specifically on the U.S. microgrid market)
+The
+U.S. Microgrid Market
+was valued $7.88 Billion (USD) in 2023 and
+projected to reach USD $26.6 Billion by 2030 (+19.0% CAGR)
+[
+18
+]
+Recent developments in the U.S. also signal the pivotal role microgrids will continue to play in the transition to a more resilient and sustainable energy system.
+Recent Developments in the U.S. Microgrid Market
+In January 2023, the
+U.S. Department of Energy
+announced that it would be
+investing $100 million in microgrid projects
+across the country.
+In February 2023, the
+California Public Utilities Commission
+approved a
+$1.3 billion plan
+to support the
+development of microgrids
+in the state.
+In April 2023, the New York State Energy Research and Development Authority announced that it would be awarding $10 million in grants to support the development of microgrids in the state [
+17
+]
+With the market conditions primed for microgrids commercialization, let’s explore some of the key go-to-market strategy considerations that will shape the success of microgrid developers in this evolving landscape.
+Go-To-Market Strategy Considerations for Microgrid Developers
+Insights & Recommendations
+[Image Source:
+AceOn Group
+]
+The next decade is a pivotal period for microgrid commercialization, with successful deployment and growth hinging on microgrid developers’ abilities to effectively deliver on strategy and execution.
+Commercial success will invariably be determined by microgrid developers’ ability to offer new business models and demonstrate the effectiveness of their microgrid solutions integrations (i.e. islanding capability).
+For customers exploring microgrids as a resilience solution, the discovery and decision-making process will eventually come down to: which company offers the best combination of bundling and pricing?
+In my opinion, the most well-positioned microgrid companies are those with a go-to-market strategy that includes the following elements:
+De-risked business model and solutions offerings
+Effective customer segmentation & targeting approach
+Technology differentiators
+Key strategic partnerships
+Comprehensive microgrids solutions bundle & competitive pricing model
+Operational excellence & Sales effectiveness
+In the following section, we will explore these considerations for microgrid developers.
+Market Risks & Opportunities
+In developing a go-to-market strategy, it's important to consider both market risks/opportunities and execution risks/opportunities.
+The following section and table below highlights several of these key considerations for the commercialization of microgrids.
+Market R&O:
+Utilities
+(Opportunity and Risk)
+–
+Utilities are one of the single most important stakeholders in the energy transition and will play a significant part in the expansion of Microgrids.
+Opportunity
+: One one hand, utilities are exploring the role of microgrids as a grid infrastructure and operational resource, making them a potential customer for Microgrids providers.
+Risk:
+On the other hand, the decentralization of energy and the ability for Microgrids to operate independent of the main utilities grids may create a dynamic where utilities see Microgrids as a competitor.
+Policy and Regulatory Changes
+(Opportunity and Risk)
+– Future changes in energy policies and regulations can either create opportunities for microgrid deployment or impose constraints that hinder market penetration.
+Opportunity:
+The creation of policies that advance the development of distributed energy resources – and Microgrids specifically – can be a commercial enabler
+(ex:
+FERC 2222,
+CA SB 1339
+and the
+IRA
+).
+To date,
+13 states have adopted policies, programs or initiatives to enable the use of Microgrids to improve resilience during grid outages
+[
+22
+]. Some states, such as California, Colorado and Oregon have also introduced resilience funding projects that include provisions for expanding microgrids.
+Risk:
+The development and deployment of microgrids can be hindered by complex and inconsistent regulatory frameworks. Utility regulations, interconnection standards, and permitting processes may not always be conducive to the integration of microgrid systems. Uncertainty around regulatory requirements can also discourage potential investors and stakeholders from participating in the microgrid market.
+Recommendation:
+DER and microgrid providers should work alongside utilities to develop policy recommendations and regulatory standards at the state and regional level. Having a unified position on key issues, such as interconnection standards, will allow DER and microgrid  providers to work more effectively with local authorities and utility providers to accelerate grid decarbonization, resilience and modernization.
+Supply Chains
+(Risk) –
+Supply chain constraints, like those experienced during the COVID-19 pandemic, also pose a threat to Microgrids commercialization potential if critical components are not accessible.
+Risk:
+This is currently playing out today with a bottleneck for
+switchgears
+- an essential component to Microgrids (basically the nerve center). The majority of switchgear production comes out of China, whose supply chain is still recovering from disruptions. With incentives from the IRA, new switchgear production is being opened up in the U.S., which should help alleviate the current bottleneck over the next 1-3 years.
+Execution R&O:
+Project Implementation
+(Risk) –
+Microgrid development projects are complex, with typical project timelines ranging anywhere from 1-5 years to complete. Risks related to the successful implementation of microgrid projects include: technical challenges, cost overruns, and delays, which can impact a company's ability to execute its strategy effectively.
+Operational Efficiency
+(Risk and Opportunity) –
+Maintaining operational efficiency in the design, installation, and maintenance of microgrid systems is key to execution success. Inefficiencies or failures in operations can lead to increased costs and reduced customer satisfaction.
+Partnerships and Alliances
+(Opportunity) –
+The ability to form strategic partnerships with technology providers, utility companies, and other stakeholders can create opportunities for better market access, along with superior microgrids solutions offerings and project development capabilities.
+Customer Acquisition
+(Risk and Opportunity) –
+A company's ability to effectively market and sell its microgrid solutions to target customers is crucial for commercial success. These are long and complex deal cycles, where numerous stakeholders are involved, so the ability to effectively manage complexity and gain stakeholder alignment is essential to an effective customer acquisition strategy.
+Risks
+in this area include failing to understand customer needs or not effectively communicating the value proposition of microgrids.
+Effective customer segmentation, targeting and management of the entire sales cycle (including project implementation) can create additional
+opportunities
+for microgrid operators.
+Overall, a microgrid company's go-to-market strategy should carefully balance market and execution risks and opportunities to navigate the complex landscape of the microgrid industry successfully.
+Customer Segmentation & Targeting
+An important element to any Go-To-Market (GTM) strategy is customer segmentation and targeting, which starts with first defining your target customer archetype or ideal customer profile (ICP). In the case of Microgrid solutions providers, this can be approached by asking
+“Who values energy resilience the highest?”
+and
+“What are the largest potential customer use cases?
+In my experience, focusing on
+driving penetration within a few key customer segments
+and/or market niches can be an effective go-to-market approach, particularly in earlier stages of market development (i.e. microgrids).
+By concentrating efforts on specific, targeted segments, microgrid integrators can tailor their solutions to meet the unique needs and challenges of those customers, thereby demonstrating clear value, building a strong reputation, establishing market positioning and setting a foundation for broader expansion in the future.
+Go-To-Market Strategy Recommendation:  Focus on driving penetration within targeted customer segments and/or a market niche
+The company has a clear focus on a specific market niche, such as a particular geographic region (ex: CA, TX), customer segment (ex: data centers, grocery stores) and/or the company caters to unique customer needs, such as providing energy solutions for rural, remote/hard-to-reach areas.
+Below, I provide an
+example Customer Segmentation & Targeting approach
+using the following steps:
+Define the customer archetype or ideal customer profile (ICP) – Who values energy resilience the highest? What are the largest potential customer use cases?
+Clearly define the industry segments
+Analyze and target customer segments with high levels of projected demand (reliable & resilient energy needs)
+Profile and map the target customers within each segment
+Create go-to-market plan for this targeted customer segment
+1) Customer Archetype (ICP)
+Energy Needs:
+High or critical energy demand, with a need for uninterrupted power supply.
+Use Cases:
+(Numerous) Anywhere a microgrid system can be implemented to meet resilient, reliable and self-sufficient (“islandable”) energy requirements
+(Ex: Hospitals, Universities, Local Communities, etc. – See
+Part 1
+a more comprehensive list)
+Location:
+Areas prone to grid instability, frequent power outages, or where grid electricity is expensive. Geographies where policy is conducive for microgrid development
+(ex: CA).
+Sustainability Goals:
+Organizations with commitments to reducing carbon footprint and achieving sustainability targets.
+Financial Capacity:
+Willingness and ability to invest in long-term energy solutions, or interest in alternative financing models like Microgrids-as-a-Service (MaaS)
+2) Industry Segmentation
+In the U.S., the current applications and main industry segments for microgrids in the U.S. are:
+Commercial & Industrial
+Government/Military
+Institutional Education/Campus
+Community/Residential
+Remote/Other
+[Image Source:
+Navigant Research, Hitachi USA
+]
+Note: The figure above represents the current distribution of existing microgrids projects in the U.S, where the Commercial & Industrial is underrepresented relative to its energy needs and projected future demand.
+Significant demand is projected to come from the Commercial & Industrial segment, where consistent, reliable and resilient energy is essential to maintaining continuity in their daily business operations.
+3) Customer Segmentation Analysis
+In the example analysis below, I prioritized the customer segments based on a weighted ranking of factors, including: critical energy needs, the value microgrids provide to that customer segment, market size, and projected growth.
+Note:
+The U.S. government is a major potential customer for Microgrids (grid resiliency = National security), but for the scope of this article, we will focus on non-government entities.
+[Data sources: Multiple]
+Based the analysis above and following the “targeted” go-to-market approach, I would recommend focusing on driving penetration within the following customer segments:
+Data Centers
+EV Charging Depots
+Commercial & Industrial Manufacturing Facilities
+4) Customer Profiles
+[Image Source: Enerdata, IEA]
+Data Centers:
+With the rapid advancements in the Internet of Things (IoT) and artificial intelligence (AI), data centers are driving a surge in energy demand that is expected to grow from tens to hundreds of megawatts of power generation. Regional utility providers in the U.S. are already struggling to keep up with this explosive growth, creating an opportunity for microgrids to offer an on-site solution that addresses their energy needs.
+Energy Needs:
+Critical. Demand for high energy intensity for cooling and operation. Need for 24/7 continuous and reliable energy to support servers, cooling systems, and other critical infrastructure.
+Microgrid Benefits:
+Energy resilience, cost reduction, sustainability.
+Projected Market Size and Growth:
+$517 billion by 2030, CAGR of 10.24%
+(Source:
+Mordor Intelligence
+)
+Growth Drivers:
+Increasing data consumption (AI, IoT), cloud computing, and IT infrastructure expansion.
+Revenue Potential:
+High, due to critical power needs, high energy usage and urgency of resilient energy needs
+[Source:
+Mordor Intelligence
+]
+Electric Vehicle (EV) Charging Depots:
+The accelerated adoption of electric vehicles (EVs) and the expansion of EV charging infrastructure is driving a major uptick in electricity usage, putting a strain on existing grid infrastructure and creating an even greater demand for microgrids.
+The development of microgrids for EV charging depots not only addresses their immediate energy needs, but also positions these facilities to leverage upcoming technologies like V1G (unidirectional smart charging) and
+V2G
+(revenue generation through utility programs) that enhance grid resilience and flexibility.
+Energy Needs:
+High demand for electricity to support fast charging and grid stability, with a growing need for gigawatt capacity to support the increasing number of EVs on the road.
+Microgrid Benefits:
+Multiple.
+Grid-independent, localized, reliable power supply
+Integration with renewable energy sources and battery storage that complements EV charging by storing surplus energy and ensuring uninterrupted power supply during grid outages
+Ability to manage load and offer demand response services to the grid, including vehicle-to-grid (V2G) capabilities.
+Projected Market Size and Growth:
+$207.5 billion by 2030, CAGR of 29.1%
+(Source:
+Grandview Market Research
+)
+Growth Drivers:
+Rapid growth in EV adoption and the need for extensive charging networks; Government incentives for EV infrastructure, and advancements in charging technology;  grid enhancement capabilities (ex: demand response)
+Revenue Potential:
+High, due to the accelerating transition to electric vehicles and the need for reliable charging infrastructure. Microgrid companies that are able to secure partnerships with EV manufacturers and charging networks will be well-positioned to capitalize on this expanding market.
+[Image Source:
+Grandview Research
+]
+For microgrids solutions providers, the exponential growth planned for EV charging infrastructure, coupled with the numerous advantages and distinct functionalities that microgrids offer, creates significant partnership opportunities within the EV charging sector
+(more on this below).
+To summarize, effective customer segmentation and targeting can strategically position microgrid providers for commercial success. Now, let's explore how technology differentiators, strategic partnerships and bundling & pricing can further enhance their competitive advantage in these targeted segments.
+Technology Differentiators:
+Another important element of a microgrid provider’s overall commercial strategy is its technological capabilities and offerings, where differentiation can create unique competitive advantages. Technological advancements in various microgrid components have created opportunities for microgrid providers to create differentiated systems offerings, including:
+Custom and/or Standardized Solutions:
+Custom-designed microgrids have been the industry norm, but
+trends are emerging for more standardized and modular solutions
+that allow for quicker implementation
+.
+Microgrid providers that are able to offer both customized solutions and standardized options gives them the flexibility to meet various customer needs, from small rural communities to large commercial & industrial facilities.
+[Image Source:
+ABB
+]
+Renewable Generation
+: The vast majority of the Commercial & Industrial sector now has strong motivation to reduce its carbon emissions due to sustainability goals, regulations, incentives, and cost competitive renewable technologies. Incorporating renewables – like solar, wind and batteries – into microgrids is quickly becoming the new industry standard.
+[Image Source:
+Mesa Solutions
+]
+Smart Controls & Full Digital Stack
+: Advanced smart control systems and Distributed Energy Resource Management Systems (DERMS) are at the heart of modern microgrids. With advanced data analytics capabilities, these technologies enable real-time monitoring and management of energy assets, ensuring optimal performance and reliability. Microgrid operators that can provide fully-integrated hardware/software solutions with these capabilities will have a competitive advantage.
+Advanced microgrid control systems can understand all of the customer’s site needs and coordinate the microgrid’s energy resources to make sure all the needs are met 24/7.
+Strategic Partnerships
+As the market continues to expand, microgrid companies that can effectively develop strategic partnerships, collaborations, and ongoing technological developments are poised to realize commercial success. In my opinion, a strong partnership strategy is one of the most important elements of a microgrid operator's go-to-market strategy.
+Based on market trends, there are three partnership opportunities that stand out as having the potential to unlock significant value for microgrid providers:
+Battery / Storage Solutions
+Technology Providers
+EV Charging Infrastructure
+Battery / Storage:
+Why It Makes Sense:
+Battery storage is a critical component of microgrids, providing energy storage to balance supply and demand, enhance grid stability, and support the integration of renewable energy sources.
+Growth Opportunities:
+Partnering with innovative battery storage providers can give microgrid operators access to advanced storage technologies and expertise, improving the efficiency and reliability of their systems. As battery storage technology advances and costs come down, further value from the partnership is unlocked.
+Example Battery / Storage Partnership Opportunities:
+Commercial-scale battery storage innovations – like those from
+Form Energy
+(low cost, multi-day grid storage)
+and
+Rondo
+(low cost thermal energy for industrial heat electrification
+).
+[Source:
+EIP Report - Growth Opportunities in Climate Tech
+]
+Technology Providers:
+Why It Makes Sense:
+Collaborating with leading technology providers can enhance a microgrid integrator’s abilities to deliver cutting-edge microgrid solutions. Partnering with companies that specialize in
+energy management systems
+and services
+can enhance the operational efficiency of microgrids. These partnerships can bring expertise in optimizing energy usage, reducing costs, and improving system performance.
+Growth Opportunities:
+Partnering with technology providers can elevate a microgrid operator's capabilities in software development, data analysis, and system integration, enabling microgrid providers to offer differentiated digital platforms and services, which have the potential to serve as additional revenue streams.
+Example Technology Partnership Opportunity:
+Schneider Electric – A global leader in energy management and automation, Schneider Electric has developed the
+EcoStruxure Microgrid Advisor
+and Advanced Distribution Management System that provides a single platform to connect, monitor, and control all distributed energy resources (DER), offering benefits like demand control, storm hardening, and tariff management​.
+[Image Source:
+Schneider Electric
+]
+EV Charging:
+Why It Makes Sense:
+The accelerated adoption of electric vehicles (EVs) is creating a huge growth in demand for reliable and accessible charging infrastructure. Microgrids can support EV charging stations by providing clean, resilient, and localized power. Forming partnerships with EV charging companies can help microgrid providers tap into this emerging market and offer integrated energy solutions for EV owners and operators.
+Growth Opportunities:
+Strategic partnerships in the EV charging space can open up new revenue streams for microgrid operators, as they can provide value-added services such as renewable energy charging, demand response, and energy management for EV fleets, driving growth in the microgrid market.
+Example EV Charging Infrastructure Partnership Opportunities:
+EV Manufacturers
+– Ex:
+Tesla
+,
+BYD
+,
+GM
+, etc.
+EV Charging Station Owner/Operators
+– Ex:
+ChargePoint
+,
+EVgo
+,
+Electrify America
+State Agencies
+– Ex:
+California Energy Commission
+(responsible for building out EV charging infrastructure within the state)
+[Image Source: Walmart]
+Other potential microgrid partnership opportunities could include:
+Renewable Energy Providers:
+Partnering with solar, wind, or other renewable energy providers can enhance the sustainability and cost-effectiveness of microgrid solutions. This collaboration can help microgrid operators offer integrated renewable energy systems that better align with climate and sustainability goals.
+Utilities:
+Collaborating with utility companies can provide microgrid providers with access to grid infrastructure, regulatory support, and a broader customer base. Utilities can benefit from microgrids' ability to improve grid resilience, manage peak loads, and integrate distributed energy resources.
+Real Estate Developers:
+Collaborating with real estate developers, particularly those focused on sustainable and smart buildings, can open up opportunities for integrating microgrids into new developments or retrofitting existing properties for improved energy resilience and efficiency.
+Telecommunications Companies:
+Partnering with telecommunications companies can provide microgrid providers with advanced communication technologies for remote monitoring and control of microgrid systems. This collaboration can enhance the reliability and security of microgrid operations.
+Bundling & Pricing
+In my opinion, this is one the most fundamental elements of a microgrid commercial strategy.
+As distributed energy resource (DER) costs continue to decline, retail electricity rates rise, and the frequency of extreme weather events causing grid outages increases, customers in all business segments will be investigating microgrids as a solution. Adoption of DERs within microgrids will enable Commercial & Industrial facilities to further unlock new value streams to save dollars.
+Meanwhile, decarbonization efforts have created a focus on microgrids with renewable energy generation plus energy storage, all managed by a localized control system capable of operating the assets in concert with or islanded from the utility grid.
+And the advent of Microgrids-as-a-Service (MaaS) pricing models have allowed microgrid operators to offer fully integrated solutions that cover design, installation, operation, and maintenance at no upfront capital costs to the customer.
+Thus, for customers exploring microgrids as a resilience solution, the discovery and decision-making process will eventually come down to: which microgrids company offers the best combination of bundling and pricing?
+[Image Source:
+GE Grid Solutions
+]
+Operational & Financial Bundling:
+Microgrids with Islanding and grid interconnection capabilities
+Custom and/or standardized Microgrid solutions offering
+Renewable generation capabilities (solar, wind, “cleaner” fuel generators, etc.)
+Storage (batteries) power and ability to locally distribute stored energy
+Full digital stack with advanced smart control systems
+Direct purchase options or comprehensive Microgrid-as-a-Service (MaaS) solution with end-to-end support in designing, financing, installing, operating and maintaining the microgrids
+Microgrid operators that can offer these comprehensive solutions packages at a competitive price will be well positioned for commercial success in the coming decade.
+Sales Effectiveness
+Last (but not least), sales effectiveness is a critical component of a microgrid company's go-to-market strategy. Successfully marketing and selling microgrid solutions requires a deep understanding of the customer's needs, the ability to manage complex sales cycles, and the skill to align various stakeholders.
+Key Considerations:
+Education and Awareness:
+Microgrids are still an emerging solution and awareness levels may vary across potential customers. Educating potential customers about the technical, financial, and regulatory aspects of microgrids is crucial. Workshops, seminars, and consultations can build trust and position the company as a thought leader in the industry.
+Demand Generation:
+Utilizing inbound marketing strategies, such as webinars, trade shows, and content marketing, can attract potential clients. An outbound sales motion, complemented by educational efforts, can help overcome awareness gaps and generate leads.
+Long Sales Cycles:
+Microgrid deals can take anywhere from 1-3 years to close, due to their complexity. Sales teams must be adept at consultative selling, with a focus on multi-stakeholder management and building long-term relationships. Developing “internal champions” within a target customer’s organization is an effective tactic to gain alignment and move the deal along.
+Customer Needs Assessment:
+Conducting thorough assessments of customer needs, including energy consumption patterns, operational requirements, and long-term goals, is essential for tailoring microgrid solutions to their specific circumstances.
+Value Communication:
+Sales teams must effectively communicate the benefits of microgrids (such as energy resilience, reliability, cost savings, energy independence, and sustainability) while tailoring the sales approach to their specific needs. Demonstrating a clear return on investment is also important.
+Managing Complexity:
+Navigating the intricacies of microgrid projects, from permitting requirements to feasibility assessments, requires a collaborative approach. Engaging multiple stakeholders and developing Mutual Action Plans can streamline the process.
+Consultation and Decision Support:
+Offering comprehensive consultation services, including site assessments, load analysis, and financial modeling, can support the customer's decision-making process. Customizable solutions and detailed ROI analyses can further demonstrate the value of microgrids.
+An effective go-to-market strategy is critical to commercial success. Taking the previous insights and considerations into account, let’s look at some of the key players in the microgrids solutions landscape.
+Microgrid Solutions Providers
+The U.S. Microgrid market is poised for growth, fostering competition and innovation in microgrid technology, integration, and service offerings.
+Below is a list of several microgrid solutions providers (often referred to as “Integrators”) who are well-positioned for the coming decade of microgrid commercialization [
+19
+] [
+20
+]
+Schneider Electric
+–
+Widely considered the leading Microgrids Integrator, Schneider Electric has built the most microgrids in the U.S.
+Differentiator:
+The digital technology stack that enables full management, control, optimization, and visualization of microgrid assets (EcoStruxureTM Microgrid Advisor).
+Siemens
+– As both a supplier of components and provider of integrated DER solutions, Siemens is actively developing microgrids in all global regions and typically focuses on multi-technology (e.g., solar, storage, genset) projects larger than 1 MW for Commercial & Industrial customers.
+Differentiator:
+Siemens has developed numerous partnerships with various microgrid technology providers that aid in microgrid system development and integration.
+Differentiator:
+Siemens is one of the EV charging industry’s largest companies, giving them a unique position to capitalize on vertical integration opportunities for developing microgrid + EV charging solutions.
+Enchanted Rock
+– TX-based microgrid developer that offers Commercial & Industrial consumers electrical resilience in the form of onsite generation (265 active microgrid sites to date).
+Differentiator:
+Enchanted Rock utilizes proprietary, ultra-clean, quiet natural gas gensets alongside other resources (e.g. solar, batteries).
+Differentiator:
+When customer-sited generators are not providing backup power to the host, Enchanted Rock uses its in-house control and dispatch platform to bid available capacity into energy markets to provide grid services.
+Scale Microgrid Solutions
+- Scale is a vertically integrated microgrid platform with the capabilities to design, build, finance, operate, and maintain microgrids and distributed energy projects. Scale offers both Custom and Modular microgrid solutions.
+Differentiator:
+Vertical Integration
+(
+Capital + Microgrid Solutions) – With a unique combination of institutional capital and deep energy expertise, Scale designs, develops and operates end-to-end microgrid solutions that require $0 upfront capital investment from customers, via their Microgrid-as-a-Service (MAAS) model.
+Differentiator:
+Modular Microgrid - Scale’s newly-developed Rapid Response Modular Microgrid (R2M2) is a standardized microgrid solution that is deployable in much shorter timelines than other custom microgrids on the market, significantly reducing project timelines and costs.
+PowerSecure
+–
+PowerSecure serves utility, C&I, and other customers with engineered-to-order microgrid systems with energy efficiency capabilities that provide critical power protection to essential business (ex: healthcare centers).
+Differentiator:
+Its power generation system (PowerBlock), which is a modular, turnkey solution and its associated switchgear and control product (PowerControl), which manages the microgrid system.
+Ameresco
+–
+With its primary clients in the education and public sectors, Amereso provides energy efficiency, renewable energy, and microgrid solutions. Ameresco provides highly-customized microgrid solutions using the Energy-as-a-Service (EAAS) model.
+Differentiator:
+Ability to integrate a variety of generation assets, energy storage systems, and other building energy equipment into microgrids.
+Box Power
+–
+This CA-based project developer and integrator provides modular microgrid
+solutions for utilities with the aim of providing customers in remote areas with resilient electricity, deferring or avoiding the need for traditional grid infrastructure upgrades.
+Differentiator:
+The company’s standardized, modular microgrid kits (which includes contain solar PV, energy storage, and a generator to enable 24/7 islanding) specifically designed for customers (primarily utilities) in remote areas and/or rugged terrains .
+NHOA
+–
+With projects worldwide, NHOA Energy is planning to develop 300 new microgrids by 2025 to be coupled with EV charging infrastructure, including solar power, and storage.
+Differentiator:
+The microgrid configuration coupled with EV charging infrastructure will enable NHOA’s microgrids to deliver vehicle-to-grid (V2G) services while providing continuity services to C&I customers.
+Eaton
+– A Fortune 500 company with a global presence and over 100 years of experience in the electrical industry. Eaton offers Microgrids-as-a-Service and has experience deploying microgrids for a range of applications, including commercial buildings, data centers, and industrial sites.
+Differentiator:
+Eaton's MaaS solution leverages advanced power management and control technologies. They offer a range of hardware and software solutions for microgrid control, including their Power Xpert Energy Optimizer (PXEO) platform, which provides real-time monitoring and control of the microgrid.
+Differentiator:
+Eaton is also one of the foremost vehicle electrification technologies providers, creating vertical integration opportunities to develop and implement microgrid + EV charging solutions.
+ENGIE
+– ENGIE's Microgrid-as-a-Service (MaaS) offering is a comprehensive solution with end-to-end support in designing, financing, installing and operating microgrids. ENGIE's has developed microgrids in campuses, remote communities, and industrial settings.
+Differentiator:
+ENGIE’s focus on customized microgrids with renewable energy sources and storage systems, coupled with advanced energy management and control technologies, allows them to offer reliable, sustainable and optimized microgrid energy solutions.
+Looking Forward: Challenges, Opportunities and Remaining Questions
+As we look ahead, the microgrids market landscape is poised for evolution and growth; the need for resilience is ever-increasing but a several key challenges and opportunities remain.
+Challenges & Opportunities:
+Regulatory Environment:
+The lack of national legislation and regulation for microgrids presents challenges for developers and utility providers. Standardized permitting and interconnection procedures are essential to facilitate the integration of microgrids into the broader energy system.
+Complexity of Integration:
+Managing the technical complexities of integrating microgrids with existing infrastructure and various energy sources can be extremely challenging, and (again) there is a clear need to accelerate the adoption of clearer interconnection procedures​ [
+25
+]
+Utility Dynamics:
+Utilities, as incumbent players, may view microgrids as competitors, especially as energy becomes more decentralized. Collaboration and policy changes are needed to align the interests of utilities and microgrid developers​.
+Policy and Incentives:
+Expanding additional clean energy tax incentives (like 45Q) to include smaller-scale DER solutions can help facilitate microgrid adoption. And finally, collaboration is needed amongst government, utilities and DER and microgrid operators to further develop policy frameworks around the market rules for microgrids
+(The NREL provides a recommended policy framework for microgrids
+here
+).
+Remaining Questions
+:
+Policy Evolution:
+In the current U.S. regulatory scheme and market design shaped by and for centralized energy assets, how will policy evolve to help shape and accelerate the deployment and commercialization of DERs?
+Role of Utilities:
+And along those lines, what’s the role of utilities in this whole equation? Do they see the commercialization of microgrids as a direct threat to their business?
+Customer Education and Engagement:
+Microgrid commercialization & accessibility (via MAAS) is a fairly recent development…among the large pool of (potential) customers for microgrids, what is their level of awareness and understanding of these solutions?
+Smart Controls Software:
+Who is leading in this capability? Are more microgrid operators developing their own proprietary solutions in house or  outsourcing/partnering to technology/software providers?
+Switchgear Bottleneck:
+How soon will the switchgear supply chain bottlenecks get corrected? The current lead time for switchgears is 60-70 weeks out; when will this start to come down?
+In conclusion, microgrids stand at the forefront of the clean energy transition, offering a dual solution for facilitating the clean energy transition and delivering energy resilience amidst the growing risks of adverse weather events. The convergence of recent advancements in policy, technology, and business models marks the onset of a pivotal decade for microgrid commercialization.
+If you or anyone you know is working in the DER or Microgrids space, feel free to reach out! I would love to connect to learn more about the work you are doing and discuss the opportunities within this space.
+This deep dive was brought to you by Tanner Scholtes
+Tanner
+grew up in Northern California and currently lives in Los Angeles. He spent the last decade leading teams and developing sales and commercial strategy for a Fortune 500 company in the U.S. consumer goods industry. He is currently exploring opportunities in Climate Tech and Sustainability. Reach out to
+Tanner
+if you want to work with him.

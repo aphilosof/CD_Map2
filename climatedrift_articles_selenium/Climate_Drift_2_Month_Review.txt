@@ -1,0 +1,139 @@
+Title: Climate Drift: 2 Month Review
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/climate-drift-2-months-in
+==============================
+
+Join
+Climate Drift
+: your guide to explaining climate solutions and your part in the journey to net zero.
+Not on board yet? Signup here:
+Subscribe
+Hi there 👋
+Skander & Marco here.
+It is Climate Drift’s 2-month anniversary, well monthiversary to be precise, but you know what we mean.
+Today we want to look at what went well and give a glimpse at what’s next for Climate Drift.
+Let’s dive in 🌊
+1. Thank you
+Climate Drift began as our attempt to openly share insights from years of exploring climate solutions, with no expectations.
+The feedback has been beyond what we could have hoped for:
+1,000 subscribers (we think, Substack literally broke when we reached 700+ subs about 2 weeks ago 🤦‍♂️ …we probably need to switch services).
+1,100 daily readers and growing.
+183 inbound messages (we’re still trying to get back to everyone).
+72 calls based on our work.
+Several big projects are in the pipeline (more below).
+We anticipated our voices would go unheard, the proverbial yelling into the void… but instead, we were met with a flood of feedback.
+Professors and operators with years of experience are writing us pages of feedback, accelerating our learning and shortening our feedback loop.
+All the messages from our readers made us wake up early and stay up late, to keep sharing what we’ve learned.
+But those messages don’t belong to us. They belong to you, especially:
+Our reviewers, who critiqued every article before it went live and made them so much better.
+The amazing people who shared their research as guest posts 👏 (
+Isabelle
+,
+Clint
+,
+Alex
+,
+Christoph
+)
+Our friends at
+The Drop
+conference who invited us to the best Climate Tech conference
+with open arms
+.
+Jonathan
+, who pitched in and created our new Climate Drift logo.
+Our families who heard too much about Industrial Heat, EVs, Residential solar, and Hype curves. And date nights that turned into “Let’s review this exciting article about Carbon Offsets”.
+2. What worked well
+Clearly, our deep dives and topics struck a chord. Our open rate is consistently above 60% and many posts are used as reference for people applying for jobs in those sectors.
+Sharing is caring: Climate Drift is shared with friends, but especially coworkers.
+Why this traction?
+It’s simple: Communicating the complex in an easy-to-understand way will always be in demand
+. It’s hard to do, but incredibly helpful for anyone wanting to dive deep into Climate Solutions and fight climate change.
+Here are some of the articles you liked the best:
+Our constantly updated Solutions Map (220+ solutions and counting) is very popular. Download yours if you haven’t so far.
+Download the Climate Solutions Map
+People also liked our context setting for the largest Climate Tech acquisition so far:
+Why Carbon Engineering’s $1 Billion Acquisition is the Best & the Worst for Climate Tech
+Skander Garroum
+·
+August 17, 2023
+Read full story
+Our explainers, like this series diving into Carbon Offsets…
+Carbon Offsets Explained: Part 1
+Skander Garroum
+·
+August 24, 2023
+Read full story
+… or this one diving into the Hype Curve of Transportation Solutions
+Climate Hype Curve: Transportation - Part 1
+Skander Garroum
+·
+August 14, 2023
+Read full story
+You can
+dive into all of our posts here.
+Intermission: A glimpse behind the scene
+Climate Drift began as a compilation of notes gathered over two years, distilled from hundreds of conversations, calls, essays, and books.
+Every morning, I startle awake and stare at the deadline in front of me, hitting
+Send
+at the end of the day. I have one day to finish the article.
+During the day I go through the whole motivation hype cycle, from
+I can do this
+to
+there is no way I can do this
+, from
+this article gets all my points across
+to
+I miss all the points I wanted to mention
+.
+This psychological rollercoaster
+described by Packy of Not Boring
+still feels very real:
+Typically, each article gets cut down to about 5 pages - the email length set by Substack - from the initial 15 pages of exploration, research, and notes.
+It’s a lot of work, but so worth it, to keep the quality high.
+What’s next
+We’ve received a lot of inbound interest over the last 2 months, which roughly breaks down into 3 groups:
+Investors, from climate VCs to sovereign wealth funds, who want to collaborate with us.
+Climate Tech Founders and Climate companies who want us to share their stories.
+Professionals trying to start a career in the climate economy want our guidance.
+So, with all these options, what are we going to do?
+👏 Bigger projects:
+Behind the scenes, we're collaborating with some of you on projects that should help many within our community and the climate tech scene at large.
+Here is one of the projects:
+📊 KPIs for TRL
+In collaboration with Deep Science Ventures, we aim to refine Technology Readiness Levels (TRLs) around specific Key Performance Indicators (KPIs).
+TRLs are widely used to evaluate the maturity of technologies
+, yet their generality often leads to a mismatch in understanding readiness levels.
+Imagine a startup currently trying to fundraise. What one investor perceives as TRL 9 (ready to scale and a great place to invest), another might view as merely TRL 7 (not quite there yet). This discrepancy makes it harder for investors to de-risk their investments and for climate tech startups to get the funding they need.
+We're developing an
+Open Database of KPIs for TRL
+(better name pending), so everyone has a
+universal point of reference to understand the "readiness" of new climate technologies
+. This open-source database will house technology-specific KPIs and corresponding readiness levels, providing a consistent standard across different industry verticals.
+By establishing clear KPIs for specific products and verticals, we intend to minimize discrepancies and foster a more precise understanding of TRLs, making it easier for stakeholders to align on the maturity and readiness of various technologies.
+If you want to help - reach out to
+[email protected]
+🎧 & 🎬 More Media
+We heard you: You want to listen to Climate Drift. Look out for a Climate Drift Podcast, coming to a podcast player soon - and a Youtube channel too.
+🌊 Deeper Dives
+We're about to dive deeper. Altering our rhythm, for the next few weeks we'll release just one deep dive per week, alongside podcast episodes and guest posts. This adjustment allows us to explore topics more thoroughly and extensively.
+🧑‍🤝‍🧑 More Perspectives:
+A lot of readers came to us with their perspectives - so we will share more of them as guest posts. So if you want to let your voice be heard and have an interesting perspective - write us at
+[email protected]
+One more thing:
+🎉 A product or two
+Marco and I are both builders.
+We can’t just switch that off and we are sketching already.
+One hint: We're both committed to helping more people transition towards a career in climate.
+If you are reading this and are thinking about Climate + Education - reach out via email (
+[email protected]
+) or via
+Linkedin
+.
+So again:
+Thank you
+.
+We want to hear from you - what can we do better? What should we cover? Which projects should we tackle?
+Looking forward to shaping Climate Drift together with all of you.
+🌊 Aloha,
+Skander & Marco

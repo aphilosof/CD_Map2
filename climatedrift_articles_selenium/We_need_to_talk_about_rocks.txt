@@ -1,0 +1,103 @@
+Title: We need to talk about rocks
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/we-need-to-talk-about-rocks
+==============================
+
+Hi there! 👋
+We often get requests from our readers to explore certain topics in more detail. To do justice to these subjects, we sometimes bring in experts who can give us more insights.
+After our Guide to the Carbon Removal Hype a few weeks ago people were very interested in… rocks. To be precise: the CDR pathway of carbon mineralisation.
+Missed our guide? Check it out here:
+The Guide to the Carbon Removal Hype
+Skander Garroum
+·
+August 21, 2023
+Read full story
+Today this explainer comes from our friends at Arca, a CDR venture from Vancouver, Canada, that is hell-bent on turning mine waste facilities into massive carbon dioxide sinks. Arca is backed by Lowercarbon Capital and the Grantham Foundation, working with some of the world’s largest miners on three continents, and recently
+sold hundreds tons of CO2 removal to Frontier
+.
+Sean Lowrie, who after spending decades mobilizing humanitarian aid has pivoted to mobilizing action for carbon removal, will discuss the basics of Arca’s chosen CDR approach – surficial mineralization – and the climate-restoring powers of rocks.
+Haven't joined us yet? Click below to
+subscribe
+and stay updated.
+Subscribe
+Want to make a difference? Share
+Climate Drift
+with someone you know—whether it's a friend, coworker, or anyone you think should think about climate change and rocks.
+Share
+Let’s dive in 🌊
+Rocking CO2
+Rocks are by far the largest carbon reservoir on earth, containing more than 99% of the Earth’s carbon.  Carbon is held in rocks for thousands to millions of years. Rocks have modulated the climate (by releasing and absorbing carbon dioxide at planetary scale) over most of the Earth’s history.  Since the industrial revolution, we’ve been taking carbon from the geosphere and pumping it into the atmosphere.  Rocks can capture and return carbon - a lot of carbon - from the atmosphere to the geosphere and can be a big part of the solution to the climate emergency.
+The CDR pathway that uses rocks is called carbon mineralization.
+The best rocks for carbon mineralization
+There is a special type of rock called ultramafic.  Ultramafic rock forms deep underground when really hot melted rock cools down slowly and the right minerals come together.  About 5% of the Earth’s crust is ultramafic, and most of it is buried deep underground. Ultramafic rock contains a lot of magnesium, which reacts naturally to CO
+2
+in the atmosphere and forms stable inert crystals.  So ultramafic rock is potentially a very significant tool in the fight against climate change.
+Credit: iStock / Getty Images
+There are several ways to take advantage of the CDR potential of ultramafic rock
+One way is to pump CO
+2
+below ground into ultramafic rock deposits.  There are CDR companies that are developing systems to send concentrated CO2 into ultramafic deposits, for example
+4401
+and
+Solid Carbon
+.
+Other companies, such as
+Cella
+and
+CarbFix
+focus on injecting into ‘mafic’ rock which has less magnesium but is more prevalent and can be more porous. These companies use rock for ‘storage’ of CO
+2
+, but only after the CO
+2
+has been captured somehow by a Direct Air Capture (DAC) system. As they are developed, these emerging capture+storage systems will need to reduce the relatively high energy, water and infrastructure costs of DAC plants.
+A second way is to allow ultramafic rock to come into contact with the air so it can react with atmospheric CO2 naturally.  Some CDR companies spread rocks over soils or use the ocean, using a tech pathway called Enhanced Weathering for example
+Vesta
+,
+Lithos
+,
+undo
+, and
+InPlanet
+.  These emerging systems will be focussed on reducing costs and energy requirements to crush and transport rock to site, measuring impact, and managing potential environmental risks.
+But there is another way – to leverage gigatonnes of ultramafic rock that are already lying on the Earth’s surface and can be exposed to the atmosphere.
+Credit: Arca
+Surficial rocking of CO
+2
+The mining industry brings millions of tonnes of ultramafic rock to the surface every year.  Ultramafic rock hosts nickel and other important minerals essential in the energy transition. In some mine operations, companies separate the nickel from its ultramafic host, and the leftover rock, in the form of a fine crushed sand, called tailings, is deposited in a Tailings Storage Facilities (TSF). Some TSFs are places where large amounts of crushed ultramafic rock are exposed to the air, reacting naturally, and very slowly, with CO
+2
+.  But there are ways to speed this up.
+Arca
+works with crushed ultramafic rock in the TSF to dramatically increase the reaction speed and storage capacity using proprietary techniques. Other companies like
+Travertine
+have their own methods and technologies.
+Mining is one of the few industries that processes billions of tonnes of material every year.  Even if only some of that material can capture atmospheric carbon dioxide, then surficial mineralization can make a significant contribution in the struggle to respond to the climate emergency.
+Credit: Shutterstock
+Fun facts, advantages and challenges with surficial mineralization
+The right type of nickel mine can capture a large amount of CO
+2
+- 20% by weight in its tailings storage facility.  A large nickel mine can produce 10,000,000 tonnes of tailings per year, therefore has the potential to capture and store 2,000,000 tonnes of atmospheric carbon dioxide (more than what 400,000 cars would emit in a year).  But nickel isn’t the only critical mineral hosted in ultramafic rock.  Around the world, there are currently 150 ultramafic-hosted operating mines across all commodity types (chromium, platinum-group elements, diamonds, iron, vanadium and titanium), so that’s a lot of potential CDR.  But there are also legacy mines (closed) with billions of tonnes of tailings, and hundreds of new mines to be developed in order to meet the demand for battery metals in the clean energy transition.  And each mine has a stockpile of unprocessed waste ultramafic rock that could also be exploited for CDR.
+In other words, mining could generate a lot of CDR.
+Advantages
+Surficial mineralization as a CDR pathway has some distinct advantages.
+Capture and storage are combined in a single step.
+It is energy efficient – the rock is already crushed and moved for metals extraction.
+CDR using ultramafic mine waste is highly durable, with storage at geological time scales
+It doesn’t require new land
+The mining industry is very good at moving the large volumes of material that are needed for CDR at sufficient scale
+Challenges
+Like all emerging pathways, surficial mineralization has challenges.  The technology for surficial mineralization is nascent.  There is technology risk and a lot to learn to get to scale.
+Moreover, while the numbers seem vast, surficial mineralization has a finite feedstock.  There is only so much suitable rock, unlike a pathway like DAC which has unlimited feedstock.  Yet there is consensus on the necessary expansion of the supply of nickel and other critical metals that are hosted in ultramafic rock.  And Arca’s technology will be able to work with other alkaline waste streams.
+The mining industry contains many examples of leading companies making Net Zero commitments, and there is great interest in exploring this pathway.  Arca has already partnered with several of the world’s top mining companies.
+Like many novel CDR pathways, the regulations haven't yet anticipated surficial mineralization.  Governments around the world are examining different approaches to removing CO2 from the atmosphere and beginning to introduce policies and incentives to accelerate deployment.
+Credit: Shutterstock
+This is a journey
+Surficial mineralization is an emerging and exciting new CDR pathway.  By 2050 it will be part of humanity’s portfolio of solutions to the climate emergency.
+And it is based on the humble rock.
+So the next time you go outside, pick up a rock and give it a hug. It may just be helping to save the world!
+We hope you have found a newfound appreciation of rocks.
+If you enjoyed this explainer on rocks & CDR share it:
+Share
+Last but not least: Arca is hiring
+Arca has several open positions, but is particularly eager to find a Senior Project Manager to lead the deployment of its CDR technology at mine sites around the world. If you (or someone you know) have experience in project management within the mining industry, ability to thrive in a fast-paced startup environments, and a passion for reversing climate change – they would love to hear from you.
+Check out the job posting on Arca’s Careers page
+.

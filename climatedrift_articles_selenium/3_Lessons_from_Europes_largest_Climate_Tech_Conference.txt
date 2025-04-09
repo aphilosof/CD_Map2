@@ -1,0 +1,78 @@
+Title: 3 Lessons from Europe’s largest Climate Tech Conference
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/3-lessons-from-europes-largest-climate
+==============================
+
+Welcome to
+Climate Drift
+, your destination for understanding climate solutions and discovering your part in the sprint to net zero.
+If you're not yet a subscriber, seize the opportunity now:
+Subscribe
+Hi there!
+Skander here.
+I just returned from 2 days at The Drop, Europe’s largest climate tech conference.
+More than 300 climate tech founders and 450 VCs met in Malmö in Sweden, talking and debating into the early hours.
+Despite my exhaustion the adrenaline and learnings of these conversations are still coursing through my veins and I am eager to share 3 learnings with you, while they are still fresh.
+Let’s dive in 🌊
+Like many, I initially approached the climate tech sphere with skepticism, despite (or because) my background & experience in the tech. I found myself questioning its genuine potential for impact.
+Is it merely a realm of unsubstantiated hype? Can it genuinely lead to reduced emissions, or will these innovations simply be
+“put on the blockchain”
+and end up gathering dust in a drawer and the write offs of a VC?
+Over the years, engaging with numerous climate tech founders and delving deep into their solutions has shifted my perspective. There is something more here.
+My experience at The Drop further solidified my belief. I experienced a thriving ecosystem and movement, genuine individuals and organisations, and solutions that are not just theoretical but making tangible strides forward.
+While The Drop may be labeled a conference, its vibe is more with that of a retreat. Collaborating in spontaneous groups, consisting of both familiar faces and newfound connections, we debated problems and solutions, shared learnings and frustrations, finding ourselves in conversations that stretched into the night and are still continued in Whatsapp groups, email chains and Linkedin chats.
+Three observations stand out for me:
+The main hall of The Drop
+Learning 1: The climate tech world acts in good faith
+For an entire day, stakeholders from every facet of the climate landscape met in one (very large) room. Every few minutes, there was an opportunity to delve into a different solution pathway.
+It's rare to find a venue where, in one moment, you can converse with
+someone
+who helped craft the net-zero strategy for shipping behemoth Maersk (fyi: 10+ methanol-operated ships on order and an ensuing focus on ammonia, while being backward compatible till the alternative fuel supply chain is being built out) and then, in the next conversation, engage with
+somebody
+who's spent years constructing automated insect farms.
+Set in a quaint Swedish city, The Drop provides an atmosphere where serendipitous encounters with fellow attendees become part of the experience. A casual conversation at the bus stand might unexpectedly evolve into an enlightening deep dive on creating a self-checkout library of items—like tools and equipment—right from the living room of a
+maker
+from Iceland. Even something as mundane as grabbing a sandwich can transform into an insightful session on IKEA's strategy for collaborating with circular economy startups, delivered by an
+insider
+. The entire city becomes an extended venue for spontaneous knowledge-sharing.
+Above all, a defining trait of the climate tech community is its good faith. We're unified by a singular objective, reaching Net Zero, and there's a collective understanding that the challenges we face are complex, multi-dimensional and not easy to solve. This shared vision drives us to openly exchange insights and offer assistance wherever possible.
+A pre planned discussion round
+Learning 2: Perspectives give perspective
+Imagine a circle of people, meeting up for a discussion about how we can create more successful First-of-a-Kind (FOAK) projects.
+Moderating the conversation is an industry
+veteran
+who has not only built multiple FOAKs but is now switched sides from operator to investor: channeling funds dedicated to launching new programs helping companies reach FOAK.
+Around him founders currently trying to build & finance their own FOAKs, investors of all stages, from early angels to late state growth funds. In between: potential off takers and buyers.
+Each individual shares their unique perspective in response to questions posed to the group & by the group. Everyone has a voice, free to ask questions and contribute insights.
+Together these perspectives create a whole, great than the sum of the parts.
+Certainly, these exchanges can occur online, and I'm grateful to everyone I've connected with so far, and had discussions with & learned from.
+Yet, there's a magic in spontaneous, face-to-face, real world interactions. When diverse individuals come together, the outcomes are refreshingly unpredictable.
+Open spaces encourage organic interactions, where people naturally converge, eavesdrop, and subsequently contribute their unique perspectives to conversations.
+This serendipity breeds wonderful, unexpected outcomes. Unplanned connections arise, leading to uncharted possibilities. New pathways emerge, revealing doors that one hadn't even perceived previously. The power of such in-person exchanges can't be overstated, with their potential to create ripples of change and innovation.
+Learning 3: Collaborative Creation
+Out of these connections and conversations grow projects and progress.
+One idea for example that has been floated between some people at Deep Science Ventures - shoutout to
+Mo Niknafs
+- and us here at Climate Drift is creating an Open Database of KPIs for
+TRL
+:
+It's clear that a consistent standard for TRLs across specific industry verticals is lacking. What one individual perceives as TRL 9, another might view as merely TRL 7. This discrepancy introduces complexities and challenges for startups, investors, and all stakeholders involved.
+What if there would be clear KPIs for specific products and verticals that define TRL ranges? What if these benchmarks were public, accessible to all, and open for collective input and refinement?
+The feedback from The Drop was clear: From investors to builders to off-takers, it resonated.
+Next steps are already in preparation. If you're interested in joining the initiative, feel free to reach out to us at
+[email protected]
+or leave a comment.
+I've touched on only three lessons and spotlighted a single project from The Drop. I could only mention a friction of the people I met and interactions I had. There are numerous other conversations and projects I intend to discuss and highlight - but for now, my bed calls.
+One last thing:
+It was a pleasure meeting so many of our readers from various backgrounds. Thank you to those who approached me, for the generous compliments, invaluable feedback, and conversations.
+For those that reached out and I couldn’t meet: I will try to be respond to every message and email. This goes also for the promised follow-ups.
+The experience at The Drop was nothing but energising, and I hope I've sparked your curiosity enough to attend (and meet me) next year.
+This post isn't sponsored by The Drop's organizers,
+Pale Blue Dot
+.
+A special thanks and major kudos to Hampus and the entire team for making The Drop the remarkable event it was.
+As I sign off, I'm looking forward to few weeks of followups, building and writing.
+Skander
+PS: As always: if you agree with my perspective, share it.
+Share
+If you don’t: send me an email or comment away.

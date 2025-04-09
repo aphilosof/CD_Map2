@@ -1,0 +1,137 @@
+Title: A guide to Virtual Power Plants (VPP)
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/a-guide-to-virtual-power-plants-vpp
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Today we will feature a guest post by Clint: A guide to Virtual Power Plants (VPP).
+We already had some requests to dive into the space, and are glad to have found the perfect guide for VPP.
+Clint is a climate-focused product manager in the making. He spend 4+ years building products and recently committed to dedicating his career to the green energy transition. You can connect with him
+here
+.
+Let’s dive in 🌊
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+Virtual Power Plants (VPPs) are seen by the
+US Department of Energy
+and other federal regulators as an important tool in both driving and meeting the demands of the green energy transition. In fact by 2050, the
+Rocky Mountain Institute
+(RMI) estimates that VPPs could avoid 44 million– 59 million tons of CO2 in 2050 and provide tens of GW of renewable energy capacity by 2050. So what are they?
+In today’s piece our “Guide to Virtual Power Plants” (VPPs) we will cover four key areas:
+What are VPPs and what are the types?
+Why are VPPs important now?
+Why are VPPs important to climate change?
+Opportunities and Challenges for VPPs
+What are VPPs
+a
+nd what are the types?
+Source: RMI
+In short, a VPP is a portfolio of actively controlled distributed energy resources (DERs) that are pooled together and optimized to provide benefits to the power system, consumers, and the environment. At its core, a VPP is about coordinating the reducing or shifting of energy demand, generating power, or drawing from existing energy storage, based on the needs of the grid.
+A VPP can therefore be useful in a number of scenarios:
+If energy demand is too high:
+When energy demand on the grid is high (e.g. the middle of the day in summer when ACs are blasting), VPPs can coordinate with DERs like heat pumps, thermostats, or EV chargers to reduce demand or run on a more efficient setting to reduce strain on the grid. Alternatively, the VPP can also discharge stored energy from batteries or solar panels to meet the demand. Owners of these assets can be rewarded for this contribution.
+If renewable energy production is too high:
+Alternatively if renewable energy production is high (e.g. a sunny day in California where there are lots of solar farms) the VPP can reduce the output from renewable sources such as residential solar or utility-scale wind or funnel this load toward energy storage systems such as batteries to be used at a later point. It can also ensure that DERs like EV chargers are making the most out of this high sunshine to charge cars.
+If running on renewable energy is desired:
+Similarly, if a business or household wants to run solely on renewable energy to stay green or reduce cost, a VPP can ensure that DERs and batteries make use of this load when it is abundant, and stop drawing from the grid in the evening when fossil fuel energy is prevalent.
+VPPs are made of 3 components:
+DERs
+: Each VPP is composed of hundreds or thousands of DERs (distributed energy resources) located near homes or businesses. These “devices” include solar panels, EVs, electric panels, smart thermostats, batteries, etc.
+Aggregation
+: The whole point of a VPP is to pool these DERs together and control them in an orchestrated way. This orchestration is normally done using software and IoT devices. They can be controlled by a VPP provider or utility (more on this).
+Grid Integrated:
+VPPs are still part of a grid (as opposed to microgrids) and rely on many of the same transmission and distribution lines.
+As a result VPPs leverage “demand flexibility” (the ability for devices to stop consuming energy when renewables supply is low) to draw power or store power when the energy is cheapest or greenest. For households and businesses that own DERs (e.g. an electric vehicle fleet) participating in a VPP isn’t just a way of potentially consuming more green energy, or saving money, but an opportunity to earn incentives by selling energy back to the wholesale market when demand surpasses supply.
+There are two broad types of VPPs
+Market-participating VPPs, and
+Retail VPPs
+Source: RMI
+Market-participating VPPs:
+These VPPs services to and wholesale electricity markets (RTO or ISO) and are paid for the electricity generated or load shifted. VPPs are run by private companies but the market demand is created and signaled by the wholesale grid operator (which covers about two-thirds of the US).
+Example
+: OhmConnect has been operating a market-participant VPP in California’s wholesale electricity market run by CAISO (California’s transmission and “grid” operator) with more than 200k members and 250k dispatchable smart devices. During a heatwave in September of 2022 CAISO called on available resources to match market demand from VPPs managed by OhmConnect, Tesla, Sunrun, and AutoGrid to name a few. Over 9 days OhmConnect dispatched member devices 1.3m times to CAISO and CAISO paid OhmConnect for services who in turn paid $2.7m to its members.
+The National Grid “ConnectedSolutions” mobile app showing earnings for VPP members
+Retail VPPs:
+Provide services to and are compensated by utilities. Utility customers sign up to the VPP program run by the utility and give the utility access to coordinate their DERs. Utilities may also partner with 3rd party service providers to manage the program and/or software
+Example
+: National Grid (utility serving customers in New York and Massachusetts) runs the ConnectedSolutions VPP program and pays customers upfront and annual incentives to enroll smart thermostats, home batteries and EVs in their VPP. In 2020 the VPP and its enrolled devices helped reduce summer peak demand by 0.9% (Image showing the ConnectedSolutions app for members with total savings to-date shown)
+Why are VPPs important now?
+In truth solar panels, batteries and even VPPs have existed for decades (formerly known as demand response programs) however they are becoming increasingly popular for 6 key reasons which will see DER ownership grow across the US and globally in the next decade and make VPPs more viable:
+Reason 1:
+FERC (Federal Energy Regulatory Commission) Order 2222 which was signed in 2020 and is working to open wholesale energy markets across the US to VPPs. Up until the signing of this order, the 7 regional grids (ISOs and RTOs) did not universally allow DERs to access the wholesale energy market and the decision to do so was up to each region. Order 2222 meant that all regional grids must now allow DERs to participate. This opens the door for DER aggregators to generate, buy, and sell electricity in these grids.
+Reason 2:
+The pressing need to accelerate the decarbonisation of energy.
+Reason 3:
+Lowering costs for DER devices making them more commonplace in homes and businesses. The cost of solar panels, batteries, and EVs are declining whilst reliability increases.
+Reason 4:
+More DER manufacturers and supplies leading to products and configurations to suit differing needs. EV manufacturers are a good example of this with car companies now offering EVs of different body types, range, and consumer taste.
+Reason 5:
+Tech advancements in algorithms to aggregate and coordinate demand flexibility and coordinate supply discharging.
+EV.Energy
+, for example is a UK-based company pioneering V2G (vehicle to grid) technology to leverage an EV’s battery for more efficient energy supply and use.
+Reason 6:
+IRA incentives
+for VPP participation and DER ownership.
+Solar panels and battery systems have become more commonplace in places like California. Image Source: Unsplash
+In light of this DERs are expected to explode over the next decade with the
+Brattle Group
+predicting the following by 2030:
+Homes with Smart Thermostats grow from 10% in 2023 to 34% in 2030
+Resi Rooftop Solar capacity from 27GW to 83GW in 2030
+Light Electric Vehicles from 3m to 26m in 2030
+10 reasons why VPPs are important to climate change
+There are many reasons that VPPs are beneficial to climate change mitigation with the main reasons being:
+VPPs decarbonise energy supply:
+Because VPPs can shift energy demand away from when the grid relies on highly polluting coal and gas-fired plants, they can allow homes and businesses to run on more renewable energy.
+For example, by 2030, VPPs could reduce peak demand in the United States by 60 gigawatts
+.
+VPPs help manage increasing electricity demand
+: As more DERs come online such as heat pumps and EVs, VPPs can both add renewable generated capacity as well as shift load and improve demand flexibility to prevent overloading the grid.
+Health and equity improvements:
+Reduce reliance on gas-fired peaker plants and the health risks this poses due to pollution. Low-income households can also benefit from additional revenue and cost-reduction from VPPs.
+Increasing the viability and reliability of virtual power plants could mean that natural gas generation plants like this one in Wilmington (greater Los Angeles) are taken offline faster. This could have positive health outcomes for local communities. Image Source: LA Times.
+Other ways that VPPs help society (optional section):
+Grid Reliability and Resilience
+: Overtime VPPs have proven and continue to prove that they can show up on days and hours when the grid needs them to supply critical energy or shift demand.
+Example: South Australia’s VPP stabilized the grid in October 2019 when a coal-fired plant went offline and left a supply gap of 748MW.
+Affordability
+: The price of electricity is projected to increase year on year (as well as energy consumption globally). VPPs can make electricity more affordable by compensating homes and businesses with DER assets.
+Incentivise Renewable Development
+: Increased renewables development due to increasing capacity factor of wind and solar leading to overall higher utilization and more investment in renewable energy whilst accelerating the closure of fossil-fuel power plants.
+Electrification
+: VPPs incentivize more DER devices to be brought into the economy incentivising more storage and the electrification of items that previously ran on fossil fuels (e.g. cars and buses). More electrified devices also mean fewer bottlenecks in transmission or generation due to flexible demand.
+Reduce Grid Investment:
+Scaling VPP programs avoid or defer timely and costly energy generation capacity developments (e.g. new peaker power plants) or transmission and distribution infrastructure for utilities and grid operators. The National Renewable Energy Laboratory's (NREL) electrification futures study found that demand flexibility could avoid or defer $120 billion worth of generation capacity investments through 2050.
+Faster Renewable Deployment
+: Because VPPs rely on modular DER devices that can be bought and installed by any business or home they are not necessarily blocked by transmission infrastructure and interconnection delays.
+Better Demand Forecasting:
+Coupled with software VPPs can provide stronger behind-the-meter data and intelligence about consumer uses and behaviors around heat pumps or EVs. This leads to better future demand forecasting and better products from OEMs
+Opportunities and Or Challenges for VPPs
+A map showing the 7 major RTOs and ISOs in the US. Source: RMI
+However, like all climate technology innovations, VPPs are not without their challenges. There are 3 main barriers to further adoption.
+Wholesale market barriers
+As mentioned earlier, FERC Order 2222 in 2020 required regional transmission organizations and independent system operators (ISOs) (essentially grid operators) to allow VPPs to participate alongside traditional utilities in wholesale energy markets. However VPPs are still reliant on RTOs and ISOs (the regional grids) to ensure a smooth transition including setting up metering requirements, interconnection, and customer data access before they can actively participate.
+The Order itself is still being debated amongst regulators and industry and advocates of VPPs have argued that the draft plans released so far by the FERC would place too many limits on how DERs can participate in wholesale energy markets. Utilities and state regulators, however, worry that letting DERs participate in wholesale markets openly will wreak havoc on transmission and distribution lines.
+The fact remains that there are plenty of regulatory hurdles. For one, many states are still used to operating under 1 utility without a wholesale energy market. Learning to adapt state regulations to suit VPPs that cross state-boundaries will be hard. Even where a wholesale market exists, the regulatory frameworks and grids were initially designed to support a handful of large power plants, not 1000s of devices with different functions and operating systems. For more on this, “The Grid” by Gretchen Bakke provides a great breakdown on the history and challenges facing the US grid.
+Retail utility offerings
+Where wholesale markets don’t exist (about 1/3 of the US) retail programs run by utilities are the only option for customers. Even where wholesale markets exist, utilities (due to their large customer base) will still be major VPP players and be expected to drive these programs. However, there is clearly a conflict of interest between VPPs and utilities with utilities naturally being wary that VPPs will make utilities increasingly irrelevant. Utility operators may not trust VPPs to show up and supply critical services. Utilities are also financially incentivised by regulatory models to make capital investments into things like power plants that do not provide demand-side solutions. VPPs also cut across regions with different state and federal regulatory bodies and this leads to complex coordination.
+Consumer and policymaker awareness
+State and Federal policymakers have a large role to play to help drive VPP adoption. Image Source: Unsplash
+Finally, as with all things renewables, VPP awareness remains low. VPP technology and service providers need to spend significant time and resources educating customers. Although consumers stand to gain from participating in VPPs, the current gains are still only in the 100s or 1000s of dollars across a year, a saving that is often not big enough to create real consumer behaviourial change. Elected officials are also often in the dark and need to be educated to create advantageous policies.
+Closing Thoughts: What’s next for VPPs?
+It’s clear that VPPs are still taking their first steps but are quickly learning to run. The DOE and other federal agencies like the FERC will continue to help DERs play a bigger role in the US’s future energy mix - the IRA will help catalyse this further still! As climate change continues as an existential threat, and renewable electricity and the devices that generate them become cheaper and more widely used, it won’t before fossil fuel power plants become phased out and each suburb or city becomes its own self-sustaining “virtual power plant”.
+Bibliography and Further Reading
+RMI’s VPP Real Benefits Report
+Brattle Group VPP Report
+Canary Media Article on FERC Order 2222
+DOE Spotlight on VPPs
+(Book) “The Grid” by Gretchen Bakke
+(Book) “California Burning” by Katherine Blunt

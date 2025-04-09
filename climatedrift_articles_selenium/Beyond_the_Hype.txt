@@ -1,0 +1,90 @@
+Title: Beyond the Hype
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/beyond-the-hype
+==============================
+
+Explore
+Climate Drift
+, your gateway to climate solutions and understanding your part in achieving net zero emissions.
+Haven't joined yet? Become a part of our pioneering community by subscribing here:
+Subscribe
+Hey 👋
+Skander here.
+Imagine: A new climate tech discovery promises a sustainable revolution. Investors rally, media buzzes, and we're on a thrilling high, eyeing limitless potential.
+But like all highs, a reality check awaits. As enthusiasm might overshoot reality, the interest can cool as quickly as it ignited, leading to a challenging descent and valuable insights.
+The story continues: over time the technology gets adopted, economies of scale kick in and reaches the mainstream.
+Today, we unravel the dynamics of Hype Cycles.
+Ready to dive in? 🌊
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now
+And here's some exciting news for our valued subscribers!
+We're giving away 10  bundles of
+our favorite climate books
+, diving deep into Hype Cycles and other frameworks.
+All you've got to do to stand a chance? Subscribe, and you might be one of the fortunate recipients.
+Subscribe
+PS: If you're already subscribed, you're all set for the draw!
+Beyond the Hype
+In the rapidly advancing realm of climate technology, discerning genuine breakthroughs from mere hype can be challenging. How do we evaluate which innovations will yield tangible, sustainable results? The Hype Cycle, a visual framework from Gartner, becomes indispensable.
+This tool isn't just a fancy graph; it's a compass for decision-makers navigating the tech landscape. It assists marketers, reporters, and businesses in pinpointing where a technology stands.
+Each phase of this cycle comes with its unique set of challenges and opportunities. This is especially vital in the realm of climate tech, where misconceptions can lead one to back the wrong technology or misjudge a tech solution's potential.
+Today, we will delve into the depths of the Hype Cycle and spotlight our top 24 technologies across 8 distinct sectors.
+Climate Drift’s Climate Tech Hype Curve
+How does it help me?
+Navigating Climate Solutions:
+Recognize that most climate solutions, technologies, and practices will traverse a path characterized by initial excessive optimism, leading to some disillusionment, before finding their stride in effective action against climate change.
+Benchmarking Climate Innovations:
+A clear overview of the current state of various climate innovations, comparing their promotional levels, maturity, and value, whether they're in technological spheres, specific industry sectors, or target certain demographic groups.
+Tracking Momentum in Climate Solutions:
+Illustrate the pace at which each climate-focused innovation is moving along the Hype Cycle. This helps anticipate the timeframe required for these innovations to reach the Plateau of Productivity, signaling the onset of widespread acceptance and action.
+The  Hype Cycle: A Breakdown
+The Hype Cycle simplifies the intricate journey of a technology into five pivotal stages:
+An empty version to fill out yourself.
+Innovation Trigger:
+A promising technological innovation emerges. Initial success stories, combined with media attention, generate notable buzz. However, concrete products might be nonexistent, and the commercial feasibility remains uncertain.
+Peak of Inflated Expectations:
+The initial buzz leads to a mix of success tales and setbacks. While some companies leap into action, many remain on the sidelines.
+Trough of Disillusionment:
+As the initial enthusiasm fades due to unmet expectations, many early adopters retreat. However, persistent players refine their offerings to meet the demands of the early majority.
+Slope of Enlightenment:
+As the real-world advantages of the technology become clearer, newer, improved versions of products enter the market. While adventurous enterprises may start testing the waters, the more cautious ones await proven success stories.
+Plateau of Productivity:
+As the technology becomes widely accepted, a defined set of evaluation criteria emerges. At this point, its broad market relevance starts yielding substantial benefits.
+Though the Hype Cycle model has faced its share of critiques, ranging from claims of inaccuracy to subjective term usage, its foundational logic remains beneficial.
+I personally like this definition by Gartner and use it for our hype cycles.
+Gartner’s definition of different milestones along the hype cycle
+Multiple Hype Cycles: A Reality Check
+In practical scenarios, technologies don’t typically journey through just one Hype Cycle. More often, they traverse multiple cycles, each delineating its distinct path and hurdles.
+This phenomenon mirrors the
+S-Curve of Adoption
+, characterized by a series of accelerations and plateaus.
+Consider solar: Initially, it experienced heightened attention with promises of endless clean energy, then faced skepticism due to high costs and efficiency challenges.
+Now, with learnings at scale and reductions in costs, it's experiencing a renewed surge in adoption.
+Regrettably/Fortunately, this article serves merely as an introduction to the hype cycle. In subsequent pieces, we will delve further into solutions, formulate thesis statements for each sector, from Decarbonizing Shipping to Battery Lifecycle Management, and then position these technologies on the hype curve.
+Consider this a sneak peek: our top 24 solutions (3 for each category) showcased on a hype curve.
+Is the positioning of each technology on the hypecurve “right”?
+Of course not. This is subjective, but it helps think on where each technology is.
+But if your sector/startup/silver bullet falls within the hype curve, you might need to ask yourself:
+Does my placing strike a chord of truth?
+Where might our perceptions align or diverge, and why?
+In periods of doubt, how can a venture radiate confidence and capability?
+How might we pivot and strategize, especially when the tide seems against us?
+What's the unique spark setting my favorite venture apart from those that might not have fared as well?
+I hope you enjoyed our initial series on
+4 Frameworks to understand Climate Tech
+, journeying from
+Technology Readiness Levels (TRL)
+to the
+4 valleys of death
+, to the
+S Curve of adoption
+, and culminating with this piece on hype curves.
+Let's now delve further into climate solutions, ranging from A for Alternative Proteins to Z for Zero Waste.
+See you next time 🌊
+Skander
+🚀 If you want to make a difference and bring your talent into climate:
+Apply to our next cohort and join the Climate Drift Accelerator.
+Interviews and admissions are happening right now.
+Apply Now

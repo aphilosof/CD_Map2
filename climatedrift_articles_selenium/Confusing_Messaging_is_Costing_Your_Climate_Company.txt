@@ -1,0 +1,56 @@
+Title: Confusing Messaging is Costing Your Climate Company
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/confusing-messaging-costing-your-climate-company
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Marco here.
+Today we feature a guest post by Alex, on a topic that resonates with so many people in climate: The lack of storytelling and good messaging in climate tech.
+Alex is a climate-focused marketing leader, who spent the past 7+ years using storytelling to create some impressive results. If you care about marketing and climate, you should connect with him
+here
+.
+Let’s dive in 🌊
+Climate tech has a marketing problem.
+Around the world, people are coming together to engage in the fight against climate change, launching countless startups with innovative solutions and cutting-edge tech…
+…At the same time, many of them are severely struggling to communicate
+what they actually do
+.
+From solar to ag tech, electrification to finance, climate organizations are as clear as mud when telling their story and communicating company value.
+I’m a marketer with 7+ years of experience helping companies clarify their brand and product messaging. Over the past several months, I’ve visited hundreds of climate tech websites and spent five to ten minutes browsing around trying to learn more about them. Nine times out of ten, I literally could not articulate what they do.
+This is a problem, and it’s costing otherwise excellent companies potential customers, investors, press, and employees.
+Example 1: Octopus Energy
+Let’s take a look at the header section of Octopus Energy’s homepage:
+While they do a nice job with a clear call to action, I have no idea what I’d be getting a quote
+for
+. The header text doesn’t really tell me anything, and while the awards are impressive, all they communicate is that Octopus Energy is good at…supplying energy?
+My main rule for website messaging is that unless you’re an established global brand like Nike, Apple, or McDonalds, you need to assume that every visitor who comes to your site knows absolutely nothing about your company. It’s your job to clearly explain what you do within the first five to ten seconds of the homepage loading.
+Example 2: Aurora Solar
+We can also take a look at the hero section of Aurora Solar’s website. Instead of having one clear message about their product offering, they have a carousel with six slides and six offerings. The slides automatically scroll every five seconds, ensuring that nobody will have enough time to read and take action on any of them.
+To be clear, I’m a fan of both Aurora Solar and Octopus Energy, but it’s only because I’ve put forth the effort to research them and understand the value they bring to the table. Most potential customers, investors, and employees aren’t going to do that.
+The “if we build it they will come” mindset doesn’t work. If people can’t quickly understand what you do, you’ll be passed over in favor of better communicators. People don’t buy the best products – they buy the products they can understand the fastest.
+Climate tech and sustainability initiatives need to rapidly scale, both in marketplace adoption and size of the workforce. Better messaging can be the secret sauce to help make that happen.
+How to Fix your Messaging
+If you’re a founder or climate marketer reading this and thinking, “but what we do is complicated,” or, “we do several different things, so it’s hard to create a simple message,” I get it. It’s called the Curse of Knowledge, which occurs when you know so many details about your organization that it becomes difficult to imagine what it’s like not to know. I dealt with it for years as a startup cofounder.
+But you need to dumb it down. Simplify and clarify your top-level messaging more than you think is necessary. You’ll always have room to get into the details later.
+Here are 3 key questions your brand messaging should answer. They can help you get started rethinking your pitch decks, website copy, and more.
+What exactly are you offering?
+Who’s it for?
+How will it benefit them?
+Here’s What Octopus and Aurora Solar Should Put on Their Homepages
+I spent a few minutes in Photoshop reworking the header areas of Octopus Energy and Aurora Solar’s websites using this principle.
+Here’s what I came up with:
+Octopus Energy uses new technology and customer-friendly policies to eliminate the choice between green energy and low prices. Now their header shows potential customers that they can have their cake and eat it, too.
+Aurora Solar knows that the process of selling residential and commercial solar can be complex. That’s why their product synthesizes every phase of the operation into one software platform that makes it much easier for solar installers to close deals with potential customers.
+Once you begin to articulate the value your company creates, people will be able to mentally categorize you as a potentially useful entity in their lives. This will make it much easier for them to take the next step with your organization, whether that’s scheduling a demo, signing up for your email list, or applying for a job.
+We
+are working on
+published Part 2 of this series:
+How to build out your company’s brand using a storytelling framework
+.
+We’ll explore a straightforward method that you can use to place your organization or product into a customer’s story as a guide on their journey and a solution to their problem. Using this framework will set you up for success on your website, social media, employee engagement, and more.
+Share

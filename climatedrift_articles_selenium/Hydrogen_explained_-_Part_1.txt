@@ -1,0 +1,124 @@
+Title: Hydrogen explained - Part 1
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/hydrogen-explained-part-1
+==============================
+
+Welcome to
+Climate Drift
+- the place where we explain climate solutions and how to find your role in the race to net zero.
+If you haven’t subscribed, join here:
+Subscribe
+Hi there! 👋
+Skander here.
+Hydrogen is often portrayed as a Climate Solutions silver bullet, but many questions remain: How will it be produced, how will it be transported, what will its end uses be?
+It’s intriguing to consider how we can replicate the solar success story—transforming a once-costly technology into a scalable and cheap technology. With Hydrogen we have a chance to replicate this.
+Dive into How Solar got cheap in our deep dive:
+How Solar got cheap
+Skander Garroum
+·
+August 8, 2023
+Read full story
+Electric Hydrogen, one of climate tech’s first unicorns, is not just drawing inspiration from this playbook; they're rewriting it specifically for hydrogen.
+Hydrogen's scope is vast, and we aim to lay down the groundwork for understanding it:
+We will cover:
+- Hydrogen: What is it?
+- How can it help with Decarbonisation
+- Current state of the market
+- Company Deep Dive: Electric Hydrogen
+In this part we will cover Hydrogen: What is it & what can it be used for.
+Let’s dive in 🌊
+Solution ​​Map: Hydrogen
+In our climate solution map we break down Hydrogen into 4 paths:
+Transportation:
+Methods for transporting hydrogen are Gas Phase Trucking, Gas Compression, Pipeline, Liquid Trucking, and Liquefaction.
+Storage:
+Storage solutions include Chemical Storage, Solid State, Compressed Gas Tank, Liquid, and Salt Cavern.
+Hydrogen End-use in Transportation:
+Uses include Plane Fuel, Maritime, and Heavy and Medium Duty Road Transport.
+Industry:
+Hydrogen is used in Ammonia production, Refining, Steel manufacturing, Chemical processes, and providing Industrial Heat.
+Power:
+Hydrogen is utilized in Power Generation, Natural Gas Blending, Fuel Cell Manufacturing, and Building Heat.
+In this series we will focus on the production of Hydrogen, with a focus on Electrolysis - with Electric Hydrogen, Hydrogen industry’s first unicorn, as the example company.
+Want to dive deeper? Download the whole Solution map here:
+Download the full Solution Map
+What even is Hydrogen?
+Let’s see what Wiki has to say:
+Hydrogen is the chemical element with the symbol H and atomic number 1. Hydrogen is the lightest element. At standard conditions hydrogen is a gas of diatomic molecules having the formula H2. It is colorless, odorless, tasteless,[8] non-toxic, and highly combustible. Hydrogen is the most abundant chemical substance in the universe, constituting roughly 75% of all normal matter.
+Hydrogen holds a pivotal role in the quest for Net Zero due to its versatility and potential for reducing greenhouse gas emissions across various sectors. Its allure comes from the fact that it can be harnessed in two fundamental ways: firstly, as a fuel for fuel cells to generate electricity, and secondly, through combustion to produce heat.
+When utilized in fuel cells, hydrogen undergoes a chemical reaction with oxygen to produce electricity, with water vapor being the sole byproduct. This characteristic is particularly significant as it presents a clean alternative to conventional fossil fuel-based electricity generation, which is a major source of carbon emissions globally. Furthermore, the electricity generated can be used to power a wide array of applications, ranging from vehicles and buildings to industrial processes.
+On the other hand, when hydrogen is combusted, it generates heat, another crucial energy requirement across various sectors. Unlike the combustion of fossil fuels, which releases carbon dioxide and other harmful pollutants, hydrogen combustion releases only water vapor, making it a clean solution for heating needs. This aspect of hydrogen is critical for sectors like industrial processes, residential heating, and others, where achieving the required level of heat using renewable energy or electricity can be challenging.
+The dual-utility of hydrogen - both as a clean fuel for electricity generation and a clean solution for heat - underscores its potential as a cornerstone for achieving Net Zero.
+Ways to produce Hydrogen
+Hydrogen production is categorized into three primary methods. The categorization is often color-coded, representing the carbon emissions associated with each production method.  There are 8 major colors, from
+green over blue to brown, pink and yellow
+.
+Here's a quick overview of the top 3, Gray, Blue and Green:
+Gray Hydrogen:
+Production Method: Gray hydrogen is predominantly produced through a process known as Steam Methane Reforming (SMR), where natural gas is subjected to high-temperature steam, leading to a reaction that generates hydrogen and carbon dioxide.
+Environmental Impact: This method is significantly carbon-intensive, contributing to around 1.8% of global greenhouse gas emissions in 2021. The carbon emissions arise from the combustion of natural gas as well as the release of carbon dioxide during the reforming process.
+Blue Hydrogen:
+Production Method: Blue hydrogen production also largely relies on the SMR process, similar to gray hydrogen. However, it incorporates Carbon Capture and Storage (CCS) technologies to capture a substantial portion of the carbon dioxide emissions generated during the process.
+Environmental Impact: By sequestering carbon emissions, blue hydrogen offers a lower-carbon alternative to gray hydrogen. The effectiveness of blue hydrogen in reducing carbon emissions hinges on the efficiency of the CCS technologies employed.
+Green Hydrogen:
+Production Method: Green hydrogen is produced through the electrolysis of water, where electricity is used to split water into hydrogen and oxygen. When this electricity is sourced from renewable energy technologies like wind or solar power, the process becomes entirely clean.
+Environmental Impact: Green hydrogen stands out as the most environmentally friendly option among the three, especially when powered by renewable energy sources. It holds the promise of a truly clean hydrogen production method devoid of carbon emissions.
+In terms of production volume, gray hydrogen holds a dominant position, while blue and green hydrogen together accounted for less than 1% of total hydrogen production, reflecting the nascent stage of low-carbon hydrogen production technologies.
+The potential of green hydrogen, in particular, is seen as a cornerstone for a future sustainable energy system. It not only offers a clean fuel but also provides a means of storing and transporting energy, thereby addressing the intermittent nature of renewable energy sources.
+The transition towards blue and green hydrogen production methods is considered critical in reducing the carbon footprint of hydrogen, and today’s spotlight company Electric Hydrogen, is focussed exactly on scaling this.
+What can it be used for?
+According to the IEA 6% of needed emissions reduction can be achieved through Hydrogen
+Virtually all hydrogen produced today is used in oil refining (43% in 2021) and industry (57%), principally in the manufacture of ammonia for fertilizers, and methanol.
+The applications of hydrogen are vast and its role is critical in the global endeavor to limit temperature rise to 1.5°C. It's widely envisioned that the future hydrogen economy will transition from gray hydrogen to a blend of blue and predominantly green hydrogen, produced in larger quantities to cater to a wider spectrum of uses.
+Hydrogen and hydrogen-derived fuels are poised to be instrumental in decarbonizing sectors where cutting emissions is a tough nut to crack and where other alternatives are either non-existent or challenging to deploy, such as in heavy industry and long-distance transport.
+Let’s dive in deeper: 3 main usecases for Hydrogen
+This great breakdown comes from Deanna’s
+great breakdown of the future of Hydrogen
+Out of the different end uses of Hydrogen I want to highlight 3 primary sectors traditionally dominated by natural gas: power generation, home heating, and industry.
+These sectors experience intense competition from various alternatives, including direct electrification and Carbon Capture, Utilization, and Storage (CCUS) - but Hydrogen might be a solution that wins against all.
+Now, let's dive into the role of hydrogen in each of these three areas:
+Concept image of a hydrogen powered Power Plant
+Power generation
+Natural gas currently plays a key role in the world's energy system (34% of primary consumption in Europe for example).
+It's not just an energy source; it's a means to store and transport energy, especially useful for balancing grids that rely on intermittent renewable sources like wind and solar. When the sun doesn't shine or the wind doesn't blow, hydrogen can step in, releasing its stored energy to keep the lights on. The versatility of hydrogen means it can be converted back to electricity through fuel cells or burned to drive turbines, offering a reliable and flexible backup for renewable energy systems.
+Residential heat
+Using hydrogen for building heating has 3 main approaches:
+Injecting a small amount of H2 into the current gas grid used for home gas boilers
+Converting the gas network into a pure H2 network
+Installing H2 fuel cell systems at home to generate heat
+What are the pros and cons for each?
+Injecting a small amount of H2 into the current gas grid used for home gas boilers
+Introducing hydrogen into the mix works with the existing infrastructure. However, this approach offers only a limited potential when it comes to reducing emissions. Additionally, when integrating higher volumes of H2, specific challenges arise. Particularly, when the H2 content surpasses 20%, it necessitates that end-use appliances be modified or retrofitted to handle the increased hydrogen concentration.
+The UK is
+betting on this approach
+, and Hawaii has been
+doing it for a while
+.
+Converting the gas network into a pure H2 network
+In Europe, there's a notable increase in enthusiasm from gas Transmission System Operators (TSOs) and regulatory authorities towards embracing Hydrogen as a solution. This shift is further bolstered by the opportunity to utilize the valuable rights of way already secured for existing pipelines. However, transitioning to these new solutions would demand substantial investments in network infrastructure and necessitate modifications or retrofitting of many appliances.
+Onsite H2 consumption via CHP or fuel cell systems
+In Japan, there's significant interest in hydrogen fuel cell systems, largely driven by substantial government subsidies. However, despite the incentives, the overall costs associated with these technologies remain high, making it improbable for them to achieve wide-scale adoption in the near future.
+Heat pumps, with their enhanced efficiency even at extremely low temperatures, are emerging as a leading solution for building heat. This makes electrification a more feasible and economical approach.
+Industry
+Industrial decarbonization is crucial, given that the industry sector dominates global greenhouse gas (GHG) emissions, accounting for 29% or roughly 50 gigatonnes (GT) of CO2 equivalent each year. For comparison, transport emits 16%, buildings 18%, agriculture 18%, waste 3%, deforestation 2%, and fugitive methane or other sources 14%.
+Tackling emissions in the industry sector is uniquely challenging. Many industrial processes demand intense heat, leading to considerable emissions, particularly in metallurgical activities. Furthermore, certain chemical reactions inherent to industries, such as chemical manufacturing, directly result in GHG emissions. The challenge's depth is further underscored by the diverse range of substantial assets in this sector, like refineries or factories. The products they churn out, from steel to chemicals, are often commodities, making it hard to distinguish them based on their environmental impact.
+There are multiple feasible pathways to decarbonizing most large, industrial facilities – typically falling into one of three categories: direct electrification,  carbon capture & sequestration (CCS) or clean hydrogen.
+Let’s dive in again. 🌊
+Direct electrification
+Using low-cost clean electricity is inherently the most efficient method for energy consumption. However, it comes with the downside of having a substantial impact on the grid. Additionally, this approach doesn't provide any feedstock or reactive molecules, which is essential for certain industrial use cases.
+Point-source CCS
+Coal and gas are cheap energy sources, making them the go to for large-scale industrial use. Point-source CCS is now benefiting from substantial subsidies. However, a significant challenge is achieving a true 100% zero-carbon footprint with these sources.
+Additionally, utilizing them necessitates the development of infrastructure dedicated to carbon disposal.
+Hydrogen
+Storing and transporting hydrogen at a large scale is fairly straightforward, providing a significant advantage. Moreover, there's an added benefit as many existing gas-fired processes can be retrofitted with relative ease. This approach also comes with the inherent feature of built-in clean power storage. However, a notable drawback is that, in comparison, it is inherently pricier than opting for green electricity, and a lot of new costly infrastructure will need to be built.
+Many industrial processes need heat. Check out our series on Industrial heat if you want to dive deeper into this topic.
+How to use Toasters and Bricks to reduce 25% of global emissions - Part 1
+Skander Garroum
+·
+September 25, 2023
+Read full story
+That’s it for our the first part of our series on Hydrogen. Stay tuned for next week’s deep dive on the current state of the Hydrogen market & our deep dive into Electric Hydrogen.
+Let us know which other parts of the Hydrogen economy you want us to tackle.
+Skander
+P.S.: To contribute to the cause, consider spreading the word about Climate Drift.
+Share

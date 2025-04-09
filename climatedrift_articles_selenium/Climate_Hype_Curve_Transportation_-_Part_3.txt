@@ -1,0 +1,119 @@
+Title: Climate Hype Curve: Transportation - Part 3
+Author: Unknown Author
+URL: https://www.climatedrift.com/p/climate-hype-curve-transportation-0ff
+==============================
+
+Explore Climate Solutions with
+Climate Drift
+: Your guide to mapping out effective climate strategies and recognizing your vital role in the path to net zero.
+Haven't joined our journey? Stand out as one of our first 1,000 subscribers:
+Subscribe
+We're only beginning our journey. Support us by spreading the word:
+Share Climate Drift
+Salutations climate enthusiast 👋
+Skander, here, another day.
+Welcome back to Climate Drift's exploration into the world of transportation technologies along the hype curve - The last part, Part 3, early innovations and peak hype solutions.
+This is the third installment in our trilogy exploring the hype curve of transportation solutions.
+Want to dive in deeper?
+Start with our
+Hype Curve explainer
+Part 1:
+Five scalable solutions, from EVs to Rail.
+Part 2:
+Follow us through the trough of disillusionment from Battery Recycling to Alternative Airplane Fuels.
+Our exploration includes, as in Part 1 & 2, with:
+An overview of each solution
+One lighthouse company per solution
+Today's solutions range from electric ships, trucks, and planes to alternative shipping fuels.
+Let’s dive in 🌊
+Climate Hype Curve: Transportation - Part 3
+Trucks - Carbon Capture
+Overview
+: Every year, the U.S. produces 6.6 billion metric tons of CO2e emissions. A significant 33% of this comes from transportation. Delving deeper, medium and heavy-duty trucks contribute 23% to this transportation segment. This translates to a staggering 450 million metric tons of GHGs, which is 6.8% of the U.S.'s total annual emissions. This is all from the 2 million semi-trucks that traverse our nation. Imagine the impact if we could retrofit these trucks with devices to capture these emissions - and the next solution will replace them with eTrucks.
+Lighthouse Company:
+Remora is pioneering a solution to this challenge. Their innovative device is strategically placed between the truck's cab and trailer. During refueling stops, trucks can swiftly release the captured emissions, which can then either be sold or safely stored underground.
+When compared to other available solutions, Remora's method stands out as a cost-effective way to reduce emissions from existing fleets. However, it's worth noting that the device captures 80% of the emissions from each truck, so while it significantly reduces emissions, it doesn't completely eliminate them.
+Electric Trucks
+Overview
+:  Although EVs, as detailed in Part 1, are becoming mainstream and EV buses are scaling up, e-trucks remain a rarity on the roads. Electrification is becoming an increasingly viable option for heavy-duty, long-haul trucks, even if it's not yet the most economical choice. While China leads in electric bus and truck sales, Europe is steadily gaining ground. As battery technology advances, even the most robust ground transport vehicles could benefit from electrification. Notably, most US trucks, including the largest ones, typically operate within a range of less than 200 miles, making them potential candidates for electrification.
+Checkout
+this great short presentation
+on why e-trucks are the inevitable future of transportation.
+In the US, the introduction of $3/kg hydrogen through the IRA could be a game-changer. If these rates persist and the cost of clean hydrogen decreases, hydrogen might become a more attractive option for certain heavy-duty vehicles.
+Lighthouse Company:
+While many truck companies prioritize big rigs, the potential of mid-sized vehicles, like FedEx delivery vans, is significant. Medium-duty vehicles, with their short ranges, consistent routes, and potential for slow, overnight charging, are ideal candidates for electrification. Harbinger Motors has innovatively designed an electric vehicle chassis that's cost-effective and functional, rivaling traditional ICE and other EV models. They specialize in creating class 4-7 commercial electric vehicle chassis, which they sell to OEMs for final vehicle production. featuring a seamlessly integrated battery and electric powertrain system. Essentially, they've taken Auke's blueprint and catapulted a decade ahead.
+Maritime: Alternative Fuels
+Overview
+: Fuels account for over half of shipping costs. Decarbonized fuels, being pricier than even very low sulfur fuel oil (VLSFO) and LNG from fossil sources, present an economic challenge for shipowners considering a switch to net-zero fuels.
+We have four primary options for net zero carbon trans-ocean shipping:
+Ammonia
+Strength
+: Doesn't require or emit CO2; likely the most cost-effective zero-carbon option.
+Weakness
+: Clean ammonia and ammonia-ready propulsion aren't available yet.
+Question
+: Could its toxicity hinder social acceptance?
+Methanol
+Strength
+: Dual-fuel engines are currently available, providing flexibility.
+Weakness
+: Depends on direct air capture (DAC) for genuine net-zero carbon production.
+Main Question
+: What will be the cost trends for clean H2 and DAC at scale?
+e-HFO (heavy fuel oil)
+Strength
+: Ready to use.
+Weaknesses
+: Relies on DAC for true net-zero carbon production. Likely the priciest net-zero fuel option.
+Main Question
+: How will its cost compare to methanol or ammonia?
+Biofuels
+Strength
+: Available now.
+Weaknesses
+: Limited feedstock availability & High costs and environmental concerns with most feedstocks.
+Main Question
+: What will be the land use impacts and limitations?
+Shipping giant Maersk is heavily investing in methanol for the short term and has long-term plans for ammonia.
+Green ammonia initiatives are emerging, leveraging the potential of cost-effective green hydrogen. By 2035, there's an expected availability of 63 million metric tons of green ammonia. Notably, ammonia is about 50% more energy-dense than liquid hydrogen and offers storage at elevated temperatures.
+Lighthouse Company:
+Amogy has pioneered a modular ammonia cracking method to produce hydrogen apt for fuel cell propulsion. They've integrated this with a third-party fuel cell.It's about 50% more energy-dense than liquid hydrogen and allows for storage at elevated temperatures. Amogy merges ammonia's logistical and cost benefits with the clean propulsion of hydrogen fuel cells. While major manufacturers won't have ammonia combustion engines until 2024, Amogy is advancing quickly with its technology.
+Electric Planes
+Overview:
+To cut to the chase: Electrification seems viable mainly for smaller crafts. The primary hurdle for electric aviation is battery weight, though trimming the plane's overall weight could also be a game-changer. Heart Aerospace's journey underscores the challenges of pioneering in electric aviation. They shifted from an initial vision of a fully electric 19-seater regional jet to a partially electric 30-seater.
+Lighthouse Company:
+Where's the sweet spot for electric planes right now? Regent shines by tapping into the 'wing-in-ground' effect, effectively doubling energy efficiency and setting the stage for longer electric flights. Their cutting-edge design zeroes in on low-altitude electric crafts for coastal cargo, transitioning from manual to autonomous operations. With current batteries, they can cover routes up to 180 miles, and with next-gen batteries, they aim for 500 miles, all utilizing existing dock facilities.
+So far, they've marked 467 seagliders sold, supported by a solid $7.9B order backlog from worldwide aviation and ferry partners.
+Airport Electrification
+Overview:
+In a nutshell: Electrifying planes means airports will need significantly more electricity.
+How significant? Basic airport electrification, like powering stationary planes at gates and charging rental cars, could increase peak load at a typical airport by over five times. Yet, this pales in comparison to the demands of even partial aviation electrification. Aircraft operations account for 55% of total airport emissions, making them the primary CO2 culprits.
+To break it down: An average 100-gate airport currently has a peak load of less than 10MW. Add gate electrification, and you're looking at an additional 10MW. Factor in rental car electrification, and that's another 30MW.
+Lighthouse Company:
+Smart Airport Systems (SAS) offers innovative technology solutions for airlines and airports, aiming to cut fuel consumption, emissions, and noise. Among SAS's offerings are units for electrical power and air-conditioning, termed 'APU off'. These units present a sustainable alternative to the traditional use of an aircraft's auxiliary power unit (APU) during pre-flight, boarding, and maintenance phases. Additionally, SAS introduces TaxiBot, a more sustainable way to navigate the plane on the ground. Controlled by the pilot while aircraft engines are off, using this vehicle can reduce fuel consumption during taxi up to 85%, reduce CO2 and other emissions during taxiing up to 85%, and diminish noise by up to 60%.
+Hydrogen Trucks
+Overview
+: While hydrogen cars and buses are gaining traction, trucks pose a different set of challenges. The IRA provides a significant advantage for hydrogen, offering subsidies that are over four times the cost of energy from wind or solar.
+However, to fuel a typical truck stop with green hydrogen, a solar array spanning about 2,000 acres would be required. This makes it rare to find scenarios where hydrogen can be supplied without extensive new pipeline infrastructure (very expensive).
+My take: eTrucks will emerge as the more cost-effective solution for trucking. This is unless the costs for electrification surge and every aspect of the hydrogen value chain aligns seamlessly
+Lighthouse Company:
+Hydra provides fleet operators a comprehensive, low-risk method to transition heavy-duty truck fleets to hydrogen use. Hydra covers the costs of vehicle retrofits using its unique engine solution, sets up refueling stations, and supplies hydrogen. Operators, in return, enter a long-term fuel agreement with Hydra, enjoying the service with minimal initial costs. Hydra aims to eventually upgrade to more advanced hydrogen engines or fuel cells and is set to launch its first hydrogen transportation corridor in British Columbia by 2024.
+Electric Ships
+Overview:
+Electrification is making waves in short-range maritime transport, evidenced by an increasing number of hybrid electric vessels and some fully electric ferries. Currently, the world's largest all-electric ship can transport around 200 cars for a 6-mile river journey. Ambitious plans for fully electric cargo ships aim to carry approximately 2000 containers across 600 oceanic miles.
+Lighthouse Company:
+Fleetzero aims to revolutionize marine transport with fully electric container ships, using swappable containerized batteries. Each container holds 2 MWh, and a 500 ft ship would need 30-50 containers for a 500-700 mile voyage. They propose coastal port-hopping for trans-oceanic journeys. While this approach offers a promising alternative to traditional fuel methods, it demands significant port infrastructure investments. Additionally, altering standard shipping routes could affect costs and delivery times.
+Port Electrification
+Overview:
+Ports and airports are poised for a significant electrification revolution. This transformation will encompass stationary vehicles, cargo equipment, rental vehicles, and short-haul cargo trucks. To grasp the magnitude of this change, consider this: a fully electrified port could rival the energy demand of a mid-sized city
+Lighthouse Case:
+The Port of Long Beach, in 2011, launched a decade-long electrification project for its cargo equipment and shore power at its vast container terminal. Over four years, the local utility, SCE, set up essential electrical infrastructure, including a new 66 transmission line and four substations. The next six years focused on electrifying various cranes: 18 ship-to-shore cranes, 5 intermodal cranes, and 70 yard gantry cranes.
+Remarkably, this effort covered just one of seven terminals at the port, which neighbors the Port of Los Angeles with its eight terminals. Electrifying only the port's medium-haul trucks would boost Los Angeles's energy demand by 25%.
+This was the last part of our 3 part series on the Hype Curve of Transportation solutions. U.S. trucks, responsible for 23% of transportation emissions, are seeing innovations like Remora's carbon capture device. While electric trucks are emerging, maritime solutions like ammonia and methanol are being adopted by giants like Maersk. Electric aviation is viable for smaller crafts, and significant electrification efforts are underway at ports and airports.
+Want to reread the whole series?
+Start at Part 1
+.
+Looking forward to the next one,
+Skander
+Enjoyed the journey? Spread the word and share with others:
+Share
